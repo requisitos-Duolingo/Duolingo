@@ -1,0 +1,12 @@
+site_name: Duolingo
+theme:
+  name: 'material'
+  language: 'pt'
+  logo: 'images/logo.png'
+  favicon: 'images/favicon.ico'
+page:
+  -Início: index.md
+  -Pré-Rastriabilidade:
+    -Rich Picture: prerastriabilidade/richpicture.md
+    -Agurmentação: prerastriabilidade/agurmentacao.md
+  -Planejamentos: planejamentos/planejamento.md
