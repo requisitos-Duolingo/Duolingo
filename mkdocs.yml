@@ -6,6 +6,7 @@ theme:
   favicon: 'images/favicon.ico'
 nav:
   - Início: index.md
+  - Metodologia: metodologia/Metodologia.md
   - Pré-Rastriabilidade:
     - Rich Picture: prerastriabilidade/richpicture.md
     - Agurmentação: prerastriabilidade/agurmentacao.md
