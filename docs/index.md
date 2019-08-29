@@ -4,7 +4,7 @@
 
 # Sobre
 
-Duolingo é uma plataforma de ensino de idiomas
+Duolingo é uma plataforma de ensino de idiomas. O usuário aprende em vários níveis de forma interativa e lúdica em qualquer lugar e hora.
 
 # Contribuidores
 
