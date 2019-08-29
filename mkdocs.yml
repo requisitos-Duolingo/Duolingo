@@ -11,6 +11,11 @@ theme:
 nav:
   - Início: index.md
   - Metodologia: metodologia/Metodologia.md
+  - Planejamento: planejamento/planejamento.md
   - Pré-Rastriabilidade:
     - Rich Picture: prerastriabilidade/richpicture.md
-  - Planejamentos: planejamentos/planejamento.md
+  - Elicitação:
+  - Modelagem: 
+  - Análise:
+  - Pós-Rastreabilidade: 
+  
