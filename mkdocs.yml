@@ -4,6 +4,10 @@ theme:
   language: 'pt'
   logo: 'images/logo.png'
   favicon: 'images/favicon.ico'
+  palette:
+    primary: 'green'
+    accent: 'green'
+
 nav:
   - Início: index.md
   - Metodologia: metodologia/Metodologia.md
