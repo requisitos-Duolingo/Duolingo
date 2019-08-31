@@ -7,8 +7,6 @@ Este repositório é destinado a aplicação [**Duolingo**](https://www.duolingo
 
 # Contribuidores
 
-<div align="center">GRUPO 5</div>
-
 |Matrícula|Nome|GitHub|E-mail|
 |----------|---------------------------|------------------|-------------------------------|
 |15/0006802|Brian Lui|Brian2387|brianlui2387@gmail.com|
@@ -17,7 +15,6 @@ Este repositório é destinado a aplicação [**Duolingo**](https://www.duolingo
 |15/0137770|Lude Yuri de Castro Ribeiro|luderibeiro|ludeyuridrums@gmail.com|
 |15/0016310|Luis Gustavo Avelino de Lima Jacinto|luis-gustavo|luis.gustavo3013@hotmail.com|
 |13/0060941|Vitor Meireles|VitorMeirelesOliveira|vitorrr.meireles@hotmail.com|
-
 
 <hr/>
 <p align="center"><b>Grupo 5</b></p>
