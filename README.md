@@ -19,9 +19,6 @@ Este repositório é destinado a aplicação [**Duolingo**](https://www.duolingo
 |13/0060941|Vitor Meireles|VitorMeirelesOliveira|vitorrr.meireles@hotmail.com|
 
 
----
-
-
 <hr/>
 <p align="center"><b>Grupo 5</b></p>
 <p align="center">Requisitos de <i>Software</i><br /><br />
