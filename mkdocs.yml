@@ -1,4 +1,7 @@
 site_name: Duolingo
+repo_name: 'duolingo'
+repo_url: 'https://github.com/requisitos-Duolingo/duolingo'
+
 theme:
   name: 'material'
   language: 'pt'
@@ -11,9 +14,9 @@ theme:
 nav:
   - Início: index.md
   - Metodologia: metodologia/Metodologia.md
-  - Planejamento: planejamento/planejamento.md
+  - Planejamento: planejamento/Planejamento.md
   - Pré-Rastriabilidade:
-    - Rich Picture: prerastriabilidade/richpicture.md
+    - Rich Picture: prerastriabilidade/RichPicture.md
   # - Elicitação:
   # - Modelagem: 
   # - Análise:
