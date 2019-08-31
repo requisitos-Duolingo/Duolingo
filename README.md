@@ -3,7 +3,7 @@
 
 <div align="center"><img src= "docs/images/duo.png"/></div>
 
-Este repositório é trata-se da aplicação [**Duolingo**](https://www.duolingo.com/) com o intuito de apredizagem sobre o conteúdo ministrado na disciplina de Requisitos de Software na da Universidade de Brasília - Gama, durante o período 2019/2.
+Este repositório é destinado a aplicação [**Duolingo**](https://www.duolingo.com/) com o intuito de apredizagem sobre o conteúdo ministrado na disciplina de Requisitos de Software na da Universidade de Brasília - Gama, durante o período 2019/2.
 
 # Contribuidores
 
@@ -21,3 +21,9 @@ Este repositório é trata-se da aplicação [**Duolingo**](https://www.duolingo
 
 ---
 
+
+<hr/>
+<p align="center"><b>Grupo 5</b></p>
+<p align="center">Requisitos de <i>Software</i><br /><br />
+<a href="https://fga.unb.br" target="_blank"><img width="230"src="https://4.bp.blogspot.com/-0aa6fAFnSnA/VzICtBQgciI/AAAAAAAARn4/SxVsQPFNeE0fxkCPVgMWbhd5qIEAYCMbwCLcB/s1600/unb-gama.png"></a>
+</p>
