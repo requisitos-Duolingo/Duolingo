@@ -1,6 +1,6 @@
 site_name: Duolingo
-repo_name: 'duolingo'
-repo_url: 'https://github.com/Requisitos2-2019/Duolingo'
+repo_name: '2019.2-Duolingo'
+repo_url: 'https://github.com/Requisitos2-2019/2019.2-Duolingo'
 
 theme:
   name: 'material'
