@@ -14,21 +14,21 @@ theme:
 nav:
   - Início: index.md
   - Planejamento: 
-    - Metodologia: planejamento/Planejamento.md
+    - Metodologia: planejamento/Metodologia.md
     - Roadmap: planejamento/Roadmap.md
   - Pré-Rastriabilidade:
     - Rich Picture: prerastriabilidade/RichPicture.md
   - Elicitação:
+    - Análise de Protocolo: elicitacao/AnaliseDeProtocolo.md
     - Brainstoming: elicitacao/Brainstoming.md
-  #   - Storytelling:
-  #   - Prototipação:
-  #   - Entrevista:
-  #   - Questionário:
-  #   - Observação:
-  #   - Instrospecção:
-  #   - Análise de Protocolo:
-  #   - Análise de Discurso:
-  #   - Etnografia:
+    - Entrevista: elicitacao/Entrevista.md
+    - Instrospecção: elicitacao/Instrospeccao.md
+    - Questionário: elicitacao/Questionario.md
+    - Storytelling: elicitacao/Storytelling.md
+  #   - Prototipação: elicitacao/Prototipacao.md
+  #   - Observação: elicitacao/Observacao.md
+  #   - Análise de Discurso: elicitacao/AnaliseDeDiscurso.md
+  #   - Etnografia: elicitacao/Etnografia.md
   #  - Modelagem: 
   #  - Análise:
   #  - Pós-Rastreabilidade: 
