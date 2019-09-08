@@ -15,8 +15,6 @@ Progressão | Usuário | Nível | Motivado
 
 ## **Brainstorm - Versão 1**
 
----
-
 Membros participantes:
 
 * João Vitor Alves
@@ -43,8 +41,7 @@ Membros participantes:
 
 **Luis**: Uma coisa muito importante de aprender o idioma é ter diversas formas de aprendizado como escutar, escrever,identificar, falar e ter um feedback imediato.
 
-**Brian**: O Duolingo uma boa alternativa para se aprender uma nova língua.
-Porque, a atenção está no mobile hoje em dia e as pessoas passam práticamente 24H por dia conectadas. Além de ser um app grátis que oferece um método de ensino bem melhor que o dos cursinhos.
+**Brian**: O Duolingo uma boa alternativa para se aprender uma nova língua. Porque, a atenção está no mobile hoje em dia e as pessoas passam práticamente 24H por dia conectadas. Além de ser um app grátis que oferece um método de ensino bem melhor que o dos cursinhos.
 
 ## **Como aprender um novo idioma com pouco tempo disponível ?**
 
@@ -88,39 +85,46 @@ Porque, a atenção está no mobile hoje em dia e as pessoas passam práticament
 
 ---
 
-## Requisitos elicitados a partir desse brainstorm
+## Requisitos elicitados a partir desse Brainstorm
 
 **Legenda:**
 
-**RF** - Requisitos funcionais
-
-**RNF** - Requisitos não funcionais
+<p><b>RF</b> - Requisitos funcionais</p>
+<p><b>RNF</b> - Requisitos não funcionais</p>
 
 **Requisitos Funcionais**
 
-**RF01** - O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender.
-
-**RF02** - O sistema deve permitir que usuário fazer login com email/facebook ou conta do google.
-
-**RF03** - O usuário é recompesado cada vez que termina uma unidade ou nível.
-
-**RF04** - O sistema permite que usuário adicione e siga amigos.
-
-**RF05** - O sistema deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala.
-
-**RF06** - O sistema deve dar feedback a cada questão acertada ou errada pelo usuário.
+<p><b>RF01</b> - O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender.</p>
+<p><b>RF02</b> - O sistema deve permitir que usuário fazer login com email/facebook ou conta do google.</p>
+<p><b>RF03</b> - A aplicação deve permitir o usuário ver o seu progresso.</p>
+<p><b>RF04</b> - O sistema permite que usuário adicione e siga amigos.</p>
+<p><b>RF05</b> - O sistema deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala.</p>
+<p><b>RF06</b> - O sistema deve dar feedback a cada questão acertada ou errada pelo usuário.</p>
 
 **Requisitos  Não Funcionais**
 
-**RNF01** - A aplicação deve ser fácil de ser utilizada.
+<p><b>RNF01</b> - A aplicação deve ser fácil de ser utilizada.</p>
+<p><b>RNF02</b> - A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado.</p>
+<p><b>RNF03</b> -  O usuário é recompesado cada vez que termina uma unidade ou nível.</p>
+<p><b>RNF04</b> - O sistema é divido em níveis e com uma progressão ideal para cada módulo.</p>
+<p><b>RNF05</b> - Metas diárias com períodos de pouco tempo.</p>
+<p><b>RNF06</b> - O sistema deve ser acessível para diversas plataformas como mobile e web.</p>
 
-**RNF02** - A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado.
+---
 
-**RNF03** - A aplicação deve permitir o usuário ver o seu progresso.
+### **MoSCoW**
 
-**RNF04** - O sistema é divido em níveis e com uma progressão ideal para cada módulo.
-
-**RNF05** - Metas diárias com períodos de pouco tempo.
-
-**RNF06** - O sistema deve ser acessível para diversas plataformas como mobile e web.
-
+Código | Descrição | Prioridade
+:--------- | :------: | -------: 
+**RF01** | O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender. | **Must** 
+**RF02** | O sistema deve permitir que usuário fazer login com email/facebook ou conta do google.  | **Should** 
+**RF03** | A aplicação deve permitir o usuário ver o seu progresso. |**Could**
+**RF04** |  O sistema permite que usuário adicione e siga amigos. |**Could**
+**RF05** | O sistema deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala.  | **Must**
+**RF06** | O sistema deve dar feedback a cada questão acertada ou errada pelo usuário.| **Should**
+**RNF01** | A aplicação deve ser fácil de ser utilizada. | **Could**
+**RNF02** | A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado. | **Could**
+**RNF03** |  O usuário é recompesado cada vez que termina uma unidade ou nível. | **Could**
+**RNF04**| O sistema é divido em níveis e com uma progressão ideal para cada módulo. | **Should**
+**RNF05** |Metas diárias com períodos de pouco tempo.| **Would**
+**RNF06** | O sistema deve ser acessível para diversas plataformas como mobile e web. | **Should**
