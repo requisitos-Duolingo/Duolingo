@@ -14,15 +14,18 @@ Estudos  | Aplicação | Rotina | Facilidade
 Progressão | Usuário | Nível | Motivado
 
 ## **Brainstorm - Versão 1**
+|Local|Data|Hora|
+|-----|----|----|
+|Google Hangouts|07/09/2019|14:00 - 16:00|
 
-Membros participantes:
-
-* João Vitor Alves
-* Francisco Heronildo
-* Vitor Meireles
-* Lude Ribeiro
-* Luis Gustavo
-* Brian Lui
+|Membros participantes|
+|---------------------|
+|João Vitor Alves|
+|Francisco Heronildo|
+|Vitor Meireles|
+|Lude Ribeiro|
+|Luis Gustavo|
+|Brian Lui|
 
 
 ## **Como aprender um idioma de forma fácil e sem custos ?**
