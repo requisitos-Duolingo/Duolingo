@@ -1,4 +1,26 @@
 ## Brainstorming
+## Introdução
+
+O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos sem julgamento entre a equipe. Essa técnica tem o intuito de criar novas maneiras de enxergar um problema e explorar a criatividade de toda equipe. Dessa forma, o Brainstorm agrega o conhecimento e auxilia na gestão de problemas.
+
+## **Levantamento de Palavras-chave dentro do contexto do Duolingo.**
+
+Palavras Chaves | -- | -- | --
+:--------- | :------: | -------: | -------:
+Aprendizado | Idiomas | Gamificação | Gratuito
+Interativo | Unidades  | Módulos | Ranking
+Estudos  | Aplicação | Rotina | Facilidade
+Progressão | Usuário | Nível | Motivado
+
+## **Brainstorm - Versão 1**
+---
+Membros participantes:
+
+* João Vitor Alves
+* Francisco Heronildo
+* Vitor Meireles
+* Lude Ribeiro
+* Luis Gustavo
 
 ## **Como aprender um idioma de forma fácil e sem custos ?**
 
@@ -16,7 +38,7 @@
 
 **Luis**: Uma coisa muito importante de aprender o idioma é ter diversas formas de aprendizado como escutar, escrever,identifica, falar e ter um feedback imediato.
 
-## **Como aprender um idioma com pouco tempo disponível ?**
+## **Como aprender um novo idioma com pouco tempo disponível ?**
 
 **Vitor Meireles**: O celular é a principal ferramenta, o tempo é relativamente mais eficiente quando se pode levar as ferramentas necessárias consigo. O celular é ferramenta indispensável para otimizar o tempo de uso das pessoas que querem aprender novas coisas, inclusive um idioma.
 
@@ -24,7 +46,7 @@
 
 **João Vitor**: A importância da aplicação ter metas diárias e de poucos minutos.
 
-**Luis**: Acredito que o imporante é ter lições/aulas/exercícios que sejam de pouco tempo e que seja possível realizá-las em períodos ociosos(ex: no metro, na fila do banco ou outros períodos de espera).
+**Luis**: Acredito que o imporante é ter lições/aulas/exercícios que sejam de pouco tempo e que seja possí Requisitos funcionaisvel realizá-las em períodos ociosos(ex: no metro, na fila do banco ou outros períodos de espera).
 
 **Francisco**: A aplicação por ele dividir as lições em etapas e ter curto perído de tempo, possibilita que as lições sejam feitas em qualquer lugar.
 
@@ -44,10 +66,29 @@
 
 **João Vitor**: Com um sistema de recompensas, ajuda a manter o usuário engajado para conseguir mais prêmios.
 
-**Vitor Meireles**: Reconhecimento de instituições externas e dando ao usuário um bom produto, um bom curso. Se for bom, as pessoas se mantém engajadas. Idiomas é um tema muito atual, se for fácil aprender algo importante o engajamento aumenta e a desistência diminui.
+**Vitor Meireles**: Reconhecimento de instituições externas e dando ao usuário um bom produto, um bom curso. Se for bom, as pessoas se mantém engajadas. Idiomas é um tema muito atual, se for f Requisitos funcionaisácil aprender algo importante o engajamento aumenta e a desistência diminui.
 
 **Luis**: Um bom sistema de progressão, de modo que o usuário consiga perceber seu avanço(ex: estando apto a ler um livro no novo idioma, tirar dúvidas de outras pessoas, conversar no novo idioma). E através da competitividade com amigos e diferentes usuários.
 
 **Lude**: Eu acho que principalmente a parte de ter amigos dentro do aplicativo é importante pois fazer um curso sozinho pode ser desmotivante. Ter amigos fazendo o idioma ajuda a pessoa a se manter dentro de um curso mais longo.
 
 **Francisco**: Uma aplicação me mostrando notificações interativas diariamente me motiva a realizar exercícios, assim permaneço aprendendo.
+
+---
+
+## Requisitos elicitados a partir desse brainstorm
+
+**Legenda:**
+
+**RF** - Requisitos funcionais
+
+**RNF** - Requisitos não funcionais
+
+**Requisitos Funcionais**
+
+RF01 - Sistema deve permitir que o usuário realize a escolha o idioma que quer aprender.
+RF02 - 
+
+
+**Requisitos  Não Funcionais**
+
