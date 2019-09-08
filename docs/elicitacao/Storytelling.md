@@ -3,14 +3,15 @@
 
 Esse Documento contempla a elicitação de requisitos através de histórias contadas por usuários.
 
-## **Storytelling - Versão 1**
----
 Membros participantes:
 
 * Brian Lui
 * Vitor Meireles
 
-## **Henrique Alves**
+## **Storytelling com Personas - Versão 1**
+---
+
+### **Henrique Alves**
 
 <p>Henrique tem 41 anos, é universitário e estuda Relações Internacionais na
 Universidade de Brasília tem 4 anos. Henrique gosta de viajar para outros países,
@@ -37,3 +38,15 @@ com a sua família, assim cada um disputava para ver quem avançava mais rápido
 e podiam acompanhar a evolução do outro.</p>
 <p>Por fim, Henrique adorou o Duolingo e irá fazer uso desse app para aprender o
 máximo de línguas que puder.</p>
+
+## **User Story - Versão 1**
+---
+
+### **REQUISITOS**
+
+<p>Eu como usuário desejo criar uma conta para começar a utilizar o app</p>
+<p>Eu como usuário desejo entrar no sistema e selecionar uma novo idioma para aprender uma nova língua</p>
+<p>Eu como usuário desejo entrar no sistema e verificar o meu nível no curso para conseguir acompanhar o meu progresso</p>
+<p>Eu como usuário desejo ser notificado sobre as minhas metas diárias para me lembrar de estudar</p>
+<p>Eu como usuário desejo entrar no sistema e verificar o nível dos meus amigos no curso para acompanhar a evolução deles</p>
+<p>Eu como usuário desejo entrar no sistema e ver o ranking para ver o meu nível comparado com as outras pessoas</p>
