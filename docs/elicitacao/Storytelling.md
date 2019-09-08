@@ -54,3 +54,26 @@ máximo de línguas que puder.</p>
 <p>Eu como usuário desejo entrar no sistema e fazer uma pergunta na comunidade para tirar as minhas dúvidas</p>
 <p>Eu como usuário desejo entrar no sitema e me cadastrar como professor para ajudar as outras pessoas</p>
 <p>Eu como usuário desejo entrar no sistema e responder as perguntas na comunidade para tirar as dúvidas das outras pessoas</p>
+
+## **Storytelling com Personas - Versão 2**
+---
+
+### **Maria**
+
+<p>Maria tem 17 anos e acaba de finalizar com muito êxito seu primeiro semestre de
+Engenharia de Software na Universidade de Brasília. Ela tem boa relação com a língua inglesa
+através de séries e filmes, além de escutar suas músicas favoritas serem internacionais, 
+todavia Maria nunca estudou inglês oficialmente e se vê cada vez mais perto da necessidade de aprender
+inglês, por questões de carreira profissional.</p>
+<p>CUSTOS E ORGANIZAÇÃO DO TEMPO</p>
+<p>Maria então decide procurar um curso de inglês presencial. Ela se depara com altos preços
+e um tempo que ela não dispõem de estar fisicamente, pois até sábado pela manhã ela tem aula na
+universidade. Já que ela é de engenharia de software e aprende muitas coisas na internet, 
+vê como segunda opção algum curso online e acaba encontrando, entre cursos pagos e gratuítos, 
+o duolingo.</p>
+<p>Maria instala o Duolingo em seu smartphone e passa a estudar diariamente enquanto está no ônibus, 
+no caminho para a Universidade. Depois de alguns meses, Maria percebe que já caminhou bastante
+em seu aprendizado e está cada vez mais engajada a terminar o curso. O aplicativo Duolingo deu à Maria
+a oportunidade de aprender um idioma, de vários disponíveis, de forma lúdica, gamificada, organizada e motivadora. Isso tudo sem deixar de lado nenhum aspecto do aprendizado de um novo idioma. Pronúncia, leitura, gramática e vocabulário, tudo é praticado.</p>
+<p>Maria já se inseriu bem na comunidade do Duolingo e pratica diariamente. Agora está com mais um passo da carreira concluído</p>
+<p>Por fim, Maria mostrou o App para sua família e amigos e agora ela é até contribuinte da versão paga e quer usar o duolingo para aprender alemão para fazer seu mestrado</p>
