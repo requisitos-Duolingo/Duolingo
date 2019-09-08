@@ -26,3 +26,22 @@ Para a realização do método foi escolhido um usuário volutário que estava i
 |Cadrastro| O usuário registra-se de forma fácil e rápida da aplicação|
 |Realização das atividades|Após o cadrastro o usuário da continuedade nas atividades com a intenção de atingir sua meta diária|
 
+## Análise das Observações
+
+De acordo com a análise de protocolo podemos observar que o aplicativo tem um nível baixo de dificuldade com a existência de um tutorial de introdução ao usuário. Dessa forma, o usuário demorou 20 minutos para concluir os primeiros passos e fazer o cadastro. Após isso o usuário já podia executar todas as funções do App e concluir mais lições. Sua verbalização foi clara  e notamos que todo o processo foi bastante descontraído a ponto do usuário continuar utilizando a aplicação depois da análise.
+
+## Requisitos elicitados a partir dessa Análise de Protocolo
+
+### **MoSCoW**
+
+|Código|Descrição|Prioridade|
+|------|---------|----------|
+|**AP01**|O Duolingo permite o usuário comece antes de registrar|**Could**|
+|**AP02**| O Duolingo permite o usuário a escolher um idioma no qual quer aprender|**Must**|
+|**AP03**|O Duolingo permite meta diárias para engajamento do usuário|**Could**|
+|**AP04**|O Duolingo permite escolher o nível de conhecimeto do idioma|**Must**|
+|**AP05**|O Duolingo exibe as lições de acordo com nível|**Should**|
+|**AP06**|O Duolingo exibe o feedback das atividades|**Should**|
+|**AP07**|O Duolingo exibe conquistas ao finalizar as atividades|**Would**|
+|**AP08**|Anúcios entre as atividades|**Would**|
+|**AP09**|Criação de perfil de usuário|**Must**|
