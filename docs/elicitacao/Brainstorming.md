@@ -43,8 +43,7 @@ Membros participantes:
 
 **Luis**: Uma coisa muito importante de aprender o idioma é ter diversas formas de aprendizado como escutar, escrever,identificar, falar e ter um feedback imediato.
 
-**Brian**: O Duolingo uma boa alternativa para se aprender uma nova língua.
-Porque, a atenção está no mobile hoje em dia e as pessoas passam práticamente 24H por dia conectadas. Além de ser um app grátis que oferece um método de ensino bem melhor que o dos cursinhos.
+**Brian**: O Duolingo uma boa alternativa para se aprender uma nova língua. Porque, a atenção está no mobile hoje em dia e as pessoas passam práticamente 24H por dia conectadas. Além de ser um app grátis que oferece um método de ensino bem melhor que o dos cursinhos.
 
 ## **Como aprender um novo idioma com pouco tempo disponível ?**
 
@@ -100,9 +99,10 @@ Porque, a atenção está no mobile hoje em dia e as pessoas passam práticament
 
 **RF01** - O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender.
 
+
 **RF02** - O sistema deve permitir que usuário fazer login com email/facebook ou conta do google.
 
-**RF03** - O usuário é recompesado cada vez que termina uma unidade ou nível.
+**RF03** - A aplicação deve permitir o usuário ver o seu progresso.
 
 **RF04** - O sistema permite que usuário adicione e siga amigos.
 
@@ -116,7 +116,7 @@ Porque, a atenção está no mobile hoje em dia e as pessoas passam práticament
 
 **RNF02** - A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado.
 
-**RNF03** - A aplicação deve permitir o usuário ver o seu progresso.
+**RNF03** -  O usuário é recompesado cada vez que termina uma unidade ou nível.
 
 **RNF04** - O sistema é divido em níveis e com uma progressão ideal para cada módulo.
 
@@ -124,3 +124,19 @@ Porque, a atenção está no mobile hoje em dia e as pessoas passam práticament
 
 **RNF06** - O sistema deve ser acessível para diversas plataformas como mobile e web.
 
+### **MoSCoW**
+
+Código | Descrição | Prioridade
+:--------- | :------: | -------: 
+**RF01** | O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender. | **Must** 
+**RF02** | O sistema deve permitir que usuário fazer login com email/facebook ou conta do google.  | **Should** 
+**RF03** | A aplicação deve permitir o usuário ver o seu progresso. |**Could**
+**RF04** |  O sistema permite que usuário adicione e siga amigos. |**Could**
+**RF05** | O sistema deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala.  | **Must**
+**RF06** | O sistema deve dar feedback a cada questão acertada ou errada pelo usuário.| **Should**
+**RNF01** | A aplicação deve ser fácil de ser utilizada. | **Could**
+**RNF02** | A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado. | **Could**
+**RNF03** |  O usuário é recompesado cada vez que termina uma unidade ou nível. | **Could**
+**RNF04**| O sistema é divido em níveis e com uma progressão ideal para cada módulo. | **Should**
+**RNF05** |Metas diárias com períodos de pouco tempo.| **Would**
+**RNF06** | O sistema deve ser acessível para diversas plataformas como mobile e web. | **Should**
