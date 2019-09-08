@@ -1,4 +1,5 @@
 ## Brainstorming
+
 ## Introdução
 
 O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos sem julgamento entre a equipe. Essa técnica tem o intuito de criar novas maneiras de enxergar um problema e explorar a criatividade de toda equipe. Dessa forma, o Brainstorm agrega o conhecimento e auxilia na gestão de problemas.
@@ -13,7 +14,7 @@ Estudos  | Aplicação | Rotina | Facilidade
 Progressão | Usuário | Nível | Motivado
 
 ## **Brainstorm - Versão 1**
----
+
 Membros participantes:
 
 * João Vitor Alves
@@ -21,6 +22,8 @@ Membros participantes:
 * Vitor Meireles
 * Lude Ribeiro
 * Luis Gustavo
+* Brian Lui
+
 
 ## **Como aprender um idioma de forma fácil e sem custos ?**
 
@@ -36,7 +39,9 @@ Membros participantes:
 
 **Francisco**: Eu consigo ficar motivado em aprender mais, pois consigo praticar em qualquer lugar.
 
-**Luis**: Uma coisa muito importante de aprender o idioma é ter diversas formas de aprendizado como escutar, escrever,identifica, falar e ter um feedback imediato.
+**Luis**: Uma coisa muito importante de aprender o idioma é ter diversas formas de aprendizado como escutar, escrever,identificar, falar e ter um feedback imediato.
+
+**Brian**: O Duolingo uma boa alternativa para se aprender uma nova língua. Porque, a atenção está no mobile hoje em dia e as pessoas passam práticamente 24H por dia conectadas. Além de ser um app grátis que oferece um método de ensino bem melhor que o dos cursinhos.
 
 ## **Como aprender um novo idioma com pouco tempo disponível ?**
 
@@ -46,7 +51,7 @@ Membros participantes:
 
 **João Vitor**: A importância da aplicação ter metas diárias e de poucos minutos.
 
-**Luis**: Acredito que o imporante é ter lições/aulas/exercícios que sejam de pouco tempo e que seja possí Requisitos funcionaisvel realizá-las em períodos ociosos(ex: no metro, na fila do banco ou outros períodos de espera).
+**Luis**: Acredito que o imporante é ter lições/aulas/exercícios que sejam de pouco tempo e que seja possível realizá-las em períodos ociosos(ex: no metro, na fila do banco ou outros períodos de espera).
 
 **Francisco**: A aplicação por ele dividir as lições em etapas e ter curto perído de tempo, possibilita que as lições sejam feitas em qualquer lugar.
 
@@ -55,6 +60,8 @@ Membros participantes:
 **Francisco**: Com um sistema de gamificação, ajuda o usuário a realizar exercícios em pouco tempo.
 
 **Vitor Meireles**: Outra coisa com relação ao pouco tempo disponível, se for diário e com tempo reduzido, então dá uma otimizada no tempo.
+
+**Brian**: Acredito que por usar um sistema de ensino diferente do Cursinho, em que aprende a ouvir e falar desde o início, se aprende muito mais rápido. Pois nos Cursinhos se ensina muita gramática inicialmente, assim se demora muito para aprender.
 
 ## **Como manter o usuário engajado mesmo não sendo aulas presenciais ?**
 
@@ -66,7 +73,7 @@ Membros participantes:
 
 **João Vitor**: Com um sistema de recompensas, ajuda a manter o usuário engajado para conseguir mais prêmios.
 
-**Vitor Meireles**: Reconhecimento de instituições externas e dando ao usuário um bom produto, um bom curso. Se for bom, as pessoas se mantém engajadas. Idiomas é um tema muito atual, se for f Requisitos funcionaisácil aprender algo importante o engajamento aumenta e a desistência diminui.
+**Vitor Meireles**: Reconhecimento de instituições externas e dando ao usuário um bom produto, um bom curso. Se for bom, as pessoas se mantém engajadas. Idiomas é um tema muito atual, se for fácil aprender algo importante o engajamento aumenta e a desistência diminui.
 
 **Luis**: Um bom sistema de progressão, de modo que o usuário consiga perceber seu avanço(ex: estando apto a ler um livro no novo idioma, tirar dúvidas de outras pessoas, conversar no novo idioma). E através da competitividade com amigos e diferentes usuários.
 
@@ -74,21 +81,50 @@ Membros participantes:
 
 **Francisco**: Uma aplicação me mostrando notificações interativas diariamente me motiva a realizar exercícios, assim permaneço aprendendo.
 
+**Brian**: Para isso o Duolingo utiliza a Gamificação, onde o usuário tem feedbacks constantes através das suas metas diárias, conquistas e ranking. Além de poder acompanhar o progresso de amigos, o que estimula muito mais.
+
 ---
 
-## Requisitos elicitados a partir desse brainstorm
+## Requisitos elicitados a partir desse Brainstorm
 
 **Legenda:**
 
-**RF** - Requisitos funcionais
-
-**RNF** - Requisitos não funcionais
+<p><b>RF</b> - Requisitos funcionais</p>
+<p><b>RNF</b> - Requisitos não funcionais</p>
 
 **Requisitos Funcionais**
 
-RF01 - Sistema deve permitir que o usuário realize a escolha o idioma que quer aprender.
-RF02 - 
-
+<p><b>RF01</b> - O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender.</p>
+<p><b>RF02</b> - O sistema deve permitir que usuário fazer login com email/facebook ou conta do google.</p>
+<p><b>RF03</b> - A aplicação deve permitir o usuário ver o seu progresso.</p>
+<p><b>RF04</b> - O sistema permite que usuário adicione e siga amigos.</p>
+<p><b>RF05</b> - O sistema deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala.</p>
+<p><b>RF06</b> - O sistema deve dar feedback a cada questão acertada ou errada pelo usuário.</p>
 
 **Requisitos  Não Funcionais**
 
+<p><b>RNF01</b> - A aplicação deve ser fácil de ser utilizada.</p>
+<p><b>RNF02</b> - A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado.</p>
+<p><b>RNF03</b> -  O usuário é recompesado cada vez que termina uma unidade ou nível.</p>
+<p><b>RNF04</b> - O sistema é divido em níveis e com uma progressão ideal para cada módulo.</p>
+<p><b>RNF05</b> - Metas diárias com períodos de pouco tempo.</p>
+<p><b>RNF06</b> - O sistema deve ser acessível para diversas plataformas como mobile e web.</p>
+
+---
+
+### **MoSCoW**
+
+Código | Descrição | Prioridade
+:--------- | :------: | -------: 
+**RF01** | O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender. | **Must** 
+**RF02** | O sistema deve permitir que usuário fazer login com email/facebook ou conta do google.  | **Should** 
+**RF03** | A aplicação deve permitir o usuário ver o seu progresso. |**Could**
+**RF04** |  O sistema permite que usuário adicione e siga amigos. |**Could**
+**RF05** | O sistema deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala.  | **Must**
+**RF06** | O sistema deve dar feedback a cada questão acertada ou errada pelo usuário.| **Should**
+**RNF01** | A aplicação deve ser fácil de ser utilizada. | **Could**
+**RNF02** | A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado. | **Could**
+**RNF03** |  O usuário é recompesado cada vez que termina uma unidade ou nível. | **Could**
+**RNF04**| O sistema é divido em níveis e com uma progressão ideal para cada módulo. | **Should**
+**RNF05** |Metas diárias com períodos de pouco tempo.| **Would**
+**RNF06** | O sistema deve ser acessível para diversas plataformas como mobile e web. | **Should**
