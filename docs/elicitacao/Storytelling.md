@@ -50,3 +50,7 @@ máximo de línguas que puder.</p>
 <p>Eu como usuário desejo ser notificado sobre as minhas metas diárias para me lembrar de estudar</p>
 <p>Eu como usuário desejo entrar no sistema e verificar o nível dos meus amigos no curso para acompanhar a evolução deles</p>
 <p>Eu como usuário desejo entrar no sistema e ver o ranking para ver o meu nível comparado com as outras pessoas</p>
+<p>Eu como usuário desejo fazer os exercícios do curso para aprender mais sobre a língua</p>
+<p>Eu como usuário desejo entrar no sistema e fazer uma pergunta na comunidade para tirar as minhas dúvidas</p>
+<p>Eu como usuário desejo entrar no sitema e me cadastrar como professor para ajudar as outras pessoas</p>
+<p>Eu como usuário desejo entrar no sistema e responder as perguntas na comunidade para tirar as dúvidas das outras pessoas</p>
