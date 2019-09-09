@@ -1,12 +1,10 @@
-## Storytelling
 ## Introdução
-
 Esse Documento contempla a elicitação de requisitos através de histórias contadas por usuários.
 
-Membros participantes:
-
-* Brian Lui
-* Vitor Meireles
+|Membros participantes|
+|---------------------|
+|Brian Lui|
+|Vitor Meireles|
 
 ## **Storytelling com Personas - Versão 1**
 ---

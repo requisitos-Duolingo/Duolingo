@@ -1,10 +1,7 @@
-## Brainstorming
-
 ## Introdução
-
 O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos sem julgamento entre a equipe. Essa técnica tem o intuito de criar novas maneiras de enxergar um problema e explorar a criatividade de toda equipe. Dessa forma, o Brainstorm agrega o conhecimento e auxilia na gestão de problemas.
 
-## **Levantamento de Palavras-chave dentro do contexto do Duolingo.**
+## Levantamento de Palavras-chave dentro do contexto do Duolingo.
 
 Palavras Chaves | -- | -- | --
 :--------- | :------: | -------: | -------:
@@ -14,6 +11,7 @@ Estudos  | Aplicação | Rotina | Facilidade
 Progressão | Usuário | Nível | Motivado
 
 ## **Brainstorm - Versão 1**
+
 |Local|Data|Hora|
 |-----|----|----|
 |Google Hangouts|07/09/2019|14:00 - 16:00|
@@ -27,8 +25,9 @@ Progressão | Usuário | Nível | Motivado
 |Luis Gustavo|
 |Brian Lui|
 
+---
 
-## **Como aprender um idioma de forma fácil e sem custos ?**
+## **Como aprender um idioma de forma fácil e sem custos?**
 
 **Luis**: Acredito que você pode ter vários exercícios em uma aplicação web/mobile e vocẽ pode monetizar através de propagandas, assim o usuário não teria custos.
 
@@ -46,7 +45,9 @@ Progressão | Usuário | Nível | Motivado
 
 **Brian**: O Duolingo uma boa alternativa para se aprender uma nova língua. Porque, a atenção está no mobile hoje em dia e as pessoas passam práticamente 24H por dia conectadas. Além de ser um app grátis que oferece um método de ensino bem melhor que o dos cursinhos.
 
-## **Como aprender um novo idioma com pouco tempo disponível ?**
+
+
+## **Como aprender um novo idioma com pouco tempo disponível?**
 
 **Vitor Meireles**: O celular é a principal ferramenta, o tempo é relativamente mais eficiente quando se pode levar as ferramentas necessárias consigo. O celular é ferramenta indispensável para otimizar o tempo de uso das pessoas que querem aprender novas coisas, inclusive um idioma.
 
@@ -66,7 +67,9 @@ Progressão | Usuário | Nível | Motivado
 
 **Brian**: Acredito que por usar um sistema de ensino diferente do Cursinho, em que aprende a ouvir e falar desde o início, se aprende muito mais rápido. Pois nos Cursinhos se ensina muita gramática inicialmente, assim se demora muito para aprender.
 
-## **Como manter o usuário engajado mesmo não sendo aulas presenciais ?**
+
+
+## **Como manter o usuário engajado mesmo não sendo aulas presenciais?**
 
 **Lude**: Estabelecendo metas, conquistas, rankings, recompensas para etapas e questões concluídas. Trazendo o interesse do usuário.
 
@@ -88,46 +91,54 @@ Progressão | Usuário | Nível | Motivado
 
 ---
 
-## Requisitos elicitados a partir desse Brainstorm
 
-**Legenda:**
+## Requisitos Elicitados a partir desse Brainstorm
 
-<p><b>RF</b> - Requisitos funcionais</p>
-<p><b>RNF</b> - Requisitos não funcionais</p>
+**Legendas:**
+
+* AD - Análise de Discurso
+* RF - Requisitos funcionais
+* RNF - Requisitos não funcionais
 
 **Requisitos Funcionais**
 
-<p><b>RF01</b> - O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender.</p>
-<p><b>RF02</b> - O sistema deve permitir que usuário fazer login com email/facebook ou conta do google.</p>
-<p><b>RF03</b> - A aplicação deve permitir o usuário ver o seu progresso.</p>
-<p><b>RF04</b> - O sistema permite que usuário adicione e siga amigos.</p>
-<p><b>RF05</b> - O sistema deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala.</p>
-<p><b>RF06</b> - O sistema deve dar feedback a cada questão acertada ou errada pelo usuário.</p>
+<p><b>RF01</b> - O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender. - <b>AD01</b></p>
+<p><b>RF02</b> - O sistema deve permitir que usuário fazer login com email/facebook ou conta do google. - <b>AD02</b></p>
+<p><b>RF03</b> - A aplicação deve permitir o usuário ver o seu progresso. - <b>AD03</b></p>
+<p><b>RF04</b> - O sistema permite que usuário adicione e siga amigos. - <b>AD04</b></p>
+<p><b>RF05</b> - O sistema deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala. - <b>AD05</b></p>
+<p><b>RF06</b> - O sistema deve dar feedback a cada questão acertada ou errada pelo usuário. - <b>AD06</b></p>
 
 **Requisitos  Não Funcionais**
 
-<p><b>RNF01</b> - A aplicação deve ser fácil de ser utilizada.</p>
-<p><b>RNF02</b> - A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado.</p>
-<p><b>RNF03</b> -  O usuário é recompesado cada vez que termina uma unidade ou nível.</p>
-<p><b>RNF04</b> - O sistema é divido em níveis e com uma progressão ideal para cada módulo.</p>
-<p><b>RNF05</b> - Metas diárias com períodos de pouco tempo.</p>
-<p><b>RNF06</b> - O sistema deve ser acessível para diversas plataformas como mobile e web.</p>
+<p><b>RNF01</b> - A aplicação deve ser fácil de ser utilizada. - <b>AD07</b></p>
+<p><b>RNF02</b> - A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado. - <b>AD08</b></p>
+<p><b>RNF03</b> -  O usuário é recompesado cada vez que termina uma unidade ou nível. - <b>AD09</b></p>
+<p><b>RNF04</b> - O sistema é divido em níveis e com uma progressão ideal para cada módulo. - <b>AD10</b></p>
+<p><b>RNF05</b> - Metas diárias com períodos de pouco tempo. - <b>AD11</b></p>
+<p><b>RNF06</b> - O sistema deve ser acessível para diversas plataformas como mobile e web. - <b>AD12</b></p>
 
----
 
-### **MoSCoW**
+## Priorização
+
+### MoSCoW
 
 Código | Descrição | Prioridade
 :--------- | :------: | -------: 
-**RF01** | O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender. | **Must** 
-**RF02** | O sistema deve permitir que usuário fazer login com email/facebook ou conta do google.  | **Should** 
-**RF03** | A aplicação deve permitir o usuário ver o seu progresso. |**Could**
-**RF04** |  O sistema permite que usuário adicione e siga amigos. |**Could**
-**RF05** | O sistema deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala.  | **Must**
-**RF06** | O sistema deve dar feedback a cada questão acertada ou errada pelo usuário.| **Should**
-**RNF01** | A aplicação deve ser fácil de ser utilizada. | **Could**
-**RNF02** | A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado. | **Could**
-**RNF03** |  O usuário é recompesado cada vez que termina uma unidade ou nível. | **Could**
-**RNF04**| O sistema é divido em níveis e com uma progressão ideal para cada módulo. | **Should**
-**RNF05** |Metas diárias com períodos de pouco tempo.| **Would**
-**RNF06** | O sistema deve ser acessível para diversas plataformas como mobile e web. | **Should**
+**AD01** | O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender. | **Must** 
+**AD02** | O sistema deve permitir que usuário fazer login com email/facebook ou conta do google.  | **Should** 
+**AD03** | A aplicação deve permitir o usuário ver o seu progresso. |**Could**
+**AD04** |  O sistema permite que usuário adicione e siga amigos. |**Could**
+**AD05** | O sistema deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala.  | **Must**
+**AD06** | O sistema deve dar feedback a cada questão acertada ou errada pelo usuário.| **Should**
+**AD07** | A aplicação deve ser fácil de ser utilizada. | **Could**
+**AD08** | A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado. | **Could**
+**AD09** |  O usuário é recompesado cada vez que termina uma unidade ou nível. | **Could**
+**AD10**| O sistema é divido em níveis e com uma progressão ideal para cada módulo. | **Should**
+**AD11** |Metas diárias com períodos de pouco tempo.| **Would**
+**AD12** | O sistema deve ser acessível para diversas plataformas como mobile e web. | **Should**
+
+
+## Referências
+
+SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

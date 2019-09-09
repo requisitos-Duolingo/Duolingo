@@ -1,4 +1,4 @@
-## Introdução 
+## Introdução
 Esta técnica é bastante útil quando partes interessadas possuem muitos conhecimentos subjetivos e, ao mesmo tempo, estão dispostos a serem entrevistadas. Basicamente existem dois tipos de entrevosta:
 
 * **Entrevistas Fechadas**: As perguntas são definidas previamente e os interessados irão respondê-las da forma em que foram especificadas.
@@ -120,23 +120,23 @@ Já finalizei o curso de Inglês. Acho que com o tempo eu vou dar conta de inter
 * RF: Requisito Funcional
 * RNF: Requisito Não Funcional
 
-| ID    | Descrição                 | Tipo    |
-| ---   |:-------------------------:| RF1 |
-| ENT1  | O aplicativo deve ter exercícios para serem realizados | RF2 |
+| ID    | Descrição                 | Tipo |
+| ---   |:-------------------------:| ---|
+| ENT1  | O aplicativo deve ter exercícios para serem realizados | RF1 |
 | ENT2  | O aplicativo deve ter diferentes tipos de exercícios | RNF1 |
-| ENT3  | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | RF3 |
-| ENT4  | O aplicativo deve ter uma pontuação que reflita o número de aulas/exercícios feitos | RF4 | 
-| ENT5  | O aplicativo deve ter ligas/grupos, que sejam progressivas, que separem os usuários de acordo com seu desempenho | RF5 |
-| ENT6  | O aplicativo deve ter um ranking dos usuários que estão em uma mesma divisão | RF6 |
-| ENT7  | O aplicativo deve ter metas diárias | RF7 |
-| ENT8  | O aplicativo deve contabilizar o número de dias seguidos que usuário cumpre sua meta diária | RF8 |
-| ENT9  | O aplicativo deve notificar o usuário sobre as metas diárias | RF9 |
-| ENT10 | O aplicativo deve possuir uma moeda, que sirva de recompensa para os exercícios realizados | RF10 |
-| ENT11 | O aplicativo deve possuir uma loja aonde ele poderá gastar suas moedas adquiridas | RF11 |
-| ENT12 | O aplicativo deve possuir uma assinatura que o permita obter mais recursos para estudos | RF12 |
-| ENT13 | O aplicativo deve dar acesso a novos exercícios de forma progressiva | RF13 |
-| ENT14 | O aplicativo deve repetir exercícios, de forma que ajude o usuário a aprender/relembrar | RF14 |
-| ENT15 | Se o usuário ficar algum tempo sem utilizar o aplicativo, o aplicativo deve fazer com que ele volte ao início do curso | RF15 |
+| ENT3  | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | RF2 |
+| ENT4  | O aplicativo deve ter uma pontuação que reflita o número de aulas/exercícios feitos | RF3 | 
+| ENT5  | O aplicativo deve ter ligas/grupos, que sejam progressivas, que separem os usuários de acordo com seu desempenho | RF4 |
+| ENT6  | O aplicativo deve ter um ranking dos usuários que estão em uma mesma divisão | RF5 |
+| ENT7  | O aplicativo deve ter metas diárias | RF6 |
+| ENT8  | O aplicativo deve contabilizar o número de dias seguidos que usuário cumpre sua meta diária | RF7 |
+| ENT9  | O aplicativo deve notificar o usuário sobre as metas diárias | RF8 |
+| ENT10 | O aplicativo deve possuir uma moeda, que sirva de recompensa para os exercícios realizados | RF9 |
+| ENT11 | O aplicativo deve possuir uma loja aonde ele poderá gastar suas moedas adquiridas | RF10 |
+| ENT12 | O aplicativo deve possuir uma assinatura que o permita obter mais recursos para estudos | RF11 |
+| ENT13 | O aplicativo deve dar acesso a novos exercícios de forma progressiva | RF12 |
+| ENT14 | O aplicativo deve repetir exercícios, de forma que ajude o usuário a aprender/relembrar | RF13 |
+| ENT15 | Se o usuário ficar algum tempo sem utilizar o aplicativo, o aplicativo deve fazer com que ele volte ao início do curso | RF14 |
 | ENT16 | A aplicação deve ser intuitiva | RNF2 |
 
 ## Priorização
@@ -161,6 +161,7 @@ Já finalizei o curso de Inglês. Acho que com o tempo eu vou dar conta de inter
 | ENT14 | Could |
 | ENT15 | Could |
 | ENT16 | Should |
+
 
 ## Referências
 

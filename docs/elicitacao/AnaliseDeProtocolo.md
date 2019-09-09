@@ -1,7 +1,4 @@
-# Análise de Protocolo
-
 ## Introdução
-
 Análise de protocolo é uma técnica para realização de elicitação de requisitos, na qual é solicitado a um sujeito que realize atividades e faça a verbalização de suas ações.
 
 ## Metologia
@@ -30,9 +27,16 @@ Para a realização do método foi escolhido um usuário volutário que estava i
 
 De acordo com a análise de protocolo podemos observar que o aplicativo tem um nível baixo de dificuldade com a existência de um tutorial de introdução ao usuário. Dessa forma, o usuário demorou 20 minutos para concluir os primeiros passos e fazer o cadastro. Após isso o usuário já podia executar todas as funções do App e concluir mais lições. Sua verbalização foi clara  e notamos que todo o processo foi bastante descontraído a ponto do usuário continuar utilizando a aplicação depois da análise.
 
-## Requisitos elicitados a partir dessa Análise de Protocolo
 
-### **MoSCoW**
+## Requisitos Elicitados a partir dessa Análise de Protocolo
+
+## Priorização
+
+### MoSCoW
+
+**Legenda**:
+
+* AP: Análise de Protocolo.
 
 |Código|Descrição|Prioridade|
 |------|---------|----------|
@@ -45,3 +49,8 @@ De acordo com a análise de protocolo podemos observar que o aplicativo tem um n
 |**AP07**|O Duolingo exibe conquistas ao finalizar as atividades|**Would**|
 |**AP08**|Anúcios entre as atividades|**Would**|
 |**AP09**|Criação de perfil de usuário|**Must**|
+
+
+## Referências
+
+SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

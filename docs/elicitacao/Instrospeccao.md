@@ -1,12 +1,10 @@
-## Introspecção
 ## Introdução
-
 Esse Documento contempla a elicitação de requisitos através da introspecção.
 
-Membros participantes:
-
-* Brian Lui
-* Vitor Meireles
+|Membros participantes|
+|---------------------|
+|Brian Lui|
+|Vitor Meireles|
 
 ## **Introspecção - Versão 1**
 ---
