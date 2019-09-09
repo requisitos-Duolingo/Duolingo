@@ -1,11 +1,9 @@
 # Questionário
 
 ## Introdução
-
 Questionário é uma tecnica pouco flexível de elicitação de requisitos, pois impossibilita análises subjetivas, já que geralmQe usamos respostas muito objetivas, mas a caracteristica mais positíva é a amostragem alta que se pode alcançar. Neste projeto foi desenvolvido e levantado um questinário para que pudessemos elicitar requisitos do aplicativo Duolingo.
 
 ## Metodologia
-
 Para o levantamQo de dados e requisitos fizemos a classificação de dois grupos: usuários do aplicativo e participantes não usuários. Para o primeiro grupo que notamos ser maior que o segundo as perguntas foram feitas com o intuito de idQificar hábitos e costumes apresQados por usuários do aplicativo. Para o segundo grupo as perguntas foram desenvolvidas para levantar potênciais usuários ou não do aplicativo. O questionário foi divulgado em grupos da faculdade e grupos pessoais dos participantes e até o momQo houve 54 respostas.
 
 ### Questão 1 
@@ -56,7 +54,13 @@ Assim também podemos perceber que a proposta de até 20 minutos de estudo no ap
 
 Também foi possível constatar que o sistema de feedback dado pelo aplicativo agrada a maior parte dos usuários e é um bom exemplo de requisito que deve ser mantido e até mesmo se possível aprimorado para que possa agradar ainda mais usuários.
 
-## Requisitos elicotados
+## Requisitos Elicitados
+
+**Legenda**:
+
+* Q: Questionário
+* RF: Requisito Funcional
+* RNF: Requisito Não Funcional
 
 | ID    | Descrição                 | Tipo |
 | ---   |:-------------------------:| ---|
@@ -79,3 +83,8 @@ Também foi possível constatar que o sistema de feedback dado pelo aplicativo a
 | Q04  | Should |
 | Q05  | Should |
 | Q06  | Should |
+
+
+## Referências
+
+SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

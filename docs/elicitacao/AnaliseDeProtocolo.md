@@ -2,11 +2,9 @@
 Análise de protocolo é uma técnica para realização de elicitação de requisitos, na qual é solicitado a um sujeito que realize atividades e faça a verbalização de suas ações.
 
 ## Metologia
-
 Para a realização do método foi escolhido um usuário volutário que estava interressado em aprender um novo idioma e nunca tinha acessado a aplicação Duolingo, assim, foi possível recolher e documenta as ações realizadas pelo mesmo.
 
 ## Verbalização do Usuário
-
 |Operação|Observação|
 |--------|----------|
 |Começar agora|Uma maneira rápida na qual introduziu o usuário ao Duolingo|
@@ -24,7 +22,6 @@ Para a realização do método foi escolhido um usuário volutário que estava i
 |Realização das atividades|Após o cadrastro o usuário da continuedade nas atividades com a intenção de atingir sua meta diária|
 
 ## Análise das Observações
-
 De acordo com a análise de protocolo podemos observar que o aplicativo tem um nível baixo de dificuldade com a existência de um tutorial de introdução ao usuário. Dessa forma, o usuário demorou 20 minutos para concluir os primeiros passos e fazer o cadastro. Após isso o usuário já podia executar todas as funções do App e concluir mais lições. Sua verbalização foi clara  e notamos que todo o processo foi bastante descontraído a ponto do usuário continuar utilizando a aplicação depois da análise.
 
 
@@ -38,8 +35,8 @@ De acordo com a análise de protocolo podemos observar que o aplicativo tem um n
 
 * AP: Análise de Protocolo.
 
-|Código|Descrição|Prioridade|
-|------|---------|----------|
+|ID|Descrição|Prioridade|
+|--|---------|----------|
 |**AP01**|O Duolingo permite o usuário comece antes de registrar|**Could**|
 |**AP02**| O Duolingo permite o usuário a escolher um idioma no qual quer aprender|**Must**|
 |**AP03**|O Duolingo permite meta diárias para engajamento do usuário|**Could**|

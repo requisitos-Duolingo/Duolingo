@@ -95,13 +95,11 @@ Progressão | Usuário | Nível | Motivado
 ## Requisitos Elicitados a partir desse Brainstorm
 
 **Legendas:**
-
 * AD - Análise de Discurso
 * RF - Requisitos funcionais
 * RNF - Requisitos não funcionais
 
 **Requisitos Funcionais**
-
 <p><b>RF01</b> - O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender. - <b>AD01</b></p>
 <p><b>RF02</b> - O sistema deve permitir que usuário fazer login com email/facebook ou conta do google. - <b>AD02</b></p>
 <p><b>RF03</b> - A aplicação deve permitir o usuário ver o seu progresso. - <b>AD03</b></p>
@@ -110,7 +108,6 @@ Progressão | Usuário | Nível | Motivado
 <p><b>RF06</b> - O sistema deve dar feedback a cada questão acertada ou errada pelo usuário. - <b>AD06</b></p>
 
 **Requisitos  Não Funcionais**
-
 <p><b>RNF01</b> - A aplicação deve ser fácil de ser utilizada. - <b>AD07</b></p>
 <p><b>RNF02</b> - A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado. - <b>AD08</b></p>
 <p><b>RNF03</b> -  O usuário é recompesado cada vez que termina uma unidade ou nível. - <b>AD09</b></p>
@@ -123,7 +120,7 @@ Progressão | Usuário | Nível | Motivado
 
 ### MoSCoW
 
-Código | Descrição | Prioridade
+ID | Descrição | Prioridade
 :--------- | :------: | -------: 
 **AD01** | O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender. | **Must** 
 **AD02** | O sistema deve permitir que usuário fazer login com email/facebook ou conta do google.  | **Should** 
