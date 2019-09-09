@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Questionário é uma tecnica pouco flexível de elicitação de requisitos, pois impossibilita análises subjetivas, já que geralmente usamos respostas muito objetivas, mas a caracteristica mais positíva é a amostragem alta que se pode alcançar. Neste projeto foi desenvolvido e levantado um questinário para que pudessemos elicitar requisitos do aplicativo Duolingo.
+Questionário é uma tecnica pouco flexível de elicitação de requisitos, pois impossibilita análises subjetivas, já que geralmQe usamos respostas muito objetivas, mas a caracteristica mais positíva é a amostragem alta que se pode alcançar. Neste projeto foi desenvolvido e levantado um questinário para que pudessemos elicitar requisitos do aplicativo Duolingo.
 
 ## Metodologia
 
-Para o levantamento de dados e requisitos fizemos a classificação de dois grupos: usuários do aplicativo e participantes não usuários. Para o primeiro grupo que notamos ser maior que o segundo as perguntas foram feitas com o intuito de identificar hábitos e costumes apresentados por usuários do aplicativo. Para o segundo grupo as perguntas foram desenvolvidas para levantar potênciais usuários ou não do aplicativo. O questionário foi divulgado em grupos da faculdade e grupos pessoais dos participantes e até o momento houve 54 respostas.
+Para o levantamQo de dados e requisitos fizemos a classificação de dois grupos: usuários do aplicativo e participantes não usuários. Para o primeiro grupo que notamos ser maior que o segundo as perguntas foram feitas com o intuito de idQificar hábitos e costumes apresQados por usuários do aplicativo. Para o segundo grupo as perguntas foram desenvolvidas para levantar potênciais usuários ou não do aplicativo. O questionário foi divulgado em grupos da faculdade e grupos pessoais dos participantes e até o momQo houve 54 respostas.
 
 ### Questão 1 
 ![Questão 1](https://i.imgur.com/scdZVi3.png)
@@ -50,8 +50,32 @@ Para o levantamento de dados e requisitos fizemos a classificação de dois grup
 
 ## Análise
 
-Com os resultados do questionário apresentado, pode-se tirar algumas conclusões, como por exemplo, a funcionalidade de competição entre amigos é usada por menos da metade dos usuários que possuem amigos no aplicativo, o que nos leva a pensar se a proposta de gamificação por meio de competição baseada em rankings é bem vendida no aplicativo.
+Com os resultados do questionário apresQado, pode-se tirar algumas conclusões, como por exemplo, a funcionalidade de competição Qre amigos é usada por menos da metade dos usuários que possuem amigos no aplicativo, o que nos leva a pensar se a proposta de gamificação por meio de competição baseada em rankings é bem vendida no aplicativo.
 
-Assim também podemos perceber que a proposta de até 20 minutos de estudo no aplicativo também não se mostra suficiente para maioria dos usuários que desejariam mais tempo de estudo de novas linguas, o que entretanto pode ser feito também de outros meios além do aplicativo. Como mostrado cerca de 75% dos usuários buscam outros meios de aprendizado das novas línguas.
+Assim também podemos perceber que a proposta de até 20 minutos de estudo no aplicativo também não se mostra suficiQe para maioria dos usuários que desejariam mais tempo de estudo de novas linguas, o que Qretanto pode ser feito também de outros meios além do aplicativo. Como mostrado cerca de 75% dos usuários buscam outros meios de aprendizado das novas línguas.
 
 Também foi possível constatar que o sistema de feedback dado pelo aplicativo agrada a maior parte dos usuários e é um bom exemplo de requisito que deve ser mantido e até mesmo se possível aprimorado para que possa agradar ainda mais usuários.
+
+## Requisitos elicotados
+
+| ID    | Descrição                 | Tipo |
+| ---   |:-------------------------:| ---|
+| Q01  | O aplicativo deve oferecer cursos de vários idiomas | RF1 |
+| Q02  | O aplicativo deve ter oferecer diferentes níveis para cada curso | RNF1 |
+| Q03  | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | RF2 |
+| Q04  | O aplicativo deve possuir suporte para que os usuários tenham contato com outros usuários | RF3 | 
+| Q05  | O aplicativo deve ter um ranking disponível para competições entre amigos | RF4 |
+| Q06  | O aplicativo deve dar feedbakcs para o usuário para que ele saiba melhor sobre seu desempenho | RF5 |
+| Q07  | O aplicativo deve contar o número de dias que o usuário utilizou o aplicativo | RNF2 |
+| Q06  | O aplicativo deve ser intuitivo | RF5 |
+
+### MoSCoW
+
+| ID    | Prioridade |
+| ---   |:-------------------------:|
+| Q01  | Must |
+| Q02  | Must |
+| Q03  | Must |
+| Q04  | Should |
+| Q05  | Should |
+| Q06  | Should |
