@@ -125,7 +125,7 @@ Já finalizei o curso de Inglês. Acho que com o tempo eu vou dar conta de inter
 | ENT1  | O aplicativo deve ter exercícios para serem realizados | RF1 |
 | ENT2  | O aplicativo deve ter diferentes tipos de exercícios | RNF1 |
 | ENT3  | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | RF2 |
-| ENT4  | O aplicativo deve ter uma pontuação que reflita o número de aulas/exercícios feitos | RF3 | 
+| ENT4  | O aplicativo deve ter uma pontuação que reflita o número de aulas/exercícios feitos | RF3 |
 | ENT5  | O aplicativo deve ter ligas/grupos, que sejam progressivas, que separem os usuários de acordo com seu desempenho | RF4 |
 | ENT6  | O aplicativo deve ter um ranking dos usuários que estão em uma mesma divisão | RF5 |
 | ENT7  | O aplicativo deve ter metas diárias | RF6 |

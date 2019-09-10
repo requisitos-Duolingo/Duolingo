@@ -60,15 +60,21 @@ a oportunidade de aprender um idioma, de vários disponíveis, de forma lúdica,
 ## **User Story - Versão 1**
 ---
 
-### **REQUISITOS**
+## Requisitos Elicitados
 
-<p>Eu como usuário desejo criar uma conta para começar a utilizar o app</p>
-<p>Eu como usuário desejo entrar no sistema e selecionar uma novo idioma para aprender uma nova língua</p>
-<p>Eu como usuário desejo entrar no sistema e verificar o meu nível no curso para conseguir acompanhar o meu progresso</p>
-<p>Eu como usuário desejo ser notificado sobre as minhas metas diárias para me lembrar de estudar</p>
-<p>Eu como usuário desejo entrar no sistema e verificar o nível dos meus amigos no curso para acompanhar a evolução deles</p>
-<p>Eu como usuário desejo entrar no sistema e ver o ranking para ver o meu nível comparado com as outras pessoas</p>
-<p>Eu como usuário desejo fazer os exercícios do curso para aprender mais sobre a língua</p>
-<p>Eu como usuário desejo entrar no sistema e fazer uma pergunta na comunidade para tirar as minhas dúvidas</p>
-<p>Eu como usuário desejo entrar no sitema e me cadastrar como professor para ajudar as outras pessoas</p>
-<p>Eu como usuário desejo entrar no sistema e responder as perguntas na comunidade para tirar as dúvidas das outras pessoas</p>
+**Legendas:**
+
+* ST - Storytelling
+
+|ID|Descrição|
+|--|---------|
+|ST01|Eu como usuário desejo criar uma conta para começar a utilizar o app|
+|ST02|Eu como usuário desejo entrar no sistema e selecionar uma novo idioma para aprender uma nova língua|
+|ST03|Eu como usuário desejo entrar no sistema e verificar o meu nível no curso para conseguir acompanhar o meu progresso|
+|ST04|Eu como usuário desejo ser notificado sobre as minhas metas diárias para me lembrar de estudar|
+|ST05|Eu como usuário desejo entrar no sistema e verificar o nível dos meus amigos no curso para acompanhar a evolução deles|
+|ST06|Eu como usuário desejo entrar no sistema e ver o ranking para ver o meu nível comparado com as outras pessoas|
+|ST07|Eu como usuário desejo fazer os exercícios do curso para aprender mais sobre a língua|
+|ST08|Eu como usuário desejo entrar no sistema e fazer uma pergunta na comunidade para tirar as minhas dúvidas|
+|ST09|Eu como usuário desejo entrar no sitema e me cadastrar como professor para ajudar as outras pessoas|
+|ST10|Eu como usuário desejo entrar no sistema e responder as perguntas na comunidade para tirar as dúvidas das outras pessoas|

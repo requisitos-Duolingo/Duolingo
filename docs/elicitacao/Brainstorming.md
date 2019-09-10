@@ -100,41 +100,41 @@ Progressão | Usuário | Nível | Motivado
 * RF - Requisitos funcionais
 * RNF - Requisitos não funcionais
 
-**Requisitos Funcionais**
-<p><b>RF01</b> - O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender. - <b>AD01</b></p>
-<p><b>RF02</b> - O sistema deve permitir que o usuário faça login com email/facebook ou conta do google. - <b>AD02</b></p>
-<p><b>RF03</b> - A aplicação deve permitir que o usuário veja o seu progresso. - <b>AD03</b></p>
-<p><b>RF04</b> - O sistema permite que o usuário adicione e siga amigos. - <b>AD04</b></p>
-<p><b>RF05</b> - O sistema deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala. - <b>AD05</b></p>
-<p><b>RF06</b> - O sistema deve dar feedback a cada questão acertada ou errada pelo usuário. - <b>AD06</b></p>
 
-**Requisitos  Não Funcionais**
-<p><b>RNF01</b> - A aplicação deve ser fácil de ser utilizada. - <b>AD07</b></p>
-<p><b>RNF02</b> - A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado. - <b>AD08</b></p>
-<p><b>RNF03</b> -  O usuário é recompesado cada vez que termina uma unidade ou nível. - <b>AD09</b></p>
-<p><b>RNF04</b> - O sistema é divido em níveis e com uma progressão ideal para cada módulo. - <b>AD10</b></p>
-<p><b>RNF05</b> - Metas diárias com períodos de pouco tempo. - <b>AD11</b></p>
-<p><b>RNF06</b> - O sistema deve ser acessível para diversas plataformas como mobile e web. - <b>AD12</b></p>
+|ID|Descrição|Tipo|
+|--|---------|----|
+|AD01|O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender|RF01|
+|AD02|O sistema deve permitir que o usuário faça login com email/facebook ou conta do google|RF02|
+|AD03|A aplicação deve permitir que o usuário veja o seu progresso|RF03|
+|AD04|O sistema permite que o usuário adicione e siga amigos|RF04|
+|AD05|O sistema deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala|RF05|
+|AD06|O sistema deve dar feedback a cada questão acertada ou errada pelo usuário|RF06|
+|AD07|A aplicação deve ser fácil de ser utilizada|RNF01|
+|AD08|A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado|RNF02|
+|AD09|O usuário é recompesado cada vez que termina uma unidade ou nível|RNF03|
+|AD10|O sistema é divido em níveis e com uma progressão ideal para cada módulo|RNF04|
+|AD11|Metas diárias com períodos de pouco tempo|RNF05|
+|AD12|O sistema deve ser acessível para diversas plataformas como mobile e web|RNF06|
 
 
 ## Priorização
 
 ### MoSCoW
 
-ID | Descrição | Prioridade
-:--------- | :------: | -------: 
-**AD01** | O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender. | **Must** 
-**AD02** | O sistema deve permitir que o usuário faça login com email/facebook ou conta do google.  | **Should** 
-**AD03** | A aplicação deve permitir que o usuário veja o seu progresso. |**Could**
-**AD04** |  O sistema permite que usuário adicione e siga amigos. |**Could**
-**AD05** | O sistema deve permitir que o usuário faça questões de escuta, leitura, escrita e fala.  | **Must**
-**AD06** | O sistema deve dar feedback a cada questão acertada ou errada pelo usuário.| **Should**
-**AD07** | A aplicação deve ser fácil de ser utilizada. | **Could**
-**AD08** | A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado. | **Could**
-**AD09** |  O usuário é recompesado cada vez que termina uma unidade ou nível. | **Could**
-**AD10**| O sistema é divido em níveis e com uma progressão ideal para cada módulo. | **Should**
-**AD11** |Metas diárias com períodos de pouco tempo.| **Would**
-**AD12** | O sistema deve ser acessível para diversas plataformas como mobile e web. | **Should**
+|ID |Prioridade|
+|---|----------|
+|AD01|Must| 
+|AD02|Should| 
+|AD03|Could|
+|AD04|Could|
+|AD05|Must|
+|AD06|Should|
+|AD07|Could|
+|AD08|Could|
+|AD09|Could|
+|AD10|Should|
+|AD11|Would|
+|AD12|Should|
 
 
 ## Referências

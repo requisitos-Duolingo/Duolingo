@@ -24,16 +24,15 @@ Para a realização do método foi escolhido um usuário volutário que estava i
 ## Análise das Observações
 De acordo com a análise de protocolo podemos observar que o aplicativo tem um nível baixo de dificuldade com a existência de um tutorial de introdução ao usuário. Dessa forma, o usuário demorou 20 minutos para concluir os primeiros passos e fazer o cadastro. Após isso o usuário já podia executar todas as funções do App e concluir mais lições. Sua verbalização foi clara  e notamos que todo o processo foi bastante descontraído a ponto do usuário continuar utilizando a aplicação depois da análise.
 
-
 ## Requisitos Elicitados a partir dessa Análise de Protocolo
-
-## Priorização
-
-### MoSCoW
 
 **Legenda**:
 
 * AP: Análise de Protocolo.
+
+## Priorização
+
+### MoSCoW
 
 |ID|Descrição|Prioridade|
 |--|---------|----------|
