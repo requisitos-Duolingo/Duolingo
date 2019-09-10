@@ -95,15 +95,16 @@ Progressão | Usuário | Nível | Motivado
 ## Requisitos Elicitados a partir desse Brainstorm
 
 **Legendas:**
+
 * AD - Análise de Discurso
 * RF - Requisitos funcionais
 * RNF - Requisitos não funcionais
 
 **Requisitos Funcionais**
 <p><b>RF01</b> - O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender. - <b>AD01</b></p>
-<p><b>RF02</b> - O sistema deve permitir que usuário fazer login com email/facebook ou conta do google. - <b>AD02</b></p>
-<p><b>RF03</b> - A aplicação deve permitir o usuário ver o seu progresso. - <b>AD03</b></p>
-<p><b>RF04</b> - O sistema permite que usuário adicione e siga amigos. - <b>AD04</b></p>
+<p><b>RF02</b> - O sistema deve permitir que o usuário faça login com email/facebook ou conta do google. - <b>AD02</b></p>
+<p><b>RF03</b> - A aplicação deve permitir que o usuário veja o seu progresso. - <b>AD03</b></p>
+<p><b>RF04</b> - O sistema permite que o usuário adicione e siga amigos. - <b>AD04</b></p>
 <p><b>RF05</b> - O sistema deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala. - <b>AD05</b></p>
 <p><b>RF06</b> - O sistema deve dar feedback a cada questão acertada ou errada pelo usuário. - <b>AD06</b></p>
 
@@ -123,10 +124,10 @@ Progressão | Usuário | Nível | Motivado
 ID | Descrição | Prioridade
 :--------- | :------: | -------: 
 **AD01** | O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender. | **Must** 
-**AD02** | O sistema deve permitir que usuário fazer login com email/facebook ou conta do google.  | **Should** 
-**AD03** | A aplicação deve permitir o usuário ver o seu progresso. |**Could**
+**AD02** | O sistema deve permitir que o usuário faça login com email/facebook ou conta do google.  | **Should** 
+**AD03** | A aplicação deve permitir que o usuário veja o seu progresso. |**Could**
 **AD04** |  O sistema permite que usuário adicione e siga amigos. |**Could**
-**AD05** | O sistema deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala.  | **Must**
+**AD05** | O sistema deve permitir que o usuário faça questões de escuta, leitura, escrita e fala.  | **Must**
 **AD06** | O sistema deve dar feedback a cada questão acertada ou errada pelo usuário.| **Should**
 **AD07** | A aplicação deve ser fácil de ser utilizada. | **Could**
 **AD08** | A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado. | **Could**

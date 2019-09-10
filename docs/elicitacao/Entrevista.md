@@ -1,5 +1,5 @@
 ## Introdução
-Esta técnica é bastante útil quando partes interessadas possuem muitos conhecimentos subjetivos e, ao mesmo tempo, estão dispostos a serem entrevistadas. Basicamente existem dois tipos de entrevosta:
+Esta técnica é bastante útil quando partes interessadas possuem muitos conhecimentos subjetivos e, ao mesmo tempo, estão dispostos a serem entrevistadas. Basicamente existem dois tipos de entrevista:
 
 * **Entrevistas Fechadas**: As perguntas são definidas previamente e os interessados irão respondê-las da forma em que foram especificadas.
 

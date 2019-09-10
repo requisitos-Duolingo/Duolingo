@@ -2,7 +2,7 @@
 Análise de protocolo é uma técnica para realização de elicitação de requisitos, na qual é solicitado a um sujeito que realize atividades e faça a verbalização de suas ações.
 
 ## Metologia
-Para a realização do método foi escolhido um usuário volutário que estava interressado em aprender um novo idioma e nunca tinha acessado a aplicação Duolingo, assim, foi possível recolher e documenta as ações realizadas pelo mesmo.
+Para a realização do método foi escolhido um usuário volutário que estava interressado em aprender um novo idioma e nunca tinha acessado a aplicação Duolingo, assim, foi possível recolher e documentar as ações realizadas pelo mesmo.
 
 ## Verbalização do Usuário
 |Operação|Observação|
@@ -18,7 +18,7 @@ Para a realização do método foi escolhido um usuário volutário que estava i
 |Finalização da atividade introdutória|O usuário sente-se disafiado, pois ele conquistou parte de sua meta diária|
 |Anúncio|Usuário fecha o anúncio para dar continuedade|
 |Criação de perfil|O Duolingo da a opção do usuário fazer um perfil para salvar o progresso da atividade realizada|
-|Cadrastro| O usuário registra-se de forma fácil e rápida da aplicação|
+|Cadrastro| O usuário registra-se de forma fácil e rápida na aplicação|
 |Realização das atividades|Após o cadrastro o usuário da continuedade nas atividades com a intenção de atingir sua meta diária|
 
 ## Análise das Observações
@@ -37,13 +37,13 @@ De acordo com a análise de protocolo podemos observar que o aplicativo tem um n
 
 |ID|Descrição|Prioridade|
 |--|---------|----------|
-|**AP01**|O Duolingo permite o usuário comece antes de registrar|**Could**|
-|**AP02**| O Duolingo permite o usuário a escolher um idioma no qual quer aprender|**Must**|
+|**AP01**|O Duolingo permite que o usuário comece antes de registrar|**Could**|
+|**AP02**| O Duolingo permite que o usuário escolha um idioma que ele quer aprender|**Must**|
 |**AP03**|O Duolingo permite meta diárias para engajamento do usuário|**Could**|
 |**AP04**|O Duolingo permite escolher o nível de conhecimeto do idioma|**Must**|
 |**AP05**|O Duolingo exibe as lições de acordo com nível|**Should**|
 |**AP06**|O Duolingo exibe o feedback das atividades|**Should**|
-|**AP07**|O Duolingo exibe conquistas ao finalizar as atividades|**Would**|
+|**AP07**|O Duolingo exibe conquistas ao finalizar das atividades|**Would**|
 |**AP08**|Anúcios entre as atividades|**Would**|
 |**AP09**|Criação de perfil de usuário|**Must**|
 
