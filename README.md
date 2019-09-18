@@ -1,7 +1,7 @@
 
 # Sobre
 
-<div align="center"><img src= "docs/images/duo.png"/></div>
+<div align="center"><img src= "docs/images/duolingo_hello.png"/></div>
 
 Este repositório é destinado a aplicação [**Duolingo**](https://www.duolingo.com/) com o intuito de apredizagem sobre o conteúdo ministrado na disciplina de Requisitos de Software na da Universidade de Brasília - Gama, durante o período 2019/2.
 
