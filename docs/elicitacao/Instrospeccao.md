@@ -134,16 +134,16 @@ Introspecção é uma técnica pelo qual o usuário observa os conteúdos de seu
 <p>Deve mostrar a experiência do usuário</p>
 <p>Deve mostrar os níveis do Curso do idioma</p>
 <p>Deve mostrar a bandeira do idioma que o usuário está aprendendo</p>
-<p>Deve ser possível clicar na bandeira para adicionar um novo idioma</p>
-<p>Deve ser possível clicar na coroa para ver o nível das habilidades</p>
-<p>Deve ser possível clicar no Fogo para ver o Objetivo Diário</p>
-<p>Deve ser possível clicar na gema para a quantidade de gemas que possui</p>
-<p>Deve ser possível selecionar a opção de TRY PLUS para mudar para o plano pago</p>
-<p>Deve ser possível selecionar qual nível quer jogar, dos que estão liberados</p>
-<p>Deve ser possível clicar no Coração para ver como anda a Saúde</p>
-<p>Deve ser possível clicar no Rosto para ver os méritos ganho e os Amigos</p>
-<p>Deve ser possível clicar no Escudo para ver a Competição</p>
-<p>Deve ser possível clicar na loja para fazer Upgrade</p>
+<p>Deve mostrar a bandeira para adicionar um novo idioma</p>
+<p>Deve mostrar a coroa para ver o nível das habilidades</p>
+<p>Deve mostrar o Fogo para ver o Objetivo Diário</p>
+<p>Deve mostrar a gema para a quantidade de gemas que possui</p>
+<p>Deve mostrar a opção de TRY PLUS para mudar para o plano pago</p>
+<p>Deve mostrar os níveis do curso</p>
+<p>Deve mostrar o Coração para ver como anda a Saúde</p>
+<p>Deve mostrar o Rosto para ver os méritos ganho e os Amigos</p>
+<p>Deve mostrar o Escudo para ver a Competição</p>
+<p>Deve mostrar a loja para fazer Upgrade</p>
 
 ### **Nível:**
 
@@ -186,12 +186,32 @@ Introspecção é uma técnica pelo qual o usuário observa os conteúdos de seu
 | INT24 | Deve mostrar uma mensagem com o XP que o usuário ganhou | RF02 |
 | INT25 | Deve mostrar uma mensagem de incentivo e dica | RF02 |
 | INT26 | Deve ser apresentado a opção de Continue | RF02 |
-| INT27 | Deve aparecer um feedback de certo ou errado | RF02 |
-| INT28 | Deve aparecer um feedback de certo ou errado | RF02 |
-| INT29 | Deve aparecer um feedback de certo ou errado | RF02 |
-| INT30 | Deve aparecer um feedback de certo ou errado | RF02 |
-| INT31 | Deve aparecer um feedback de certo ou errado | RF02 |
-| INT32 | Deve aparecer um feedback de certo ou errado | RF02 |
+| INT27 | Deve mostrar uma mensagem de Teste Completo | RF02 |
+| INT28 | Deve mostrar uma mensagem indicando quantos % do Curso o usuário já completou | RF02 |
+| INT29 | Deve mostrar uma mensagem indicando para o usuário criar um Perfil | RF02 |
+| INT30 | Deve mostrar uma mensagem do porque o usuário precisar criar um Perfil | RF02 |
+| INT31 | Deve ser apresentado as opções de Create Profile ou Later | RF02 |
+| INT32 | Deve mostrar uma mensagem perguntando quantos anos o usuário tem | RF02 |
+| INT33 | Deve mostrar um campo para o usuário digitar a idade | RF02 |
+| INT34 | Deve dar a opção para se registrar pelo Facebook ou pelo Google | RF02 |
+| INT35 | Deve mostrar uma mensagem mostrando que o uruário concorda com os Termos e Política de Privacidade | RF02 |
+| INT36 | Deve mostrar uma mensagem perguntando o nome do usuário | RF02 |
+| INT37 | Deve mostrar um campo para o usuário digitar o nome | RF02 |
+| INT38 | Deve mostrar uma mensagem perguntando o e-mail do usuário | RF02 |
+| INT39 | Deve mostrar um campo para o usuário digitar o e-mail | RF02 |
+| INT40 | Deve mostrar uma mensagem pedindo para o usuário criar uma senha | RF02 |
+| INT41 | Deve mostrar um campo para o usuário digitar a senha | RF02 |
+| INT42 | Deve mostrar a opção Create Profile | RF02 |
+| INT43 | Deve mostrar a opção de ver a senha | RF02 |
+| INT44 | Deve mostrar a opção TRY 7 DAYS FOR FREE e NO THANKS | RF02 |
+| INT45 | Deve mostrar a opção RETURN HOME | RF02 |
+| INT46 | Deve mostrar o nível do usuário | RF02 |
+| INT47 | Deve mostrar a experiência do usuário | RF02 |
+| INT48 | Deve mostrar os níveis do Curso do idioma | RF02 |
+| INT49 | Deve mostrar a bandeira do idioma que o usuário está aprendendo | RF02 |
+| INT50 | Deve ser possível clicar na bandeira para adicionar um novo idioma | RF02 |
+| INT51 | Deve mostrar uma mensagem perguntando quantos anos o usuário tem | RF02 |
+| INT52 | Deve mostrar uma mensagem perguntando quantos anos o usuário tem | RF02 |
 
 ## Priorização
 
