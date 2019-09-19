@@ -1,15 +1,19 @@
 ## Introdução
-Esse Documento contempla a elicitação de requisitos através de histórias contadas por usuários.
+
+Esse técnica contempla a elicitação de requisitos através de histórias contadas por usuários.
 
 |Membros participantes|
 |---------------------|
 |Brian Lui|
 |Vitor Meireles|
 
-## **Storytelling com Personas - Versão 1**
+## **User Story - Versão 1**
 ---
+## Storytelling com Personas
 
 ### **Henrique Alves**
+
+![henrique](https://i.imgur.com/PvKXVOw.png)
 
 <p>Henrique tem 41 anos, é universitário e estuda Relações Internacionais na
 Universidade de Brasília tem 4 anos. Henrique gosta de viajar para outros países,
@@ -39,6 +43,8 @@ máximo de línguas que puder.</p>
 
 ### **Maria**
 
+![maria](https://i.imgur.com/21b8Zpf.png)
+
 <p>Maria tem 17 anos e acaba de finalizar com muito êxito seu primeiro semestre de
 Engenharia de Software na Universidade de Brasília. Ela tem boa relação com a língua inglesa
 através de séries e filmes, além de escutar suas músicas favoritas serem internacionais, 
@@ -57,7 +63,6 @@ a oportunidade de aprender um idioma, de vários disponíveis, de forma lúdica,
 <p>Maria já se inseriu bem na comunidade do Duolingo e pratica diariamente. Agora está com mais um passo da carreira concluído</p>
 <p>Por fim, Maria mostrou o App para sua família e amigos e agora ela é até contribuinte da versão paga e quer usar o duolingo para aprender alemão para fazer seu mestrado</p>
 
-## **User Story - Versão 1**
 ---
 
 ## Requisitos Elicitados
@@ -65,16 +70,18 @@ a oportunidade de aprender um idioma, de vários disponíveis, de forma lúdica,
 **Legendas:**
 
 * ST - Storytelling
+* RF: Requisito Funcional
+* RNF: Requisito Não Funcional
 
-|ID|Descrição|
-|--|---------|
-|ST01|Eu como usuário desejo criar uma conta para começar a utilizar o app|
-|ST02|Eu como usuário desejo entrar no sistema e selecionar uma novo idioma para aprender uma nova língua|
-|ST03|Eu como usuário desejo entrar no sistema e verificar o meu nível no curso para conseguir acompanhar o meu progresso|
-|ST04|Eu como usuário desejo ser notificado sobre as minhas metas diárias para me lembrar de estudar|
-|ST05|Eu como usuário desejo entrar no sistema e verificar o nível dos meus amigos no curso para acompanhar a evolução deles|
-|ST06|Eu como usuário desejo entrar no sistema e ver o ranking para ver o meu nível comparado com as outras pessoas|
-|ST07|Eu como usuário desejo fazer os exercícios do curso para aprender mais sobre a língua|
-|ST08|Eu como usuário desejo entrar no sistema e fazer uma pergunta na comunidade para tirar as minhas dúvidas|
-|ST09|Eu como usuário desejo entrar no sitema e me cadastrar como professor para ajudar as outras pessoas|
-|ST10|Eu como usuário desejo entrar no sistema e responder as perguntas na comunidade para tirar as dúvidas das outras pessoas|
+| ID | Descrição | Tipo |
+|----|-----------|------|
+| ST01 | Eu como usuário desejo criar uma conta para começar a utilizar o app | RF01 |
+| ST02 | Eu como usuário desejo entrar no sistema e selecionar uma novo idioma para aprender uma nova língua | RF02 |
+| ST03 | Eu como usuário desejo entrar no sistema e verificar o meu nível no curso para conseguir acompanhar o meu progresso | RF03 |
+| ST04 | Eu como usuário desejo ser notificado sobre as minhas metas diárias para me lembrar de estudar | RNF01 |
+| ST05 | Eu como usuário desejo entrar no sistema e verificar o nível dos meus amigos no curso para acompanhar a evolução deles | RF04 |
+| ST06 | Eu como usuário desejo entrar no sistema e ver o ranking para ver o meu nível comparado com as outras pessoas | RF05 |
+| ST07 | Eu como usuário desejo fazer os exercícios do curso para aprender mais sobre a língua | RF06 |
+| ST08 | Eu como usuário desejo entrar no sistema e fazer uma pergunta na comunidade para tirar as minhas dúvidas | RF07 |
+| ST09 | Eu como usuário desejo entrar no sitema e me cadastrar como professor para ajudar as outras pessoas | RF08 |
+| ST10 | Eu como usuário desejo entrar no sistema e responder as perguntas na comunidade para tirar as dúvidas das outras pessoas | RF09 |

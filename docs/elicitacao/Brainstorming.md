@@ -1,4 +1,5 @@
 ## Introdução
+
 O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos sem julgamento entre a equipe. Essa técnica tem o intuito de criar novas maneiras de enxergar um problema e explorar a criatividade de toda equipe. Dessa forma, o Brainstorm agrega o conhecimento e auxilia na gestão de problemas.
 
 ## Levantamento de Palavras-chave dentro do contexto do Duolingo.
@@ -92,7 +93,7 @@ Progressão | Usuário | Nível | Motivado
 ---
 
 
-## Requisitos Elicitados a partir desse Brainstorm
+## Requisitos Elicitados
 
 **Legendas:**
 
@@ -101,40 +102,40 @@ Progressão | Usuário | Nível | Motivado
 * RNF - Requisitos não funcionais
 
 
-|ID|Descrição|Tipo|
-|--|---------|----|
-|AD01|O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender|RF01|
-|AD02|O sistema deve permitir que o usuário faça login com email/facebook ou conta do google|RF02|
-|AD03|A aplicação deve permitir que o usuário veja o seu progresso|RF03|
-|AD04|O sistema permite que o usuário adicione e siga amigos|RF04|
-|AD05|O sistema deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala|RF05|
-|AD06|O sistema deve dar feedback a cada questão acertada ou errada pelo usuário|RF06|
-|AD07|A aplicação deve ser fácil de ser utilizada|RNF01|
-|AD08|A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado|RNF02|
-|AD09|O usuário é recompesado cada vez que termina uma unidade ou nível|RNF03|
-|AD10|O sistema é divido em níveis e com uma progressão ideal para cada módulo|RNF04|
-|AD11|Metas diárias com períodos de pouco tempo|RNF05|
-|AD12|O sistema deve ser acessível para diversas plataformas como mobile e web|RNF06|
+| ID | Descrição | Tipo |
+|----|-----------|------|
+| AD01 | O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender | RF01 |
+| AD02 | O sistema deve permitir que o usuário faça login com email/facebook ou conta do google | RF02 |
+| AD03 | A aplicação deve permitir que o usuário veja o seu progresso | RF03 |
+| AD04 | O sistema permite que o usuário adicione e siga amigos | RF04 |
+| AD05 | O sistema deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala | RF05 |
+| AD06 | O sistema deve dar feedback a cada questão acertada ou errada pelo usuário | RF06 |
+| AD07 | A aplicação deve ser fácil de ser utilizada | RNF01 |
+| AD08 | A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado | RNF02 |
+| AD09 | O usuário é recompesado cada vez que termina uma unidade ou nível | RNF03 |
+| AD10 | O sistema é divido em níveis e com uma progressão ideal para cada módulo | RNF04 |
+| AD11 | Metas diárias com períodos de pouco tempo | RNF05 |
+| AD12 | O sistema deve ser acessível para diversas plataformas como mobile e web | RNF06 |
 
 
 ## Priorização
 
 ### MoSCoW
 
-|ID |Prioridade|
-|---|----------|
-|AD01|Must| 
-|AD02|Should| 
-|AD03|Could|
-|AD04|Could|
-|AD05|Must|
-|AD06|Should|
-|AD07|Could|
-|AD08|Could|
-|AD09|Could|
-|AD10|Should|
-|AD11|Would|
-|AD12|Should|
+| ID | Prioridade |
+|----|------------|
+| AD01 | Must | 
+| AD02 | Should | 
+| AD03 | Could |
+| AD04 | Could |
+| AD05 | Must |
+| AD06 | Should |
+| AD07 | Could |
+| AD08 | Could |
+| AD09 | Could |
+| AD10 | Should |
+| AD11 | Would |
+| AD12 | Should |
 
 
 ## Referências

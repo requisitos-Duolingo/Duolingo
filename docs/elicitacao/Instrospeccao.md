@@ -1,5 +1,6 @@
 ## Introdução
-Esse Documento contempla a elicitação de requisitos através da introspecção.
+
+Introspecção é uma técnica pelo qual o usuário observa os conteúdos de seus próprios estados mentais, tomando consciência deles, através de histórias contadas.
 
 |Membros participantes|
 |---------------------|

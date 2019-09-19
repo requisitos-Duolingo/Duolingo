@@ -1,4 +1,5 @@
 ## Introdução
+
 Esta técnica é bastante útil quando partes interessadas possuem muitos conhecimentos subjetivos e, ao mesmo tempo, estão dispostos a serem entrevistadas. Basicamente existem dois tipos de entrevista:
 
 * **Entrevistas Fechadas**: As perguntas são definidas previamente e os interessados irão respondê-las da forma em que foram especificadas.
@@ -8,14 +9,15 @@ Esta técnica é bastante útil quando partes interessadas possuem muitos conhec
 Nesse trabalho foram realizadas apenas entrevistas fechadas.
 
 ## Metodologia 
+
 As entrevistas foram feitas com usuários com perfis diferentes, de modo a entender como as funcionalidades são utilizadas por cada perfil. O único pré-requisito era que o entrevistado tivesse utilizado o duolingo por pelo menos 1 mês.
 
 ## Entrevistas
 
-| Entrevistador        | Entrevistado           |
-| -------------------- |:----------------------:| 
-| Luis Gustavo         | Laryssa Ribeiro        |
-| Luis Gustavo         | Joselene Vieira        |
+| Entrevistador | Entrevistado    |  Duração  |
+|---------------|-----------------|-----------|
+| Luis Gustavo  | Laryssa Ribeiro |    3:32   |
+| Luis Gustavo  | Joselene Vieira |    3:14   |
 
 ### Roteiro
 
@@ -41,7 +43,7 @@ As entrevistas foram feitas com usuários com perfis diferentes, de modo a enten
 
 * Você já finalizou algum curso do Duolingo? Se sim, você se acha capaz de conversar com um pessoa nativa do idioma no qual você concluiu no Duolingo?
 
-Foi realizada uma transcrição que foi editada buscando maior clareza das informações tratadas aqui. As entrevistas completas podem ser encontradas nesse [link](https://drive.google.com/drive/folders/1mUhVZ-g5_3f8ddP2NT5ciEVxHpupph8f?usp=sharing).
+Foi realizada uma transcrição que foi editada buscando maior clareza das informações tratadas aqui. As entrevistas completas podem ser encontradas nesse [LINK](https://drive.google.com/drive/folders/1mUhVZ-g5_3f8ddP2NT5ciEVxHpupph8f?usp=sharing).
 
 *: Divisão é o sistema de ligas que o Duolingo possui, que aumentam a dificuldade progressivamente. As divisões são dadas na ordem abaixo, da mais fácil até a mais difícil:
 
@@ -122,38 +124,38 @@ Já finalizei o curso de Inglês. Acho que com o tempo eu vou dar conta de inter
 
 | ID    | Descrição                 | Tipo |
 | ---   |:-------------------------:| ---|
-| ENT1  | O aplicativo deve ter exercícios para serem realizados | RF1 |
-| ENT2  | O aplicativo deve ter diferentes tipos de exercícios | RNF1 |
-| ENT3  | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | RF2 |
-| ENT4  | O aplicativo deve ter uma pontuação que reflita o número de aulas/exercícios feitos | RF3 |
-| ENT5  | O aplicativo deve ter ligas/grupos, que sejam progressivas, que separem os usuários de acordo com seu desempenho | RF4 |
-| ENT6  | O aplicativo deve ter um ranking dos usuários que estão em uma mesma divisão | RF5 |
-| ENT7  | O aplicativo deve ter metas diárias | RF6 |
-| ENT8  | O aplicativo deve contabilizar o número de dias seguidos que usuário cumpre sua meta diária | RF7 |
-| ENT9  | O aplicativo deve notificar o usuário sobre as metas diárias | RF8 |
-| ENT10 | O aplicativo deve possuir uma moeda, que sirva de recompensa para os exercícios realizados | RF9 |
+| ENT01  | O aplicativo deve ter exercícios para serem realizados | RF01 |
+| ENT02  | O aplicativo deve ter diferentes tipos de exercícios | RNF01 |
+| ENT03  | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | RF02 |
+| ENT04  | O aplicativo deve ter uma pontuação que reflita o número de aulas/exercícios feitos | RF03 |
+| ENT05  | O aplicativo deve ter ligas/grupos, que sejam progressivas, que separem os usuários de acordo com seu desempenho | RF04 |
+| ENT06  | O aplicativo deve ter um ranking dos usuários que estão em uma mesma divisão | RF05 |
+| ENT07  | O aplicativo deve ter metas diárias | RF06 |
+| ENT08  | O aplicativo deve contabilizar o número de dias seguidos que usuário cumpre sua meta diária | RF07 |
+| ENT09  | O aplicativo deve notificar o usuário sobre as metas diárias | RF08 |
+| ENT10 | O aplicativo deve possuir uma moeda, que sirva de recompensa para os exercícios realizados | RF09 |
 | ENT11 | O aplicativo deve possuir uma loja aonde ele poderá gastar suas moedas adquiridas | RF10 |
 | ENT12 | O aplicativo deve possuir uma assinatura que o permita obter mais recursos para estudos | RF11 |
 | ENT13 | O aplicativo deve dar acesso a novos exercícios de forma progressiva | RF12 |
 | ENT14 | O aplicativo deve repetir exercícios, de forma que ajude o usuário a aprender/relembrar | RF13 |
 | ENT15 | Se o usuário ficar algum tempo sem utilizar o aplicativo, o aplicativo deve fazer com que ele volte ao início do curso | RF14 |
-| ENT16 | A aplicação deve ser intuitiva | RNF2 |
+| ENT16 | A aplicação deve ser intuitiva | RNF02 |
 
 ## Priorização
 
 ### MoSCoW
 
 | ID    | Prioridade |
-| ---   |:-------------------------:|
-| ENT1  | Must |
-| ENT2  | Must |
-| ENT3  | Should |
-| ENT4  | Should |
-| ENT5  | Should |
-| ENT6  | Should |
-| ENT7  | Should |
-| ENT8  | Should |
-| ENT9  | Could |
+| ---   |:----------:|
+| ENT01  | Must |
+| ENT02  | Must |
+| ENT03  | Should |
+| ENT04  | Should |
+| ENT05  | Should |
+| ENT06  | Should |
+| ENT07  | Should |
+| ENT08  | Should |
+| ENT09  | Could |
 | ENT10 | Would |
 | ENT11 | Would |
 | ENT12 | Would |
