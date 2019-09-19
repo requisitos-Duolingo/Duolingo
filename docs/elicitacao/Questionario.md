@@ -6,9 +6,8 @@ Questionário é uma técnica pouco flexível de elicitação de requisitos, poi
 
 Para o levantamQo de dados e requisitos fizemos a classificação de dois grupos: usuários do aplicativo e participantes não usuários. Para o primeiro grupo que notamos ser maior que o segundo as perguntas foram feitas com o intuito de idQificar hábitos e costumes apresentados por usuários do aplicativo. Para o segundo grupo as perguntas foram desenvolvidas para levantar potênciais usuários ou não do aplicativo. O questionário foi divulgado em grupos da faculdade e grupos pessoais dos participantes até o que houve-se 54 respostas.
 
-| Dados Recolhido |
+| Dados Recolhidos em |
 |-----------------|
-| Data |
 | 07/09/2019 - 09/09/2019 |
 
 ### Questão 1
