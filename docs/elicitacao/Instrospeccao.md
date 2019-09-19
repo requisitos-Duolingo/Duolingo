@@ -154,3 +154,8 @@ Introspecção é uma técnica pelo qual o usuário observa os conteúdos de seu
 
 <p>Ao reponder as questões devo receber experiência</p>
 <p>Dependendo dos níveis que for alcançando, ganhará Meritos</p>
+
+
+## Referências
+
+SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

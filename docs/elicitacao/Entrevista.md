@@ -14,10 +14,10 @@ As entrevistas foram feitas com usuários com perfis diferentes, de modo a enten
 
 ## Entrevistas
 
-| Entrevistador | Entrevistado    |  Duração  |
-|---------------|-----------------|-----------|
-| Luis Gustavo  | Laryssa Ribeiro |    3:32   |
-| Luis Gustavo  | Joselene Vieira |    3:14   |
+| Entrevistador | Entrevistado    | Duração |    Data    |
+|---------------|-----------------|---------|------------|
+| Luis Gustavo  | Laryssa Ribeiro |  3:32   | 08/09/2019 |
+| Luis Gustavo  | Joselene Vieira |  3:14   | 08/09/2019 |
 
 ### Roteiro
 
@@ -145,8 +145,8 @@ Já finalizei o curso de Inglês. Acho que com o tempo eu vou dar conta de inter
 
 ### MoSCoW
 
-| ID    | Prioridade |
-| ---   |:----------:|
+| ID | Prioridade |
+|----|------------|
 | ENT01  | Must |
 | ENT02  | Must |
 | ENT03  | Should |

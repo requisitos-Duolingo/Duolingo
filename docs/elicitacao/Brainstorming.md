@@ -4,18 +4,18 @@ O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos se
 
 ## Levantamento de Palavras-chave dentro do contexto do Duolingo.
 
-Palavras Chaves | -- | -- | --
-:--------- | :------: | -------: | -------:
-Aprendizado | Idiomas | Gamificação | Gratuito
-Interativo | Unidades  | Módulos | Ranking
-Estudos  | Aplicação | Rotina | Facilidade
-Progressão | Usuário | Nível | Motivado
+| Palavras Chaves | --- | --- | --- |
+|-----------------|-----|-----|-----|
+| Aprendizado | Idiomas | Gamificação | Gratuito |
+| Interativo | Unidades | Módulos | Ranking |
+| Estudos | Aplicação | Rotina | Facilidade |
+| Progressão | Usuário | Nível | Motivado |
 
 ## **Brainstorm - Versão 1**
 
-|Local|Data|Hora|
-|-----|----|----|
-|Google Hangouts|07/09/2019|14:00 - 16:00|
+| Local | Data | Hora |
+|-------|------|------|
+| Google Hangouts | 07/09/2019 | 14:00 - 16:00 |
 
 |Membros participantes|
 |---------------------|
@@ -28,7 +28,10 @@ Progressão | Usuário | Nível | Motivado
 
 ---
 
+
+
 ## **Como aprender um idioma de forma fácil e sem custos?**
+
 
 **Luis**: Acredito que você pode ter vários exercícios em uma aplicação web/mobile e vocẽ pode monetizar através de propagandas, assim o usuário não teria custos.
 
@@ -49,6 +52,7 @@ Progressão | Usuário | Nível | Motivado
 
 
 ## **Como aprender um novo idioma com pouco tempo disponível?**
+
 
 **Vitor Meireles**: O celular é a principal ferramenta, o tempo é relativamente mais eficiente quando se pode levar as ferramentas necessárias consigo. O celular é ferramenta indispensável para otimizar o tempo de uso das pessoas que querem aprender novas coisas, inclusive um idioma.
 
@@ -72,6 +76,7 @@ Progressão | Usuário | Nível | Motivado
 
 ## **Como manter o usuário engajado mesmo não sendo aulas presenciais?**
 
+
 **Lude**: Estabelecendo metas, conquistas, rankings, recompensas para etapas e questões concluídas. Trazendo o interesse do usuário.
 
 **João Vitor**: A divisão de unidades por níveis possibilita que o usuário se mantenha engajado naquele nível, mas também traz a possibilidade do usuário estudar outros módulos e avançar neles ao mesmo tempo.
@@ -91,7 +96,6 @@ Progressão | Usuário | Nível | Motivado
 **Brian**: Para isso o Duolingo utiliza a Gamificação, onde o usuário tem feedbacks constantes através das suas metas diárias, conquistas e ranking. Além de poder acompanhar o progresso de amigos, o que estimula muito mais.
 
 ---
-
 
 ## Requisitos Elicitados
 
@@ -117,7 +121,6 @@ Progressão | Usuário | Nível | Motivado
 | AD11 | Metas diárias com períodos de pouco tempo | RNF05 |
 | AD12 | O sistema deve ser acessível para diversas plataformas como mobile e web | RNF06 |
 
-
 ## Priorização
 
 ### MoSCoW
@@ -141,3 +144,7 @@ Progressão | Usuário | Nível | Motivado
 ## Referências
 
 SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
+Tutorial: Como fazer Brainstorming Passo a Passo. Disponível em: https://www.siteware.com.br/metodologias/como-fazer-brainstorming-passo-a-passo/ Acesso em: 07 de setembro de 2019.
+
+O que é análise do discurso. Disponível em: https://pontodidatica.com.br/o-que-e-analise-do-discurso/ Acesso em: 08 de setembro de 2019.
