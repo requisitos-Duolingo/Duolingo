@@ -1,6 +1,6 @@
 # Início
 
-<div style="text-align:center"><img src= "images/home.png"/></div>
+<div style="text-align:center"><img src= "images/icon.png"/></div>
 
 ---
 
