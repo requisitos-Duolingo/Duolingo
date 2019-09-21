@@ -9,7 +9,10 @@ theme:
   favicon: 'images/favicon.ico'
   palette:
     primary: 'green'
-    accent: 'green'
+    accent: 'light green'
+  font:
+    text: 'Montserrat'
+    code: 'sans-serif'
 
 nav:
   - Início: index.md

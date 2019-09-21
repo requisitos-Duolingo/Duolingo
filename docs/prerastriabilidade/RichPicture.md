@@ -15,7 +15,7 @@ Cada integrante montou o seu Rich Picture do funcionamento geral do duolingo. Co
 >
 >**Descrição:** RichPicture do fluxo geral
 >
->**Versão:** 1
+>**Versão:** 0.1
 
 
 ![RichPicture Brian](https://i.imgur.com/RnY863l.png)
@@ -24,7 +24,7 @@ Cada integrante montou o seu Rich Picture do funcionamento geral do duolingo. Co
 >
 >**Descrição:** Rich Picture do fluxo geral
 >
->**Versão:** 1
+>**Versão:** 0.1
 
 ![Rich /Picture Francisco](https://i.imgur.com/6SYJQhU.png)
 
@@ -32,7 +32,7 @@ Cada integrante montou o seu Rich Picture do funcionamento geral do duolingo. Co
 >
 >**Descrição:** Rich Picture do fluxo geral
 >
->**Versão:** 1
+>**Versão:** 0.1
 
 ![Rich Picture Lude](https://i.imgur.com/RZl4LFo.jpg)
 
@@ -40,14 +40,14 @@ Cada integrante montou o seu Rich Picture do funcionamento geral do duolingo. Co
 >
 >**Descrição:** Rich Picture do fluxo geral
 >
->**Versão:** 1
+>**Versão:** 0.1
 
 ![Rich Picture](https://i.imgur.com/NReQNr1.jpg)
 >**Autor:** Vitor Alves
 >
 >**Descrição:** Rich Picture do fluxo geral
 >
->**Versão:** 1
+>**Versão:** 0.1
 
 # Rich Picture do Grupo
 
@@ -57,4 +57,4 @@ Cada integrante montou o seu Rich Picture do funcionamento geral do duolingo. Co
 >
 >**Descrição:** Rich Picture do fluxo geral
 >
->**Versão:** 1
+>**Versão:** 0.1
