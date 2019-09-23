@@ -28,10 +28,14 @@ nav:
     - Instrospecção: elicitacao/Instrospeccao.md
     - Questionário: elicitacao/Questionario.md
     - Storytelling: elicitacao/Storytelling.md
-  #   - Prototipação: elicitacao/Prototipacao.md
-  #   - Observação: elicitacao/Observacao.md
-  #   - Etnografia: elicitacao/Etnografia.md
-  #  - Modelagem:
+    # - Prototipação: elicitacao/Prototipacao.md
+    # - Observação: elicitacao/Observacao.md
+    # - Etnografia: elicitacao/Etnografia.md
+  - Modelagem:
+    - Cenários: modelagem/Cenarios.md
+    - Léxicos: modelagem/Lexicos.md
+    - Casos de Uso: modelagem/CasosDeUso.md
+    - Especificação Suplementar: modelagem/EspecificacaoSuplementar.md
   #  - Análise:
   #  - Pós-Rastreabilidade: 
   
