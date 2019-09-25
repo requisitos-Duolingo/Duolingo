@@ -17,7 +17,7 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |**Recursos**  |
 |<p>Internet</p> <p>Smartphone ou Computador</p> <p>Duolingo previamente instalado</p>|
 |**Episódios** |
-|<p>Usuário novo</p> <p>Usuário que deseja criar uma outra conta na plataforma</p> <p>Usuário clica em 'Começar Agora'</p> <p>Escolhe o idioma no qual deseja aprender</p> <p>Escolhe uma Meta</p> <p>Escolhe motivação</p> <p>Idade</p> <p>Nome</p> <p>E-mail</p> <p>Senha</p>|
+|<p>Usuário novo</p> <p>Usuário que deseja criar uma outra conta na plataforma</p> <p>Usuário clica em 'Começar Agora'</p> <p>Escolhe o idioma no qual deseja aprender</p> <p>Escolhe uma Meta</p> <p>Escolhe motivação</p> <p>Idade</p> <p>Nome</p> <p>E-mail</p> <p>Senha</p> <p>Usuário tem progresso salvo</p>|
 |**Restrição** |
 |Internet indisponível|
 |**Exceção**   |
@@ -61,7 +61,7 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |**Recursos**  |
 |<p>Conta no Duolingo</p> <p>Acesso a Internet</p> <p>Acesso a um Smartphone ou Computador</p>|
 |**Episódios** |
-|<p>Usuário clicar em 'Começar'</p> <p>Realiza as lições de uma unidade</p>|
+|<p>Usuário clicar em 'Começar'</p> <p>Realiza as lições de uma unidade</p> <p>Usuário ganha experiência</p>|
 |**Restrição** |
 |<p>Internet indisponível</p> <p>Não ser usuário do Duonligo</p>|
 |**Exceção**   |
@@ -127,7 +127,7 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |**Recursos**  |
 |<p>Conta no Duolingo</p> <p>Acesso a Internet</p> <p>Acesso a um Smartphone</p>|
 |**Episódios** |
-|<p>Usuário ganhar energia ao Praticar</p> <p>Usuário gasta Lingots (moedas do Duolingo)</p>|
+|<p>Usuário ganhar energia ao Praticar</p> <p>Usuário gasta Lingots (moedas do Duolingo)</p> <p>Usuário ganha experiência</p>|
 |**Restrição** |
 |<p>Internet indisponível</p> <p>Não ser usuário do Duonligo</p>|
 |**Exceção**   |
@@ -154,3 +154,68 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |<p>Internet indisponível</p> <p>Não ser usuário do Duonligo</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone ou Computador</p> <p>Internet indisponível</p>|
+
+
+## Cenário008
+
+|**Cenário008**|
+|--------------|
+|**Titulo**    |
+|Fórum Duolingo|
+|**Objetivo**  |
+|Tirar dúvidas com a comunidade|
+|**Contexto**  |
+|<p>Local: Página do fórum Duolingo</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
+|**Atores**    |
+|Usuário do Duolingo|
+|**Recursos**  |
+|<p>Conta no Duolingo</p> <p>Acesso a Internet</p> <p>Acesso a um Computador</p>|
+|**Episódios** |
+|<p>Usuário cria um novo cometário no fórum com o assunto e descrição</p>|
+|**Restrição** |
+|<p>Internet indisponível</p> <p>Não ser usuário do Duonligo</p>|
+|**Exceção**   |
+|<p>Sem acesso a Computador</p> <p>Internet indisponível</p>|
+
+
+## Cenário009
+
+|**Cenário009**|
+|--------------|
+|**Titulo**    |
+|Dicionário Duolingo|
+|**Objetivo**  |
+|Traduzir e ver significados das palavras|
+|**Contexto**  |
+|<p>Local: Página do dicionário Duolingo</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
+|**Atores**    |
+|Usuário do Duolingo|
+|**Recursos**  |
+|<p>Conta no Duolingo</p> <p>Acesso a Internet</p> <p>Acesso a um Computador</p>|
+|**Episódios** |
+|<p>Usuário escreve a palavra na qual é saber o significa ou tradução</p> <p>Ver tradução e significado</p> <p>Aúdios de frases contextualizadas</p>|
+|**Restrição** |
+|<p>Internet indisponível</p> <p>Não ser usuário do Duonligo</p>|
+|**Exceção**   |
+|<p>Sem acesso a Computador</p> <p>Internet indisponível</p>|
+
+## Cenário010
+
+|**Cenário010**|
+|--------------|
+|**Titulo**    |
+|Praticar|
+|**Objetivo**  |
+|Fixar contéudo aprendido nas unidades|
+|**Contexto**  |
+|<p>Local: Tela principal</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
+|**Atores**    |
+|Usuário do Duolingo|
+|**Recursos**  |
+|<p>Conta no Duolingo</p> <p>Acesso a Internet</p> <p>Acesso a um Smartphone ou Computador</p>|
+|**Episódios** |
+|<p>Usuário realiza atividades</p> <p>Usuário pratica sem tempo para realização</p> <p>Usuário pratica com tempo para realização</p> <p>Usuário ganha experiência</p>|
+|**Restrição** |
+|<p>Internet indisponível</p> <p>Não ser usuário do Duonligo</p>|
+|**Exceção**   |
+|<p>Sem acesso a um Smartphone ou Computador</p> <p>Internet indisponível</p>|
