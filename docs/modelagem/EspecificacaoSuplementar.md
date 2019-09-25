@@ -79,5 +79,15 @@ Rastro: Não Possui
 
 ## Desempenho
 
+### Rapidez de resposta
+
+Ao acessar o Duolingo e executar uma ação como: fazer uma lição ou fazer um teste para pular de nível o usuário tem um tempo de resposta mínimo da aplicação. Em questões de segundo o usuário consegue terminar uma ação e começar logo outra em seguida. Logo o usuário se mantém mais engajado no sistema e assim ele consegue concluir mais lições em um curto espaço de tempo.
+
+
+
+
+
+
+
 
 
