@@ -51,3 +51,33 @@ Rastro: Análise de Protocolo e Brainstorm
 
 ## Confiabilidade
 
+Esse tópico lida com os requisitos relacionados ao quanto a aplicação é confiável.
+
+### Disponibilidade
+
+O Duolingo mantém a aplicação ativa(tanto mobile quanto web) o maior tempo possível com seus servidores operando em atividade em quase 100% do tempo. E se houver alguma imprevisibilidade ou manutenção o usuário deve ser previamente avisado.
+
+Rastro: Não possui
+
+### Segurança no armazenamento de dados
+
+
+O Duolingo segue uma política de armazenamento de dados baseado em sua  Política de Privacidade em que o duolingo não compartilha dados pessoais, apenas informações básicas como nível e nickname a título de interação com outros usuários. A Política de Provacidade pode ser acessada [aqui](https://www.duolingo.com/privacy) 
+
+Em relação a dados de pagamentos para usuário do duolingo plus a aplicação segue os padrões estabelecidos pela indústria como sistema de pagamento da Google Play e da App Store como intermediário. 
+
+
+Rastro: Não possui
+
+
+### Suporte a falhas
+
+O sistema deve fornecer ao usuário segurança em caso de falhas e proteger o usuário e seus dados sensíveis.
+
+Rastro: Não Possui
+
+
+## Desempenho
+
+
+
