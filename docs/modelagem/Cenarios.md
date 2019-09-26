@@ -219,3 +219,24 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |<p>Internet indisponível</p> <p>Não ser usuário do Duonligo</p>|
 |**Exceção**   |
 |<p>Sem acesso a um Smartphone ou Computador</p> <p>Internet indisponível</p>|
+
+## Cenário011
+
+|**Cenário011**|
+|--------------|
+|**Titulo**    |
+|Ver e comparar liga|
+|**Objetivo**  |
+|Analisar a pontuação do usuário em compararção com outros usuários da mesma liga|
+|**Contexto**  |
+|<p>Local: Tela inicial, terceiro ícone inferior</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, ser usuário</p>|
+|**Atores**    |
+|Usuário cadastrado|
+|**Recursos**  |
+|<p>Internet</p> <p>Smartphone ou Computador</p> <p>Duolingo previamente instalado</p>|
+|**Episódios** |
+|<p>Usuário já cadastrado e que faz uso</p> <p>Usuário ver sua posição no índice</p> <p>Usuário usa a banda de rodagem para ver outros usuários e suas pontuações</p> <p>Tem a possibilidade de clicar no "baú de ouro" para receber pontuação</p> <p>Há possibilidade de subir de liga, a inicial é bronze</p> |
+|**Restrição** |
+|Internet indisponível|
+|**Exceção**   |
+|<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
