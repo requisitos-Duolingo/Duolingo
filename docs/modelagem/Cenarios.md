@@ -23,7 +23,6 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |**Exceção**   |
 |<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
 
-
 ## Cenário002
 
 |**Cenário002**|
@@ -44,7 +43,6 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |Internet indisponível|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone ou Computador</p> <p>Internet indisponível</p>|
-
 
 ## Cenário003
 
@@ -67,7 +65,6 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |**Exceção**   |
 |<p>Sem acesso a Smartphone ou Computador</p> <p>Internet indisponível</p>|
 
-
 ## Cenário004
 
 |**Cenário004**|
@@ -88,7 +85,6 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |<p>Internet indisponível</p> <p>Não ser usuário do Duonligo</p>|
 |**Exceção**   |
 |<p>Sem acesso a Smartphone ou Computador</p> <p>Internet indisponível</p>|
-
 
 ## Cenário005
 
@@ -132,7 +128,6 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |**Exceção**   |
 |<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
 
-
 ## Cenário007
 
 |**Cenário007**|
@@ -154,7 +149,6 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |**Exceção**   |
 |<p>Sem acesso a Smartphone ou Computador</p> <p>Internet indisponível</p>|
 
-
 ## Cenário008
 
 |**Cenário008**|
@@ -175,7 +169,6 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |<p>Internet indisponível</p> <p>Não ser usuário do Duonligo</p>|
 |**Exceção**   |
 |<p>Sem acesso a Computador</p> <p>Internet indisponível</p>|
-
 
 ## Cenário009
 
@@ -240,7 +233,6 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |**Exceção**   |
 |<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
 
-
 ## Cenário012
 
 |**Cenário012**|
@@ -290,7 +282,7 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |**Titulo**    |
 |Verificar a frequencia das palavras de aprendizado|
 |**Objetivo**  |
-|O usuário pode checar com que frequencias as palvras do seu aprendizado apareceram|
+|O usuário pode checar com que frequencias as palvras do seu aprendizado|
 |**Contexto**  |
 |<p>Local: Tela inicial do site, ícone superior mais à direita escrito "mais"</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, ser usuário</p>|
 |**Atores**    |
@@ -311,7 +303,7 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |**Titulo**    |
 |Histórias|
 |**Objetivo**  |
-|O usuário pode aprender a lidar com situações específicas do dia a dia|
+|O usuário aprende com aúdios histórias do cotidiano|
 |**Contexto**  |
 |<p>Local: Tela inicial, segundo ícone superir na barra de opções</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, ser usuário</p>|
 |**Atores**    |
@@ -324,3 +316,45 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |Internet indisponível|
 |**Exceção**   |
 |<p>Sem acesso ao Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
+
+## Cenário016
+
+|**Cenário016**|
+|--------------|
+|**Titulo**    |
+|Ganhar Lingot|
+|**Objetivo**  |
+|Usuário ganha moedas para gastar na loja|
+|**Contexto**  |
+|<p>Local: Tela inicial</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
+|**Atores**    |
+|Usuário cadastrado|
+|**Recursos**  |
+|<p>Internet</p> <p>Smartphone ou Computador</p> <p>Duolingo previamente instalado</p>|
+|**Episódios** |
+|<p>Usuário ganha 1 lingot ao passar de nível</p> <p>Usuário ganha 2 lingot ao passar de unidade</p> <p>Usuário ganha 1 lingot a cada 10 dias de ofensiva</p>|
+|**Restrição** |
+|Internet indisponível|
+|**Exceção**   |
+|<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
+
+## Cenário017
+
+|**Cenário017**|
+|--------------|
+|**Titulo**    |
+|Ganhar Coroas|
+|**Objetivo**  |
+|Usuário ganha coroas ao concluir um nível|
+|**Contexto**  |
+|<p>Local: Tela inicial</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
+|**Atores**    |
+|Usuário cadastrado|
+|**Recursos**  |
+|<p>Internet</p> <p>Smartphone ou Computador</p> <p>Duolingo previamente instalado</p>|
+|**Episódios** |
+|<p>Usuário ao realizar todas as atividades de um nível da unidade</p>|
+|**Restrição** |
+|Internet indisponível|
+|**Exceção**   |
+|<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
