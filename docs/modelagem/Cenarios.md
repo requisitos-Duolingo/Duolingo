@@ -2,6 +2,30 @@
 
 Trata-se de um técnica para compreender  as interações entre ambiente e sistemas, assim como elicitar a parte comportamental do software, sua dinâmica e/ou fluxo
 
+## Metodologia
+
+Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
+
+|**Cenário000**|
+|--------------|
+|**Titulo**    |
+||
+|**Objetivo**  |
+||
+|**Contexto**  |
+|<p>Local:</p> <p>Tempo:</p> <p>Pré-condição:</p>|
+|**Atores**    |
+||
+|**Recursos**  |
+||
+|**Episódios** |
+||
+|**Restrição** |
+||
+|**Exceção**   |
+||
+
+
 ## Cenário001
 
 |**Cenário001**|
@@ -358,3 +382,8 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |Internet indisponível|
 |**Exceção**   |
 |<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
+
+
+## Referências
+
+SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
