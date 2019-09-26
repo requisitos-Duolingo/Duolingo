@@ -111,27 +111,26 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |**Exceção**   |
 |<p>Número limitado de amigos para usuários não Plus</p> <p>Sem acesso a Smartphone ou Computador</p> <p>Internet indisponível</p>|
 
-
 ## Cenário006
 
 |**Cenário006**|
 |--------------|
 |**Titulo**    |
-|Energia|
+|Teste de nivelamento|
 |**Objetivo**  |
-|Ganhar energia para realizar mais tarefas|
+|O usuário pode pular etapas fazendo testes intermediários no mapa de aprendizado|
 |**Contexto**  |
-|<p>Local: Aba de Energia</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
+|<p>Local: Tela inicial</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, ser usuário</p>|
 |**Atores**    |
-|Usuário do Duolingo Comum|
+|Usuário cadastrado|
 |**Recursos**  |
-|<p>Conta no Duolingo</p> <p>Acesso a Internet</p> <p>Acesso a um Smartphone</p>|
+|<p>Internet</p> <p>Smartphone ou Computador</p> <p>Duolingo previamente instalado</p>|
 |**Episódios** |
-|<p>Usuário ganhar energia ao Praticar</p> <p>Usuário gasta Lingots (moedas do Duolingo)</p> <p>Usuário ganha experiência</p>|
+|<p>Usuário já cadastrado e que faz uso</p> <p>Usuário clica na fase que acha que já tem conhecimento</p> <p>Usuário tenta realizar tarefa normalmente</p> |
 |**Restrição** |
-|<p>Internet indisponível</p> <p>Não ser usuário do Duonligo</p>|
+|Internet indisponível|
 |**Exceção**   |
-|<p>Sem acesso a Smartphone ou Computador</p> <p>Internet indisponível</p>|
+|<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
 
 
 ## Cenário007
@@ -225,9 +224,9 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |**Cenário011**|
 |--------------|
 |**Titulo**    |
-|Ver e comparar liga|
+|Ver e comparar divisão|
 |**Objetivo**  |
-|Analisar a pontuação do usuário em compararção com outros usuários da mesma liga|
+|Analisar a pontuação do usuário em compararção com outros usuários da mesma divisão|
 |**Contexto**  |
 |<p>Local: Tela inicial, terceiro ícone inferior</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, ser usuário</p>|
 |**Atores**    |
@@ -235,8 +234,93 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 |**Recursos**  |
 |<p>Internet</p> <p>Smartphone ou Computador</p> <p>Duolingo previamente instalado</p>|
 |**Episódios** |
-|<p>Usuário já cadastrado e que faz uso</p> <p>Usuário ver sua posição no índice</p> <p>Usuário usa a banda de rodagem para ver outros usuários e suas pontuações</p> <p>Tem a possibilidade de clicar no "baú de ouro" para receber pontuação</p> <p>Há possibilidade de subir de liga, a inicial é bronze</p> |
+|<p>Usuário já cadastrado e que faz uso</p> <p>Usuário ver sua posição no índice</p> <p>Usuário usa a banda de rodagem para ver outros usuários e suas pontuações</p> <p>Tem a possibilidade de clicar no "baú de ouro" para receber pontuação</p> <p>Há possibilidade de subir de divisão, a inicial é bronze</p> |
 |**Restrição** |
 |Internet indisponível|
 |**Exceção**   |
 |<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
+
+
+## Cenário012
+
+|**Cenário012**|
+|--------------|
+|**Titulo**    |
+|Adicionar idioma para aprender ou permutar entre escolhidos|
+|**Objetivo**  |
+|Adionar mais um idioma ou outros aos já escolhidos para aprendizado ou mudar de idioma que está aprendendo|
+|**Contexto**  |
+|<p>Local: Tela inicial, bandeira do país do idioma no canto superior esquerdo</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, ser usuário</p>|
+|**Atores**    |
+|Usuário cadastrado|
+|**Recursos**  |
+|<p>Internet</p> <p>Smartphone ou Computador</p> <p>Duolingo previamente instalado</p>|
+|**Episódios** |
+|<p>Usuário já cadastrado e que faz uso</p> <p>Usuário vê seus idiomas escolhidos para aprender</p> <p>Usuário pode clicar em outro idioma escolhido</p> <p>Tem a possibilidade de clicar no ícone "+" para adicionar novo curso para aprender</p> <p>Há possibilidade de voltar para a tela incial padrão e continuar aprendendo o curso que já está escolhido</p> |
+|**Restrição** |
+|Internet indisponível|
+|**Exceção**   |
+|<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
+
+## Cenário013
+
+|**Cenário013**|
+|--------------|
+|**Titulo**    |
+|Verificar conquistas|
+|**Objetivo**  |
+|O usuário pode checar quantas e quais são as ações necessárias para completar as conquistas|
+|**Contexto**  |
+|<p>Local: Tela inicial, segundo ícone inferior na barra de opções</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, ser usuário</p>|
+|**Atores**    |
+|Usuário cadastrado|
+|**Recursos**  |
+|<p>Internet</p> <p>Smartphone ou Computador</p> <p>Duolingo previamente instalado</p>|
+|**Episódios** |
+|<p>Usuário já cadastrado e que faz uso</p> <p>Usuário vê suas conquistas mais proxímas e elementos faltantes</p> <p>Usuário pode usar banda de rolagem para ver todas as conquistas</p> <p>Não tem a possibilidade de clicar nos ícones, somente leitura</p> |
+|**Restrição** |
+|Internet indisponível|
+|**Exceção**   |
+|<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
+
+## Cenário014
+
+|**Cenário014**|
+|--------------|
+|**Titulo**    |
+|Verificar a frequencia das palavras de aprendizado|
+|**Objetivo**  |
+|O usuário pode checar com que frequencias as palvras do seu aprendizado apareceram|
+|**Contexto**  |
+|<p>Local: Tela inicial do site, ícone superior mais à direita escrito "mais"</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, ser usuário</p>|
+|**Atores**    |
+|Usuário cadastrado|
+|**Recursos**  |
+|<p>Internet</p> <p>Computador</p>|
+|**Episódios** |
+|<p>Usuário já cadastrado e que faz uso</p> <p>Usuário vê suas palavras mais praticadas</p> <p>Usuário pode usar banda de rolagem para ver as palavras que mais foram praticas</p> <p>Tem a possibilidade de clicar nas palavras e, se quiser, traduzir</p> |
+|**Restrição** |
+|Internet indisponível|
+|**Exceção**   |
+|<p>Sem acesso ao Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
+
+## Cenário015
+
+|**Cenário015**|
+|--------------|
+|**Titulo**    |
+|Histórias|
+|**Objetivo**  |
+|O usuário pode aprender a lidar com situações específicas do dia a dia|
+|**Contexto**  |
+|<p>Local: Tela inicial, segundo ícone superir na barra de opções</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, ser usuário</p>|
+|**Atores**    |
+|Usuário cadastrado|
+|**Recursos**  |
+|<p>Internet</p> <p>Computador</p>|
+|**Episódios** |
+|<p>Usuário já cadastrado e que faz uso</p> <p>Usuário clica em aprender situações diárias</p> <p>Usuário pode usar banda de rolagem para acompanhar o desenrolar da narrativa</p> <p>Interação constante com boxes para marcar</p> <p>Usuário deve escolher qual a situação/história deve aprender</p>|
+|**Restrição** |
+|Internet indisponível|
+|**Exceção**   |
+|<p>Sem acesso ao Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
