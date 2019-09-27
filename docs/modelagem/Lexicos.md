@@ -166,3 +166,65 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 |**Impacto**|> Encoraja os usuários à prestar mais atenção ao que estão respondendo antes de pressionar "verificar".|
 ||> Encoraja os usuários que estão errando a fazer uma pausa e revisar lições anteriores antes de continuar.|
 |**Rastro**|---|
+
+|L15|Duolingo Plus|
+|---|---|
+|**Autor**|Brian Lui|
+|**Classificação**|Estado|
+|**Sinônimos**|Experiência nova, Versão paga, Premium.|
+|**Noção**|> É um adicional premium à experiência Duolingo.|
+|> É uma assinatura de conteúdo extra que é feita no próprio aplicativo.|
+|**Impacto**|> O usuário tem acesso a recursos que incluem uma experiência livre de anúncios.|
+||> O usuário pode baixar lições para uso offline.|
+|**Rastro**|---|
+
+|L16|Health|
+|---|---|
+|**Autor**|Brian Lui|
+|**Classificação**|Estado|
+|**Sinônimos**|Experiência, Vida, Saúde.|
+|**Noção**|> É uma maneira de acompanhar as lições do Duolingo para desencorajar o comportamento de binging.|
+|> O usuário perde Health respondendo incorretamente muitas vezes.|
+|**Impacto**|> Incentiva os usuários a prestarem mais atenção ao que estão respondendo antes de clicar em "enviar".|
+||> Incentiva os usuários que estão cometendo erros a respirar e revisar as lições anteriores antes de avançar.|
+|**Rastro**|---|
+
+|L17|Unidade|
+|---|---|
+|**Autor**|Brian Lui|
+|**Classificação**|Objeto|
+|**Sinônimos**|Parte, Elemento, Fração, Porção.|
+|**Noção**|> É um item na árvore que consiste de muitas lições.|
+|> O usuário deve completar todas as unidades de cada linha na árvore, antes de passar para a próxima linha.|
+|**Impacto**|> Incentiva os usuários jogar mais para passar a próxima unidade.|
+|**Rastro**|---|
+
+|L18|Lições|
+|---|---|
+|**Autor**|Brian Lui|
+|**Classificação**|Objeto|
+|**Sinônimos**|Tarefas, Ensinamento, Matéria, Conteúdo.|
+|**Noção**|> Uma lição no Duolingo consiste de muitos exercícios que ajudam a ensinar os aspectos principais de uma unidade.|
+|> As próprias lições contém váris exercícios.|
+|**Impacto**|> Incentiva os usuários jogar mais para passar a próxima lição.|
+|**Rastro**|---|
+
+|L19|Exercício|
+|---|---|
+|**Autor**|Brian Lui|
+|**Classificação**|Objeto|
+|**Sinônimos**|Ação, Prática, Execução, Operação.|
+|**Noção**|> É uma forma de práticar a fala individual, ouvir ou tarefas de tradução que compõem uma lição, prática ou teste.|
+|> Cada aula ou prática consiste em um máximo de 20 exercícios, enquanto que os testes podem ter mais.|
+|**Impacto**|> Incentiva os usuários jogar mais para passar conseguir realizar o próximo exercício.|
+|**Rastro**|---|
+
+|L20|Árvore de Idioma|
+|---|---|
+|**Autor**|Brian Lui|
+|**Classificação**|Objeto|
+|**Sinônimos**|Conjunto de Níveis, Conjunto de Unidades, Conjunto de Lições.|
+|**Noção**|> As unidades são apresentadas de uma maneira que as faz parecer um pouco com uma árvore.|
+|> Conhecido como a Árvore de Unidades ou a Árvore de Idioma.|
+|**Impacto**|> Incentiva os usuários jogar mais para terminar a Árvore de Idioma o mais rápido possível.|
+|**Rastro**|---|
