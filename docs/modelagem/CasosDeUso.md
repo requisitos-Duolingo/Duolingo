@@ -13,7 +13,7 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 | UC01                     | Fazer Login |
 | --------------           |:----------- |
-| **Versão**               | Atual 1.0 (25/09) <br> Anterior: -- |
+| **Versão**               | Atual: 1.0 (25/09) <br> Anterior: -- |
 | **Autor(es)**            | Luis Gustavo e Vitor Alves |
 | **Descrição**            | Fazer Login no Duolingo |
 | **Ator(es)**             | > Usuário <br> > Duolingo |
@@ -31,7 +31,7 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 | UC02                     | Cadastrar usuário |
 | --------------           |:----------- |
-| **Versão**               | Atual 1.0 (26/09) <br> Anterior: -- |
+| **Versão**               | Atual: 1.0 (26/09) <br> Anterior: -- |
 | **Autor(es)**            | Luis Gustavo e Vitor Alves |
 | **Descrição**            | Criar cadastro para um usuário |
 | **Ator(es)**             | > Usuário <br> > Duolingo |
@@ -49,7 +49,7 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 | UC03                     | Adicionar Amigos |
 | --------------           |:----------- |
-| **Versão**               | Atual 1.0 (28/09) <br> Anterior: -- |
+| **Versão**               | Atual: 1.0 (28/09) <br> Anterior: -- |
 | **Autor(es)**            | Francisco Heronildo e Vitor Meireles |
 | **Descrição**            | Adicionar amigos ao seu perfil no Duolingo |
 | **Ator(es)**             | > Usuário <br> > Duolingo |
@@ -67,16 +67,16 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 | UC04                     | Cursos |
 | --------------           |:----------- |
-| **Versão**               | Atual 1.0 (29/09) <br> Anterior: -- |
+| **Versão**               | Atual: 1.0 (29/09) <br> Anterior: -- |
 | **Autor(es)**            | Francisco Heronildo e Vitor Meireles |
-| **Descrição**            |  |
+| **Descrição**            | Usuário escolher o idioma que quer aprender |
 | **Ator(es)**             | > Usuário <br> > Duolingo |
-| **Pré condições**        | > Usuário estar [cadastrado](#uc02-cadastrar-usuario) no aplicativo |
-| **Fluxo principal**      | >  <br>|
-| **Fluxos alternativos**  |  |
-| **Fluxos de exceção**    |  |
-| **Pós condições**        |  |
-| **Rastreabilidade**      |  |
+| **Pré condições**        | > Usuário estar deslogado no aplicativo |
+| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica no botão "Começar Agora" <br> > Usuário insere do curso(idioma que deseja apreder, motivo de estar aprendendo um idioma, meta(minutos de estudo por dia) e caminho(aprender do início ou fazer um teste de nivelamento)) <br> > Usuário segue os passos para realizar uma [aula](#uc05-aulas) <br> |
+| **Fluxos alternativos**  | **Fluxo Alternativo 1 - Escolher mais cursos:** > Usuário acessa o Duolingo <br> > Usuário clica no ícone da bandeira de seu curso <br> > Usuário clica em "Curso" ou "Adicionar um novo curso" <br> > Usuário adiciona outro curso <br> > Usuário começa o novo curso <br> |
+| **Fluxos de exceção**    | --- |
+| **Pós condições**        | Usuário é direcionado para a aba de aulas |
+| **Rastreabilidade**      | Q01 |
 
 
 ### **UC05 - Aulas**
@@ -85,12 +85,12 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 | UC05                     | Aulas |
 | --------------           |:----------- |
-| **Versão**               | Atual 1.0 (29/09) <br> Anterior: -- |
+| **Versão**               | Atual: 1.0 (29/09) <br> Anterior: -- |
 | **Autor(es)**            | Francisco Heronildo e Vitor Meireles |
 | **Descrição**            |  |
 | **Ator(es)**             | > Usuário <br> > Duolingo |
 | **Pré condições**        | > Usuário estar [cadastrado](#uc02-cadastrar-usuario) no aplicativo |
-| **Fluxo principal**      | >  <br>|
+| **Fluxo principal**      | >  <br> |
 | **Fluxos alternativos**  |  |
 | **Fluxos de exceção**    |  |
 | **Pós condições**        |  |
