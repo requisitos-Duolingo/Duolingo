@@ -89,11 +89,11 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Descrição**            | Usuário deve escolher qual aula quer fazer |
 | **Ator(es)**             | > Usuário <br> > Duolingo |
 | **Pré condições**        | > Usuário estar [cadastrado](#uc02-cadastrar-usuario) no aplicativo |
-| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica na aula que quer escolher <br> > Usuário clica em iniciar > <br> Uma aula terá início <br> |
+| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica na aula disponível do [curso](#uc04-escolher-cursos) escolhido <br> > Usuário clica em "Começar" <br> > E as lições são apresentadas progressivamente <br> |
 | **Fluxos alternativos**  | --- |
 | **Fluxos de exceção**    | --- |
-| **Pós condições**        |  Usuário pode abandonar a aula e retomar depois|
-| **Rastreabilidade**      | Q01 |
+| **Pós condições**        | Usuário pode abandonar a aula e retomar depois |
+| **Rastreabilidade**      | ENT03 |
 
 ## Referências
 
