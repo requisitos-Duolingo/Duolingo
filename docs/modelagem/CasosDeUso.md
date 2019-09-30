@@ -6,10 +6,9 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 ## Casos de Uso & Especificação
 
-
 ### **UC01 - Fazer Login**
 
-![Caso-de-Uso-Login](../images/UseCase-Login.png)
+![Caso-de-Uso-Login](../images/UseCase/uc-login.png)
 
 | UC01                     | Fazer Login |
 | --------------           |:----------- |
@@ -27,7 +26,7 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 ### **UC02 - Cadastrar Usuário**
 
-![Caso-de-Uso-Cadastro](../images/Caso-de-Uso-Cadastro.png)
+![Caso-de-Uso-Cadastro](../images/UseCase/uc-cadastro.png)
 
 | UC02                     | Cadastrar usuário |
 | --------------           |:----------- |
@@ -45,7 +44,7 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 ### **UC03 - Adicionar Amigos**
 
-![Caso-de-Uso-Perfil](https://i.imgur.com/N3P6YjZ.png)
+![Caso-de-Uso-Perfil](../images/UseCase/uc-adicinar-amigos.png)
 
 | UC03                     | Adicionar Amigos |
 | --------------           |:----------- |
@@ -63,7 +62,7 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 ### **UC04 - Escolher Cursos**
 
-![Caso-de-Uso-Cursos]()
+![Caso-de-Uso-Cursos](../images/UseCase/uc-cursos.png)
 
 | UC04                     | Cursos |
 | --------------           |:----------- |
