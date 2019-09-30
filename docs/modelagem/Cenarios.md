@@ -383,6 +383,28 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |**Exceção**   |
 |<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
 
+## Cenário018
+
+|**Cenário018**|
+|--------------|
+|**Titulo**    |
+|Energia|
+|**Objetivo**  |
+|Ganhar energia para realizar mais tarefas|
+|**Contexto**  |
+|<p>Local: Aba de Energia</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
+|**Atores**    |
+|Usuário do Duolingo Comum|
+|**Recursos**  |
+|<p>Conta no Duolingo</p> <p>Acesso a Internet</p> <p>Acesso a um Smartphone</p>|
+|**Episódios** |
+|<p>Usuário ganhar energia ao Praticar</p> <p>Usuário gasta Lingots (moedas do Duolingo)</p>|
+|**Restrição** |
+|<p>Internet indisponível</p> <p>Não ser usuário do Duonligo</p>|
+|**Exceção**   |
+|<p>Sem acesso a Smartphone ou Computador</p> <p>Internet indisponível</p>|
+
+
 ## Referências
 
 SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
