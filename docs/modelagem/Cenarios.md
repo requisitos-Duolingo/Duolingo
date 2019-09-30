@@ -383,7 +383,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |**Exceção**   |
 |<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
 
-
 ## Referências
 
 SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
