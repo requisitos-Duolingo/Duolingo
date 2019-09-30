@@ -4,30 +4,29 @@ Trata-se de um técnica para compreender  as interações entre ambiente e siste
 
 ## Metodologia
 
-Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
+Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_ mostrado abaixo.
 
-|**Cenário000**|
+|**CenárioXXX**|
 |--------------|
 |**Titulo**    |
-||
+|_Nome do Cenário._|
 |**Objetivo**  |
-||
+|_Objetivo do Cenário._|
 |**Contexto**  |
-|<p>Local:</p> <p>Tempo:</p> <p>Pré-condição:</p>|
+|<p>Local: _Local onde acontece o Cenário._</p> <p>Tempo: _Tempo do Cenário._</p> <p>Pré-condição: _Condição para que o Cenário aconteça._</p>|
 |**Atores**    |
-||
+|_Autor(es) do Léxico._|
 |**Recursos**  |
-||
+|_Recursos do Cenário._|
 |**Episódios** |
-||
+|_Episódios do Cenário da aplicação._|
 |**Restrição** |
-||
+|_Restrição do Cenário._|
 |**Exceção**   |
-||
+|_Exceção do Cenário._|
 
 
 ## Cenário001
-
 |**Cenário001**|
 |--------------|
 |**Titulo**    |
@@ -48,7 +47,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
 
 ## Cenário002
-
 |**Cenário002**|
 |--------------|
 |**Titulo**    |
@@ -69,7 +67,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |<p>Sem acesso a Smartphone ou Computador</p> <p>Internet indisponível</p>|
 
 ## Cenário003
-
 |**Cenário003**|
 |--------------|
 |**Titulo**    |
@@ -90,7 +87,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |<p>Sem acesso a Smartphone ou Computador</p> <p>Internet indisponível</p>|
 
 ## Cenário004
-
 |**Cenário004**|
 |--------------|
 |**Titulo**    |
@@ -111,7 +107,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |<p>Sem acesso a Smartphone ou Computador</p> <p>Internet indisponível</p>|
 
 ## Cenário005
-
 |**Cenário005**|
 |--------------|
 |**Titulo**    |
@@ -132,7 +127,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |<p>Número limitado de amigos para usuários não Plus</p> <p>Sem acesso a Smartphone ou Computador</p> <p>Internet indisponível</p>|
 
 ## Cenário006
-
 |**Cenário006**|
 |--------------|
 |**Titulo**    |
@@ -153,7 +147,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
 
 ## Cenário007
-
 |**Cenário007**|
 |--------------|
 |**Titulo**    |
@@ -174,7 +167,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |<p>Sem acesso a Smartphone ou Computador</p> <p>Internet indisponível</p>|
 
 ## Cenário008
-
 |**Cenário008**|
 |--------------|
 |**Titulo**    |
@@ -195,7 +187,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |<p>Sem acesso a Computador</p> <p>Internet indisponível</p>|
 
 ## Cenário009
-
 |**Cenário009**|
 |--------------|
 |**Titulo**    |
@@ -216,7 +207,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |<p>Sem acesso a Computador</p> <p>Internet indisponível</p>|
 
 ## Cenário010
-
 |**Cenário010**|
 |--------------|
 |**Titulo**    |
@@ -237,7 +227,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |<p>Sem acesso a um Smartphone ou Computador</p> <p>Internet indisponível</p>|
 
 ## Cenário011
-
 |**Cenário011**|
 |--------------|
 |**Titulo**    |
@@ -258,7 +247,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
 
 ## Cenário012
-
 |**Cenário012**|
 |--------------|
 |**Titulo**    |
@@ -279,7 +267,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
 
 ## Cenário013
-
 |**Cenário013**|
 |--------------|
 |**Titulo**    |
@@ -300,7 +287,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
 
 ## Cenário014
-
 |**Cenário014**|
 |--------------|
 |**Titulo**    |
@@ -321,7 +307,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |<p>Sem acesso ao Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
 
 ## Cenário015
-
 |**Cenário015**|
 |--------------|
 |**Titulo**    |
@@ -342,7 +327,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |<p>Sem acesso ao Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
 
 ## Cenário016
-
 |**Cenário016**|
 |--------------|
 |**Titulo**    |
@@ -363,7 +347,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
 
 ## Cenário017
-
 |**Cenário017**|
 |--------------|
 |**Titulo**    |
@@ -384,7 +367,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de abstração:
 |<p>Sem acesso ao Smartphone ou Computador</p> <p>Email inválido</p> <p>Internet indisponível</p>|
 
 ## Cenário018
-
 |**Cenário018**|
 |--------------|
 |**Titulo**    |

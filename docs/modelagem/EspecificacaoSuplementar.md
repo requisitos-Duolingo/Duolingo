@@ -7,7 +7,7 @@ A finalidade deste documento é explicitar os requisitos não funcionais da apli
 
 ### Escopo
 
-O escopo desta especificação suplementar se resume à aplicação duolingo  que é uma plataforma de ensino de idiomas gamificado com sistema de pontuação e ranking para deixar usuário motivado a continuar estudando. 
+O escopo desta especificação suplementar se resume à aplicação duolingo  que é uma plataforma de ensino de idiomas gamificado com sistema de pontuação e ranking para deixar usuário motivado a continuar estudando.
 
 
 ### Definições
@@ -16,14 +16,13 @@ Consulta aos Léxicos.
 
 ## Funcionalidades
 
-As funcionalidades foram elicitadas  e podem ser encontradas em Elicitação de requisitos  e nos Casos de usos levantados. 
+As funcionalidades foram elicitadas  e podem ser encontradas em Elicitação de requisitos  e nos Casos de usos levantados.
 
 ## Usabilidade
 
-
 Este tópico lida com os requisitos relacionados a facilidade do usuário de interagir com a aplicação.
 
-### Interface intuitiva e de fácil compreensão 
+### Interface intuitiva e de fácil compreensão
 
 A Interface Gráfica tem um Design simples,intuitivo e de  fácil manuseio. Além de ser minimalista a fim de reduzir a curva de aprendizado do usuário.
 Na tela inicial do aplicativo temos unidade e os  módulos com ícones interativos e de fácil inicialização com o seu nível naquele módulo e lição no mesmo.
@@ -31,7 +30,7 @@ Além de ter cores vivas com a predominância de branco e verde.
 
 Rastro: [Brainstorm](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/) e [Entrevista](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/).
 
-### Divisão do sistema em níveis 
+### Divisão do sistema em níveis
 
 O sistema é dividido em níveis e com uma progressão ideal para cada módulo abrangendo pessoa com nenhum conhecimento prévio de inglês ou com algum conhecimento intermediário ou avançado. 
 
@@ -61,7 +60,6 @@ Rastro: Não possui
 
 ### Segurança no armazenamento de dados
 
-
 O Duolingo segue uma política de armazenamento de dados baseado em sua  Política de Privacidade em que o duolingo não compartilha dados pessoais, apenas informações básicas como nível e nickname a título de interação com outros usuários. A Política de Provacidade pode ser acessada [aqui](https://www.duolingo.com/privacy) 
 
 Em relação a dados de pagamentos para usuário do duolingo plus a aplicação segue os padrões estabelecidos pela indústria como sistema de pagamento da Google Play e da App Store como intermediário. 
@@ -79,12 +77,11 @@ Rastro: Não Possui
 
 ## Desempenho
 
-
 ### Rapidez de resposta
 
 Ao acessar o Duolingo e executar uma ação como: fazer uma lição ou fazer um teste para pular de nível o usuário tem um tempo de resposta mínimo da aplicação. Em questões de segundo o usuário consegue terminar uma ação e começar logo outra em seguida. Logo o usuário se mantém mais engajado no sistema e assim ele consegue concluir mais lições em um curto espaço de tempo.
 
-### Armazenamento 
+### Armazenamento
 
 O aplicativo precisa de 122,9 MB(megabyte) na apple store e na Google stora varia de acordo com o aplicativo.
 
@@ -142,7 +139,6 @@ Rastro: [Termo de Uso Duolingo](https://www.duolingo.com/terms)
 O Duolingo aprensenta um termo de privacidade para que o usuário concorde com a utilização alguns de suas dados pessoas(como nickname) em Ranking na liga em que ele estiver ou com seus amigos.
 
 Rastro: [Termo de Privacidade Duoligo](https://www.duolingo.com/privacy)
-
 
 |  | Especificação Suplementar |
 |----|------------|

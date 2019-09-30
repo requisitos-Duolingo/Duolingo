@@ -4,7 +4,7 @@ Trata-se de uma técnica que procura descrever símbolos de uma determinada ling
 
 ## Metodologia
 
-Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
+Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado abaixo.
 
 |**LXX**|_Nome do Léxico._|
 |---|---|
@@ -15,10 +15,10 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 |**Impacto**|> _impacto do léxico na aplicação._|
 |**Rastro**|_Rastro do léxico.  _|
 
-
+## Léxico01
 |L01|Usuário|
 |---|---|
-|**Autor**|[FranciscoHeronildo](https://github.com/FranciscoHeronildo)|
+|**Autor**|Francisco Heronildo|
 |**Classificação**|--|
 |**Sinônimos**|Utilizador, utente, cliente, usador, usufruidor, desfrutador, usufrutuário, usufrutueiro.|
 |**Noção**|> Indivíduo que utiliza o aplicatívo|
@@ -27,6 +27,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 ||> O usuário tem funcionalidades que o ajudam no aprendizado de novos idiomas|
 |**Rastro**|---|
 
+## Léxico02
 |L02|Nível|
 |---|---|
 |**Autor**|Lude Ribeiro|
@@ -37,6 +38,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 ||> O usuário deve concluir os níveis para concluir o curso|
 |**Rastro**|---|
 
+## Léxico03
 |L03|Curso|
 |---|---|
 |**Autor**|Lude Ribeiro|
@@ -47,6 +49,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 ||> O usuário deve concluir os níveis para concluir o curso|
 |**Rastro**|---|
 
+## Léxico04
 |L04|Ligas|
 |---|---|
 |**Autor**|Lude Ribeiro|
@@ -58,6 +61,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 ||> Os 20 (vinte) primeiros usuários de sua liga são promovidos para a próxima liga|
 |**Rastro**|---|
 
+## Léxico05
 |L05|Amigos|
 |---|---|
 |**Autor**|Lude Ribeiro|
@@ -68,6 +72,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 ||> O usuário poderá acompanhar o progresso de outros usuários no aplicativo na seção de amigos|
 |**Rastro**|---|
 
+## Léxico06
 |L06|Seção|
 |---|---|
 |**Autor**|Lude Ribeiro|
@@ -78,6 +83,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 ||> O usuário só poderá acessar novas seções quando concluir as anteriores com êxito|
 |**Rastro**|---|
 
+## Léxico07
 |L07|Perfil|
 |---|---|
 |**Autor**|Lude Ribeiro|
@@ -90,6 +96,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 ||> O usuário definir uma meta diária.|
 |**Rastro**|---|
 
+## Léxico08
 |L08|Exercício|
 |---|---|
 |**Autor**|Lude Ribeiro|
@@ -99,6 +106,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 |**Impacto**|> O usuário poderá fazer exercícios livres do idioma que resultarão em XP.|
 |**Rastro**|---|
 
+## Léxico09
 |L09|Cristais|
 |---|---|
 |**Autor**|Brian Lui|
@@ -109,6 +117,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 ||> O usuário poderá ganhar Cristais alcançando sua meta diária e concluindo unidades.|
 |**Rastro**|---|
 
+## Léxico10
 |L10|XP|
 |---|---|
 |**Autor**|Brian Lui|
@@ -119,6 +128,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 ||> Faz o usuário ficar melhor no idioma.|
 |**Rastro**|---|
 
+## Léxico11
 |L11|Ofensiva|
 |---|---|
 |**Autor**|Brian Lui|
@@ -129,6 +139,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 ||> Incentiva o usuário a bater suas metas.|
 |**Rastro**|---|
 
+## Léxico12
 |L12|Nível de Coroa|
 |---|---|
 |**Autor**|Brian Lui|
@@ -144,6 +155,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 |> Alunos mais avançados podem obter muito mais profundidade ao subir de nível nas unidades.|
 |**Rastro**|---|
 
+## Léxico13
 |L13|Lingot|
 |---|---|
 |**Autor**|Brian Lui|
@@ -155,6 +167,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 ||> Incentiva o usuário a ajudar os outros.|
 |**Rastro**|---|
 
+## Léxico14
 |L14|Energia|
 |---|---|
 |**Autor**|Brian Lui|
@@ -165,6 +178,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 ||> Encoraja os usuários que estão errando a fazer uma pausa e revisar lições anteriores antes de continuar.|
 |**Rastro**|---|
 
+## Léxico15
 |L15|Duolingo Plus|
 |---|---|
 |**Autor**|Brian Lui|
@@ -176,6 +190,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 ||> O usuário pode baixar lições para uso offline.|
 |**Rastro**|---|
 
+## Léxico16
 |L16|Health|
 |---|---|
 |**Autor**|Brian Lui|
@@ -187,6 +202,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 ||> Incentiva os usuários que estão cometendo erros a respirar e revisar as lições anteriores antes de avançar.|
 |**Rastro**|---|
 
+## Léxico17
 |L17|Unidade|
 |---|---|
 |**Autor**|Brian Lui|
@@ -197,6 +213,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 |**Impacto**|> Incentiva os usuários jogar mais para passar a próxima unidade.|
 |**Rastro**|---|
 
+## Léxico18
 |L18|Lições|
 |---|---|
 |**Autor**|Brian Lui|
@@ -207,6 +224,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 |**Impacto**|> Incentiva os usuários jogar mais para passar a próxima lição.|
 |**Rastro**|---|
 
+## Léxico19
 |L19|Exercício|
 |---|---|
 |**Autor**|Brian Lui|
@@ -217,6 +235,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_
 |**Impacto**|> Incentiva os usuários jogar mais para passar conseguir realizar o próximo exercício.|
 |**Rastro**|---|
 
+## Léxico20
 |L20|Árvore de Idioma|
 |---|---|
 |**Autor**|Brian Lui|
