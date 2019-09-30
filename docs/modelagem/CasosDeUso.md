@@ -72,7 +72,7 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Descrição**            | Usuário escolher o idioma que quer aprender |
 | **Ator(es)**             | > Usuário <br> > Duolingo |
 | **Pré condições**        | > Usuário estar deslogado no aplicativo |
-| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica no botão "Começar Agora" <br> > Usuário insere do curso(idioma que deseja apreder, motivo de estar aprendendo um idioma, meta(minutos de estudo por dia) e caminho(aprender do início ou fazer um teste de nivelamento)) <br> > Usuário segue os passos para realizar uma [aula](#uc05-aulas) <br> |
+| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica no botão "Começar Agora" <br> > Usuário insere do curso(idioma que deseja aprender, motivo de estar aprendendo um idioma, meta(minutos de estudo por dia) e caminho(aprender do início ou fazer um teste de nivelamento)) <br> > Usuário segue os passos para realizar uma [aula](#uc05-aulas) <br> |
 | **Fluxos alternativos**  | **Fluxo Alternativo 1 - Escolher mais cursos:** > Usuário acessa o Duolingo <br> > Usuário clica no ícone da bandeira de seu curso <br> > Usuário clica em "Curso" ou "Adicionar um novo curso" <br> > Usuário adiciona outro curso <br> > Usuário começa o novo curso <br> |
 | **Fluxos de exceção**    | --- |
 | **Pós condições**        | Usuário é direcionado para a aba de aulas |
@@ -87,14 +87,14 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | --------------           |:----------- |
 | **Versão**               | Atual: 1.0 (29/09) <br> Anterior: -- |
 | **Autor(es)**            | Francisco Heronildo e Vitor Meireles |
-| **Descrição**            |  |
+| **Descrição**            | Usuário deve escolher qual aula quer fazer |
 | **Ator(es)**             | > Usuário <br> > Duolingo |
 | **Pré condições**        | > Usuário estar [cadastrado](#uc02-cadastrar-usuario) no aplicativo |
-| **Fluxo principal**      | >  <br> |
-| **Fluxos alternativos**  |  |
-| **Fluxos de exceção**    |  |
-| **Pós condições**        |  |
-| **Rastreabilidade**      |  |
+| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica na aula que quer escolher <br> > Usuário clica em iniciar > <br> Uma aula terá início <br> |
+| **Fluxos alternativos**  | --- |
+| **Fluxos de exceção**    | --- |
+| **Pós condições**        |  Usuário pode abandonar a aula e retomar depois|
+| **Rastreabilidade**      | Q01 |
 
 ## Referências
 
