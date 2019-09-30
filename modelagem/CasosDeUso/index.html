@@ -517,6 +517,27 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#uc03-adicionar-amigos" class="md-nav__link">
+    UC03 - Adicionar Amigos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc04-escolher-cursos" class="md-nav__link">
+    UC04 - Escolher Cursos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc05-aulas" class="md-nav__link">
+    UC05 - Aulas
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -611,6 +632,27 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#uc03-adicionar-amigos" class="md-nav__link">
+    UC03 - Adicionar Amigos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc04-escolher-cursos" class="md-nav__link">
+    UC04 - Escolher Cursos
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc05-aulas" class="md-nav__link">
+    UC05 - Aulas
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -650,7 +692,7 @@
 <p>Para criação dos casos de uso foram identificados e analisados os documentos de elicitação de requisitos gerados na sprint anterior. A partir disso, foram feitos os casos de uso utilizando a ferramenta Astah.</p>
 <h2 id="casos-de-uso-especificacao">Casos de Uso &amp; Especificação</h2>
 <h3 id="uc01-fazer-login"><strong>UC01 - Fazer Login</strong></h3>
-<p><img alt="Caso-de-Uso-Login" src="../../images/UseCase-Login.png" /></p>
+<p><img alt="Caso-de-Uso-Login" src="../../images/UseCase/uc-login.png" /></p>
 <table>
 <thead>
 <tr>
@@ -661,7 +703,7 @@
 <tbody>
 <tr>
 <td><strong>Versão</strong></td>
-<td align="left">Atual 1.0 (25/09) <br> Anterior: --</td>
+<td align="left">Atual: 1.0 (25/09) <br> Anterior: --</td>
 </tr>
 <tr>
 <td><strong>Autor(es)</strong></td>
@@ -702,7 +744,7 @@
 </tbody>
 </table>
 <h3 id="uc02-cadastrar-usuario"><strong>UC02 - Cadastrar Usuário</strong></h3>
-<p><img alt="Caso-de-Uso-Cadastro" src="../../images/Caso-de-Uso-Cadastro.png" /></p>
+<p><img alt="Caso-de-Uso-Cadastro" src="../../images/UseCase/uc-cadastro.png" /></p>
 <table>
 <thead>
 <tr>
@@ -713,7 +755,7 @@
 <tbody>
 <tr>
 <td><strong>Versão</strong></td>
-<td align="left">Atual 1.0 (26/09) <br> Anterior: --</td>
+<td align="left">Atual: 1.0 (26/09) <br> Anterior: --</td>
 </tr>
 <tr>
 <td><strong>Autor(es)</strong></td>
@@ -733,11 +775,11 @@
 </tr>
 <tr>
 <td><strong>Fluxo principal</strong></td>
-<td align="left">&gt; Usuário acessa o Duolingo <br> &gt; Usuário clica no botão "Início" <br> &gt; Usuário insere do curso(idioma que deseja apreder, motivo de estar aprendendo um idioma, meta(minutos de estudo por dia) e caminho(aprender do início ou fazer um teste de nivelamento)) <br> &gt; Usuário segue os passos para realizar uma <a href="">aula</a> <br> &gt; Usuário insere as informações de perfil(idade, nome, email e senha) <br> &gt; Os dados de cadastro são autenticados</td>
+<td align="left">&gt; Usuário acessa o Duolingo <br> &gt; Usuário clica no botão "Início" <br> &gt; Usuário insere do curso(idioma que deseja apreder, motivo de estar aprendendo um idioma, meta(minutos de estudo por dia) e caminho(aprender do início ou fazer um teste de nivelamento)) <br> &gt; Usuário segue os passos para realizar uma <a href="#uc05-aulas">aula</a> <br> &gt; Usuário insere as informações de perfil(idade, nome, email e senha) <br> &gt; Os dados de cadastro são autenticados</td>
 </tr>
 <tr>
 <td><strong>Fluxos alternativos</strong></td>
-<td align="left"><strong>Fluxo Alternativo 1 - Usuário realiza mais aulas:</strong> <br> &gt; Usuário acessa o Duolingo <br> &gt; Usuário clica no botão "Início" <br> &gt; &gt; Usuário insere do curso(idioma que deseja apreder, motivo de estar aprendendo um idioma, meta(minutos de estudo por dia) e caminho(aprender do início ou fazer um teste de nivelamento)) <br> &gt; Usuário segue os passos para realizar uma <a href="">aula</a> <br> &gt; Usuário clica no botão "Depois" <br> &gt; &gt; Usuário segue os passos para realizar uma <a href="">aula</a> <br> &gt; Usuário clica no botão "Criar Perfil" <br> &gt; Usuário segue os passos para realizar uma <a href="">aula</a> <br> &gt; Usuário insere as informações de perfil(idade, nome, email e senha) <br> &gt; Os dados de cadastro são autenticados</td>
+<td align="left"><strong>Fluxo Alternativo 1 - Usuário realiza mais aulas:</strong> <br> &gt; Usuário acessa o Duolingo <br> &gt; Usuário clica no botão "Início" <br> &gt; &gt; Usuário insere do curso(idioma que deseja apreder, motivo de estar aprendendo um idioma, meta(minutos de estudo por dia) e caminho(aprender do início ou fazer um teste de nivelamento)) <br> &gt; Usuário segue os passos para realizar uma <a href="#uc05-aulas">aula</a> <br> &gt; Usuário clica no botão "Depois" <br> &gt; &gt; Usuário segue os passos para realizar uma <a href="#uc05-aulas">aula</a> <br> &gt; Usuário clica no botão "Criar Perfil" <br> &gt; Usuário segue os passos para realizar uma <a href="#uc05-aulas">aula</a> <br> &gt; Usuário insere as informações de perfil(idade, nome, email e senha) <br> &gt; Os dados de cadastro são autenticados</td>
 </tr>
 <tr>
 <td><strong>Fluxos de exceção</strong></td>
@@ -750,6 +792,162 @@
 <tr>
 <td><strong>Rastreabilidade</strong></td>
 <td align="left">INT02</td>
+</tr>
+</tbody>
+</table>
+<h3 id="uc03-adicionar-amigos"><strong>UC03 - Adicionar Amigos</strong></h3>
+<p><img alt="Caso-de-Uso-Perfil" src="../../images/UseCase/uc-adicinar-amigos.png" /></p>
+<table>
+<thead>
+<tr>
+<th>UC03</th>
+<th align="left">Adicionar Amigos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Versão</strong></td>
+<td align="left">Atual: 1.0 (28/09) <br> Anterior: --</td>
+</tr>
+<tr>
+<td><strong>Autor(es)</strong></td>
+<td align="left">Francisco Heronildo e Vitor Meireles</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td align="left">Adicionar amigos ao seu perfil no Duolingo</td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td align="left">&gt; Usuário <br> &gt; Duolingo</td>
+</tr>
+<tr>
+<td><strong>Pré condições</strong></td>
+<td align="left">&gt; Usuário estar <a href="#uc02-cadastrar-usuario">cadastrado</a> no aplicativo</td>
+</tr>
+<tr>
+<td><strong>Fluxo principal</strong></td>
+<td align="left">&gt; Usuário acessa o Duolingo <br> &gt; Usuário clica no ícone do seu "Perfil" <br> &gt; Usuário clica em "Amigos" <br> &gt; Usuário clica em "Adicionar" <br> &gt; Usuário clica em "Localizar um amigo" <br> &gt; Usuário insere nome ou email do amigo no qual quer adicionar<br></td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td align="left"><strong>Fluxo Alternativo 1 - Adicionar Amigos:</strong> &gt; Usuário acessa o Duolingo <br> &gt; Usuário clica no ícone do seu "Perfil" <br> &gt; Usuário clica em "Amigos" <br> &gt; Usuário clica em "Adicionar" <br> &gt; Usuário clica em "Convidar um amigo" <br> &gt; Usuário insere o email do amigo <br>  <br><strong>Fluxo Alternativo 2 - Adicionar Amigos pelo site:</strong> &gt; Usuário acessa o Duolingo <br> &gt; Usuário clica em "Enviar Convite" <br> &gt; Usuário insere o email do amigo <br> <br><strong>Fluxo Alternativo 3 - Adicionar Amigos pelo Facebook:</strong> &gt; Usuário acessa o Duolingo <br> &gt; Usuário clica em "Encontre Amigos no Facebook" <br> &gt; Autorize o Facebook <br></td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td align="left"><strong>Fluxo de Exceção 1 - Nome ou email inválido:</strong> <br> &gt; Aplicativo apresentar uma mensagem de erro avisando que não foi possível encontrar o usuário desejado<br></td>
+</tr>
+<tr>
+<td><strong>Pós condições</strong></td>
+<td align="left">Usuário fica logado no Duolingo e consegue acompanhar os XP's que o amigo adquire</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td align="left">AD04</td>
+</tr>
+</tbody>
+</table>
+<h3 id="uc04-escolher-cursos"><strong>UC04 - Escolher Cursos</strong></h3>
+<p><img alt="Caso-de-Uso-Cursos" src="../../images/UseCase/uc-cursos.png" /></p>
+<table>
+<thead>
+<tr>
+<th>UC04</th>
+<th align="left">Cursos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Versão</strong></td>
+<td align="left">Atual: 1.0 (29/09) <br> Anterior: --</td>
+</tr>
+<tr>
+<td><strong>Autor(es)</strong></td>
+<td align="left">Francisco Heronildo e Vitor Meireles</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td align="left">Usuário escolher o idioma que quer aprender</td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td align="left">&gt; Usuário <br> &gt; Duolingo</td>
+</tr>
+<tr>
+<td><strong>Pré condições</strong></td>
+<td align="left">&gt; Usuário estar deslogado no aplicativo</td>
+</tr>
+<tr>
+<td><strong>Fluxo principal</strong></td>
+<td align="left">&gt; Usuário acessa o Duolingo <br> &gt; Usuário clica no botão "Começar Agora" <br> &gt; Usuário insere do curso(idioma que deseja aprender, motivo de estar aprendendo um idioma, meta(minutos de estudo por dia) e caminho(aprender do início ou fazer um teste de nivelamento)) <br> &gt; Usuário segue os passos para realizar uma <a href="#uc05-aulas">aula</a> <br></td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td align="left"><strong>Fluxo Alternativo 1 - Escolher mais cursos:</strong> &gt; Usuário acessa o Duolingo <br> &gt; Usuário clica no ícone da bandeira de seu curso <br> &gt; Usuário clica em "Curso" ou "Adicionar um novo curso" <br> &gt; Usuário adiciona outro curso <br> &gt; Usuário começa o novo curso <br></td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td align="left">---</td>
+</tr>
+<tr>
+<td><strong>Pós condições</strong></td>
+<td align="left">Usuário é direcionado para a aba de aulas</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td align="left">Q01</td>
+</tr>
+</tbody>
+</table>
+<h3 id="uc05-aulas"><strong>UC05 - Aulas</strong></h3>
+<p><img alt="Caso-de-Uso-Aulas" src="../../images/UseCase/uc-aulas.png" /></p>
+<table>
+<thead>
+<tr>
+<th>UC05</th>
+<th align="left">Aulas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Versão</strong></td>
+<td align="left">Atual: 1.0 (29/09) <br> Anterior: --</td>
+</tr>
+<tr>
+<td><strong>Autor(es)</strong></td>
+<td align="left">Francisco Heronildo e Vitor Meireles</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td align="left">Usuário deve escolher qual aula quer fazer</td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td align="left">&gt; Usuário <br> &gt; Duolingo</td>
+</tr>
+<tr>
+<td><strong>Pré condições</strong></td>
+<td align="left">&gt; Usuário estar <a href="#uc02-cadastrar-usuario">cadastrado</a> no aplicativo</td>
+</tr>
+<tr>
+<td><strong>Fluxo principal</strong></td>
+<td align="left">&gt; Usuário acessa o Duolingo <br> &gt; Usuário clica na aula disponível do <a href="#uc04-escolher-cursos">curso</a> escolhido <br> &gt; Usuário clica em "Começar" <br> &gt; E as lições são apresentadas progressivamente <br></td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td align="left">---</td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td align="left">---</td>
+</tr>
+<tr>
+<td><strong>Pós condições</strong></td>
+<td align="left">Usuário pode abandonar a aula e retomar depois</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td align="left">ENT03</td>
 </tr>
 </tbody>
 </table>
