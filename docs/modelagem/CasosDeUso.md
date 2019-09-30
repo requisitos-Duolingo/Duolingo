@@ -80,7 +80,7 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 ### **UC05 - Aulas**
 
-![Caso-de-Uso-Aulas]()
+![Caso-de-Uso-Aulas](../images/UseCase/uc-aulas.png)
 
 | UC05                     | Aulas |
 | --------------           |:----------- |
