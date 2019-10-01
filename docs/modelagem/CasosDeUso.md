@@ -96,6 +96,24 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Rastreabilidade**      | ENT03 |
 
 
+### **UC06 - Loja**
+
+
+
+| UC05                     | Loja |
+| --------------           |:----------- |
+| **Versão**               | Atual: 1.0 (30/09) <br> Anterior: -- |
+| **Autor(es)**            | Brian Lui e Lude Ribeiro |
+| **Descrição**            | Usuário vai comprar Gemas na Loja |
+| **Ator(es)**             | > Usuário <br> > Duolingo |
+| **Pré condições**        | > Usuário estar [cadastrado](#uc02-cadastrar-usuario) no aplicativo |
+| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica no botão "Shop" <br> > Usuário clica em "Streak Freeze" <br> |
+| **Fluxos alternativos**  | > Usuário acessa o Duolingo <br> > Usuário clica no botão "Shop" <br> > Usuário clica em "Double or Nothing" <br> |
+| **Fluxos de exceção**    | --- |
+| **Pós condições**        | Usuário tem que cumprir com o objetivo para Ganhar as Gemas |
+| **Rastreabilidade**      | ENT03 |
+
+
 ## Referências
 
 SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 11. 1º/2019. 40 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
