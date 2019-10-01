@@ -96,6 +96,23 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Rastreabilidade**      | ENT03 |
 
 
+### **UC07 - Ranking**
+
+
+
+| UC05                     | Ranking |
+| --------------           |:----------- |
+| **Versão**               | Atual: 1.0 (30/09) <br> Anterior: -- |
+| **Autor(es)**            | Brian Lui e Lude Ribeiro |
+| **Descrição**            | Usuário irá ver a sua posição no Ranking |
+| **Ator(es)**             | > Usuário <br> > Duolingo |
+| **Pré condições**        | > Usuário estar [cadastrado](#uc02-cadastrar-usuario) no aplicativo |
+| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica no botão "Leaderboards" <br> > E é apresentado uma tabela do Ranking <br> |
+| **Fluxos alternativos**  | --- |
+| **Fluxos de exceção**    | **Fluxo de Exceção 1 - Menos de 10 Lições Completas:** <br> > Aplicativo apresentar uma mensagem avisando para o Usuário completar no mínimo 10 Lições para começar a competir e assim fazer parte do Ranking<br> |
+| **Pós condições**        | Usuário irá ver o Ranking |
+| **Rastreabilidade**      | ENT03 |
+
 ## Referências
 
 SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 11. 1º/2019. 40 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
