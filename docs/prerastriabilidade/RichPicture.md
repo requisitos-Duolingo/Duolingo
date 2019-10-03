@@ -15,8 +15,9 @@ Cada integrante montou o seu Rich Picture do funcionamento geral do duolingo. Co
 >
 >**Descrição:** RichPicture do fluxo geral
 >
+>**Data:** 25 de Agosto de 2019
+>
 >**Versão:** 0.1
-
 
 ![RichPicture Brian](https://i.imgur.com/RnY863l.png)
 
@@ -24,21 +25,27 @@ Cada integrante montou o seu Rich Picture do funcionamento geral do duolingo. Co
 >
 >**Descrição:** Rich Picture do fluxo geral
 >
+>**Data:** 28 de Agosto de 2019
+>
 >**Versão:** 0.1
 
 ![Rich /Picture Francisco](https://i.imgur.com/6SYJQhU.png)
 
->**Autor:** Francisco
+>**Autor:** Francisco Heronildo
 >
 >**Descrição:** Rich Picture do fluxo geral
+>
+>**Data:** 27 de Agosto de 2019
 >
 >**Versão:** 0.1
 
 ![Rich Picture Lude](https://i.imgur.com/RZl4LFo.jpg)
 
->**Autor:** Lude
+>**Autor:** Lude Ribeiro
 >
 >**Descrição:** Rich Picture do fluxo geral
+>
+>**Data:** 28 de Agosto de 2019
 >
 >**Versão:** 0.1
 
@@ -47,14 +54,25 @@ Cada integrante montou o seu Rich Picture do funcionamento geral do duolingo. Co
 >
 >**Descrição:** Rich Picture do fluxo geral
 >
+>**Data:** 28 de Agosto de 2019
+>
 >**Versão:** 0.1
 
-# Rich Picture do Grupo
+# Rich Picture da Equipe
 
-![RichPicture Macro](https://i.imgur.com/6nUG5iS.jpg)
+![RichPicture Macro](https://i.imgur.com/ffvrMd1.jpg)
 
->**Autor:** Grupo
+>**Autor:** Francisco Heronildo
 >
 >**Descrição:** Rich Picture do fluxo geral
 >
->**Versão:** 0.1
+>**Data:** 02 de Outubro de 2019
+>
+>**Versão:** 0.2
+>
+>**Versão Anterior:** [0.1](https://drive.google.com/file/d/1MDbSR1DLS4_QviKKZOGhQAp4saR4udxE/view?usp=sharing)
+
+
+## Referências
+
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 1º/2019. 37 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
