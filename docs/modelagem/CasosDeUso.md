@@ -111,7 +111,7 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Fluxos alternativos**  | **Fluxo Alternativo 1 - Alterar Objetivos Diários:** > Usuário acessa o Duolingo <br> > Usuário clica no botão "Perfil" <br> > Usuário clica em "Configurações" <br> > E serão apresentadas as possíveis configurações <br> > Usuário irá alterar dados dos Objetivos Diários <br>**Fluxo Alternativo 2 - Alterar dados Gerais:** > Usuário acessa o Duolingo <br> > Usuário clica no botão "Perfil" <br> > Usuário clica em "Configurações" <br> > E serão apresentadas as possíveis configurações <br> > Usuário irá alterar dados gerais <br>**Fluxo Alternativo 3 - Alterar dados de Acessibilidade:** > Usuário acessa o Duolingo <br> > Usuário clica no botão "Perfil" <br> > Usuário clica em "Configurações" <br> > E serão apresentadas as possíveis configurações <br> > Usuário irá alterar dados de Acessibilidade <br>**Fluxo Alternativo 4 - Alterar dados de Notificações:** > Usuário acessa o Duolingo <br> > Usuário clica no botão "Perfil" <br> > Usuário clica em "Configurações" <br> > E serão apresentadas as possíveis configurações <br> > Usuário irá alterar dados de Notificações <br> |
 | **Fluxos de exceção**    | --- |
 | **Pós condições**        | Usuário clica em "Done" |
-| **Rastreabilidade**      | ENT03 |
+| **Rastreabilidade**      | Q06 |
 
 ## Referências
 
