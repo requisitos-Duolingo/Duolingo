@@ -98,9 +98,9 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 ### **UC07 - Ranking**
 
+![Imgur](https://i.imgur.com/aUKDVdj.png)
 
-
-| UC05                     | Ranking |
+| UC07                     | Ranking |
 | --------------           |:----------- |
 | **Versão**               | Atual: 1.0 (30/09) <br> Anterior: -- |
 | **Autor(es)**            | Brian Lui e Lude Ribeiro |
