@@ -98,7 +98,7 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 ### **UC07 - Ranking**
 
-![Imgur](https://i.imgur.com/aUKDVdj.png)
+![Imgur](https://i.imgur.com/OWpOZzg.png)
 
 | UC07                     | Ranking |
 | --------------           |:----------- |
