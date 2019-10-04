@@ -111,7 +111,7 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Fluxos alternativos**  | --- |
 | **Fluxos de exceção**    | **Fluxo de Exceção 1 - Menos de 10 Lições Completas:** <br> > Aplicativo apresentar uma mensagem avisando para o Usuário completar no mínimo 10 Lições para começar a competir e assim fazer parte do Ranking<br> |
 | **Pós condições**        | Usuário irá ver o Ranking |
-| **Rastreabilidade**      | ENT03 |
+| **Rastreabilidade**      | ST06 |
 
 ## Referências
 
