@@ -98,9 +98,9 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 ### **UC06 - Loja**
 
+![Imgur](https://i.imgur.com/Xj8Wvdk.png)
 
-
-| UC05                     | Loja |
+| UC06                     | Loja |
 | --------------           |:----------- |
 | **Versão**               | Atual: 1.0 (30/09) <br> Anterior: -- |
 | **Autor(es)**            | Brian Lui e Lude Ribeiro |
