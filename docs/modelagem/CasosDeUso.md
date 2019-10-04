@@ -98,9 +98,9 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 ### **UC08 - Configurações**
 
+![Imgur](https://i.imgur.com/HtoMjcY.png)
 
-
-| UC05                     | Configurações |
+| UC08                     | Configurações |
 | --------------           |:----------- |
 | **Versão**               | Atual: 1.0 (30/09) <br> Anterior: -- |
 | **Autor(es)**            | Brian Lui e Lude Ribeiro |
