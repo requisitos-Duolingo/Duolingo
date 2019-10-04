@@ -111,7 +111,7 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Fluxos alternativos**  | > Usuário acessa o Duolingo <br> > Usuário clica no botão "Shop" <br> > Usuário clica em "Double or Nothing" <br> |
 | **Fluxos de exceção**    | --- |
 | **Pós condições**        | Usuário tem que cumprir com o objetivo para Ganhar as Gemas |
-| **Rastreabilidade**      | ENT03 |
+| **Rastreabilidade**      | ENT11 |
 
 
 ## Referências
