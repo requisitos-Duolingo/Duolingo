@@ -70,7 +70,7 @@ Cada integrante montou o seu Rich Picture do funcionamento geral do duolingo. Co
 >
 >**Versão:** 0.2
 >
->**Versão Anterior:** [0.1](https://drive.google.com/file/d/1MDbSR1DLS4_QviKKZOGhQAp4saR4udxE/view?usp=sharing)
+>**Versão Anterior:** [0.1](https://drive.google.com/file/d/17jO9RyXAu2Wgs8JRWcc531ewBh6y25Mi/view?usp=sharing)
 
 
 ## Referências
