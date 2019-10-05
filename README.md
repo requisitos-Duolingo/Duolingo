@@ -1,4 +1,3 @@
-
 # Sobre
 
 <div align="center"><img src= "docs/images/duolingo_hello.png"/></div>
