@@ -7,7 +7,7 @@ Trata-se de uma técnica que procura descrever símbolos de uma determinada ling
 Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado abaixo.
 
 |**LXX**|_Nome do Léxico._|
-|---|---|
+|:---:|:---:|
 |**Autor**|_Autor(es) do Léxico._|
 |**Classificação**|_Classificação do léxico (estado, objeto ou verbo)._|
 |**Sinônimos**|_Sinônimos do léxico no contexto._|
@@ -17,7 +17,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico01
 |L01|Usuário|
-|---|---|
+|:---:|:---:|
 |**Autor**|Francisco Heronildo|
 |**Classificação**|--|
 |**Sinônimos**|Utilizador, utente, cliente, usador, usufruidor, desfrutador, usufrutuário, usufrutueiro.|
@@ -29,7 +29,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico02
 |L02|Nível|
-|---|---|
+|:---:|:---:|
 |**Autor**|Lude Ribeiro|
 |**Classificação**|Estado|
 |**Sinônimos**|classe, categoria, posição, grau.|
@@ -40,7 +40,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico03
 |L03|Curso|
-|---|---|
+|:---:|:---:|
 |**Autor**|Lude Ribeiro|
 |**Classificação**|Objeto|
 |**Sinônimos**|aula, formação|
@@ -51,7 +51,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico04
 |L04|Ligas|
-|---|---|
+|:---:|:---:|
 |**Autor**|Lude Ribeiro|
 |**Classificação**|Objeto|
 |**Sinônimos**|campeonatos, competição|
@@ -63,7 +63,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico05
 |L05|Amigos|
-|---|---|
+|:---:|:---:|
 |**Autor**|Lude Ribeiro|
 |**Classificação**|--|
 |**Sinônimos**|galera, gente, turma, relações, amizades, conhecidos.|
@@ -74,7 +74,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico06
 |L06|Seção|
-|---|---|
+|:---:|:---:|
 |**Autor**|Lude Ribeiro|
 |**Classificação**|Objeto|
 |**Sinônimos**|Divisão, fracionamento, secionamento, parcela, parte, subdivisão|
@@ -85,7 +85,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico07
 |L07|Perfil|
-|---|---|
+|:---:|:---:|
 |**Autor**|Lude Ribeiro|
 |**Classificação**|Objeto|
 |**Sinônimos**|Representação, retrato, descrição|
@@ -98,7 +98,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico08
 |L08|Exercício|
-|---|---|
+|:---:|:---:|
 |**Autor**|Lude Ribeiro|
 |**Classificação**|Objeto|
 |**Sinônimos**|Atividade, dever, estudo, tarefa.|
@@ -108,7 +108,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico09
 |L09|Cristais|
-|---|---|
+|:---:|:---:|
 |**Autor**|Brian Lui|
 |**Classificação**|Objeto|
 |**Sinônimos**|Dinheiro Virtual, Moeda Virtual, cédula, nota, ouro, prata.|
@@ -119,7 +119,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico10
 |L10|XP|
-|---|---|
+|:---:|:---:|
 |**Autor**|Brian Lui|
 |**Classificação**|Estado|
 |**Sinônimos**|Experiência, pontos.|
@@ -130,7 +130,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico11
 |L11|Ofensiva|
-|---|---|
+|:---:|:---:|
 |**Autor**|Brian Lui|
 |**Classificação**|Estado|
 |**Sinônimos**|Insígnia, emblema, distintivo, marca.|
@@ -141,7 +141,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico12
 |L12|Nível de Coroa|
-|---|---|
+|:---:|:---:|
 |**Autor**|Brian Lui|
 |**Classificação**|Estado|
 |**Sinônimos**|Recurso, Nível, Categoria, Classe.|
@@ -157,7 +157,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico13
 |L13|Lingot|
-|---|---|
+|:---:|:---:|
 |**Autor**|Brian Lui|
 |**Classificação**|Objeto|
 |**Sinônimos**|Moeda, Dinheiro, Ouro, Prata.|
@@ -169,7 +169,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico14
 |L14|Energia|
-|---|---|
+|:---:|:---:|
 |**Autor**|Brian Lui|
 |**Classificação**|Estado|
 |**Sinônimos**|Atividade, Vigor, Desempenho, Prática.|
@@ -180,7 +180,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico15
 |L15|Duolingo Plus|
-|---|---|
+|:---:|:---:|
 |**Autor**|Brian Lui|
 |**Classificação**|Estado|
 |**Sinônimos**|Experiência nova, Versão paga, Premium.|
@@ -192,7 +192,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico16
 |L16|Health|
-|---|---|
+|:---:|:---:|
 |**Autor**|Brian Lui|
 |**Classificação**|Estado|
 |**Sinônimos**|Experiência, Vida, Saúde.|
@@ -204,7 +204,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico17
 |L17|Unidade|
-|---|---|
+|:---:|:---:|
 |**Autor**|Brian Lui|
 |**Classificação**|Objeto|
 |**Sinônimos**|Parte, Elemento, Fração, Porção.|
@@ -215,7 +215,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico18
 |L18|Lições|
-|---|---|
+|:---:|:---:|
 |**Autor**|Brian Lui|
 |**Classificação**|Objeto|
 |**Sinônimos**|Tarefas, Ensinamento, Matéria, Conteúdo.|
@@ -226,7 +226,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico19
 |L19|Exercício|
-|---|---|
+|:---:|:---:|
 |**Autor**|Brian Lui|
 |**Classificação**|Objeto|
 |**Sinônimos**|Ação, Prática, Execução, Operação.|
@@ -237,7 +237,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 
 ## Léxico20
 |L20|Árvore de Idioma|
-|---|---|
+|:---:|:---:|
 |**Autor**|Brian Lui|
 |**Classificação**|Objeto|
 |**Sinônimos**|Conjunto de Níveis, Conjunto de Unidades, Conjunto de Lições.|

@@ -62,7 +62,7 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 ### **UC04 - Escolher Cursos**
 
-![Caso-de-Uso-Cursos](../images/UseCase/uc-cursos.png)
+![Caso-de-Uso-Cursos](../images/UseCase/uc-cursos.jpg)
 
 | UC04                     | Cursos |
 | --------------           |:----------- |
@@ -95,9 +95,10 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Pós condições**        | Usuário pode abandonar a aula e retomar depois |
 | **Rastreabilidade**      | ENT03 |
 
+
 ### **UC06 - Loja**
 
-![Caso-de-Uso-Loja](https://i.imgur.com/Xj8Wvdk.png)
+![Caso-de-Uso-Loja](../images/UseCase/uc-loja.png)
 
 | UC06                     | Loja |
 | --------------           |:----------- |
@@ -112,9 +113,10 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Pós condições**        | Usuário tem que cumprir com o objetivo para Ganhar as Gemas |
 | **Rastreabilidade**      | ENT11 |
 
+
 ### **UC07 - Ranking**
 
-![Caso-de-Uso-Ranking](https://i.imgur.com/OWpOZzg.png)
+![Caso-de-Uso-Ranking](../images/UseCase/uc-ranking.png)
 
 | UC07                     | Ranking |
 | --------------           |:----------- |
@@ -132,7 +134,7 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 ### **UC08 - Configurações**
 
-![Imgur](https://i.imgur.com/HtoMjcY.png)
+![Caso-de-Uso-Configuracoes](../images/UseCase/uc-configuracoes.png)
 
 | UC08                     | Configurações |
 | --------------           |:----------- |
@@ -146,6 +148,12 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Fluxos de exceção**    | --- |
 | **Pós condições**        | Usuário clica em "Done" |
 | **Rastreabilidade**      | Q06 |
+
+|  | Casos de Uso |
+|----|------------|
+| **Versão** | Atual: 1.0 (30/09/2019) |
+| **Descrição** | Especificação do Requisitos Funcionais  |
+
 
 ## Referências
 

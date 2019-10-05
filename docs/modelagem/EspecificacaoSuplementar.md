@@ -4,11 +4,9 @@
 
 A finalidade deste documento é explicitar os requisitos não funcionais da aplicação duolingo. Pegando todos aqueles requisitos que não foram pegos pelo Caso de uso. A fim de deixar os stakeholders atualizados quanto aos atributos de qualidade dos sistema abrangendo requisitos de usabilidade, confiabilidade, desempenho e suportabilidade.
 
-
 ### Escopo
 
 O escopo desta especificação suplementar se resume à aplicação duolingo  que é uma plataforma de ensino de idiomas gamificado com sistema de pontuação e ranking para deixar usuário motivado a continuar estudando.
-
 
 ### Definições
 
@@ -60,20 +58,17 @@ Rastro: Não possui
 
 ### Segurança no armazenamento de dados
 
-O Duolingo segue uma política de armazenamento de dados baseado em sua  Política de Privacidade em que o duolingo não compartilha dados pessoais, apenas informações básicas como nível e nickname a título de interação com outros usuários. A Política de Provacidade pode ser acessada [aqui](https://www.duolingo.com/privacy) 
+O Duolingo segue uma política de armazenamento de dados baseado em sua  Política de Privacidade em que o duolingo não compartilha dados pessoais, apenas informações básicas como nível e nickname a título de interação com outros usuários. A Política de Provacidade pode ser acessada [aqui](https://www.duolingo.com/privacy)
 
-Em relação a dados de pagamentos para usuário do duolingo plus a aplicação segue os padrões estabelecidos pela indústria como sistema de pagamento da Google Play e da App Store como intermediário. 
-
+Em relação a dados de pagamentos para usuário do duolingo plus a aplicação segue os padrões estabelecidos pela indústria como sistema de pagamento da Google Play e da App Store como intermediário.
 
 Rastro: Não possui
-
 
 ### Suporte a falhas
 
 O sistema deve fornecer ao usuário segurança em caso de falhas e proteger o usuário e seus dados sensíveis.
 
 Rastro: Não Possui
-
 
 ## Desempenho
 
@@ -101,7 +96,6 @@ A aplicação Duoligo pode ser acessada e utilizada via navegador em Desktop, ta
 
 Rastro: [Duolingo Web](https://www.duolingo.com)
 
-
 ### Android
 
 A aplicação mobile destinada a dispositivos Android deve ser utlizada no sistemas Android 6.0 ou versões superiores.
@@ -126,7 +120,7 @@ A aplicação mobile destinada a Dispositivos Windows deve ser utilizada no Sist
 
 Rastro: [Duolingo Microsoft Store](https://www.microsoft.com/pt-br/p/duolingo-cursos-gratis-de-ingles-espanhol-e-frances/9wzdncrcv5xn?activetab=pivot:regionofsystemrequirementstab)
 
-## Requisitos de Licenciamento 
+## Requisitos de Licenciamento
 
 ### Termos de Uso
 
@@ -142,8 +136,8 @@ Rastro: [Termo de Privacidade Duoligo](https://www.duolingo.com/privacy)
 
 |  | Especificação Suplementar |
 |----|------------|
-| **Versão** | Atual:1.0 (26/09/2019) |
-| **Descrição** | Especificação do requisitos não funcionais  |
+| **Versão** | Atual: 1.0 (26/09/2019) |
+| **Descrição** | Especificação do Requisitos Não Funcionais  |
 
 
 ## Referências

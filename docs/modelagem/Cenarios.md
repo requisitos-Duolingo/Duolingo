@@ -25,7 +25,6 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Exceção**   |
 |_Exceção do Cenário._|
 
-
 ## Cenário001
 |**Cenário001**|
 |--------------|
