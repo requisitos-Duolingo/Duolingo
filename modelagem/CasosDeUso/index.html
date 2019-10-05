@@ -538,6 +538,27 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#uc06-loja" class="md-nav__link">
+    UC06 - Loja
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc07-ranking" class="md-nav__link">
+    UC07 - Ranking
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc08-configuracoes" class="md-nav__link">
+    UC08 - Configurações
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -649,6 +670,27 @@
           <li class="md-nav__item">
   <a href="#uc05-aulas" class="md-nav__link">
     UC05 - Aulas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc06-loja" class="md-nav__link">
+    UC06 - Loja
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc07-ranking" class="md-nav__link">
+    UC07 - Ranking
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#uc08-configuracoes" class="md-nav__link">
+    UC08 - Configurações
   </a>
   
 </li>
@@ -948,6 +990,162 @@
 <tr>
 <td><strong>Rastreabilidade</strong></td>
 <td align="left">ENT03</td>
+</tr>
+</tbody>
+</table>
+<h3 id="uc06-loja"><strong>UC06 - Loja</strong></h3>
+<p><img alt="Caso-de-Uso-Loja" src="https://i.imgur.com/Xj8Wvdk.png" /></p>
+<table>
+<thead>
+<tr>
+<th>UC06</th>
+<th align="left">Loja</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Versão</strong></td>
+<td align="left">Atual: 1.0 (30/09) <br> Anterior: --</td>
+</tr>
+<tr>
+<td><strong>Autor(es)</strong></td>
+<td align="left">Brian Lui e Lude Ribeiro</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td align="left">Usuário vai comprar Gemas na Loja</td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td align="left">&gt; Usuário <br> &gt; Duolingo</td>
+</tr>
+<tr>
+<td><strong>Pré condições</strong></td>
+<td align="left">&gt; Usuário estar <a href="#uc02-cadastrar-usuario">cadastrado</a> no aplicativo</td>
+</tr>
+<tr>
+<td><strong>Fluxo principal</strong></td>
+<td align="left">&gt; Usuário acessa o Duolingo <br> &gt; Usuário clica no botão "Shop" <br> &gt; Usuário clica em "Streak Freeze" <br></td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td align="left">&gt; Usuário acessa o Duolingo <br> &gt; Usuário clica no botão "Shop" <br> &gt; Usuário clica em "Double or Nothing" <br></td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td align="left">---</td>
+</tr>
+<tr>
+<td><strong>Pós condições</strong></td>
+<td align="left">Usuário tem que cumprir com o objetivo para Ganhar as Gemas</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td align="left">ENT11</td>
+</tr>
+</tbody>
+</table>
+<h3 id="uc07-ranking"><strong>UC07 - Ranking</strong></h3>
+<p><img alt="Caso-de-Uso-Ranking" src="https://i.imgur.com/OWpOZzg.png" /></p>
+<table>
+<thead>
+<tr>
+<th>UC07</th>
+<th align="left">Ranking</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Versão</strong></td>
+<td align="left">Atual: 1.0 (30/09) <br> Anterior: --</td>
+</tr>
+<tr>
+<td><strong>Autor(es)</strong></td>
+<td align="left">Brian Lui e Lude Ribeiro</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td align="left">Usuário irá ver a sua posição no Ranking</td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td align="left">&gt; Usuário <br> &gt; Duolingo</td>
+</tr>
+<tr>
+<td><strong>Pré condições</strong></td>
+<td align="left">&gt; Usuário estar <a href="#uc02-cadastrar-usuario">cadastrado</a> no aplicativo</td>
+</tr>
+<tr>
+<td><strong>Fluxo principal</strong></td>
+<td align="left">&gt; Usuário acessa o Duolingo <br> &gt; Usuário clica no botão "Leaderboards" <br> &gt; E é apresentado uma tabela do Ranking <br></td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td align="left">---</td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td align="left"><strong>Fluxo de Exceção 1 - Menos de 10 Lições Completas:</strong> <br> &gt; Aplicativo apresentar uma mensagem avisando para o Usuário completar no mínimo 10 Lições para começar a competir e assim fazer parte do Ranking<br></td>
+</tr>
+<tr>
+<td><strong>Pós condições</strong></td>
+<td align="left">Usuário irá ver o Ranking</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td align="left">ST06</td>
+</tr>
+</tbody>
+</table>
+<h3 id="uc08-configuracoes"><strong>UC08 - Configurações</strong></h3>
+<p><img alt="Imgur" src="https://i.imgur.com/HtoMjcY.png" /></p>
+<table>
+<thead>
+<tr>
+<th>UC08</th>
+<th align="left">Configurações</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Versão</strong></td>
+<td align="left">Atual: 1.0 (30/09) <br> Anterior: --</td>
+</tr>
+<tr>
+<td><strong>Autor(es)</strong></td>
+<td align="left">Brian Lui e Lude Ribeiro</td>
+</tr>
+<tr>
+<td><strong>Descrição</strong></td>
+<td align="left">Usuário irá fazer alguma configuração no Duolingo</td>
+</tr>
+<tr>
+<td><strong>Ator(es)</strong></td>
+<td align="left">&gt; Usuário <br> &gt; Duolingo</td>
+</tr>
+<tr>
+<td><strong>Pré condições</strong></td>
+<td align="left">&gt; Usuário estar <a href="#uc02-cadastrar-usuario">cadastrado</a> no aplicativo</td>
+</tr>
+<tr>
+<td><strong>Fluxo principal</strong></td>
+<td align="left">&gt; Usuário acessa o Duolingo <br> &gt; Usuário clica no botão "Perfil" <br> &gt; Usuário clica em "Configurações" <br> &gt; E serão apresentadas as possíveis configurações <br> &gt; Usuário irá alterar dados do Perfil <br></td>
+</tr>
+<tr>
+<td><strong>Fluxos alternativos</strong></td>
+<td align="left"><strong>Fluxo Alternativo 1 - Alterar Objetivos Diários:</strong> &gt; Usuário acessa o Duolingo <br> &gt; Usuário clica no botão "Perfil" <br> &gt; Usuário clica em "Configurações" <br> &gt; E serão apresentadas as possíveis configurações <br> &gt; Usuário irá alterar dados dos Objetivos Diários <br><strong>Fluxo Alternativo 2 - Alterar dados Gerais:</strong> &gt; Usuário acessa o Duolingo <br> &gt; Usuário clica no botão "Perfil" <br> &gt; Usuário clica em "Configurações" <br> &gt; E serão apresentadas as possíveis configurações <br> &gt; Usuário irá alterar dados gerais <br><strong>Fluxo Alternativo 3 - Alterar dados de Acessibilidade:</strong> &gt; Usuário acessa o Duolingo <br> &gt; Usuário clica no botão "Perfil" <br> &gt; Usuário clica em "Configurações" <br> &gt; E serão apresentadas as possíveis configurações <br> &gt; Usuário irá alterar dados de Acessibilidade <br><strong>Fluxo Alternativo 4 - Alterar dados de Notificações:</strong> &gt; Usuário acessa o Duolingo <br> &gt; Usuário clica no botão "Perfil" <br> &gt; Usuário clica em "Configurações" <br> &gt; E serão apresentadas as possíveis configurações <br> &gt; Usuário irá alterar dados de Notificações <br></td>
+</tr>
+<tr>
+<td><strong>Fluxos de exceção</strong></td>
+<td align="left">---</td>
+</tr>
+<tr>
+<td><strong>Pós condições</strong></td>
+<td align="left">Usuário clica em "Done"</td>
+</tr>
+<tr>
+<td><strong>Rastreabilidade</strong></td>
+<td align="left">Q06</td>
 </tr>
 </tbody>
 </table>
