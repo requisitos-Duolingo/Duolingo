@@ -6,7 +6,7 @@
 
 # Sobre
 
-O [Duolingo](duolingo.com) é a plataforma de ensino de idiomas mais popular e o aplicativo de educação mais baixado do mundo com mais de 300 milhões de usuários. A missão da empresa é tornar a educação gratuita, divertida e acessível a todos. Foi desenvolvido para parecer um jogo no  qual o usuário aprende de forma interativa e lúdica em qualquer lugar e hora.
+O [Duolingo](https://www.duolingo.com/) é a plataforma de ensino de idiomas mais popular e o aplicativo de educação mais baixado do mundo com mais de 300 milhões de usuários. A missão da empresa é tornar a educação gratuita, divertida e acessível a todos. Foi desenvolvido para parecer um jogo no  qual o usuário aprende de forma interativa e lúdica em qualquer lugar e hora.
 
 <div style="text-align:right"><img src= "images/duo-face.png"/></div>
 
