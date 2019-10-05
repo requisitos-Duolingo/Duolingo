@@ -122,8 +122,8 @@ Já finalizei o curso de Inglês. Acho que com o tempo eu vou dar conta de inter
 * RF: Requisito Funcional
 * RNF: Requisito Não Funcional
 
-| ID    | Descrição                 | Tipo |
-| ---   |:-------------------------:| ---|
+| ID | Descrição | Tipo |
+|----|:---------:|------|
 | ENT01  | O aplicativo deve ter exercícios para serem realizados | RF01 |
 | ENT02  | O aplicativo deve ter diferentes tipos de exercícios | RNF01 |
 | ENT03  | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | RF02 |

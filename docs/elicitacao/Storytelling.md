@@ -74,7 +74,7 @@ a oportunidade de aprender um idioma, de vários disponíveis, de forma lúdica,
 * RNF: Requisito Não Funcional
 
 | ID | Descrição | Tipo |
-|----|-----------|------|
+|----|:---------:|------|
 | ST01 | Eu como usuário desejo criar uma conta para começar a utilizar o app | RF01 |
 | ST02 | Eu como usuário desejo entrar no sistema e selecionar uma novo idioma para aprender uma nova língua | RF02 |
 | ST03 | Eu como usuário desejo entrar no sistema e verificar o meu nível no curso para conseguir acompanhar o meu progresso | RF03 |

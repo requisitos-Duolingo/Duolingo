@@ -107,7 +107,7 @@ O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos se
 
 
 | ID | Descrição | Tipo |
-|----|-----------|------|
+|----|:---------:|------|
 | AD01 | O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender | RF01 |
 | AD02 | O sistema deve permitir que o usuário faça login com email/facebook ou conta do google | RF02 |
 | AD03 | A aplicação deve permitir que o usuário veja o seu progresso | RF03 |

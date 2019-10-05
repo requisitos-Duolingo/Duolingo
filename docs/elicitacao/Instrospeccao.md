@@ -157,8 +157,8 @@ Introspecção é uma técnica pelo qual o usuário observa os conteúdos de seu
 * RF: Requisito Funcional
 * RNF: Requisito Não Funcional
 
-| ID    | Descrição                 | Tipo |
-| ---   |:-------------------------:| ---|
+| ID | Descrição | Tipo |
+|----|:---------:|------|
 | INT01 | Deve aparecer uma mensagem dando Boas Vindas | RF01 |
 | INT02 | Devo ser apresentado com a opção de Registro ou Login | RF02 |
 | INT03 | Deve apresentar uma mensagem pedindo para escolher um idioma | RF03 |

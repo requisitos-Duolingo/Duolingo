@@ -135,9 +135,9 @@ O Duolingo aprensenta um termo de privacidade para que o usuário concorde com a
 Rastro: [Termo de Privacidade Duoligo](https://www.duolingo.com/privacy)
 
 |  | Especificação Suplementar |
-|----|------------|
+|--|---------------------------|
 | **Versão** | Atual: 1.0 (26/09/2019) |
-| **Descrição** | Especificação do Requisitos Não Funcionais  |
+| **Descrição** | Especificação dos Requisitos Não Funcionais  |
 
 
 ## Referências

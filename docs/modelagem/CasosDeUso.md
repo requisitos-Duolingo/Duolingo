@@ -150,9 +150,9 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Rastreabilidade**      | Q06 |
 
 |  | Casos de Uso |
-|----|------------|
+|--|--------------|
 | **Versão** | Atual: 1.0 (30/09/2019) |
-| **Descrição** | Especificação do Requisitos Funcionais  |
+| **Descrição** | Especificação dos Requisitos Funcionais  |
 
 
 ## Referências

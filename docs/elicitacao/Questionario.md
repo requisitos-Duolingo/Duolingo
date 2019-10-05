@@ -85,8 +85,8 @@ Também foi possível constatar que o sistema de feedback dado pelo aplicativo a
 * RF: Requisito Funcional
 * RNF: Requisito Não Funcional
 
-| ID    | Descrição                | Tipo |
-| ----  |:------------------------:| ---- |
+| ID | Descrição | Tipo |
+|----|:---------:|------|
 | Q01  | O aplicativo deve oferecer cursos de vários idiomas | RF01 |
 | Q02  | O aplicativo deve ter oferecer diferentes níveis para cada curso | RNF01 |
 | Q03  | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | RF02 |

@@ -36,7 +36,7 @@ De acordo com a análise de protocolo podemos observar que o aplicativo tem um n
 * RNF: Requisito Não Funcional
 
 | ID | Descrição | Tipo |
-|----|-----------|------|
+|----|:---------:|------|
 | AP01 | O Duolingo permite que o usuário comece antes de registrar | RF01 |
 | AP02 | O Duolingo permite que o usuário escolha um idioma que ele quer aprender | RF02 |
 | AP03 | O Duolingo permite meta diárias para engajamento do usuário | RNF01 |
