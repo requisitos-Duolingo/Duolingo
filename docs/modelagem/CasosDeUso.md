@@ -95,10 +95,9 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Pós condições**        | Usuário pode abandonar a aula e retomar depois |
 | **Rastreabilidade**      | ENT03 |
 
-
 ### **UC06 - Loja**
 
-![Imgur](https://i.imgur.com/Xj8Wvdk.png)
+![Caso-de-Uso-Loja](https://i.imgur.com/Xj8Wvdk.png)
 
 | UC06                     | Loja |
 | --------------           |:----------- |
@@ -112,6 +111,23 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Fluxos de exceção**    | --- |
 | **Pós condições**        | Usuário tem que cumprir com o objetivo para Ganhar as Gemas |
 | **Rastreabilidade**      | ENT11 |
+
+### **UC07 - Ranking**
+
+![Caso-de-Uso-Ranking](https://i.imgur.com/OWpOZzg.png)
+
+| UC07                     | Ranking |
+| --------------           |:----------- |
+| **Versão**               | Atual: 1.0 (30/09) <br> Anterior: -- |
+| **Autor(es)**            | Brian Lui e Lude Ribeiro |
+| **Descrição**            | Usuário irá ver a sua posição no Ranking |
+| **Ator(es)**             | > Usuário <br> > Duolingo |
+| **Pré condições**        | > Usuário estar [cadastrado](#uc02-cadastrar-usuario) no aplicativo |
+| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica no botão "Leaderboards" <br> > E é apresentado uma tabela do Ranking <br> |
+| **Fluxos alternativos**  | --- |
+| **Fluxos de exceção**    | **Fluxo de Exceção 1 - Menos de 10 Lições Completas:** <br> > Aplicativo apresentar uma mensagem avisando para o Usuário completar no mínimo 10 Lições para começar a competir e assim fazer parte do Ranking<br> |
+| **Pós condições**        | Usuário irá ver o Ranking |
+| **Rastreabilidade**      | ST06 |
 
 
 ## Referências
