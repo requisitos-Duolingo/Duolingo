@@ -6,6 +6,10 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 ## Casos de Uso & Especificação
 
+### **Caso de Uso - Geral**
+
+![Caso-de-Uso-Geral](../images/UseCase/uc-geral.png)
+
 ### **UC01 - Fazer Login**
 
 ![Caso-de-Uso-Login](../images/UseCase/uc-login.png)
