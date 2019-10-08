@@ -16,7 +16,8 @@ theme:
 
 nav:
   - Início: index.md
-  - Planejamento: 
+  - Planejamento:
+    - Heatmap: planejamento/Heatmap.md
     - Metodologia: planejamento/Metodologia.md
     - Roadmap: planejamento/Roadmap.md
   - Pré-Rastriabilidade:
@@ -38,4 +39,3 @@ nav:
     - Especificação Suplementar: modelagem/EspecificacaoSuplementar.md
   #  - Análise:
   #  - Pós-Rastreabilidade: 
-  
