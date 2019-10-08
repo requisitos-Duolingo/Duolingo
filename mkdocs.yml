@@ -1,6 +1,9 @@
 site_name: Duolingo
+
 repo_name: '2019.2-Duolingo'
 repo_url: 'https://github.com/Requisitos2-2019/2019.2-Duolingo'
+
+copyright: 'Copyright &copy; 2019 Duolingo'
 
 theme:
   name: 'material'
@@ -14,11 +17,19 @@ theme:
     text: 'Montserrat'
     code: 'sans-serif'
 
+extra:
+  social:
+    - type: 'Duolingo'
+      link: 'https://www.duolingo.com'
+
+markdown_extensions:
+  - admonition
+
 nav:
   - Início: index.md
   - Planejamento:
-    - Heatmap: planejamento/Heatmap.md
     - Metodologia: planejamento/Metodologia.md
+    - Heatmap: planejamento/Heatmap.md
     - Roadmap: planejamento/Roadmap.md
   - Pré-Rastriabilidade:
     - Rich Picture: prerastriabilidade/RichPicture.md
