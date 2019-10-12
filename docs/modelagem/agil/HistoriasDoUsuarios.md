@@ -13,6 +13,24 @@
 
 ## Features
 
-### Feature 1 - Cadastro & Autenti
+### Feature 1 - Cadastro & Autenticação
+
+| **ID** | **Nome** |
+|--------|----------|
+| US1 | Elaborar formulário de interese de curso |
+| Descrição | _Eu como_ desenvolvendo _Desejo_ elaborar um formulário com os dados interesse do usuario _Para Que Eu Possar_ efetuar o cadastro na aplicação |
+| Cŕiterios de Aceitação| Deve contém as seguintes opções: </br> > Qual língua quero aprender </br> > Por que você está aprendendo um idioma </br> > Quantos minutos por dia eu posso estudar </br> > Começar do básico ou teste de nivelamento </br> |
+
+| **ID** | **Nome** |
+|--------|----------|
+| US2 | Elaborar formulário de informações |
+| Descrição | _Eu como_ desenvolvendo _Desejo_ elaborar um formulário com os dados de informações pessoais do usuario _Para Que Eu Possar_ efetuar o cadastro na aplicação |
+| Cŕiterios de Aceitação| Deve contém as seguintes opções: </br> > Idade </br> > Nome </br> > E-mail </br> > Senha </br> |
+
+| **ID** | **Nome** |
+|--------|----------|
+| US3 | Validação do formulário de informações |
+| Descrição | _Eu como_ desenvolvendo _Desejo_ elaborar um processo de validação dos dados do usuário _Para Que Eu Possar_ garantir a veracidade dos dados |
+| Cŕiterios de Aceitação| Deve contém as seguintes opções: </br> > Tem have um caracteres numerico, Não pode ser negativo,  Não pode ser maior que 150 </br> > Tem que haver caracteres do alfabeto </br> > E-mail válido, Não pode ser e-mail duplicado </br> > Tem que haver no mínimo 7 da Tabela ASCII </br> |
 
 ## Referências
