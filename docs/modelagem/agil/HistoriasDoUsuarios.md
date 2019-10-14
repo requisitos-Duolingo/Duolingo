@@ -33,4 +33,16 @@
 | Descrição | _Eu como_ desenvolvendo _Desejo_ elaborar um processo de validação dos dados do usuário _Para Que Eu Possar_ garantir a veracidade dos dados |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem have um caracteres numerico, Não pode ser negativo,  Não pode ser maior que 150 </br> > Tem que haver caracteres do alfabeto </br> > E-mail válido, Não pode ser e-mail duplicado </br> > Tem que haver no mínimo 7 da Tabela ASCII </br> |
 
+| **ID** | **Nome** |
+|--------|----------|
+| US4 | Login |
+| Descrição | _Eu como_ usuário _Desejo_ fazer login da plataforma _Para Que Eu Possar_ entrar na minha conta e da continuedade nas atividades proposta pela plataforma |
+| Críterios de Aceitação| Deve contém as seguintes opções: </br> >  </br> |
+
+| **ID** | **Nome** |
+|--------|----------|
+| US4 | Fazer lougout |
+| Descrição | _Eu como_ usuário _Desejo_ fazer lougout da plataforma _Para Que Eu Possar_ fazer o login em outra conta  |
+| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Uma opção para o usuário poder sair de sua conta  </br> |
+
 ## Referências
