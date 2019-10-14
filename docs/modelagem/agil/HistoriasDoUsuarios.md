@@ -86,7 +86,7 @@ O Backlog do Produto é uma lista de funcionalidades desejadas de um produto, ou
 
 ### Feature 4 - Gameficação
 
-### Feature 4 - Lucro
+### Feature 5 - Lucro
 
 ## Referências
 
