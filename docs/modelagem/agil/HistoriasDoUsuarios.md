@@ -11,7 +11,7 @@ O Backlog do Produto é uma lista de funcionalidades desejadas de um produto, ou
 | **Épico** | **Descrição** | **Features** |
 |:----------|:-------------:|:-------------|
 | E01 - Cadastro e Autenticação | Engloba toda a parte de cadastramento, login, lougout e chaves de acesso. | > Cadastro; </br> > Login; </br> > Logout. |
-| E02 - Perfil | Engloba toda a parte de informações de usuário, configurações da aplicação, notificações. | > Perfil; </br> > Configurações Gerais; </br> > Avisos; </br> > Central de Ajudas e Sugestões.  |
+| E02 - Perfil | Engloba toda a parte de informações de usuário, configurações da aplicação, notificações. | > Perfil; </br> > Configurações Gerais; </br> > Avisos; </br> > Central de Ajuda |
 | E03 - Cursos | Engloba toda a parte de aprendizagem do usuário. | > Curso; </br> > Aula; </br> > Seção. |
 | E04 - Gameficação | Engloba toda a parte que mantém o usuário engajado. | > Ranking; </br> > Conquistas; </br> > Amigos; </br> > Ofensiva; </br> > Nível; </br> > Lingots; </br> > Loja. |
 | E05 - Lucro | Engloba toda a parte de monetização do aplicativo. | > Duolingo Plus; </br> Anúncios. |
@@ -98,9 +98,69 @@ O Backlog do Produto é uma lista de funcionalidades desejadas de um produto, ou
 
 ### Feature 5 - Configurações Gerais
 
+| **ID** | **Nome** |
+|:-------|:---------|
+| US12 | Ativar/Desativar Efeitos Sonoros |
+| Descrição | _Eu, como_ usuário, _desejo_ alterar a utilização dos efeitos sonoros _para que eu possa_ fazer as aulas da forma que eu sentir mais confortável |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Um [switch](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/) que mostra se os efeitos sonoros estão ativados ou desativados </br> > Ao clicar no switch, ele deve alterar o comportamento atual dos efeitos sonoros |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US13 | Ativar/Desativar Mensagens Motivacionais |
+| Descrição | _Eu, como_ usuário, _desejo_ alterar a utilização de mensagens motivacionais _para que eu possa_ fazer as aulas da forma que eu sentir mais confortável |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Um [switch](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/) que mostra se as mensagens motivacionais estão ativadas ou desativadas </br> > Ao clicar no switch, ele deve alterar o comportamento atual das mensagens motivacionais |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US14 | Ativar/Desativar Exercícios de Conversação |
+| Descrição | _Eu, como_ usuário, _desejo_ alterar a utilização de exercícios de conversação _para que eu possa_ fazer apenas os tipos de aulas que desejo |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Um [switch](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/) que mostra se os exercícios de conversação estão ativados ou desativados </br> > Ao clicar no switch, ele deve alterar o comportamento atual dos exercícios de conversação |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US15 | Ativar/Desativar Exercícios de Compreensão |
+| Descrição | _Eu, como_ usuário, _desejo_ alterar a utilização de exercícios de compreensão _para que eu possa_ fazer apenas os tipos de aulas que desejo |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Um [switch](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/) que mostra se os exercícios de compreensão estão ativados ou desativados </br> > Ao clicar no switch, ele deve alterar o comportamento atual dos exercícios de compreensão |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US16 | Ativar/Desativar Atualização de Recursos Utilizando Dados Móveis |
+| Descrição | _Eu, como_ usuário, _desejo_ alterar a utilização de recursos utilizando dados móveis _para que eu possa_ gerenciar melhor a utilização dos dados móveis no aplicativo |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Um [switch](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/) que mostra se a atualização de recursos utilizando dados móveis </br> > Ao clicar no switch, ele deve alterar o comportamento da atualização de recursos utilizando dados móveis |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US17 | Restaurar Compras |
+| Descrição | _Eu, como_ usuário, _desejo_ restaurar compras _para que eu possa_ utilizar os recursos por qual eu paguei |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Ao clicar no botão de restaurar compras, todas os recursos obtidos através de compras que já foram feitas no aplicativo devem ficar disponíveis |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US18 | Restaurar Contatar o Suporte |
+| Descrição | _Eu, como_ usuário, _desejo_ contatar o suporte do Duolingo _para que eu possa_ entrar em contato com alguém que possa resolver meus problemas ou tirar dúvidas |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Ao clicar no botão de contatar suporte, devo ser redirecionado para algum aplicativo de email que eu tenha no meu celular |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US19 | Ativar/Desativar Estado de Conexão com Facebook |
+| Descrição | _Eu, como_ usuário, _desejo_ alterar estado de conexão com Facebook _para que eu possa_ sincronizar meus amigos com os amigos do Facebook |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Um [switch](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/) que mostra o estado de conexão com o Facebook </br> > Ao clicar no switch, ele deve alterar o comportamento do estado de conexão com o Facebook |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US20 | Ativar/Desativar Estado de Conexão com Google |
+| Descrição | _Eu, como_ usuário, _desejo_ alterar estado de conexão com Google _para que eu possa_ sincronizar meus amigos com os amigos do Google |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Um [switch](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/) que mostra o estado de conexão com o Google </br> > Ao clicar no switch, ele deve alterar o comportamento do estado de conexão com o Google |
+
 ### Feature 6 - Avisos
 
-### Feature 7 - Central de Ajuda e Sugestões
+### Feature 7 - Central de Ajuda
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US | Visualizar Central de Ajuda |
+| Descrição | _Eu, como_ usuário, _desejo_ visualizar a central de ajuda _para que eu possa_ aprender mais sobre o Duolingo e tirar alguma dúvida que eu tiver |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Ao clicar no botão de Central de Ajuda, deve abrir uma nova tela que contenha as principais informações sobre o Duolingo e as perguntas e respotas mais frequentes |
 
 ### Feature 8 - Curso
 
