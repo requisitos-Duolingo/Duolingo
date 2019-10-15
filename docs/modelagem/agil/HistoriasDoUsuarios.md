@@ -154,25 +154,56 @@ O Backlog do Produto é uma lista de funcionalidades desejadas de um produto, ou
 
 ### Feature 6 - Avisos
 
+|:-------|:---------|
+| US21 | Ativar/Desativar Ligas |
+| Descrição | _Eu, como_ usuário, _desejo_ a minha participação nas ligas _para que eu possa_ escolher progredir no aprendizado da maneira que me agradar mais |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Um [switch](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/) que mostra a minha participação nas ligas </br> > Ao clicar no switch, ele deve alterar o comportamento da minha participação nas ligas |
+
+|:-------|:---------|
+| US22 | Ativar/Desativar Lembrete de Praticar |
+| Descrição | _Eu, como_ usuário, _desejo_ alterar o lembrete de praticar _para que eu possa_ ser lembrado de praticar o(s) idioma(s) que estou aprendendo |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Um [switch](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/) que mostra o lembrete de praticar </br> > Ao clicar no switch, ele deve alterar o comportamento do lembrete de praticar |
+
+|:-------|:---------|
+| US23 | Ativar/Desativar Atualização de Produtos |
+| Descrição | _Eu, como_ usuário, _desejo_ alterar a atualização de produtos _para que eu possa_ gerenciar melhor a utilização de dados no App |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Um [switch](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/) que mostra a atualização de produtos </br> > Ao clicar no switch, ele deve alterar o comportamento da atualização de produtos |
+
+|:-------|:---------|
+| US24 | Alterar Horário de Lembrete |
+| Descrição | _Eu, como_ usuário, _desejo_ alterar o horário de lembrete _para que eu possa_ ser lembrado de praticar no melhor horário para mim |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Um campo com os possíveis horários de lembrete </br> > Ao escolher um novo horário o horário de lembrete deve ser atualizado automaticamente |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US25 | Visualizar Termos |
+| Descrição | _Eu, como_ usuário, _desejo_ visualizar os termos e condições de serviço _para que eu possa_ saber sobre a parte legal do aplicativo |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Ao clicar no botão de Termos, devo ser redirecionado para uma página web que explique sobre os termos e condições de serviço do Duolingo |
+
+|:-------|:---------|
+| US26 | Visualizar Privacidade |
+| Descrição | _Eu, como_ usuário, _desejo_ visualizar a política de privacidade _para que eu possa_ saber sobre a parte legal do aplicativo |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Ao clicar no botão de Privacidade, devo ser redirecionado para uma página web que explique sobre a política de privacidade do Duolingo |
+
 ### Feature 7 - Central de Ajuda
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US | Visualizar Central de Ajuda |
+| US27 | Visualizar Central de Ajuda |
 | Descrição | _Eu, como_ usuário, _desejo_ visualizar a central de ajuda _para que eu possa_ aprender mais sobre o Duolingo e tirar alguma dúvida que eu tiver |
-| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Ao clicar no botão de Central de Ajuda, deve abrir uma nova tela que contenha as principais informações sobre o Duolingo e as perguntas e respotas mais frequentes |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Ao clicar no botão de Central de Ajuda, deve abrir uma nova tela que contenha as principais informações sobre o Duolingo e as perguntas e respostas mais frequentes |
 
 ### Feature 8 - Curso
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US11 | Escolher um curso |
+| US28 | Escolher um curso |
 | Descrição | _Eu, como_ usuário, _desejo_ escolher qual curso de idioma fazer _para que eu possa_ aprender |
 | Critérios de Aceitação| Deve contém as seguintes opções: </br> > Tem que haver uma lista de cursos para escolher </br> |
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US12 | Adicionar um curso |
+| US29 | Adicionar um curso |
 | Descrição | _Eu, como_ usuário, _desejo_ escolher outro idioma para cursar _para que eu possa_ ganhar mais conhecimento |
 | Critérios de Aceitação| Deve contém as seguintes opções: </br> > Tem que haver uma lista de cursos para escolher </br> |
 
@@ -180,7 +211,7 @@ O Backlog do Produto é uma lista de funcionalidades desejadas de um produto, ou
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US13 | Realizar aulas |
+| US30 | Realizar aulas |
 | Descrição | _Eu, como_ usuário, _desejo_ ter aulas a serem realizadas _para que eu possa_ aprender |
 | Critérios de Aceitação | Deve contém as seguintes opções: </br> > Tem que haver uma lista de atividades </br> > Tem que haver exercícios de conversação </br>  > Tem que haver exercícios de compreensão </br> |
 
@@ -188,7 +219,7 @@ O Backlog do Produto é uma lista de funcionalidades desejadas de um produto, ou
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US14 |  Aulas organizadas por seção |
+| US31 |  Aulas organizadas por seção |
 | Descrição | _Eu, como_ usuário, _desejo_ ter aulas organizadas por seção _para que eu possa_ organizar o meus estudos de um novo idioma |
 | Critérios de Aceitação | Deve contém as seguintes opções: </br> > Tem que haver aulas dividas por nível de dificuldade </br> > Realizar aulas da próxima seção ao concluir um teste nivelamento da seção anterior </br> > Realizar aulas da próxima seção ao concluir aulas da seção anterior </br> |
 
