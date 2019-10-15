@@ -69,26 +69,26 @@ O Backlog do Produto é uma lista de funcionalidades desejadas de um produto, ou
 | **ID** | **Nome** |
 |:-------|:---------|
 | US11 | Escolher um curso |
-| Descrição | _Eu como_ usuário _Desejo_ escolher qual curso de idioma fazer _Para Que Eu Possar_ aprender |
-| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que haver uma lista de cursos para escolher </br> |
+| Descrição | _Eu, como_ usuário, _desejo_ escolher qual curso de idioma fazer _para que eu possa_ aprender |
+| Critérios de Aceitação| Deve contém as seguintes opções: </br> > Tem que haver uma lista de cursos para escolher </br> |
 
 | **ID** | **Nome** |
 |:-------|:---------|
 | US12 | Adicionar um curso |
-| Descrição | _Eu como_ usuário _Desejo_ escolher outro idioma para cursar _Para Que Eu Possar_ ganhar mais conhecimento |
-| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que haver uma lista de cursos para escolher </br> |
+| Descrição | _Eu, como_ usuário, _desejo_ escolher outro idioma para cursar _para que eu possa_ ganhar mais conhecimento |
+| Critérios de Aceitação| Deve contém as seguintes opções: </br> > Tem que haver uma lista de cursos para escolher </br> |
 
 | **ID** | **Nome** |
 |:-------|:---------|
 | US13 | Realizar aulas |
-| Descrição | _Eu como_ usuário _Desejo_ ter aulas a serem realizadas _Para Que Eu Possar_  aprender |
-| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que haver uma lista de atividades </br> > Tem que haver exercícios de conversação </br>  > Tem que haver exercícios de compreensão </br> |
+| Descrição | _Eu, como_ usuário, _desejo_ ter aulas a serem realizadas _para que eu possa_ aprender |
+| Critérios de Aceitação | Deve contém as seguintes opções: </br> > Tem que haver uma lista de atividades </br> > Tem que haver exercícios de conversação </br>  > Tem que haver exercícios de compreensão </br> |
 
 | **ID** | **Nome** |
 |:-------|:---------|
 | US14 |  Aulas organizadas por seção |
-| Descrição | _Eu como_ usuário _Desejo_ ter aulas organizadas por seção _Para Que Eu Possar_  organizar o meus estudos de um novo idioma |
-| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que haver aulas dividas por nível de dificuldade </br> > Realizar aulas da próxima seção ao concluir um teste nivelamento da seção anterior </br> > Realizar aulas da próxima seção ao concluir aulas da seção anterior </br> |
+| Descrição | _Eu, como_ usuário, _desejo_ ter aulas organizadas por seção _para que eu possa_ organizar o meus estudos de um novo idioma |
+| Critérios de Aceitação | Deve contém as seguintes opções: </br> > Tem que haver aulas dividas por nível de dificuldade </br> > Realizar aulas da próxima seção ao concluir um teste nivelamento da seção anterior </br> > Realizar aulas da próxima seção ao concluir aulas da seção anterior </br> |
 
 ### Feature 4 - Gameficação
 
