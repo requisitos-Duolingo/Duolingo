@@ -8,15 +8,13 @@ O Backlog do Produto é uma lista de funcionalidades desejadas de um produto, ou
 
 **Legenda**:
 
-* T: Temas.
-
 | **Épico** | **Descrição** | **Features** |
 |:----------|:-------------:|:-------------|
-| T01 - Cadastro e Autenticação | Engloba toda a parte de cadastramento, login, lougout e chaves de acesso. | > Cadastro; </br> > Login; </br> > Logout. |
-| T02 - Perfil | Engloba toda a parte de informações de usuário, configurações da aplicação, notificações. | > Perfil; </br> > Configurações Gerais; </br> > Avisos; </br> > Central de Ajudas e Sugestões.  |
-| T03 - Cursos | Engloba toda a parte de aprendizagem do usuário. | > Curso; </br> > Aula; </br> > Seção. |
-| T04 - Gameficação | Engloba toda a parte que mantém o usuário engajado. | > Ranking; </br> > Conquistas; </br> > Amigos; </br> > Ofensiva; </br> > Nível; </br> > Lingots; </br> > Loja. |
-| T05 - Lucro | Engloba toda a parte de monetização do aplicativo. | > Duolingo Plus; </br> Anúncios. |
+| E01 - Cadastro e Autenticação | Engloba toda a parte de cadastramento, login, lougout e chaves de acesso. | > Cadastro; </br> > Login; </br> > Logout. |
+| E02 - Perfil | Engloba toda a parte de informações de usuário, configurações da aplicação, notificações. | > Perfil; </br> > Configurações Gerais; </br> > Avisos; </br> > Central de Ajudas e Sugestões.  |
+| E03 - Cursos | Engloba toda a parte de aprendizagem do usuário. | > Curso; </br> > Aula; </br> > Seção. |
+| E04 - Gameficação | Engloba toda a parte que mantém o usuário engajado. | > Ranking; </br> > Conquistas; </br> > Amigos; </br> > Ofensiva; </br> > Nível; </br> > Lingots; </br> > Loja. |
+| E05 - Lucro | Engloba toda a parte de monetização do aplicativo. | > Duolingo Plus; </br> Anúncios. |
 
 ## Features
 
@@ -44,6 +42,8 @@ O Backlog do Produto é uma lista de funcionalidades desejadas de um produto, ou
 | Descrição | _Eu, como_ desenvolvedor, _desejo_ elaborar um processo de validação das informações pessoais do usuário _para que eu possa_ garantir a veracidade dos dados |
 | Critérios de Aceitação | Deve conter as seguintes opções: </br> **Idade** </br> > Apenas caracteres numéricos e inteiros </br> > Não pode ser negativo </br> >  Não pode ser maior que 149 </br> **Nome** </br> > Apenas caracteres do alfabeto </br> **Email** </br> > Tem que ser email válido segundo este [link](https://www.devmedia.com.br/validando-e-mail-em-inputs-html-com-javascript/26427) </br> > Não pode ser um email duplicado </br> **Senha** </br> > Tem que ter, no mínimo, 7 caracteres da Tabela ASCII |
 
+### Feature 2 - Login
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US04 | Fazer login |
@@ -56,15 +56,23 @@ O Backlog do Produto é uma lista de funcionalidades desejadas de um produto, ou
 | Descrição | _Eu, como_ desenvolvedor, _desejo_ elaborar um processo de validação das informações de login do usuário _para que eu possa_ autenticá-lo |
 | Critérios de Aceitação | Deve conter as seguintes opções: **Email** </br> > Tem que ser email válido segundo este [link](https://www.devmedia.com.br/validando-e-mail-em-inputs-html-com-javascript/26427) </br> > Não pode ser um email já cadastrado </br> **Senha** </br> > Tem que ter, no mínimo, 7 caracteres da Tabela ASCII </br> A senha tem que corresponder a senha de castramento do usuário |
 
+### Feature 3 - Logout
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US06 | Fazer lougout |
 | Descrição | _Eu, como_ usuário, _desejo_ fazer lougout na plataforma _para que eu possa_ fazer o login em outra conta |
 | Critérios de Aceitação | Deve conter as seguintes opções: </br> > Tem que ter uma opção para o usuário poder sair de sua conta |
 
-### Feature 2 - Perfil
+### Feature 4 - Perfil
 
-### Feature 3 - Cursos
+### Feature 5 - Configurações Gerais
+
+### Feature 6 - Avisos
+
+### Feature 7 - Central de Ajuda e Sugestões
+
+### Feature 8 - Curso
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -78,11 +86,15 @@ O Backlog do Produto é uma lista de funcionalidades desejadas de um produto, ou
 | Descrição | _Eu, como_ usuário, _desejo_ escolher outro idioma para cursar _para que eu possa_ ganhar mais conhecimento |
 | Critérios de Aceitação| Deve contém as seguintes opções: </br> > Tem que haver uma lista de cursos para escolher </br> |
 
+### Feature 9 - Aula
+
 | **ID** | **Nome** |
 |:-------|:---------|
 | US13 | Realizar aulas |
 | Descrição | _Eu, como_ usuário, _desejo_ ter aulas a serem realizadas _para que eu possa_ aprender |
 | Critérios de Aceitação | Deve contém as seguintes opções: </br> > Tem que haver uma lista de atividades </br> > Tem que haver exercícios de conversação </br>  > Tem que haver exercícios de compreensão </br> |
+
+### Feature 10 - Seção
 
 | **ID** | **Nome** |
 |:-------|:---------|
@@ -90,9 +102,23 @@ O Backlog do Produto é uma lista de funcionalidades desejadas de um produto, ou
 | Descrição | _Eu, como_ usuário, _desejo_ ter aulas organizadas por seção _para que eu possa_ organizar o meus estudos de um novo idioma |
 | Critérios de Aceitação | Deve contém as seguintes opções: </br> > Tem que haver aulas dividas por nível de dificuldade </br> > Realizar aulas da próxima seção ao concluir um teste nivelamento da seção anterior </br> > Realizar aulas da próxima seção ao concluir aulas da seção anterior </br> |
 
-### Feature 4 - Gameficação
+### Feature 11 - Ranking
 
-### Feature 5 - Lucro
+### Feature 12 - Conquistas
+
+### Feature 13 - Amigos
+
+### Feature 14 - Ofensiva
+
+### Feature 15 - Nível
+
+### Feature 16 - Lingots
+
+### Feature 17 - Loja
+
+### Feature 18 - Duolingo Plus
+
+### Feature 19 - Anúncios
 
 ## Referências
 
