@@ -29,32 +29,38 @@ O Backlog do Produto é uma lista de funcionalidades desejadas de um produto, ou
 | **ID** | **Nome** |
 |:-------|:---------|
 | US01 | Elaborar formulário de interese de curso |
-| Descrição | _Eu como_ desenvolvendo _Desejo_ elaborar um formulário com os dados interesse do usuario _Para Que Eu Possar_ efetuar o cadastro na aplicação |
-| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Qual idioma quero aprender </br> > Por que você está aprendendo um idioma </br> > Quantos minutos por dia eu posso estudar </br> > Começar do básico ou teste de nivelamento </br> |
+| Descrição | _Eu, como_ desenvolvedor, _desejo_ elaborar um formulário com os dados interesse de curso do usuário _para que eu possa_ efetuar o cadastro na aplicação |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Qual idioma quero aprender </br> > Por que você está aprendendo um idioma </br> > Quantos minutos por dia eu posso estudar </br> > Começar do básico ou teste de nivelamento |
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US02 | Elaborar formulário de informações |
-| Descrição | _Eu como_ desenvolvendo _Desejo_ elaborar um formulário com os dados de informações pessoais do usuario _Para Que Eu Possar_ efetuar o cadastro na aplicação |
-| Cŕiterios de Aceitação| Deve contém as seguintes opções: </br> > Idade </br> > Nome </br> > E-mail </br> > Senha </br> |
+| US02 | Elaborar formulário de informações pessoais |
+| Descrição | _Eu, como_ desenvolvedor, _desejo_ elaborar um formulário com as informações pessoais do usuario _para que eu possa_ efetuar o cadastro na aplicação |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Idade </br> > Nome </br> > E-mail </br> > Senha |
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US03 | Validação do formulário de informações |
-| Descrição | _Eu como_ desenvolvendo _Desejo_ elaborar um processo de validação dos dados do usuário _Para Que Eu Possar_ garantir a veracidade dos dados |
-| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem have um caracteres numerico, Não pode ser negativo,  Não pode ser maior que 150 </br> > Tem que haver caracteres do alfabeto </br> > E-mail válido, Não pode ser e-mail duplicado </br> > Tem que haver no mínimo 7 caracteres da Tabela ASCII </br> |
+| US03 | Validação do formulário de informações pessoais |
+| Descrição | _Eu, como_ desenvolvedor, _desejo_ elaborar um processo de validação das informações pessoais do usuário _para que eu possa_ garantir a veracidade dos dados |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> **Idade** </br> > Apenas caracteres numéricos e inteiros </br> > Não pode ser negativo </br> >  Não pode ser maior que 149 </br> **Nome** </br> > Apenas caracteres do alfabeto </br> **Email** </br> > Tem que ser email válido segundo este [link](https://www.devmedia.com.br/validando-e-mail-em-inputs-html-com-javascript/26427) </br> > Não pode ser um email duplicado </br> **Senha** </br> > Tem que ter, no mínimo, 7 caracteres da Tabela ASCII |
 
 | **ID** | **Nome** |
 |:-------|:---------|
 | US04 | Fazer login |
-| Descrição | _Eu como_ usuário _Desejo_ fazer login da plataforma _Para Que Eu Possar_ entrar na minha conta e da continuedade nas atividades proposta pela plataforma |
-| Críterios de Aceitação| Deve contém as seguintes opções: </br> >  </br> |
+| Descrição | _Eu, como_ usuário, _desejo_ fazer login na plataforma _para que eu possa_ entrar na minha conta e dar continuidade nas atividades da plataforma |
+| Critérios  de Aceitação | Deve conter as seguintes opções: </br> > Implementar caixa de texto para inserir email e senha </br> > Opção de recuperar senha </br> > Opção de entrar com Google/Facebook </br> > Opção que redireciona para parte de criar cadastro </br> > Ter opção de visualizar senha inserida |
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US05 | Fazer lougout |
-| Descrição | _Eu como_ usuário _Desejo_ fazer lougout da plataforma _Para Que Eu Possar_ fazer o login em outra conta |
-| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que haver uma opção para o usuário poder sair de sua conta  </br> |
+| US05 | Validação do formulário de login |
+| Descrição | _Eu, como_ desenvolvedor, _desejo_ elaborar um processo de validação das informações de login do usuário _para que eu possa_ autenticá-lo |
+| Critérios de Aceitação | Deve conter as seguintes opções: **Email** </br> > Tem que ser email válido segundo este [link](https://www.devmedia.com.br/validando-e-mail-em-inputs-html-com-javascript/26427) </br> > Não pode ser um email já cadastrado </br> **Senha** </br> > Tem que ter, no mínimo, 7 caracteres da Tabela ASCII </br> A senha tem que corresponder a senha de castramento do usuário |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US06 | Fazer lougout |
+| Descrição | _Eu, como_ usuário, _desejo_ fazer lougout na plataforma _para que eu possa_ fazer o login em outra conta |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Tem que ter uma opção para o usuário poder sair de sua conta |
 
 ### Feature 2 - Perfil
 
