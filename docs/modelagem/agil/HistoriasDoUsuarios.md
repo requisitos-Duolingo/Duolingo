@@ -66,6 +66,36 @@ O Backlog do Produto é uma lista de funcionalidades desejadas de um produto, ou
 
 ### Feature 4 - Perfil
 
+| **ID** | **Nome** |
+|:-------|:---------|
+| US07 | Alterar Avatar |
+| Descrição | _Eu, como_ usuário, _desejo_ alterar o meu avatar _para que eu possa_ customizar meu perfil da forma que eu desejo |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Botão com minha foto atual </br> > Poder trocar o avatar de duas formas: 1. Tirar uma foto; 2. Escolher uma foto da galeria; |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US08 | Alterar Nome |
+| Descrição | _Eu, como_ usuário, _desejo_ alterar o meu nome _para que eu possa_ corrigir erros feitos no cadastro ou para customizar meu perfil |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Caixa de texto editável com meu nome atual </br> > Se o nome digitado for válido segundo a [**US03**](#feature-1-cadastro-e-autenticacao), o nome deve ser alterado automaticamente |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US09 | Alterar Nome de Usuário |
+| Descrição | _Eu, como_ usuário, _desejo_ alterar o meu nome de usuário _para que eu possa_ customizar meu perfil |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Caixa de texto editável com meu nome de usuário atual </br> > Se o nome de usuário digitado for válido segundo a [**US03**](#feature-1-cadastro-e-autenticacao), o nome de usuário deve ser alterado automaticamente |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US10 | Alterar Senha |
+| Descrição | _Eu, como_ usuário, _desejo_ alterar o minha senha _para que eu possa_ usar minha conta novamente caso esqueça a senha |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Caixa de texto editável com a senha do usuário </br> > Se a senha digitada for válido segundo a [**US03**](#feature-1-cadastro-e-autenticacao), a senha deve ser alterado automaticamente |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US11 | Alterar Email |
+| Descrição | _Eu, como_ usuário, _desejo_ alterar o meu email _para que eu possa_ corrigir erros feitos no cadastro ou para customizar meu perfil |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > Caixa de texto editável com o email do usuário </br> > Se o email digitado for válido segundo a [**US03**](#feature-1-cadastro-e-autenticacao), o email deve ser alterado automaticamente |
+
 ### Feature 5 - Configurações Gerais
 
 ### Feature 6 - Avisos
