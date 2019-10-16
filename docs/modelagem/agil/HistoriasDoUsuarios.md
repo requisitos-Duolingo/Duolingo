@@ -1,8 +1,16 @@
 ## Introdução
 
-O Backlog do Produto é uma lista de funcionalidades desejadas de um produto, ou seja, os requisitos que um cliente espera receber ao final do projeto, descrito com sua própria linguagem.
+ Histórias de usuários é uma especificação de uma ou mais sentenças na linguagem de negócio ou cotidiana do usuário final ou usuário do sistema que captura o que um usuário faz ou necessita fazer como parte de sua função de trabalho.
 
 ## Metodologia
+
+Para a elaboração das Histórias de Usuários foi contruído _card_, como é mostrado abaixo para a especificação da mesma.
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| USXX | Titulo da História |
+| Descrição | _Eu, como_ XXX, _desejo_ XXX _para que eu possa_ XXX |
+| Critérios de Aceitação | Deve conter as seguintes opções: </br> > XXX </br> > XXX </br> |
 
 ## Épicos
 
@@ -211,16 +219,34 @@ O Backlog do Produto é uma lista de funcionalidades desejadas de um produto, ou
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US30 | Realizar aulas |
+| US30 | Começar exercicios |
 | Descrição | _Eu, como_ usuário, _desejo_ ter aulas a serem realizadas _para que eu possa_ aprender |
-| Critérios de Aceitação | Deve contém as seguintes opções: </br> > Tem que haver uma lista de atividades </br> > Tem que haver exercícios de conversação </br>  > Tem que haver exercícios de compreensão </br> |
+| Critérios de Aceitação | Deve contém as seguintes opções: </br> > Tem que haver uma lista categorizada de atividades exercicios  </br> > Tem que haver exercícios de conversação </br>  > Tem que haver exercícios de compreensão </br> |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US31 | Realizar exercícios de conversação |
+| Descrição | _Eu, como_ usuário, _desejo_ fazer exercícios de conversação _para que eu possa_ melhor meu aprendizado |
+| Critérios de Aceitação | Deve contém as seguintes opções: </br> > Tem que haver um botão para verificar a voz </br> |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US32 | Realizar exercícios de compreensão |
+| Descrição | _Eu, como_ usuário, _desejo_ fazer exercícios de conversação _para que eu possa_ melhor meu aprendizado |
+| Critérios de Aceitação | Deve contém as seguintes opções: </br> > Tem que haver exercícios de gramática </br> |
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US33 | Progressão de exercícios |
+| Descrição | _Eu, como_ usuário, _desejo_ fazer exercícios de forma gradual _para que eu possa_ aprender progredindo |
+| Critérios de Aceitação | Deve contém as seguintes opções: </br> > Tem que haver exercícios categorizado por unidade </br> |
 
 ### Feature 10 - Seção
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US31 |  Aulas organizadas por seção |
-| Descrição | _Eu, como_ usuário, _desejo_ ter aulas organizadas por seção _para que eu possa_ organizar o meus estudos de um novo idioma |
+| US34 |  Aulas organizadas por seção |
+| Descrição | _Eu, como_ usuário, _desejo_ ter aulas organizadas por seção _para que eu possa_ organizar os meus estudos de um novo idioma |
 | Critérios de Aceitação | Deve contém as seguintes opções: </br> > Tem que haver aulas dividas por nível de dificuldade </br> > Realizar aulas da próxima seção ao concluir um teste nivelamento da seção anterior </br> > Realizar aulas da próxima seção ao concluir aulas da seção anterior </br> |
 
 ### Feature 11 - Ranking
