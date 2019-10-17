@@ -311,19 +311,31 @@ Para a elaboração das Histórias de Usuários foi contruído _card_, como é m
 
 | **ID** | **Nome** |
 |:-------|:---------|
+<<<<<<< HEAD
 | US##     | Lingots por finalizar tarefas diárias |
+=======
+| US42     | Lingots por finalizar tarefas diárias |
+>>>>>>> 7b61a6047368d76b9d424a60db5ebcd74f510c4d
 | Descrição | _Eu como_ usuário _Desejo_ receber a moeda gamificada (Lingots) após completar minha tarefa diária _Para que eu como usuário me sinta mais satisfeito ao usar mais o aplicativo_  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que determinar a meta diária </br> > Deve-se chegar até ofinal das tarefas diárias de forma completa </br>|
 
 | **ID** | **Nome** |
 |:-------|:---------|
+<<<<<<< HEAD
 | US##     | Lingots por finalizar módulo de tarefas |
+=======
+| US43     | Lingots por finalizar módulo de tarefas |
+>>>>>>> 7b61a6047368d76b9d424a60db5ebcd74f510c4d
 | Descrição | _Eu como_ usuário _Desejo_ receber a moeda gamificada (Lingots) após completar um módulo de tarefa  _Para que eu como usuário me sinta mais motivado ao usar o aplicativo e a aprender mais_  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que estar de acordo com o nível </br> > Deve-se chegar até ofinal das tarefas do módulo de forma completa </br>|
 
 | **ID** | **Nome** |
 |:-------|:---------|
+<<<<<<< HEAD
 | US##     | Lingots por finalizar a liga entre os três primeiros |
+=======
+| US44     | Lingots por finalizar a liga entre os três primeiros |
+>>>>>>> 7b61a6047368d76b9d424a60db5ebcd74f510c4d
 | Descrição | _Eu como_ usuário _Desejo_ receber a moeda gamificada (Lingots) após o final do período de uma liga terminando entre os três primeiros colocados  _Para que eu como usuário me sinta mais motivado ao usar o aplicativo e a aprender mais_  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que estar de acordo com o nível da liga </br> > Deve-se chegar até ofinal do período da liga entre os três primeiros colocados </br>|
 
@@ -331,31 +343,51 @@ Para a elaboração das Histórias de Usuários foi contruído _card_, como é m
 
 | **ID** | **Nome** |
 |:-------|:---------|
+<<<<<<< HEAD
 | US##     | Compra de "Bloqueio de ofensivos" |
+=======
+| US45     | Compra de "Bloqueio de ofensivos" |
+>>>>>>> 7b61a6047368d76b9d424a60db5ebcd74f510c4d
 | Descrição | _Eu como_ usuário _Desejo_ comprar a skill por 10 Lingots para congelar danos cousados por tempo fora do app sem preaticar _Para que eu como usuário me sinta ainda em equidade para competir de forma gamificada com meus amigos e colegas_  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots sufientes </br> >|
 
 | **ID** | **Nome** |
 |:-------|:---------|
+<<<<<<< HEAD
 | US##     | Compra de "Dobro ou nada" |
+=======
+| US46     | Compra de "Dobro ou nada" |
+>>>>>>> 7b61a6047368d76b9d424a60db5ebcd74f510c4d
 | Descrição | _Eu como_ usuário _Desejo_ comprar a skill por 5 Lingots para aumentar meus pontos xp _Para que eu como usuário me sinta mais motivado a continuar utilizando o app e ganhar pontos de experiência_  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots suficientes </br> >|
 
 | **ID** | **Nome** |
 |:-------|:---------|
+<<<<<<< HEAD
 | US##     | Compra de Traje formal |
+=======
+| US47     | Compra de Traje formal |
+>>>>>>> 7b61a6047368d76b9d424a60db5ebcd74f510c4d
 | Descrição | _Eu como_ usuário _Desejo_ comprar o traje formal por 20 Lingots para meu Duo ficar mais caracterizado _Para que eu como usuário sinta que o aplicativo está mais pessoal e traga mais motivação_  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots suficientes </br> >|
 
 | **ID** | **Nome** |
 |:-------|:---------|
+<<<<<<< HEAD
 | US##     | Compra de Traje esportivo dourado |
+=======
+| US48     | Compra de Traje esportivo dourado |
+>>>>>>> 7b61a6047368d76b9d424a60db5ebcd74f510c4d
 | Descrição | _Eu como_ usuário _Desejo_ comprar o traje esportivo dourado por 30 Lingots para meu Duo ficar mais caracterizado _Para que o eu como usuário sinta que o aplicativo está mais pessoal e traga mais motivação_  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots suficientes </br> >|
 
 | **ID** | **Nome** |
 |:-------|:---------|
+<<<<<<< HEAD
 | US##     | Compra de Traje super Duo |
+=======
+| US49     | Compra de Traje super Duo |
+>>>>>>> 7b61a6047368d76b9d424a60db5ebcd74f510c4d
 | Descrição | _Eu como_ usuário _Desejo_ comprar o traje super Duo por 50 Lingots para meu Duo ficar mais caracterizado _Para que eu como usuário sinta que o aplicativo está mais pessoal e traga mais motivação_  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots suficientes </br> >|
 
@@ -363,13 +395,21 @@ Para a elaboração das Histórias de Usuários foi contruído _card_, como é m
 
 | **ID** | **Nome** |
 |:-------|:---------|
+<<<<<<< HEAD
 | US##     | Deixar o usuário testar a versão plus |
+=======
+| US50     | Deixar o usuário testar a versão plus |
+>>>>>>> 7b61a6047368d76b9d424a60db5ebcd74f510c4d
 | Descrição | _Eu como_ desenvolvedor _Desejo_ dar a oportunidade do usuário testar a versão plus do aplicativo _Para que eu como desenvolvedor tenha mais chance de usuários aderindo à versão paga do aplicativo_  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Disponibilidade da versão por tem determindado </br> > Deve-se apresentar um pop-up de forma gratuita e convicente </br>|
 
 | **ID** | **Nome** |
 |:-------|:---------|
+<<<<<<< HEAD
 | US##     | Aderir ao Duolingo Plus |
+=======
+| US51     | Aderir ao Duolingo Plus |
+>>>>>>> 7b61a6047368d76b9d424a60db5ebcd74f510c4d
 | Descrição | _Eu como_ usuário _Desejo_ ter acesso à versão com exclusividades para ter melhor aproveito do aplicativo _Para que o eu como usuário me sinta mais satisfeito ao usar mais o aplicativo e a aprender de forma mais eficiente_  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ser usuário que não recebeu ainda o tempo de teste da versão plus </br> > Deve-se pagar a taxa para utilizar a versão paga </br>|
 
@@ -377,7 +417,11 @@ Para a elaboração das Histórias de Usuários foi contruído _card_, como é m
 
 | **ID** | **Nome** |
 |:-------|:---------|
+<<<<<<< HEAD
 | US##     | Mostrar ao usuário que não é plus anúncios |
+=======
+| US52     | Mostrar ao usuário que não é plus anúncios |
+>>>>>>> 7b61a6047368d76b9d424a60db5ebcd74f510c4d
 | Descrição | _Eu como_ desenvolvedor _Desejo_ mostrar ao meu usuário anúncios de propagandas _Para que o meu usuário tenha motivos maiores para aderir a versão paga e eu posso desenvolvedor e empresa possa lucrar com propagandas_  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ser usuário que não está no plano plus </br> > O usuário deve completar um ciclo de tarefas para que apareça o anúncio </br>|
 
