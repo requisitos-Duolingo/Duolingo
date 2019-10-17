@@ -11,7 +11,7 @@
 
 |**Épicos**|**Feature**|**ID**|**História de usuário**|
 |:---------|:----------|:----:|:----------------------|
-|E01 - Cadastro e Autenticação | Feature 1 - Cadastro e Autenticação | | |
+| E01 - Cadastro e Autenticação | Feature 1 - Cadastro e Autenticação | | |
 || | US01 | Elaborar formulário de interese de curso |
 ||| US02 | Elaborar formulário de informações pessoais |
 ||| US03 | Validação do formulário de informações pessoais |
@@ -20,7 +20,7 @@
 ||| US05 | Validação do formulário de login |
 ||Feature 3 - Logout| | |
 ||| US06 | Fazer logout |
-||Feature 4 - Perfil| | |
+| E02 - Perfil |Feature 4 - Perfil| | |
 ||| US07 | Alterar Avatar |
 ||| US08 | Alterar Nome |
 ||| US09 | Alterar Nome de Usuário |
@@ -43,10 +43,10 @@
 ||| US24 | Alterar Horário de Lembrete |
 ||| US25 | Visualizar Termos |
 ||| US26 | Visualizar Privacidade |
-||Feature 7| | |
+||Feature 7 - Central de Ajuda| | |
 ||| US27 | Visualizar Privacidade |
 ||| US28 | Visualizar Central de Ajuda |
-||Feature 8 - Curso| | |
+|E03 - Cursos|Feature 8 - Curso| | |
 ||| US29 | Escolher um curso |
 ||| US30 | Adicionar um curso |
 ||Feature 9 - Aula| | |
@@ -56,7 +56,7 @@
 ||| US34 | Progressão de exercícios |
 ||Feature 10 - Seção| | |
 ||| US35 | Aulas organizadas por seção |
-||Feature 11 - Ranking| | |
+|E04 - Gamificação|Feature 11 - Ranking| | |
 ||| US36 | Ver o Ranking |
 ||| US37 | Subir de Liga |
 ||| US38 | Rebaixamento de Liga |
@@ -78,7 +78,7 @@
 ||| US48 | Compra de Traje formal |
 ||| US49 | Compra de Traje esportivo dourado |
 ||| US50 | Compra de Traje super Duo |
-||Feature 18 - Duolingo Plus|
+|E05 - Lucro|Feature 18 - Duolingo Plus|
 ||| US51 | Deixar o usuário testar a versão plus |
 ||| US52 | Aderir ao Duolingo Plus |
 ||| US56 | Mostrar ao usuário que não é plus anúncios |
