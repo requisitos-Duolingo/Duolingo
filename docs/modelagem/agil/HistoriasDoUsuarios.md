@@ -162,21 +162,25 @@ Para a elaboração das Histórias de Usuários foi contruído _card_, como é m
 
 ### Feature 6 - Avisos
 
+| **ID** | **Nome** |
 |:-------|:---------|
 | US21 | Ativar/Desativar Ligas |
 | Descrição | _Eu, como_ usuário, _desejo_ a minha participação nas ligas _para que eu possa_ escolher progredir no aprendizado da maneira que me agradar mais |
 | Critérios de Aceitação | Deve conter as seguintes opções: </br> > Um [switch](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/) que mostra a minha participação nas ligas </br> > Ao clicar no switch, ele deve alterar o comportamento da minha participação nas ligas |
 
+| **ID** | **Nome** |
 |:-------|:---------|
 | US22 | Ativar/Desativar Lembrete de Praticar |
 | Descrição | _Eu, como_ usuário, _desejo_ alterar o lembrete de praticar _para que eu possa_ ser lembrado de praticar o(s) idioma(s) que estou aprendendo |
 | Critérios de Aceitação | Deve conter as seguintes opções: </br> > Um [switch](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/) que mostra o lembrete de praticar </br> > Ao clicar no switch, ele deve alterar o comportamento do lembrete de praticar |
 
+| **ID** | **Nome** |
 |:-------|:---------|
 | US23 | Ativar/Desativar Atualização de Produtos |
 | Descrição | _Eu, como_ usuário, _desejo_ alterar a atualização de produtos _para que eu possa_ gerenciar melhor a utilização de dados no App |
 | Critérios de Aceitação | Deve conter as seguintes opções: </br> > Um [switch](https://developer.apple.com/design/human-interface-guidelines/ios/controls/switches/) que mostra a atualização de produtos </br> > Ao clicar no switch, ele deve alterar o comportamento da atualização de produtos |
 
+| **ID** | **Nome** |
 |:-------|:---------|
 | US24 | Alterar Horário de Lembrete |
 | Descrição | _Eu, como_ usuário, _desejo_ alterar o horário de lembrete _para que eu possa_ ser lembrado de praticar no melhor horário para mim |
@@ -188,6 +192,7 @@ Para a elaboração das Histórias de Usuários foi contruído _card_, como é m
 | Descrição | _Eu, como_ usuário, _desejo_ visualizar os termos e condições de serviço _para que eu possa_ saber sobre a parte legal do aplicativo |
 | Critérios de Aceitação | Deve conter as seguintes opções: </br> > Ao clicar no botão de Termos, devo ser redirecionado para uma página web que explique sobre os termos e condições de serviço do Duolingo |
 
+| **ID** | **Nome** |
 |:-------|:---------|
 | US26 | Visualizar Privacidade |
 | Descrição | _Eu, como_ usuário, _desejo_ visualizar a política de privacidade _para que eu possa_ saber sobre a parte legal do aplicativo |
