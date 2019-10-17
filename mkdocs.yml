@@ -50,7 +50,7 @@ nav:
     - Especificação Suplementar: modelagem/EspecificacaoSuplementar.md
     - NFR Framework: modelagem/NFR.md
     - Ágil:
-      - Histórias do Usuários: modelagem/agil/HistoriasDoUsuarios.md
       - Backlog do Produto: modelagem/agil/Backlog.md
+      - Histórias do Usuários: modelagem/agil/HistoriasDoUsuarios.md
   #  - Análise:
   #  - Pós-Rastreabilidade: 
