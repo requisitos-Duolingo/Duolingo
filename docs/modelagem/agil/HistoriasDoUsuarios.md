@@ -251,7 +251,31 @@ Para a elaboração das Histórias de Usuários foi contruído _card_, como é m
 
 ### Feature 11 - Ranking
 
+| **ID** | **Nome** |
+|:-------|:---------|
+| US##     | Ver o Ranking |
+| Descrição | _Eu como_ usuário _Desejo_ ter a seção de ranking _Para que eu possa visualizar meu rendimento em relação aos outros competidores da minha Liga_ |
+| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que existir  pelo menos uma Liga para que exista a competição </br> > Deve concluir no minimo uma questão no dia para ter acesso ao Ranking </br>|
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US##     | Subir de Liga |
+| Descrição | _Eu como_ usuário _Desejo_ subir de liga _Para que eu possa me engajar mais com a competição_ |
+| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que existir mais de uma liga para que se possa fazer um nivelamento maior </br> > Deve se ficar entre os N primeiros colocados para que seja promovido entre as ligas (número varia de acordo com a liga que o usuário participa) </br>|
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US##     | Rebaixamento de Liga |
+| Descrição | _Eu como_ desenvolvedor _Desejo_ criar um sistema de rebaixamento de liga _Para evitar que o usuário deixe de se engaijar com o passar do tempo_ |
+| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que existir mais de uma liga para que se possa fazer um nivelamento maior </br> > Caso o usuário fique entre as N ultimas posições (número varia de acordo com a liga do participante) </br>|
+
 ### Feature 12 - Conquistas
+
+| **ID** | **Nome** |
+|:-------|:---------|
+| US##     | Conquistas |
+| Descrição | _Eu como_ desenvolvedor _Desejo_ criar uma seção de conquistas _Para que o usuário se sinta satisfeito ao usar mais o aplicativo_  |
+| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que existir mais de uma liga para que se possa fazer um nivelamento maior </br> > Deve se ficar entre os 20 primeiros colocados para que seja promovido entre as ligas </br>|
 
 ### Feature 13 - Amigos
 
