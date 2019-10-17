@@ -8,7 +8,6 @@ O NRF é um framework para modelagem de requisitos não-funcionais, sendo que es
 
 Os NFR's foram separados por temas principais e foi utilizada a plataforma draw.io para criação dos mesmos.
 
-
 ## NFR Geral
 
 ![Imgur](https://i.imgur.com/W6ys5Qs.png)
@@ -28,3 +27,7 @@ Os NFR's foram separados por temas principais e foi utilizada a plataforma draw.
 ## Análise do NFR de Confiabilidade
 
 ![Imgur](https://i.imgur.com/IbA0Psg.png)
+
+## Referências
+
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 16. 1º/2019. 36 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
