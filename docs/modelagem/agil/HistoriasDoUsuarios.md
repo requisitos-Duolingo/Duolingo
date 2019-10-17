@@ -344,19 +344,19 @@ Para a elaboração das Histórias de Usuários foi contruído _card_, como é m
 | **ID** | **Nome** |
 |:-------|:---------|
 | US48     | Compra de Traje formal |
-| Descrição | _Eu como_ usuário _Desejo_ comprar o traje formal por 20 Lingots para meu Duo ficar mais caracterizado _Para que eu possa_ sentir que o aplicativo está mais pessoal e traga mais motivação_  |
+| Descrição | _Eu como_ usuário _Desejo_ comprar o traje formal por 20 Lingots para meu Duo ficar mais caracterizado _Para que eu possa_ sentir que o aplicativo está mais pessoal e traga mais motivação  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots suficientes </br>|
 
 | **ID** | **Nome** |
 |:-------|:---------|
 | US49     | Compra de Traje esportivo dourado |
-| Descrição | _Eu como_ usuário _Desejo_ comprar o traje esportivo dourado por 30 Lingots para meu Duo ficar mais caracterizado _Para que o eu possa_ sentir que o aplicativo está mais pessoal e traga mais motivação_  |
+| Descrição | _Eu como_ usuário _Desejo_ comprar o traje esportivo dourado por 30 Lingots para meu Duo ficar mais caracterizado _Para que o eu possa_ sentir que o aplicativo está mais pessoal e traga mais motivação  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots suficientes </br>|
 
 | **ID** | **Nome** |
 |:-------|:---------|
 | US50     | Compra de Traje super Duo |
-| Descrição | _Eu como_ usuário _Desejo_ comprar o traje super Duo por 50 Lingots para meu Duo ficar mais caracterizado _Para que eu possa_ sentir que o aplicativo está mais pessoal e traga mais motivação_  |
+| Descrição | _Eu como_ usuário _Desejo_ comprar o traje super Duo por 50 Lingots para meu Duo ficar mais caracterizado _Para que eu possa_ sentir que o aplicativo está mais pessoal e traga mais motivação  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots suficientes </br>|
 
 ### Feature 18 - Duolingo Plus
@@ -378,7 +378,7 @@ Para a elaboração das Histórias de Usuários foi contruído _card_, como é m
 | **ID** | **Nome** |
 |:-------|:---------|
 | US53     | Mostrar ao usuário que não é plus anúncios |
-| Descrição | _Eu como_ desenvolvedor _Desejo_ mostrar ao meu usuário anúncios de propagandas _Para que eu possa_ ver que meu usuários têm motivos maiores para aderir a versão paga e eu posso desenvolvedor e empresa possa lucrar com propagandas_  |
+| Descrição | _Eu como_ desenvolvedor _Desejo_ mostrar ao meu usuário anúncios de propagandas _Para que eu possa_ ver que meu usuários têm motivos maiores para aderir a versão paga e eu posso desenvolvedor e empresa possa lucrar com propagandas  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ser usuário que não está no plano plus </br> > O usuário deve completar um ciclo de tarefas para que apareça o anúncio </br>|
 
 ## Referências
