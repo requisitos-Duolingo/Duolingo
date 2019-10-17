@@ -254,131 +254,131 @@ Para a elaboração das Histórias de Usuários foi contruído _card_, como é m
 | **ID** | **Nome** |
 |:-------|:---------|
 | US35   | Ver o Ranking |
-| Descrição | _Eu como_ usuário _Desejo_ ter a seção de ranking _Para que eu possa visualizar meu rendimento em relação aos outros competidores da minha Liga_ |
+| Descrição | _Eu como_ usuário _Desejo_ ter a seção de ranking _Para que eu possa_ visualizar meu rendimento em relação aos outros competidores da minha Liga |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que existir  pelo menos uma Liga para que exista a competição </br> > Deve concluir no minimo uma questão no dia para ter acesso ao Ranking </br>|
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US35   | Subir de Liga |
-| Descrição | _Eu como_ usuário _Desejo_ subir de liga _Para que eu possa me engajar mais com a competição_ |
+| US36   | Subir de Liga |
+| Descrição | _Eu como_ usuário _Desejo_ subir de liga _Para que eu possa_ me engajar mais com a competição |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que existir mais de uma liga para que se possa fazer um nivelamento maior </br> > Deve se ficar entre os N primeiros colocados para que seja promovido entre as ligas (número varia de acordo com a liga que o usuário participa) </br>|
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US36   | Rebaixamento de Liga |
-| Descrição | _Eu como_ desenvolvedor _Desejo_ criar um sistema de rebaixamento de liga _Para evitar que o usuário deixe de se engaijar com o passar do tempo_ |
+| US37   | Rebaixamento de Liga |
+| Descrição | _Eu como_ desenvolvedor _Desejo_ criar um sistema de rebaixamento de liga _Para que eu possa_ evitar que o usuário deixe de se engaijar com o passar do tempo |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que existir mais de uma liga para que se possa fazer um nivelamento maior </br> > Caso o usuário fique entre as N ultimas posições (número varia de acordo com a liga do participante) </br>|
 
 ### Feature 12 - Conquistas
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US37   | Conquistas |
-| Descrição | _Eu como_ desenvolvedor _Desejo_ criar uma seção de conquistas _Para que o usuário se sinta satisfeito ao usar mais o aplicativo_  |
+| US38   | Conquistas |
+| Descrição | _Eu como_ usuário _Desejo_ ter uma seção de conquistas _Para que eu possa_ me sentir satisfeito ao usar mais o aplicativo  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que existir mais de uma liga para que se possa fazer um nivelamento maior </br> > Deve se ficar entre os 20 primeiros colocados para que seja promovido entre as ligas </br>|
 
 ### Feature 13 - Amigos
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US38   | Amigos |
-| Descrição | _Eu como_ usuário _Desejo_ poder seguir meus amigos _Para que eu possa acompanhar o ritmo do meu amigo no curso_  |
+| US39   | Amigos |
+| Descrição | _Eu como_ usuário _Desejo_ poder seguir meus amigos _Para que eu possa_ acompanhar o ritmo do meu amigo no curso  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Deve existir uma seção de amigos no aplicativo </br> > Deve ser possível seguir o amigo no aplicativo </br> > Deve ser possível ver o rendimento do amigo no aplicativo|
 
 ### Feature 14 - Ofensiva
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US39   | Ofensiva |
-| Descrição | _Eu como_ desenvolvedor _Desejo_ criar uma meta de engajamento chamada "ofensiva" _Para que o usuário tenha mais motivação para usar o aplicativo todos os dias_  |
+| US40   | Ofensiva |
+| Descrição | _Eu como_ desenvolvedor _Desejo_ criar uma meta de engajamento chamada "ofensiva" _Para que eu possa_ dar ao usuário tenha mais motivação para usar o aplicativo todos os dias  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > O usuário ganha ofensiva ao realizar uma tarefa no dia </br> > O usuário deve fazer tarefas todos os dias para manter a ofensiva </br> > Ao deixar de fazer lições no dia a ofensiva do usuário é perdida|
 
 ### Feature 15 - Nível
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US40   | Seções |
-| Descrição | _Eu como_ desenvolvedor _Desejo_ dividir os cursos em módulos (seções) bem definidas _Para que o usuário possa ter uma melhor esperiencia ao fazer o curso_  |
+| US41   | Seções |
+| Descrição | _Eu como_ desenvolvedor _Desejo_ dividir os cursos em módulos (seções) bem definidas _Para que eu possa_ dar ao usuário uma melhor esperiencia ao fazer o curso  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > O curso deve ser dividido em seções para que seja possível acompanhar o rendimento do aluno durante o curso </br> > Deve existir um teste de nivelamento para que o usuário possa pular as seções que ele já possui um conhecimento prévio|
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US41   | Tópico |
-| Descrição | _Eu como_ desenvolvedor _Desejo_ dividir os módulos do curso tópicos _Para que o aprendizado seja ainda mais efetivo_  |
+| US42   | Tópico |
+| Descrição | _Eu como_ desenvolvedor _Desejo_ dividir os módulos do curso tópicos _Para que eu possa_ dar ao usuário um aprendizado seja ainda mais efetivo  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Cada seção do curso deve ter um número de tópicos adequado </br> > Ao concluir os Tópicos da seção anterior deve-se liberar a nova seção </br> > Cada tópico deve ser dividido em 5 níveis|
 
 ### Feature 16 - Lingots
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US##     | Lingots por finalizar tarefas diárias |
-| Descrição | _Eu como_ usuário _Desejo_ receber a moeda gamificada (Lingots) após completar minha tarefa diária _Para que eu como usuário me sinta mais satisfeito ao usar mais o aplicativo_  |
+| US43     | Lingots por finalizar tarefas diárias |
+| Descrição | _Eu como_ usuário _Desejo_ receber a moeda gamificada (Lingots) após completar minha tarefa diária _Para que eu possa_ me sentir mais satisfeito ao usar mais o aplicativo  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que determinar a meta diária </br> > Deve-se chegar até ofinal das tarefas diárias de forma completa </br>|
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US##     | Lingots por finalizar módulo de tarefas |
-| Descrição | _Eu como_ usuário _Desejo_ receber a moeda gamificada (Lingots) após completar um módulo de tarefa  _Para que eu como usuário me sinta mais motivado ao usar o aplicativo e a aprender mais_  |
+| US44     | Lingots por finalizar módulo de tarefas |
+| Descrição | _Eu como_ usuário _Desejo_ receber a moeda gamificada (Lingots) após completar um módulo de tarefa  _Para que eu possa_ me sentir mais motivado ao usar o aplicativo e a aprender mais  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que estar de acordo com o nível </br> > Deve-se chegar até ofinal das tarefas do módulo de forma completa </br>|
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US##     | Lingots por finalizar a liga entre os três primeiros |
-| Descrição | _Eu como_ usuário _Desejo_ receber a moeda gamificada (Lingots) após o final do período de uma liga terminando entre os três primeiros colocados  _Para que eu como usuário me sinta mais motivado ao usar o aplicativo e a aprender mais_  |
+| US45     | Lingots por finalizar a liga entre os três primeiros |
+| Descrição | _Eu como_ usuário _Desejo_ receber a moeda gamificada (Lingots) após o final do período de uma liga terminando entre os três primeiros colocados _Para que eu possa_ me sentir mais motivado ao usar o aplicativo e a aprender mais  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que estar de acordo com o nível da liga </br> > Deve-se chegar até ofinal do período da liga entre os três primeiros colocados </br>|
 
 ### Feature 17 - Loja
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US##     | Compra de "Bloqueio de ofensivos" |
-| Descrição | _Eu como_ usuário _Desejo_ comprar a skill por 10 Lingots para congelar danos cousados por tempo fora do app sem preaticar _Para que eu como usuário me sinta ainda em equidade para competir de forma gamificada com meus amigos e colegas_  |
-| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots sufientes </br> >|
+| US46     | Compra de "Bloqueio de ofensivos" |
+| Descrição | _Eu como_ usuário _Desejo_ comprar a skill por 10 Lingots para congelar danos cousados por tempo fora do app sem preaticar _Para que eu possa_ me sentir ainda em equidade para competir de forma gamificada com meus amigos e colegas  |
+| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots sufientes </br>|
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US##     | Compra de "Dobro ou nada" |
-| Descrição | _Eu como_ usuário _Desejo_ comprar a skill por 5 Lingots para aumentar meus pontos xp _Para que eu como usuário me sinta mais motivado a continuar utilizando o app e ganhar pontos de experiência_  |
-| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots suficientes </br> >|
+| US47     | Compra de "Dobro ou nada" |
+| Descrição | _Eu como_ usuário _Desejo_ comprar a skill por 5 Lingots para aumentar meus pontos xp _Para que eu possa_ me sentir mais motivado a continuar utilizando o app e ganhar pontos de experiência  |
+| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots suficientes </br>|
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US##     | Compra de Traje formal |
-| Descrição | _Eu como_ usuário _Desejo_ comprar o traje formal por 20 Lingots para meu Duo ficar mais caracterizado _Para que eu como usuário sinta que o aplicativo está mais pessoal e traga mais motivação_  |
-| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots suficientes </br> >|
+| US48     | Compra de Traje formal |
+| Descrição | _Eu como_ usuário _Desejo_ comprar o traje formal por 20 Lingots para meu Duo ficar mais caracterizado _Para que eu possa_ sentir que o aplicativo está mais pessoal e traga mais motivação  |
+| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots suficientes </br>|
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US##     | Compra de Traje esportivo dourado |
-| Descrição | _Eu como_ usuário _Desejo_ comprar o traje esportivo dourado por 30 Lingots para meu Duo ficar mais caracterizado _Para que o eu como usuário sinta que o aplicativo está mais pessoal e traga mais motivação_  |
-| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots suficientes </br> >|
+| US49     | Compra de Traje esportivo dourado |
+| Descrição | _Eu como_ usuário _Desejo_ comprar o traje esportivo dourado por 30 Lingots para meu Duo ficar mais caracterizado _Para que o eu possa_ sentir que o aplicativo está mais pessoal e traga mais motivação  |
+| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots suficientes </br>|
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US##     | Compra de Traje super Duo |
-| Descrição | _Eu como_ usuário _Desejo_ comprar o traje super Duo por 50 Lingots para meu Duo ficar mais caracterizado _Para que eu como usuário sinta que o aplicativo está mais pessoal e traga mais motivação_  |
-| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots suficientes </br> >|
+| US50     | Compra de Traje super Duo |
+| Descrição | _Eu como_ usuário _Desejo_ comprar o traje super Duo por 50 Lingots para meu Duo ficar mais caracterizado _Para que eu possa_ sentir que o aplicativo está mais pessoal e traga mais motivação  |
+| Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ter Lingots suficientes </br>|
 
 ### Feature 18 - Duolingo Plus
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US##     | Deixar o usuário testar a versão plus |
-| Descrição | _Eu como_ desenvolvedor _Desejo_ dar a oportunidade do usuário testar a versão plus do aplicativo _Para que eu como desenvolvedor tenha mais chance de usuários aderindo à versão paga do aplicativo_  |
+| US51     | Deixar o usuário testar a versão plus |
+| Descrição | _Eu como_ desenvolvedor _Desejo_ dar a oportunidade do usuário testar a versão plus do aplicativo _Para que eu possa_ ver que tenho mais chance de usuários aderindo à versão paga do aplicativo  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Disponibilidade da versão por tem determindado </br> > Deve-se apresentar um pop-up de forma gratuita e convicente </br>|
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US##     | Aderir ao Duolingo Plus |
-| Descrição | _Eu como_ usuário _Desejo_ ter acesso à versão com exclusividades para ter melhor aproveito do aplicativo _Para que o eu como usuário me sinta mais satisfeito ao usar mais o aplicativo e a aprender de forma mais eficiente_  |
+| US52     | Aderir ao Duolingo Plus |
+| Descrição | _Eu como_ usuário _Desejo_ ter acesso à versão com exclusividades para ter melhor aproveito do aplicativo _Para que o eu possa_ me sinta mais satisfeito ao usar mais o aplicativo e a aprender de forma mais eficiente  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ser usuário que não recebeu ainda o tempo de teste da versão plus </br> > Deve-se pagar a taxa para utilizar a versão paga </br>|
 
 ### Feature 19 - Anúncios
 
 | **ID** | **Nome** |
 |:-------|:---------|
-| US##     | Mostrar ao usuário que não é plus anúncios |
-| Descrição | _Eu como_ desenvolvedor _Desejo_ mostrar ao meu usuário anúncios de propagandas _Para que o meu usuário tenha motivos maiores para aderir a versão paga e eu posso desenvolvedor e empresa possa lucrar com propagandas_  |
+| US53     | Mostrar ao usuário que não é plus anúncios |
+| Descrição | _Eu como_ desenvolvedor _Desejo_ mostrar ao meu usuário anúncios de propagandas _Para que eu possa_ ver que meu usuários têm motivos maiores para aderir a versão paga e eu posso desenvolvedor e empresa possa lucrar com propagandas  |
 | Críterios de Aceitação| Deve contém as seguintes opções: </br> > Tem que ser usuário que não está no plano plus </br> > O usuário deve completar um ciclo de tarefas para que apareça o anúncio </br>|
 
 ## Referências
