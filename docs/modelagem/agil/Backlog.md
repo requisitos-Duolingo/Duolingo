@@ -4,10 +4,9 @@
 
 </p>O backlog do Produto é uma listagem de todos os afazeres pendentes a ser fazer no projeto. Esses afazeres geralmente são levantados a partir de reuniões entre a equipe de desenvolvimento, ou algum representante, o PO (Product Owner). Por isso geralmente esses afazeres são bem subjetivos.
 
-#Metodologia
+## Metodologia
 
 </p>Para a confecção do backlog utilizamos o metodo de instrospecção e análise do aplicativo. Apartir disto geramos os temas e épicos, as histórias de usuário, e então definimos o backlog do produto.
-
 
 |**Épicos**|**Feature**|**ID**|**História de usuário**|
 |:---------|:----------|:----:|:----------------------|
@@ -83,3 +82,6 @@
 ||| US52 | Aderir ao Duolingo Plus |
 ||| US56 | Mostrar ao usuário que não é plus anúncios |
 
+## Referências
+
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15. 1º/2019. 46 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
