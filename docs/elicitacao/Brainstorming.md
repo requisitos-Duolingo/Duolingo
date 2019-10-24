@@ -143,7 +143,7 @@ O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos se
 
 ## Referências
 
-SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
 Tutorial: Como fazer Brainstorming Passo a Passo. Disponível em: https://www.siteware.com.br/metodologias/como-fazer-brainstorming-passo-a-passo/ Acesso em: 07 de setembro de 2019.
 

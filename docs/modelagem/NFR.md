@@ -153,6 +153,9 @@ Os NFR's foram separados por temas principais e foi utilizada a plataforma draw.
 | **Versão**  | Atual: 0.1 </br>Anterior: --
 | **Autores** | João Vitor Alves e Brian Lui |
 
+
 ## Referências
 
-SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 17. 1º/2019. 7-28 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 17. 1º/2019. 7-28 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
+BIAS, Randolph; KARAT, Clare-Marie. Justifying Cost-Justifying Usability - Chapter 1. 16 páginas. Material apresentado na disciplina de Interação Humana Computador no curso de Engenharia de Software da UnB, FGA.
