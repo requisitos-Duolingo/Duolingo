@@ -105,14 +105,14 @@ O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos se
 
 | ID | Descrição | Tipo |
 |----|:---------:|------|
-| AD01 | O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender | RF01 |
-| AD02 | O sistema deve permitir que o usuário faça login com email/facebook ou conta do google | RF02 |
-| AD03 | A aplicação deve permitir que o usuário veja o seu progresso | RF03 |
-| AD04 | O sistema permite que o usuário adicione e siga amigos | RF04 |
-| AD05 | O sistema deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala | RF05 |
-| AD06 | O sistema deve dar feedback a cada questão acertada ou errada pelo usuário | RF06 |
-| AD07 | A aplicação deve ser fácil de ser utilizada | RNF01 |
-| AD08 | A aplicação deve ser gamificada de forma a mater o usuario engajado e motivado | RNF02 |
+| AD01 | O aplicativo deve permitir que o usuário realize a escolha do idioma que quer aprender | RF01 |
+| AD02 | O aplicativo deve permitir que o usuário faça login com email/facebook ou conta do google | RF02 |
+| AD03 | O aplicativo deve permitir que o usuário veja o seu progresso | RF03 |
+| AD04 | O aplicativo permite que o usuário adicione e siga amigos | RF04 |
+| AD05 | O aplicativo deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala | RF05 |
+| AD06 | O aplicativo deve dar feedback a cada questão acertada ou errada pelo usuário | RF06 |
+| AD07 | O aplicativo deve ser fácil de ser utilizada | RNF01 |
+| AD08 | O aplicativo deve ser gamificada de forma a mater o usuario engajado e motivado | RNF02 |
 | AD09 | O usuário é recompesado cada vez que termina uma unidade ou nível | RNF03 |
 | AD10 | O sistema é divido em níveis e com uma progressão ideal para cada módulo | RNF04 |
 | AD11 | Metas diárias com períodos de pouco tempo | RNF05 |
