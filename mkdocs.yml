@@ -52,5 +52,15 @@ nav:
     - Ágil:
       - Backlog do Produto: modelagem/agil/Backlog.md
       - Histórias do Usuários: modelagem/agil/HistoriasDoUsuarios.md
-  #  - Análise:
+  - Análise:
+    - Verificação:
+      - Inspecção: analise/verificacao/inspeccao.md
+      - Inspecção - Blacklog do Produto: analise/verificacao/inspeccaoBacklog.md
+      - Inspecção - Casos de Uso: analise/verificacao/inspeccaoCasoDeUso.md
+      - Inspecção - Léxicos: analise/verificacao/inspeccaoLexico.md
+      - Inspecção - Cenários: analise/verificacao/inspeccaoCenario.md
+      - Inspecção - Especificação Suplementar: analise/verificacao/inspeccaoEspecificacao.md
+      - Inspecção - NFR: analise/verificacao/inspeccaoNFR.md
+    - Validação:
+      - Prototipação de Alta Fidelidade: analise/validacao/prototipoAltaFidelidade.md
   #  - Pós-Rastreabilidade: 
