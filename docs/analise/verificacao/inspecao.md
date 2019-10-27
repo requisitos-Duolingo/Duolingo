@@ -4,7 +4,7 @@ Inspeções podem ser aplicados na definição de requisitos para a verificaçã
 
 ## Metodologia
 
-Para avaliar parâmetros e avaliar for selecionado alguns atefatos da documentação e por meio deles será feito a inspeção:
+Para avaliar parâmetros e avaliar foi selecionado alguns atefatos da documentação e por meio deles será feito a inspeção:
 
 * [Backlog do Produto](https://requisitos-de-software.github.io/2019.2-Duolingo/analise/verificacao/inspecaoBacklog/)
 * [Casos de Uso](https://requisitos-de-software.github.io/2019.2-Duolingo/analise/verificacao/inspecaoCasoDeUso/)
