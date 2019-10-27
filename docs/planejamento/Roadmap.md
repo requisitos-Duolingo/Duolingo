@@ -9,3 +9,9 @@ O roadmap do projeto tem como base as principais entregas a serem realizadas. As
 ![alt text](https://i.imgur.com/NpObWOZ.png)
 
 [Clique aqui para visualizar a tabela em tamanho Real](https://docs.google.com/spreadsheets/d/1Uh2hdOAQyWByo5RIJZSTZ-i1NH-a-IAq-LYemBteSAs/edit?usp=sharing)
+
+## Referências
+
+SCRUM. Disponível em: https://www.desenvolvimentoagil.com.br/scrum/ Acesso em: 24 de outubro de 2019.
+
+EXTREME PROGRAMMING. Disponível em: https://www.desenvolvimentoagil.com.br/xp/ Acesso em: 24 de outubro de 2019.

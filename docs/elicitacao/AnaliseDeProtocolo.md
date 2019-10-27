@@ -6,10 +6,10 @@ Análise de protocolo é uma técnica para realização de elicitação de requi
 
 Para a realização do método foi escolhido um usuário volutário que estava interressado em aprender um novo idioma e nunca tinha acessado a aplicação Duolingo, assim, foi possível recolher e documentar as ações realizadas pelo mesmo.
 
-|Membros Participantes|
-|---------------------|
-|João Vitor Alves|
-|Francisco Heronildo|
+|Membros Participantes|Usuário Analisado|
+|---------------------|-----------------|
+|João Vitor Alves|Letícia|
+|Francisco Heronildo||
 
 ## Verbalização do Usuário
 
