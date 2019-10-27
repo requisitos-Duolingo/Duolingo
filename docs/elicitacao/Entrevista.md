@@ -8,7 +8,7 @@ Esta técnica é bastante útil quando partes interessadas possuem muitos conhec
 
 Nesse trabalho foram realizadas apenas entrevistas fechadas.
 
-## Metodologia 
+## Metodologia
 
 As entrevistas foram feitas com usuários com perfis diferentes, de modo a entender como as funcionalidades são utilizadas por cada perfil. O único pré-requisito era que o entrevistado tivesse utilizado o duolingo por pelo menos 1 mês.
 

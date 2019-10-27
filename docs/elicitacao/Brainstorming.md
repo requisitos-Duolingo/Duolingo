@@ -17,7 +17,7 @@ O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos se
 |-------|------|------|
 | Google Hangouts | 07/09/2019 | 14:00 - 16:00 |
 
-|Membros participantes|
+|Membros Participantes|
 |---------------------|
 |João Vitor Alves|
 |Francisco Heronildo|
@@ -27,8 +27,6 @@ O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos se
 |Brian Lui|
 
 ---
-
-
 
 ## **Como aprender um idioma de forma fácil e sem custos?**
 
@@ -105,7 +103,6 @@ O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos se
 * RF - Requisitos funcionais
 * RNF - Requisitos não funcionais
 
-
 | ID | Descrição | Tipo |
 |----|:---------:|------|
 | AD01 | O sistema deve permitir que o usuário realize a escolha do idioma que quer aprender | RF01 |
@@ -127,8 +124,8 @@ O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos se
 
 | ID | Prioridade |
 |----|------------|
-| AD01 | Must | 
-| AD02 | Should | 
+| AD01 | Must |
+| AD02 | Should |
 | AD03 | Could |
 | AD04 | Could |
 | AD05 | Must |

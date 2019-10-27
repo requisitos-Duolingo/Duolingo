@@ -2,12 +2,13 @@
 
 Introspecção é uma técnica pelo qual o usuário observa os conteúdos de seus próprios estados mentais, tomando consciência deles, através de histórias contadas.
 
-|Membros participantes|
+|Membros Participantes|
 |---------------------|
 |Brian Lui|
 |Vitor Meireles|
 
 ## **Introspecção - Versão 1**
+
 ---
 
 ### **Primeiro acesso ao aplicativo:**

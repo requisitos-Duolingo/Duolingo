@@ -12,9 +12,22 @@ Para a elaboração das Histórias de Usuários foi contruído _card_, como é m
 | Descrição | _Eu, como_ XXX, _desejo_ XXX _para que eu possa_ XXX |
 | Critérios de Aceitação | Deve conter as seguintes opções: </br> > XXX </br> > XXX </br> |
 
+| Local | Data | Hora |
+|-------|------|------|
+| Google Hangouts | 14/10/2019 | 14:00 - 18:00 |
+
+|Membros Participantes|
+|---------------------|
+|Francisco Heronildo|
+|Lude Ribeiro|
+|Luis Gustavo|
+|Vitor Meireles|
+
 ## Épicos
 
 **Legenda**:
+
+* E: Épico.
 
 | **Épico** | **Descrição** | **Features** |
 |:----------|:-------------:|:-------------|

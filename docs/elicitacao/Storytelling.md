@@ -2,7 +2,7 @@
 
 Esse técnica contempla a elicitação de requisitos através de histórias contadas por usuários.
 
-|Membros participantes|
+|Membros Participantes|
 |---------------------|
 |Brian Lui|
 |Vitor Meireles|

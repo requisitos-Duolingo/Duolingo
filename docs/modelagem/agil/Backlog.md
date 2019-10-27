@@ -8,6 +8,17 @@
 
 </p>Para a confecção do backlog utilizamos o metodo de instrospecção e análise do aplicativo. Apartir disto geramos os temas e épicos, as histórias de usuário, e então definimos o backlog do produto.
 
+| Local | Data | Hora |
+|-------|------|------|
+| Google Hangouts | 16/10/2019 | 20:00 - 23:00 |
+
+|Membros Participantes|
+|---------------------|
+|Francisco Heronildo|
+|Lude Ribeiro|
+|Luis Gustavo|
+|Vitor Meireles|
+
 |**Épicos**|**Feature**|**ID**|**História de usuário**|
 |:---------|:----------|:----:|:----------------------|
 | E01 - Cadastro e Autenticação | Feature 1 - Cadastro e Autenticação | | |
