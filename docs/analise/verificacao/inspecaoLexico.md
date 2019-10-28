@@ -9,3 +9,26 @@ Checklist é básicamente um conjunto de perguntas ou afirmações sobre determi
 Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realizar a análise do modelo, apontar defeitos e problemas e verificar se atende aos requisitos específicados. Essas questões levam em consideração aspectos importantes para a compreensão de palavras especifícas dentro do ambiente educacional de Línguas, que no caso constituem o vocabulário típico no Duolingo. Será possível 2 repostas: 
 * Sim, sendo representado pelo símbolo de "Check" para sucesso
 * Não, sendo representado por um "X" para um insucesso.
+
+# Inspeção
+
+* 1 - Estrutura padrão</br>
+Os léxicos estão na estrutura padrão? Os Léxicos possuem nome, noção, classificação, impactos e sinônimos?
+
+* 2 - Nome e Noção</br>
+Os léxicos possuem nome e noção coerentes entre si?</br>
+A noção de cada léxico está clara e define o que é o simbolo(denotação)?
+
+* 3 - Classificação</br>
+Os símbolos estão devidamente classificados (sujeito, objeto, verbo, estado)?
+
+* 4 - Impactos</br>
+Os impactos descrevem o efeito, uso ou coerência do símbolo no sitema ou efeito de algo na aplicação sobre o símbolo?
+
+* 5 - Sinônimos</br>
+Os sinônimos quando necessário, possuem sinônimos?</br>
+Os sinônimos estão coerente aos símbolos?
+
+* 6 - Hiperlink</br>
+Os símbolos estão hiperlinkados estre si?</br>
+Os símbolos estão hiperlinkados com os cenários do sistema?
