@@ -10,27 +10,28 @@ Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realiz
 * Sim, sendo representado pelo símbolo de "Check" para sucesso
 * Não, sendo representado por um "X" para um insucesso.
 
-Perguntas :
-* 1 - Estrutura padrão</br>
-Os léxicos estão na estrutura padrão? Os Léxicos possuem nome, noção, classificação, impactos e sinônimos?
+### Perguntas :
 
-* 2 - Nome e Noção</br>
-Os léxicos possuem nome e noção coerentes entre si?</br>
-A noção de cada léxico está clara e define o que é o simbolo(denotação)?
+1-Estrutura padrão
+* Os léxicos estão na estrutura padrão? Os Léxicos possuem nome, noção, classificação, impactos e sinônimos?
 
-* 3 - Classificação</br>
-Os símbolos estão devidamente classificados (sujeito, objeto, verbo, estado)?
+2 - Nome e Noção
+* Os léxicos possuem nome e noção coerentes entre si?
+* A noção de cada léxico está clara e define o que é o simbolo(denotação)?
 
-* 4 - Impactos</br>
-Os impactos descrevem o efeito, uso ou coerência do símbolo no sitema ou efeito de algo na aplicação sobre o símbolo?
+3 - Classificação
+* Os símbolos estão devidamente classificados (sujeito, objeto, verbo, estado)?
 
-* 5 - Sinônimos</br>
-Os sinônimos quando necessário, possuem sinônimos?</br>
-Os sinônimos estão coerente aos símbolos?
+4 - Impactos
+* Os impactos descrevem o efeito, uso ou coerência do símbolo no sitema ou efeito de algo na aplicação sobre o símbolo?
 
-* 6 - Hiperlink</br>
-Os símbolos estão hiperlinkados estre si?</br>
-Os símbolos estão hiperlinkados com os cenários do sistema?
+5 - Sinônimos
+* Os sinônimos quando necessário, possuem sinônimos?
+* Os sinônimos estão coerente aos símbolos?
+
+6 - Hiperlink
+* Os símbolos estão hiperlinkados estre si?
+* Os símbolos estão hiperlinkados com os cenários do sistema?
 
 # Inspeção
 
