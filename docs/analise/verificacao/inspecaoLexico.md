@@ -10,8 +10,7 @@ Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realiz
 * Sim, sendo representado pelo símbolo de "Check" para sucesso
 * Não, sendo representado por um "X" para um insucesso.
 
-# Inspeção
-
+Perguntas :
 * 1 - Estrutura padrão</br>
 Os léxicos estão na estrutura padrão? Os Léxicos possuem nome, noção, classificação, impactos e sinônimos?
 
@@ -33,7 +32,7 @@ Os sinônimos estão coerente aos símbolos?
 Os símbolos estão hiperlinkados estre si?</br>
 Os símbolos estão hiperlinkados com os cenários do sistema?
 
-# Melhorias
+# Inspeção
 
 | Critérios de Sucesso | L01 | L02 | L03 | L04 | L05 | L06 | L07 | L08 | L09 | L10 |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -43,6 +42,8 @@ Os símbolos estão hiperlinkados com os cenários do sistema?
 | Impactos |
 | Sinônimos |
 | Hiperlink |
+
+# Melhorias
 
 # Conclusão
 
