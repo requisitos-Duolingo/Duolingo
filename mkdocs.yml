@@ -71,7 +71,7 @@ nav:
   - Análise:
     - Verificação:
       - Inspeção: analise/verificacao/inspecao.md
-      - Blacklog do Produto: analise/verificacao/inspecaoBacklog.md
+      - Backlog do Produto: analise/verificacao/inspecaoBacklog.md
       - Casos de Uso: analise/verificacao/inspecaoCasoDeUso.md
       - Léxicos: analise/verificacao/inspecaoLexico.md
       - Cenários: analise/verificacao/inspecaoCenario.md
