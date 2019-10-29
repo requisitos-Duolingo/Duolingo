@@ -1,16 +1,17 @@
-# Introdução
+## Introdução
 
-A verificação dos Léxicos tem como objetivo principal analisar um sistema para certificar se este atende aos requisitos funcionais e não funcionais. Deste modo, permite a Validação dos requisitos a fim de reduzir as dúvidas quanto ao funcionamento do sistema, para assim detectar os efeitos antes da etapa final de produção. 
-Com base nisso, foi utilizado o Checklist para fazer essa verificação o que facilita a identificação de erros. 
+A verificação dos Léxicos tem como objetivo principal analisar um sistema para certificar se este atende aos requisitos funcionais e não funcionais. Deste modo, permite a Validação dos requisitos a fim de reduzir as dúvidas quanto ao funcionamento do sistema, para assim detectar os efeitos antes da etapa final de produção.
+Com base nisso, foi utilizado o Checklist para fazer essa verificação o que facilita a identificação de erros.
 Checklist é básicamente um conjunto de perguntas ou afirmações sobre determinada circunstância ao qual se deseja verificar, dependendo da sua finalidade e objetivo.
 
-# Metodologia
+## Metodologia
 
-Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realizar a análise do modelo, apontar defeitos e problemas e verificar se atende aos requisitos específicados. Essas questões levam em consideração aspectos importantes para a compreensão de palavras especifícas dentro do ambiente educacional de Línguas, que no caso constituem o vocabulário típico no Duolingo. Será possível 2 repostas: 
-* Sim, sendo representado pelo símbolo de "Check" para sucesso
-* Não, sendo representado por um "X" para um insucesso.
+Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realizar a análise do modelo, apontar defeitos e problemas e verificar se atende aos requisitos específicados. Essas questões levam em consideração aspectos importantes para a compreensão de palavras especifícas dentro do ambiente educacional de Línguas, que no caso constituem o vocabulário típico no Duolingo. Será possível 2 repostas:
 
-### Perguntas :
+* Sim, sendo representado pelo símbolo de " :heavy_check_mark: " para sucesso
+* Não, sendo representado por um " :x: " para um insucesso.
+
+### Perguntas:
 
 1-Estrutura padrão
 * Os léxicos estão na estrutura padrão? Os Léxicos possuem nome, noção, classificação, impactos e sinônimos?
@@ -30,10 +31,10 @@ Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realiz
 * Os sinônimos estão coerente aos símbolos?
 
 6 - Hiperlink
-* Os símbolos estão hiperlinkados estre si?
+* Os símbolos estão hiperlinkados entre si?
 * Os símbolos estão hiperlinkados com os cenários do sistema?
 
-# Inspeção
+## Inspeção
 
 | Critérios de Sucesso | L01 | L02 | L03 | L04 | L05 | L06 | L07 | L08 | L09 | L10 |
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -44,7 +45,7 @@ Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realiz
 | Sinônimos | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Hiperlink | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 
-# Melhorias
+## Melhorias
 
 | Léxico | Melhoria |
 |:---|:---:|
@@ -59,11 +60,11 @@ Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realiz
 | L09 | Adicionar Hiperlink</br>|
 | L10 | Adicionar Hiperlink</br>|
 
-
-# Conclusão
+## Conclusão
 
 Foram avaliados 50% do total dos Léxicos. Dentre os Léxicos inspecionados, nenhum possui hiperlink, se encontram dentro do padrão, o Nome e a Noção se encontram coerentes entre si, os sinônimos se encontram coerentes com os símbolos. Deverá ser feito alguns ajustes em todos os Léxicos avaliados.
 
-# Referências
+
+## Referências
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 1º/2019. 37 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
