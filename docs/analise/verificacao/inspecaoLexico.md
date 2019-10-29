@@ -14,41 +14,48 @@ Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realiz
 ### Perguntas:
 
 1-Estrutura padrão
+
 * Os léxicos estão na estrutura padrão? Os Léxicos possuem nome, noção, classificação, impactos e sinônimos?
 
 2 - Nome e Noção
+
 * Os léxicos possuem nome e noção coerentes entre si?
 * A noção de cada léxico está clara e define o que é o simbolo(denotação)?
 
 3 - Classificação
+
 * Os símbolos estão devidamente classificados (sujeito, objeto, verbo, estado)?
 
 4 - Impactos
+
 * Os impactos descrevem o efeito, uso ou coerência do símbolo no sitema ou efeito de algo na aplicação sobre o símbolo?
 
 5 - Sinônimos
+
 * Os sinônimos quando necessário, possuem sinônimos?
 * Os sinônimos estão coerente aos símbolos?
 
 6 - Hiperlink
+
 * Os símbolos estão hiperlinkados entre si?
 * Os símbolos estão hiperlinkados com os cenários do sistema?
 
 ## Inspeção
 
 | Critérios de Sucesso | L01 | L02 | L03 | L04 | L05 | L06 | L07 | L08 | L09 | L10 |
-|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Estrutura Padrão | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Nome e Noção | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Classificação | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Impactos | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Sinônimos | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Hiperlink | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Porcetage de Sucesso | 68% | 84% | 84% | 84% | 68% | 84% | 84% | 84% | 84% | 84% |
 
 ## Melhorias
 
 | Léxico | Melhoria |
-|:---|:---:|
+|:-------|:---------|
 | L01 | Adicionar Hiperlink</br> Adicionar a Classificação</br>|
 | L02 | Adicionar Hiperlink</br>|
 | L03 | Adicionar Hiperlink</br>|
@@ -63,6 +70,10 @@ Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realiz
 ## Conclusão
 
 Foram avaliados 50% do total dos Léxicos. Dentre os Léxicos inspecionados, nenhum possui hiperlink, se encontram dentro do padrão, o Nome e a Noção se encontram coerentes entre si, os sinônimos se encontram coerentes com os símbolos. Deverá ser feito alguns ajustes em todos os Léxicos avaliados.
+
+|Análise realizada por|Local|Data|Hora|
+|---------------------|-----|----|----|
+|Brian Lui e Francisco Heronildo|Google Hangouts|28 de outubro de 2019|22:00 - 23:59|
 
 
 ## Referências
