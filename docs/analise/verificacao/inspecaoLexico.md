@@ -35,6 +35,15 @@ Os símbolos estão hiperlinkados com os cenários do sistema?
 
 # Melhorias
 
+| Critérios de Sucesso | L01 | L02 | L03 | L04 | L05 | L06 | L07 | L08 | L09 | L10 |
+|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Estrutura Padrão | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Nome e Noção | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Classificação |
+| Impactos |
+| Sinônimos |
+| Hiperlink |
+
 # Conclusão
 
 # Referências
