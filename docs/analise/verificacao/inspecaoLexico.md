@@ -38,14 +38,30 @@ Os símbolos estão hiperlinkados com os cenários do sistema?
 |:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Estrutura Padrão | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Nome e Noção | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Classificação |
-| Impactos |
-| Sinônimos |
-| Hiperlink |
+| Classificação | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Impactos | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Sinônimos | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Hiperlink | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
 
 # Melhorias
 
+| Léxico | Melhoria |
+|:---|:---:|
+| L01 | Adicionar Hiperlink</br> Adicionar a Classificação</br>|
+| L02 | Adicionar Hiperlink</br>|
+| L03 | Adicionar Hiperlink</br>|
+| L04 | Adicionar Hiperlink</br>|
+| L05 | Adicionar Hiperlink</br> Adicionar a Classificação</br>|
+| L06 | Adicionar Hiperlink</br>|
+| L07 | Adicionar Hiperlink</br>|
+| L08 | Adicionar Hiperlink</br>|
+| L09 | Adicionar Hiperlink</br>|
+| L10 | Adicionar Hiperlink</br>|
+
+
 # Conclusão
+
+Foram avaliados 50% do total dos Léxicos. Dentre os Léxicos inspecionados, nenhum possui hiperlink, se encontram dentro do padrão, o Nome e a Noção se encontram coerentes entre si, os sinônimos se encontram coerentes com os símbolos. Deverá ser feito alguns ajustes em todos os Léxicos avaliados.
 
 # Referências
 
