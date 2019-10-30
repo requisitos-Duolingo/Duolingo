@@ -8,7 +8,42 @@ A estratégias escolhida para a elaboração desse documento é a comprovação 
 
 ## Comprovação Informal
 
-### Comunicações
+## Comunicações Bem-Sucedidas
+
+_Ainda não foi possível ter êxito nas comunicações_ acompanhei as tentaivas no tópico abaixo [Comunicações Mal-Sucedidas](###-Comunicações-Mal-Sucedidas).
+
+## Comunicações Mal-Sucedidas
+
+### via E-mail
+
+![email0](https://i.imgur.com/z4xpnov.png)
+
+![email1](https://i.imgur.com/34IqTOD.png)
+
+![resp1](https://i.imgur.com/XdLku34.png)
+
+![email2](https://i.imgur.com/34IqTOD.png)
+
+![resp2](https://i.imgur.com/fiuG4SR.png)
+
+### via Twitter
+
+![twitter1](https://i.imgur.com/Qk2TFc5.png)
+
+![twitter1](https://i.imgur.com/Tk9iQND.jpg)
+
+![twitter2](https://i.imgur.com/QA8MofY.png)
+
+![twitter2](https://i.imgur.com/UXf0KQb.jpg)
+
+![twitter3](https://i.imgur.com/KvSpn0V.png)
+
+![twitter3](https://i.imgur.com/TPMtH5n.jpg)
+
+### via Instagram
+
+![instagram](https://i.imgur.com/JezYgxp.jpg)
+
 
 ## Referências
 
