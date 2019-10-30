@@ -42,7 +42,7 @@ Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realiz
 
 ## Inspeção
 
-| Critérios de Sucesso | L01 | L02 | L03 | L04 | L05 | L06 | L07 | L08 | L09 | L10 |
+| Critérios de Sucesso | [L01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L06](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L07](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L08](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L09](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L10](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) |
 |:---------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Estrutura Padrão | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Nome e Noção | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -50,7 +50,7 @@ Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realiz
 | Impactos | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Sinônimos | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Hiperlink | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Porcetage de Sucesso | 68% | 84% | 84% | 84% | 68% | 84% | 84% | 84% | 84% | 84% |
+| Total ( % ) | 68% | 84% | 84% | 84% | 68% | 84% | 84% | 84% | 84% | 84% |
 
 ## Melhorias
 
