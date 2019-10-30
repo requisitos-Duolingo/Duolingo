@@ -1,12 +1,10 @@
-#Backlog do Produto
-
 ## Introdução
 
-</p>O backlog do Produto é uma listagem de todos os afazeres pendentes a ser fazer no projeto. Esses afazeres geralmente são levantados a partir de reuniões entre a equipe de desenvolvimento, ou algum representante, o PO (Product Owner). Por isso geralmente esses afazeres são bem subjetivos.
+O backlog do Produto é uma listagem de todos os afazeres pendentes a ser fazer no projeto. Esses afazeres geralmente são levantados a partir de reuniões entre a equipe de desenvolvimento, ou algum representante, o PO (Product Owner). Por isso geralmente esses afazeres são bem subjetivos.
 
-#Metodologia
+## Metodologia
 
-</p>Para a confecção do backlog utilizamos o metodo de instrospecção e análise do aplicativo. Apartir disto geramos os temas e épicos, as histórias de usuário, e então definimos o backlog do produto.
+Para a confecção do backlog utilizamos o metodo de instrospecção e análise do aplicativo. Apartir disto geramos os temas e épicos, as histórias de usuário, e então definimos o backlog do produto.
 
 ## Épico01 - Cadastro e Autenticação
 
@@ -17,6 +15,7 @@
 | Feature 3 - Logout | US06 | Fazer logout |
 
 ## Épico02 - Perfil 
+
 |**Feature**|**ID**|**História de usuário**|
 |:----------:|:----:|:----------------------|
 |Feature 4 - Perfil| US07 </br></br> US08 </br> </br> US09 </br> </br> US10 </br> </br> US11 | Alterar Avatar </br> </br> Alterar Nome </br> </br> Alterar Nome de Usuário </br> </br> Alterar Senha </br> </br> Alterar Email |
@@ -25,6 +24,7 @@
 |Feature 7 - Central de Ajuda| US27 </br></br> US28 | Visualizar Privacidade </br></br> Visualizar Central de Ajuda |
 
 ## Épico03 - Cursos
+
 |**Feature**|**ID**|**História de usuário**|
 |:----------:|:----:|:----------------------|
 |Feature 8 - Curso| US29 </br></br> US30 | Escolher um curso </br></br> Adicionar um curso |
@@ -48,3 +48,8 @@
 |**Feature**|**ID**|**História de usuário**|
 |:----------:|:----:|:----------------------|
 |Feature 18 - Duolingo Plus| US51 <br> US52 <br> US53 | Deixar o usuário testar a versão plus <br> Aderir ao Duolingo Plus <br> Mostrar ao usuário que não é plus anúncios|
+
+
+## Referências
+
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15. 1º/2019. 46 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
