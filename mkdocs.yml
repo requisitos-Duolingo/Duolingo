@@ -78,5 +78,5 @@ nav:
       - Especificação Suplementar: analise/verificacao/inspecaoEspecificacao.md
       - NFR: analise/verificacao/inspecaoNFR.md
     - Validação:
-      - Comunicação com os Dev's: analise/validacao/comunicacao.md
+      - Comprovação Informal: analise/validacao/comunicacao.md
   #  - Pós-Rastreabilidade: 
