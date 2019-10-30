@@ -2,7 +2,7 @@
 
 Esse técnica contempla a elicitação de requisitos através de histórias contadas por usuários.
 
-|Membros participantes|
+|Membros Participantes|
 |---------------------|
 |Brian Lui|
 |Vitor Meireles|
@@ -105,4 +105,4 @@ a oportunidade de aprender um idioma, de vários disponíveis, de forma lúdica,
 
 ## Referências
 
-SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

@@ -2,12 +2,13 @@
 
 Introspecção é uma técnica pelo qual o usuário observa os conteúdos de seus próprios estados mentais, tomando consciência deles, através de histórias contadas.
 
-|Membros participantes|
+|Membros Participantes|
 |---------------------|
 |Brian Lui|
 |Vitor Meireles|
 
 ## **Introspecção - Versão 1**
+
 ---
 
 ### **Primeiro acesso ao aplicativo:**
@@ -291,4 +292,4 @@ Introspecção é uma técnica pelo qual o usuário observa os conteúdos de seu
 
 ## Referências
 
-SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

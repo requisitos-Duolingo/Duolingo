@@ -90,7 +90,7 @@ Também foi possível constatar que o sistema de feedback dado pelo aplicativo a
 | Q01  | O aplicativo deve oferecer cursos de diversos idiomas | RF01 |
 | Q02  | O aplicativo deve oferecer diferentes níveis para cada curso | RNF01 |
 | Q03  | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | RF02 |
-| Q04  | O aplicativo deve possuir suporte para que os usuários tenham contato com outros usuários | RF03 | 
+| Q04  | O aplicativo deve possuir suporte para que os usuários tenham contato com outros usuários | RF03 |
 | Q05  | O aplicativo deve ter um ranking disponível para competições entre amigos | RF04 |
 | Q06  | O aplicativo deve dar feedbacks para o usuário para que ele saiba melhor sobre seu desempenho | RF05 |
 | Q07  | O aplicativo deve contar o número de dias que o usuário utilizou o aplicativo | RNF02 |
@@ -113,4 +113,4 @@ Também foi possível constatar que o sistema de feedback dado pelo aplicativo a
 
 ## Referências
 
-SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

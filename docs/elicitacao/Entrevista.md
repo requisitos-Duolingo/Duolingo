@@ -8,7 +8,7 @@ Esta técnica é bastante útil quando partes interessadas possuem muitos conhec
 
 Nesse trabalho foram realizadas apenas entrevistas fechadas.
 
-## Metodologia 
+## Metodologia
 
 As entrevistas foram feitas com usuários com perfis diferentes, de modo a entender como as funcionalidades são utilizadas por cada perfil. O único pré-requisito era que o entrevistado tivesse utilizado o duolingo por pelo menos 1 mês.
 
@@ -164,9 +164,31 @@ Já finalizei o curso de Inglês. Acho que com o tempo eu vou dar conta de inter
 | ENT15 | Could |
 | ENT16 | Should |
 
+### First Things First
+
+| ID | Benefício relativo | Penalidade Relativa | Valor total | Valor % | Custo relativo | Custo % | Risco relativo | Risco % | Prioridade |
+|--------|----|----|-----|-------|----|-------|---|-------|--------|
+| ENT01  | 9  | 8  | 17  | 14,6% | 6  | 8,2%  | 5 | 7%    | 0,1734 |
+| ENT02  | 7  | 7  | 14  | 12%   | 8  | 10,9% | 7 | 9,9%  | 0,0767 |
+| ENT03  | 5  | 3  | 8   | 6,9%  | 3  | 4,1%  | 3 | 4,2%  | 0,2771 |
+| ENT04  | 5  | 3  | 8   | 6,9%  | 2  | 2,7%  | 3 | 4,2%  | 0,3833 |
+| ENT05  | 5  | 2  | 7   | 6%    | 5  | 6,8%  | 5 | 7%    | 0,0870 |
+| ENT06  | 4  | 2  | 6   | 5,1%  | 5  | 6,8%  | 6 | 8,5%  | 0,0600 |
+| ENT07  | 7  | 4  | 11  | 9,5%  | 6  | 8,2%  | 5 | 7%    | 0,1129 |
+| ENT08  | 6  | 3  | 9   | 7,8%  | 2  | 2,7%  | 2 | 2,8%  | 0,7090 |
+| ENT09  | 5  | 3  | 8   | 6,9%  | 4  | 5,5%  | 4 | 5,6%  | 0,1554 |
+| ENT10  | 3  | 1  | 4   | 3,4%  | 4  | 5,5%  | 3 | 4,2%  | 0,0982 |
+| ENT11  | 2  | 1  | 3   | 2,6%  | 5  | 6,9%  | 4 | 5,6%  | 0,0456 |
+| ENT12  | 2  | 2  | 4   | 3,4%  | 6  | 8,2%  | 7 | 9,9%  | 0,0287 |
+| ENT13  | 7  | 5  | 12  | 10,3% | 3  | 4,1%  | 4 | 5,6%  | 0,2969 |
+| ENT14  | 2  | 1  | 3   | 2,6%  | 3  | 4,1%  | 2 | 2,8%  | 0,1453 |
+| ENT15  | 1  | 1  | 2   | 1,7%  | 2  | 2,7%  | 2 | 2,8%  | 0,1545 |
+| ENT16  | 8  | 8  | 16  | 13,8% | 9  | 12,3% | 9 | 12,7% | 0,0613 |
+| Total | 74 | 54 | 116 | 100%  | 73 | 100%  | 71 | 100% |        |  
+
 
 ## Referências
 
-SEQ18RRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
 Demoiselle Process - Diretriz: Orientações para a Elicitação de Requisitos. Disponível em: http://demoiselle.sourceforge.net/process/ds/1.2.3-BETA1/ProcessoDemoisellePlugin/guidances/guidelines/orientacoesElicitacaoRequisitos_3AF37DEB.html Acesso em: 08 de setembro de 2019.
