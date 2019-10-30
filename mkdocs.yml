@@ -78,5 +78,5 @@ nav:
       - Especificação Suplementar: analise/verificacao/inspecaoEspecificacao.md
       - NFR: analise/verificacao/inspecaoNFR.md
     - Validação:
-      - Prototipação de Alta Fidelidade: analise/validacao/prototipoAltaFidelidade.md
+      - Comunicação com os Dev's: analise/validacao/comunicacao.md
   #  - Pós-Rastreabilidade: 

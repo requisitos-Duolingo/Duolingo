@@ -71,9 +71,9 @@ Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realiz
 
 Foram avaliados 50% do total dos Léxicos. Dentre os Léxicos inspecionados, nenhum possui hiperlink, se encontram dentro do padrão, o Nome e a Noção se encontram coerentes entre si, os sinônimos se encontram coerentes com os símbolos. Deverá ser feito alguns ajustes em todos os Léxicos avaliados.
 
-|Análise realizada por|Local|Data|Hora|
-|---------------------|-----|----|----|
-|Brian Lui e Francisco Heronildo|Google Hangouts|28 de outubro de 2019|22:00 - 23:59|
+|Verificação realizada por|Local|Data|
+|-------------------------|-----|----|
+|Brian Lui e Francisco Heronildo|Google Hangouts|28 de outubro de 2019|
 
 
 ## Referências

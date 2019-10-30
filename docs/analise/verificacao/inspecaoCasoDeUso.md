@@ -1,11 +1,10 @@
 ## Introdução
+
 Este documento tem como objetivo inspecionar os diagramas de casos de uso, estes diagramas foram desenvolvidos na disciplina de Requisitos no módulo de Modelagem de Requisitos. Foi utilizado o Checklist para fazer essa verificação o que facilita a identificação de erros. Checklist é básicamente um conjunto de perguntas ou afirmações sobre determinada circunstância ao qual se deseja verificar, dependendo da sua finalidade e objetivo.
 
 ## Metodologia
-Para inspecionar os casos de uso foi feito um checklist levando em consideração os topicos relevantes para a qualidade de um casos de uso. Esses topícos foram inspecionados e a partir desta inspeção o checklist foi preenchido. E com isso é possível analisar os dados presentes no checklist e por fim chegar a uma conclusão, se o caso de uso esta bem feito, atende ao modelo de caso de uso, segue a metodologia para o mesmo dentre outras conclusões.
 
-## Autores
-Luis Gustavo e Lude Ribeiro
+Para inspecionar os casos de uso foi feito um checklist levando em consideração os topicos relevantes para a qualidade de um casos de uso. Esses topícos foram inspecionados e a partir desta inspeção o checklist foi preenchido. E com isso é possível analisar os dados presentes no checklist e por fim chegar a uma conclusão, se o caso de uso esta bem feito, atende ao modelo de caso de uso, segue a metodologia para o mesmo dentre outras conclusões.
 
 ### Perguntas
 
@@ -54,6 +53,11 @@ Luis Gustavo e Lude Ribeiro
 ## Conclusão
 
 Todos os casos de uso foram analisados. Observa-se que os casos de uso não estão padronizados, várias ações (como apertar um botão ou algo aparecer na tela) foram confundidads de casos de uso, vários casos de uso não estão no imperativo. Assim o documentos de diagrama e especificação de casos de uso pode ser considerado **Regular**, e várias erros devem ser arrumados.
+
+|Verificação realizada por|Local|Data|
+|-------------------------|-----|----|
+|Lude Ribeiro e Luis Gustavo|Google Hangouts|29 de outubro de 2019|
+
 
 ## Referências
 
