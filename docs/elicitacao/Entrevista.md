@@ -166,7 +166,7 @@ Já finalizei o curso de Inglês. Acho que com o tempo eu vou dar conta de inter
 
 ### First Things First
 
-| ID | Benefício relativo | Penalidade Relativa | Valor total | Valor % | Custo relativo | Custo % | Risco relativo | Risco % | Prioridade |
+| ID | Benefício Relativo | Penalidade Relativa | Valor Total | Valor % | Custo Relativo | Custo % | Risco Relativo | Risco % | Prioridade |
 |--------|----|----|-----|-------|----|-------|---|-------|--------|
 | ENT01  | 9  | 8  | 17  | 14,6% | 6  | 8,2%  | 5 | 7%    | 0,1734 |
 | ENT02  | 7  | 7  | 14  | 12%   | 8  | 10,9% | 7 | 9,9%  | 0,0767 |
@@ -184,7 +184,7 @@ Já finalizei o curso de Inglês. Acho que com o tempo eu vou dar conta de inter
 | ENT14  | 2  | 1  | 3   | 2,6%  | 3  | 4,1%  | 2 | 2,8%  | 0,1453 |
 | ENT15  | 1  | 1  | 2   | 1,7%  | 2  | 2,7%  | 2 | 2,8%  | 0,1545 |
 | ENT16  | 8  | 8  | 16  | 13,8% | 9  | 12,3% | 9 | 12,7% | 0,0613 |
-| Total | 74 | 54 | 116 | 100%  | 73 | 100%  | 71 | 100% |        |  
+| Total  | 74 | 54 | 116 | 100%  | 73 | 100%  | 71 | 100% |        |
 
 
 ## Referências
