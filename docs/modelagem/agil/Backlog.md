@@ -10,7 +10,7 @@
 
 ## E01 - Cadastro e Autenticação 
 |**Feature**|**ID**|**História de usuário**|
-|:----------|:----:|:----------------------|
+|:----------:|:----:|:----------------------:|
 | Feature 1 - Cadastro e Autenticação | | |
 | | US01 | Elaborar formulário de interese de curso |
 || US02 | Elaborar formulário de informações pessoais |
@@ -23,7 +23,7 @@
 
 ## E02 - Perfil 
 |**Feature**|**ID**|**História de usuário**|
-|:----------|:----:|:----------------------|
+|:----------:|:----:|:----------------------:|
 |Feature 4 - Perfil| | |
 || US07 | Alterar Avatar |
 || US08 | Alterar Nome |
@@ -53,7 +53,7 @@
 
 ## E03 - Cursos
 |**Feature**|**ID**|**História de usuário**|
-|:----------|:----:|:----------------------|
+|:----------:|:----:|:----------------------:|
 |Feature 8 - Curso| | |
 || US29 | Escolher um curso |
 || US30 | Adicionar um curso |
@@ -68,7 +68,7 @@
 ## E04 - Gamificação
 
 |**Feature**|**ID**|**História de usuário**|
-|:----------|:----:|:----------------------|
+|:----------:|:----:|:----------------------:|
 |Feature 11 - Ranking| | |
 || US36 | Ver o Ranking |
 || US37 | Subir de Liga |
@@ -95,7 +95,7 @@
 ## E05 - Lucro
 
 |**Feature**|**ID**|**História de usuário**|
-|:----------|:----:|:----------------------|
+|:----------:|:----:|:----------------------:|
 |Feature 18 - Duolingo Plus|
 || US51 | Deixar o usuário testar a versão plus |
 || US52 | Aderir ao Duolingo Plus |
