@@ -60,14 +60,14 @@ Foram levantadas perguntas e afirmações sobre Cenários realizados, para reali
 | Critérios de Sucesso | C01 | C02 | C03 | C04 | C05 | C06 | C07 | C08 | C09 | C10 | C11 | C12 | C13 | C14 | C15 | C16 | C17 | C18 |
 |:---------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | Estrutura padrão | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Título | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Objetivo | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Título | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| Objetivo | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Contexto | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Autores | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Episódios | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Recursos | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Rastreabilidade | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Total | 7/8 | 7/8 | 7/8 | 7/8 | 7/8 | 7/8 | 7/8 | 7/8 | 7/8 | 7/8 | 7/8 | 7/8 | 7/8 | 7/8 | 7/8 | 7/8 | 7/8 | 7/8 |
+| Total | 7/8 | 7/8 | 6/8 | 6/8 | 7/8 | 7/8 | 7/8 | 7/8 | 7/8 | 5/8 | 7/8 | 7/8 | 7/8 | 7/8 | 6/8 | 7/8 | 7/8 | 6/8 |
 
 ## Melhorias
 
@@ -75,22 +75,22 @@ Foram levantadas perguntas e afirmações sobre Cenários realizados, para reali
 |:---------|:---------|
 | C01 | Adicionar Hiperlink</br>|
 | C02 | Adicionar Hiperlink</br>|
-| C03 | Adicionar Hiperlink</br>|
-| C04 | Adicionar Hiperlink</br>|
+| C03 | Adicionar Hiperlink</br> Especificar melhor o objetivo</br>|
+| C04 | Adicionar Hiperlink</br> Especificar melhor o objetivo</br>|
 | C05 | Adicionar Hiperlink</br>|
 | C06 | Adicionar Hiperlink</br>|
 | C07 | Adicionar Hiperlink</br>|
 | C08 | Adicionar Hiperlink</br>|
 | C09 | Adicionar Hiperlink</br>|
-| C10 | Adicionar Hiperlink</br>|
+| C10 | Adicionar Hiperlink</br> Título</br> Especificar melhor o objetivo</br>|
 | C11 | Adicionar Hiperlink</br>|
 | C12 | Adicionar Hiperlink</br>|
 | C13 | Adicionar Hiperlink</br>|
 | C14 | Adicionar Hiperlink</br>|
-| C15 | Adicionar Hiperlink</br>|
+| C15 | Adicionar Hiperlink</br> Título</br>|
 | C16 | Adicionar Hiperlink</br>|
 | C17 | Adicionar Hiperlink</br>|
-| C18 | Adicionar Hiperlink</br>|
+| C18 | Adicionar Hiperlink</br> Título</br>|
 
 ## Conclusão
 
