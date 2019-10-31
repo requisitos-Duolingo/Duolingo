@@ -1,10 +1,10 @@
 ## Introdução
 
-A validação de software, trata-se da confimação de que o produto é aquele desejado pelo usuário.
+A validação de software é confirmação de que o produto é o desejado pelo usuário.
 
 ## Metodologia
 
-A estratégias escolhida para a elaboração desse documento é a comprovação informal, na qual os contribuidores tentaram contactar a equipe de desenvolvedores e evolvidos na plataforma [Duolingo](https://www.duolingo.com/) para realizar a tarefa de leitura de descrições e uso do cliente para identificar possíveis problemas na expressão dos requisitos.
+A estratégia escolhida para a elaboração desse documento é a comprovação informal, na qual contribuidores tentaram contactar a equipe de desenvolvedores e envolvidos na plataforma [Duolingo](https://www.duolingo.com/) para realizar a tarefa de leitura de descrições e uso do cliente para identificar possíveis problemas na expressão dos requisitos.
 
 ## Comprovação Informal
 
