@@ -71,12 +71,10 @@ nav:
   - Análise:
     - Verificação:
       - Inspeção: analise/verificacao/inspecao.md
-      - Backlog do Produto: analise/verificacao/inspecaoBacklog.md
       - Casos de Uso: analise/verificacao/inspecaoCasoDeUso.md
       - Léxicos: analise/verificacao/inspecaoLexico.md
       - Cenários: analise/verificacao/inspecaoCenario.md
       - Especificação Suplementar: analise/verificacao/inspecaoEspecificacao.md
-      - NFR: analise/verificacao/inspecaoNFR.md
     - Validação:
-      - Comunicação com os Dev's: analise/validacao/comunicacao.md
+      - Comprovação Informal: analise/validacao/comunicacao.md
   #  - Pós-Rastreabilidade: 

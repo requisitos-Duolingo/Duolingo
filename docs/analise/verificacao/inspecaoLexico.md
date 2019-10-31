@@ -13,9 +13,9 @@ Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realiz
 
 ### Perguntas:
 
-1-Estrutura padrão
+1 - Estrutura padrão
 
-* Os léxicos estão na estrutura padrão? Os Léxicos possuem nome, noção, classificação, impactos e sinônimos?
+* Os léxicos estão na estrutura padrão? Os léxicos possuem nome, noção, classificação, impactos e sinônimos?
 
 2 - Nome e Noção
 
@@ -42,15 +42,19 @@ Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realiz
 
 ## Inspeção
 
-| Critérios de Sucesso | [L01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L06](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L07](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L08](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L09](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) | [L10](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/) |
-|:---------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Estrutura Padrão | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Nome e Noção | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Classificação | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Impactos | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Sinônimos | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Hiperlink | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Total ( % ) | 68% | 84% | 84% | 84% | 68% | 84% | 84% | 84% | 84% | 84% |
+**Legendas:**
+
+* L - Léxicos
+
+| Critérios de Sucesso | L01 | L02 | L03 | L04 | L05 | L06 | L07 | L08 | L09 | L10 | L11 | L12 | L13 | L14 | L15 | L16 | L17 | L18 | L19 | L20 |
+|:---------------------|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Estrutura Padrão | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Nome e Noção | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Classificação | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | :heavy_check_mark: |
+| Impactos | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Sinônimos | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Hiperlink | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
+| Total | 4/6 | 5/6 | 5/6 | 5/6 | 4/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 |
 
 ## Melhorias
 
@@ -66,10 +70,20 @@ Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realiz
 | L08 | Adicionar Hiperlink</br>|
 | L09 | Adicionar Hiperlink</br>|
 | L10 | Adicionar Hiperlink</br>|
+| L11 | Adicionar Hiperlink</br>|
+| L12 | Adicionar Hiperlink</br>|
+| L13 | Adicionar Hiperlink</br>|
+| L14 | Adicionar Hiperlink</br>|
+| L15 | Adicionar Hiperlink</br>|
+| L16 | Adicionar Hiperlink</br>|
+| L17 | Adicionar Hiperlink</br>|
+| L18 | Adicionar Hiperlink</br>|
+| L19 | Adicionar Hiperlink</br>|
+| L20 | Adicionar Hiperlink</br>|
 
 ## Conclusão
 
-Foram avaliados 50% do total dos Léxicos. Dentre os Léxicos inspecionados, nenhum possui hiperlink, se encontram dentro do padrão, o Nome e a Noção se encontram coerentes entre si, os sinônimos se encontram coerentes com os símbolos. Deverá ser feito alguns ajustes em todos os Léxicos avaliados.
+Dentre os Léxicos inspecionados, nenhum possui hiperlink, se encontram dentro do padrão, o Nome e a Noção se encontram coerentes entre si, os sinônimos se encontram coerentes com os símbolos. Deverá ser feito alguns ajustes em todos os Léxicos avaliados.
 
 |Verificação realizada por|Local|Data|
 |-------------------------|-----|----|

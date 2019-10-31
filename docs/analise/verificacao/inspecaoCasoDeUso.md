@@ -36,7 +36,7 @@ Para inspecionar os casos de uso foi feito um checklist levando em consideraçã
 |[UC06](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|Regular|
 |[UC07](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|Regular|
 |[UC08](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|Regular|
-|Total|8/8|8/8|6/8|4/8|6/8|2/8|7/8|4/8|8/8|1/8|8/8|4/8|3/8|Regular|
+| Total | 8/8 | 8/8 | 6/8 | 4/8 | 6/8 | 2/8 | 7/8 | 4/8 | 8/8 | 1/8 | 8/8 | 4/8 | 3/8 | Regular |
 
 ## Melhorias
 

@@ -15,7 +15,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Contexto**  |
 |<p>Local: _Local onde acontece o Cenário._</p> <p>Tempo: _Tempo do Cenário._</p> <p>Pré-condição: _Condição para que o Cenário aconteça._</p>|
 |**Atores**    |
-|_Autor(es) do Léxico._|
+|_Autor(es) do Cenário._|
 |**Recursos**  |
 |_Recursos do Cenário._|
 |**Episódios** |
