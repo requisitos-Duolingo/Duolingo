@@ -63,11 +63,11 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Rastreabilidade**      | AP09 |
 
 
-### **UC03 - Seguir Amigos**
+### **UC04 - Seguir Amigos**
 
 ![Caso-de-Uso-Perfil](../images/UseCase/uc-amigos-v2.png)
 
-| UC03                     |  |
+| UC04                     |  |
 | --------------           |:----------- |
 | **Versão**               | Atual: 2.0 (04/11) <br> Anterior: 1.0 (28/09) |
 | **Autor(es)**            | Atual: Luis Gustavo <br> Anterior: Francisco Heronildo e Vitor Meireles |
@@ -76,33 +76,33 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Pré condições**        | > Usuário estar [cadastrado](#uc02-cadastrar-usuario) no aplicativo |
 | **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica no ícone do seu "Perfil" <br> > Usuário acessar a aba "Amigos" <br> > Usuário clica em "Adicionar" <br> > Usuário clica em "Procurar Amigo" <br> > Usuário digita o nome do usuário que quer encontar <br> > Usuário clica em "Seguir" |
 | **Fluxos alternativos**  | **Fluxo Alternativo 1 - Adicionar Amigos:** > Usuário acessa o Duolingo <br> > Usuário clica no ícone do seu "Perfil" <br> > Usuário clica na aba "Amigos" <br> > Usuário clica em "Adicionar" <br> > Usuário clica em "Convidar um amigo" <br> > Usuário insere o email do amigo <br> <br> **Fluxo Alternativo 2 - Adicionar Amigos pelo site:** > Usuário acessa o Duolingo <br> > Usuário clica em "Enviar Convite" <br> > Usuário insere o email do amigo <br> <br>**Fluxo Alternativo 3 - Adicionar Amigos pelo Facebook:** > Usuário acessa o Duolingo <br> > Usuário clica em "Encontre Amigos no Facebook" <br> > Autorize o Facebook <br> <br> **Fluxo Alternativo 4 - Convidar Amigos** <br> > Usuário clica no ícone do seu "Perfil" <br> > Usuário clica na aba "Amigos" <br> > Usuário clica em "Adicionar" <br> > Usuário clica em "Convidar um amigo" <br> Usuário enviar um convite através de alguma rede social ou aplicativo de mensagem |
-| **Fluxos de exceção**    | **Fluxo de Exceção 1 - Nome ou email inválido:** <br> > Aplicativo apresentar uma mensagem de erro avisando que não foi possível encontrar o usuário desejado<br> |
+| **Fluxos de exceção**    | **Fluxo de Exceção 1 - Nome ou email inválido:** <br> > Aplicativo apresenta uma mensagem de erro avisando que não foi possível encontrar o usuário desejado <br> <br> **Fluxo de Exceção 1 - Não há conexão com a internet:** <br> > Aplicativo apresenta um alerta avisando que não há conexão com a internet |
 | **Pós condições**        | Usuário fica logado no Duolingo e consegue acompanhar os XP's que o amigo adquire |
 | **Rastreabilidade**      | AD04 |
 
-### **UC04 - Escolher Cursos**
+### **UC05 - Selecionar Curso**
 
-![Caso-de-Uso-Cursos](../images/UseCase/uc-cursos.jpg)
+![Caso-de-Uso-Cursos](../images/UseCase/uc-cursos-v2.jpg)
 
-| UC04                     | Cursos |
+| UC05                     | Selecionar Curso |
 | --------------           |:----------- |
-| **Versão**               | Atual: 1.0 (29/09) <br> Anterior: -- |
-| **Autor(es)**            | Francisco Heronildo e Vitor Meireles |
+| **Versão**               | Atual: 2.0 (04/11) <br> Anterior: 1.0 (29/09) |
+| **Autor(es)**            | Atuak: Luis Gustavo <br> Anterior: Francisco Heronildo e Vitor Meireles |
 | **Descrição**            | Usuário escolher o idioma que quer aprender |
-| **Ator(es)**             | > Usuário <br> > Duolingo |
-| **Pré condições**        | > Usuário estar deslogado no aplicativo |
-| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica no botão "Começar Agora" <br> > Usuário insere do curso(idioma que deseja aprender, motivo de estar aprendendo um idioma, meta(minutos de estudo por dia) e caminho(aprender do início ou fazer um teste de nivelamento)) <br> > Usuário segue os passos para realizar uma [aula](#uc05-aulas) <br> |
-| **Fluxos alternativos**  | **Fluxo Alternativo 1 - Escolher mais cursos:** > Usuário acessa o Duolingo <br> > Usuário clica no ícone da bandeira de seu curso <br> > Usuário clica em "Curso" ou "Adicionar um novo curso" <br> > Usuário adiciona outro curso <br> > Usuário começa o novo curso <br> |
-| **Fluxos de exceção**    | --- |
+| **Ator(es)**             | > Usuário |
+| **Pré condições**        | > Usuário estar logado no aplicativo |
+| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica na bandeira do curso atual <br> > Usuário clica no curso que deseja |
+| **Fluxos alternativos**  | **Fluxo Alternativo 1 - Escolher mais cursos:** <br> > Usuário acessa o Duolingo <br> > Usuário clica no ícone da bandeira de seu curso <br> > Usuário clica em "Curso" ou "Adicionar um novo curso" <br> > Usuário adiciona outro curso |
+| **Fluxos de exceção**    | **Fluxo de Exceção 1 - Não há conexão com a internet** <br> > Usuário acessa o Duolingo <br> > Usuário clica na bandeira do curso atual <br> > Aplicativo apresenta uma alerta dizendo que não é possível selecionar cursos offline |
 | **Pós condições**        | Usuário é direcionado para a aba de aulas |
 | **Rastreabilidade**      | Q01 |
 
 
-### **UC05 - Aulas**
+### **UC06 - Aulas**
 
 ![Caso-de-Uso-Aulas](../images/UseCase/uc-aulas.png)
 
-| UC05                     | Aulas |
+| UC06                     | Aulas |
 | --------------           |:----------- |
 | **Versão**               | Atual: 1.0 (29/09) <br> Anterior: -- |
 | **Autor(es)**            | Francisco Heronildo e Vitor Meireles |
@@ -116,11 +116,11 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Rastreabilidade**      | ENT03 |
 
 
-### **UC06 - Loja**
+### **UC07 - Loja**
 
 ![Caso-de-Uso-Loja](../images/UseCase/uc-loja.png)
 
-| UC06                     | Loja |
+| UC07                     | Loja |
 | --------------           |:----------- |
 | **Versão**               | Atual: 1.0 (30/09) <br> Anterior: -- |
 | **Autor(es)**            | Brian Lui e Lude Ribeiro |
@@ -134,11 +134,11 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Rastreabilidade**      | ENT11 |
 
 
-### **UC07 - Ranking**
+### **UC08 - Ranking**
 
 ![Caso-de-Uso-Ranking](../images/UseCase/uc-ranking.png)
 
-| UC07                     | Ranking |
+| UC08                     | Ranking |
 | --------------           |:----------- |
 | **Versão**               | Atual: 1.0 (30/09) <br> Anterior: -- |
 | **Autor(es)**            | Brian Lui e Lude Ribeiro |
@@ -152,11 +152,11 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Rastreabilidade**      | ST06 |
 
 
-### **UC08 - Configurações**
+### **UC09 - Configurações**
 
 ![Caso-de-Uso-Configuracoes](../images/UseCase/uc-configuracoes.png)
 
-| UC08                     | Configurações |
+| UC09                     | Configurações |
 | --------------           |:----------- |
 | **Versão**               | Atual: 1.0 (30/09) <br> Anterior: -- |
 | **Autor(es)**            | Brian Lui e Lude Ribeiro |
