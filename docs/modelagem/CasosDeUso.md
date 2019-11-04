@@ -45,24 +45,40 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Pós condições**        | Usuário fica logado no Duolingo e é direcionado para a aba de aulas |
 | **Rastreabilidade**      | INT02 |
 
+### **UC03 - Visualizar Perfil**
 
-### **UC03 - Adicionar Amigos**
+![Caso-de-Uso-Perfil](../images/UseCase/uc-perfil-v2.png)
 
-![Caso-de-Uso-Perfil](../images/UseCase/uc-adicinar-amigos.png)
-
-| UC03                     | Adicionar Amigos |
+| UC03                     |  |
 | --------------           |:----------- |
-| **Versão**               | Atual: 1.0 (28/09) <br> Anterior: -- |
-| **Autor(es)**            | Francisco Heronildo e Vitor Meireles |
-| **Descrição**            | Adicionar amigos ao seu perfil no Duolingo |
+| **Versão**               | Atual: 2.0 (04/11) <br> Anterior: 1.0 (28/09) |
+| **Autor(es)**            | Atual: Luis Gustavo <br> Anterior: Francisco Heronildo e Vitor Meireles |
+| **Descrição**            | Acessar Pefil do Duolingo |
 | **Ator(es)**             | > Usuário <br> > Duolingo |
 | **Pré condições**        | > Usuário estar [cadastrado](#uc02-cadastrar-usuario) no aplicativo |
-| **Fluxo principal**      |> Usuário acessa o Duolingo <br> > Usuário clica no ícone do seu "Perfil" <br> > Usuário clica em "Amigos" <br> > Usuário clica em "Adicionar" <br> > Usuário clica em "Localizar um amigo" <br> > Usuário insere nome ou email do amigo no qual quer adicionar<br>|
-| **Fluxos alternativos**  | **Fluxo Alternativo 1 - Adicionar Amigos:** > Usuário acessa o Duolingo <br> > Usuário clica no ícone do seu "Perfil" <br> > Usuário clica em "Amigos" <br> > Usuário clica em "Adicionar" <br> > Usuário clica em "Convidar um amigo" <br> > Usuário insere o email do amigo <br>  <br>**Fluxo Alternativo 2 - Adicionar Amigos pelo site:** > Usuário acessa o Duolingo <br> > Usuário clica em "Enviar Convite" <br> > Usuário insere o email do amigo <br> <br>**Fluxo Alternativo 3 - Adicionar Amigos pelo Facebook:** > Usuário acessa o Duolingo <br> > Usuário clica em "Encontre Amigos no Facebook" <br> > Autorize o Facebook <br> |
+| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica no ícone do seu "Perfil" <br>|
+| **Fluxos alternativos**  | -- |
+| **Fluxos de exceção**    | **Fluxo de Exceção 1 - Não há conexão com a Internet:** <br> > Usuário acessa o Duolingo <br> > Usuário clica no ícone do seu "Perfil" <br> > Aplicativo apresenta um alerta dizendo que não há conexão com a internet |
+| **Pós condições**        | Usuário fica logado no Duolingo e consegue acompanhar os XP's que o amigo adquire |
+| **Rastreabilidade**      | AP09 |
+
+
+### **UC03 - Seguir Amigos**
+
+![Caso-de-Uso-Perfil](../images/UseCase/uc-amigos-v2.png)
+
+| UC03                     |  |
+| --------------           |:----------- |
+| **Versão**               | Atual: 2.0 (04/11) <br> Anterior: 1.0 (28/09) |
+| **Autor(es)**            | Atual: Luis Gustavo <br> Anterior: Francisco Heronildo e Vitor Meireles |
+| **Descrição**            | Seguir Amigos |
+| **Ator(es)**             | > Usuário <br> > Duolingo |
+| **Pré condições**        | > Usuário estar [cadastrado](#uc02-cadastrar-usuario) no aplicativo |
+| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica no ícone do seu "Perfil" <br> > Usuário acessar a aba "Amigos" <br> > Usuário clica em "Adicionar" <br> > Usuário clica em "Procurar Amigo" <br> > Usuário digita o nome do usuário que quer encontar <br> > Usuário clica em "Seguir" |
+| **Fluxos alternativos**  | **Fluxo Alternativo 1 - Adicionar Amigos:** > Usuário acessa o Duolingo <br> > Usuário clica no ícone do seu "Perfil" <br> > Usuário clica na aba "Amigos" <br> > Usuário clica em "Adicionar" <br> > Usuário clica em "Convidar um amigo" <br> > Usuário insere o email do amigo <br> <br> **Fluxo Alternativo 2 - Adicionar Amigos pelo site:** > Usuário acessa o Duolingo <br> > Usuário clica em "Enviar Convite" <br> > Usuário insere o email do amigo <br> <br>**Fluxo Alternativo 3 - Adicionar Amigos pelo Facebook:** > Usuário acessa o Duolingo <br> > Usuário clica em "Encontre Amigos no Facebook" <br> > Autorize o Facebook <br> <br> **Fluxo Alternativo 4 - Convidar Amigos** <br> > Usuário clica no ícone do seu "Perfil" <br> > Usuário clica na aba "Amigos" <br> > Usuário clica em "Adicionar" <br> > Usuário clica em "Convidar um amigo" <br> Usuário enviar um convite através de alguma rede social ou aplicativo de mensagem |
 | **Fluxos de exceção**    | **Fluxo de Exceção 1 - Nome ou email inválido:** <br> > Aplicativo apresentar uma mensagem de erro avisando que não foi possível encontrar o usuário desejado<br> |
 | **Pós condições**        | Usuário fica logado no Duolingo e consegue acompanhar os XP's que o amigo adquire |
 | **Rastreabilidade**      | AD04 |
-
 
 ### **UC04 - Escolher Cursos**
 
