@@ -19,31 +19,29 @@ Para inspecionar os casos de uso foi feito um checklist levando em consideraçã
 |7 | As frases procuram ser objetivas, evitando redundâncias ou informações desnecessárias?|O caso de uso deve ser objetivo e claro no que pretende mostrar|
 |8 | O caso de uso segue a formatação padrão no modelo proposto?|Foi preparado um card de modelo, e a padronização e um ponto considerado importante|
 |9 | O caso de uso possui a data nas suas versões?|O versionamento possuindo as datas são de grande importancia em alguns casos|
-|10 | Os icones presentes no diagrama seguem a padronização das cores? |Foi decidido pelo grupo seguir o padrão de icones logo caso não esteja no padrão deve ser corrigido|
-|11 | O caso de uso possui alguma rastreabilidade?|Isto ajuda e visualizar a rastreabilidade dos casos de uso |
-|12 | O modelo de casos de uso apresenta o comportamento do sistema de modo claro | É fácil entender o que o sistema faz quando se revisa o modelo: <br> * Não existem longas cadeias de relacionamentos de inclusão e de extensão, tal como quando um caso de uso incluído é estendido ou quando um caso de uso estendido inclui outros casos de uso.  Isso pode comprometer o entendimento. <br> * Interdependências mínimas onde um caso de uso de inclusão, de extensão ou especializado deve conhecer a estrutura e o conteúdo de outros casos de uso de inclusão, de extensão ou especializado. | 
-|13 | Todos os relacionamentos entre os casos de uso são necessários | |
+|10 | O caso de uso possui alguma rastreabilidade?|Isto ajuda e visualizar a rastreabilidade dos casos de uso |
+|11 | O modelo de casos de uso apresenta o comportamento do sistema de modo claro | É fácil entender o que o sistema faz quando se revisa o modelo: <br> * Não existem longas cadeias de relacionamentos de inclusão e de extensão, tal como quando um caso de uso incluído é estendido ou quando um caso de uso estendido inclui outros casos de uso.  Isso pode comprometer o entendimento. <br> * Interdependências mínimas onde um caso de uso de inclusão, de extensão ou especializado deve conhecer a estrutura e o conteúdo de outros casos de uso de inclusão, de extensão ou especializado. | 
+|12 | Todos os relacionamentos entre os casos de uso são necessários | |
 
 ## Inspeção
 
-|UC|1|2|3|4|5|6|7|8|9|10|11|12|13|Qualidade|
-|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
-|[UC01](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|Bom|
-|[UC02](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|Bom|
-|[UC03](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|Bom|
-|[UC04](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|Regular|
-|[UC05](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|Ruim|
-|[UC06](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|Regular|
-|[UC07](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|Regular|
-|[UC08](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|Regular|
-| Total | 8/8 | 8/8 | 6/8 | 4/8 | 6/8 | 2/8 | 7/8 | 4/8 | 8/8 | 1/8 | 8/8 | 4/8 | 3/8 | Regular |
+|UC|1|2|3|4|5|6|7|8|9|10|11|12|
+|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|[UC01](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[UC02](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[UC03](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|[UC04](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+|[UC05](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+|[UC06](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+|[UC07](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:x:|
+|[UC08](../../modelagem/CasosDeUso.md)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+| Total | 8/8 | 8/8 | 6/8 | 4/8 | 6/8 | 2/8 | 7/8 | 4/8 | 8/8 | 8/8 | 4/8 | 3/8 |
 
 ## Melhorias
 
 | UC | Melhoria |
 |:-------|:---------|
-| UC02 | Padronizar a cor do bloco de descrição de itens |
-| UC03 | Declarar casos de uso no imperativo <br> Padronizar a cor do bloco de descrição de itens |
+| UC03 | Declarar casos de uso no imperativo |
 | UC04 | Opções como "Motivo no qual quer aprender um idioma" não é um caso de uso, é apenas uma opção <br> Não está claro como é o fluxo <br> Declarar casos de uso no imperativo <br> Padronizar a cor do bloco de descrição de itens <br> Verificar se realmente não existe um fluxo de excessão |
 | UC05 | Verificar se não existe um fluxo de excessão <br> Verificar se não existem fluxos alternativos <br> Retirar relacionamentos redundantes <br> "Lições a serem realizadas não é um caso de uso" |
 | UC06 | Verificar se não existe um fluxo de excessão <br> Clicar em um botão não é necessariamente um caso de uso <br> Retirar relacionamentos cíclicos |
