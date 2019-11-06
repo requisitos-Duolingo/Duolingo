@@ -137,6 +137,25 @@ O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos se
 | AD11 | Would |
 | AD12 | Should |
 
+### First Things First
+
+
+| ID | Benefício Relativo | Penalidade Relativa | Valor Total | Valor % | Custo Relativo | Custo % | Risco Relativo | Risco % | Prioridade |
+|--------|----|----|-----|-------|----|-------|---|-------|--------|
+| AD01 | 9  | 8  | 17  | 13,9% | 5 | %  | 5 | %    | 0,1734 |
+| AD02  | 5  | 2  | 7  | %   | 3  | % | 2 | %  | 0,0767 |
+| AD03  | 7  | 5  | 12 | %  | 4 | %  | 3 | %  | 0,2771 |
+| AD04  | 3  | 2 | 5   | %  | 4  | %  | 3 | %  | 0,3833 |
+| AD05  | 7  | 4  | 11   | % | 8  | %  | 7 | %    | 0,0870 |
+| AD06  | 7  | 6  | 13   | % | 5  | %  | 4 | %  | 0,0600 |
+| AD07  | 7  | 7  | 14  | %  | 8  | %  | 8 | %    | 0,1129 |
+| AD08  | 5  | 2  | 7   | %  | 6  | %  | 7 | %  | 0,7090 |
+| AD09  | 3  | 2  | 5   | %  | 4  | %  | 3 | 5,6%  | 0,1554 |
+| AD10  | 7  | 5  | 12   | %  | 5  | %  | 4 | %  | 0,0982 |
+| AD11  | 4  | 2  | 6   | %  | 4  | %  | 3 | %  | 0,0456 |
+| AD12  | 7  | 6  | 13   | %  | 4  | %  | 3 | %  | 0,0287 |
+| Total  | 71 | 51 | 122 | 100%  | 64 | 100%  | 54 | 100% |        |
+
 
 ## Referências
 
