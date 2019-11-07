@@ -1,6 +1,7 @@
 ## Introdução
 
 Foi realisada a verificação do Backlog do Produto, documento realisado na etapa de Modelagem, em cima dessa verificação foi possível perceber o erro por falta de algumas elementos na tabela. São estes elementos:
+
 - a divisão por sprints das US's;
 - a classificação das US's;
 - as pontuações das US's.
@@ -22,6 +23,7 @@ A partir de verificadas as falhas na montagem do nosso Backlog, foi gerada uma n
 | </br></br></br> 09 | US44 </br> US45 </br> US46 </br> US47 </br> US48 </br> US49 </br> US50 | WOULD </br> WOULD </br> WOULD </br> WOULD </br> WOULD </br> WOULD </br> WOULD | 5 </br> 5 </br> 8 </br> 8 </br> 3 </br> 3 </br> 3 |
 
 A priorização foi gerada de acordo com a analise dos outros documentos antes produzidos que levaram a uma conclusão do que deveria ser feito primeiro. Assim foi possível levantar as Sprints e dividir as US's. Já a pontuação foi levantada de acordo com o pré-requisito encadeado para cada US, aquelas que tinham mais tarefas encadeadas em seu processo receberam maior pontuação.
+
 
 ## Referências
 

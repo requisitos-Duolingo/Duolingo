@@ -56,9 +56,8 @@ nav:
     - Instrospecção: elicitacao/Instrospeccao.md
     - Questionário: elicitacao/Questionario.md
     - Storytelling: elicitacao/Storytelling.md
-    # - Prototipação: elicitacao/Prototipacao.md
-    # - Observação: elicitacao/Observacao.md
     # - Etnografia: elicitacao/Etnografia.md
+    # - Prototipação: elicitacao/Prototipacao.md
   - Modelagem:
     - Cenários: modelagem/Cenarios.md
     - Léxicos: modelagem/Lexicos.md
@@ -71,10 +70,12 @@ nav:
   - Análise:
     - Verificação:
       - Inspeção: analise/verificacao/inspecao.md
+      - Backlog do Produto: analise/verificacao/inspecaoBacklog.md
       - Casos de Uso: analise/verificacao/inspecaoCasoDeUso.md
       - Léxicos: analise/verificacao/inspecaoLexico.md
       - Cenários: analise/verificacao/inspecaoCenario.md
       - Especificação Suplementar: analise/verificacao/inspecaoEspecificacao.md
+      - NFR Framework: analise/verificacao/inspecaoNFR.md
     - Validação:
       - Comprovação Informal: analise/validacao/comunicacao.md
-  #  - Pós-Rastreabilidade: 
+  #  - Pós-Rastreabilidade:
