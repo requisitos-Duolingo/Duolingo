@@ -186,7 +186,6 @@ Já finalizei o curso de Inglês. Acho que com o tempo eu vou dar conta de inter
 | ENT16  | 8  | 8  | 16  | 13,8% | 9  | 12,3% | 9 | 12,7% | 0,0613 |
 | Total  | 74 | 54 | 116 | 100%  | 73 | 100%  | 71 | 100% |        |
 
-
 ## Referências
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
