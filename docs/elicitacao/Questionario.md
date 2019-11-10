@@ -4,7 +4,7 @@ Questionário é uma técnica pouco flexível de elicitação de requisitos, poi
 
 ## Metodologia
 
-Para o levantamQo de dados e requisitos fizemos a classificação de dois grupos: usuários do aplicativo e participantes não usuários. Para o primeiro grupo que notamos ser maior que o segundo as perguntas foram feitas com o intuito de idQificar hábitos e costumes apresentados por usuários do aplicativo. Para o segundo grupo as perguntas foram desenvolvidas para levantar potênciais usuários ou não do aplicativo. O questionário foi divulgado em grupos da faculdade e grupos pessoais dos participantes até o que houve-se 54 respostas.
+Para o levantamento de dados e requisitos fizemos a classificação de dois grupos: usuários do aplicativo e participantes não usuários. Para o primeiro grupo que notamos ser maior que o segundo as perguntas foram feitas com o intuito de idQificar hábitos e costumes apresentados por usuários do aplicativo. Para o segundo grupo as perguntas foram desenvolvidas para levantar potênciais usuários ou não do aplicativo. O questionário foi divulgado em grupos da faculdade e grupos pessoais dos participantes até o que houve-se 54 respostas.
 
 | Dados Recolhidos em |
 |-----------------|
@@ -87,28 +87,45 @@ Também foi possível constatar que o sistema de feedback dado pelo aplicativo a
 
 | ID | Descrição | Tipo |
 |----|:---------:|------|
-| Q01  | O aplicativo deve oferecer cursos de diversos idiomas | RF01 |
-| Q02  | O aplicativo deve oferecer diferentes níveis para cada curso | RNF01 |
-| Q03  | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | RF02 |
-| Q04  | O aplicativo deve possuir suporte para que os usuários tenham contato com outros usuários | RF03 |
-| Q05  | O aplicativo deve ter um ranking disponível para competições entre amigos | RF04 |
-| Q06  | O aplicativo deve dar feedbacks para o usuário para que ele saiba melhor sobre seu desempenho | RF05 |
-| Q07  | O aplicativo deve contar o número de dias que o usuário utilizou o aplicativo | RNF02 |
-| Q02  | O aplicativo deve ser de fácil adaptação | RNF03 |
-| Q06  | O aplicativo deve possuir aulas rápidas | RNF04 |
+| Q01 | O aplicativo deve oferecer cursos de diversos idiomas | RF01 |
+| Q13 | O aplicativo deve possuir suporte para que os usuários tenham contato com outros usuários | RF02 |
+| Q14 | O aplicativo deve ter um ranking disponível para competições entre amigos | RF03 |
+| Q06 | O aplicativo deve dar feedbacks para o usuário para que o usuário entenda melhor seu desempenho no curso | RF04 |
+| Q06 | O aplicativo deve criar metas gamificadas para que o usuário se mantenha engajado no aprendizado | RF05 |
+| Q02 | O aplicativo deve oferecer diferentes níveis para cada curso | RNF01 |
+| Q07 | O aplicativo deve registrar os dias em que o usuário utilizou o aplicativo | RNF02 |
+| Q02 | O aplicativo deve ser de fácil adaptação | RNF03 |
+| Q06 | O aplicativo deve possuir aulas rápidas | RNF04 |
 
 ## Priorização
 
 ### MoSCoW
 
 | ID | Prioridade |
-|----|------------|
-| Q01  | Must |
-| Q02  | Must |
-| Q03  | Must |
-| Q04  | Should |
-| Q05  | Should |
-| Q06  | Should |
+|----|:----------:|
+| RF01  | Must   |
+| RF02  | Should |
+| RF03  | Could  |
+| RF04  | Must   |
+| RF05  | Could  |
+| RNF01 | Must   |
+| RNF02 | Could  |
+| RNF03 | Should |
+| RNF04 | Should |
+
+### First Things First
+
+| ID | Benefício Relativo | Penalidade Relativa | Valor Total | Valor % | Custo Relativo | Custo % | Risco Relativo | Risco % | Prioridade |
+|-------|----|----|-----|--------|:--:|:------:|:--:|--------|-------------|
+| RF01  |  6 |  5 |  17 | 13.28% |  2 | 6,45%  |  5 | 10,20% | 0,10970266  |
+| RF02  |  3 |  1 |   7 |  5.46% |  5 | 16,12% |  6 | 12,24% | 0,096511101 |
+| RF04  |  7 |  5 |  19 | 14.84% |  3 | 9,67%  |  7 | 14,28% | 0,101961697 |
+| RF05  |  9 |  1 |  19 | 14.84% |  4 | 12,90% |  7 | 14,28% | 0,104117181 |
+| RNF01 |  9 |  9 |  27 | 21.09% |  3 | 9,67%  |  2 | 4,08%  | 0,377454937 |
+| RNF02 |  3 |  1 |   7 |  5,46% |  3 | 9,67%  |  3 | 6,12%  | 0,203504328 |
+| RNF03 |  6 |  5 |  17 | 13,28% |  2 | 6,45%  |  5 | 10,20% | 0,049758317 |
+| RNF04 |  5 |  5 |  15 | 11.71% |  6 | 19,35% |  8 | 16,32% | 0,064015244 |
+| Total | 61 | 53 | 128 | 100%   | 31 | 100%   | 49 | 100%   |             |
 
 
 ## Referências
