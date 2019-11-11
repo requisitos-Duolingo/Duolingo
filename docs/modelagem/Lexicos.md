@@ -13,19 +13,19 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |**Sinônimos**|_Sinônimos do léxico no contexto._|
 |**Noção**|> _Noções do léxico._|
 |**Impacto**|> _impacto do léxico na aplicação._|
-|**Rastro**|_Rastro do léxico.  _|
+|**Rastro**| Não possui |
 
 ## Léxico01
 |L01|Usuário|
 |:---|:---|
 |**Autor**|Francisco Heronildo|
-|**Classificação**|--|
+|**Classificação**|Objeto|
 |**Sinônimos**|Utilizador, utente, cliente, usador, usufruidor, desfrutador, usufrutuário, usufrutueiro.|
 |**Noção**|> Indivíduo que utiliza o aplicatívo|
 |**Impacto**|> O usuário instala o Duolingo|
 ||> O usuário faz cursos de idiomas|
 ||> O usuário tem funcionalidades que o ajudam no aprendizado de novos idiomas|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico02
 |L02|Nível|
@@ -36,7 +36,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |**Noção**|> Nível de aprendizado apresentado pelo usuário|
 |**Impacto**|> O usuário deve passar por níveis para aumentar o conheciento e o aprendizado|
 ||> O usuário deve concluir os níveis para concluir o curso|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico03
 |L03|Curso|
@@ -47,7 +47,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |**Noção**|> Curso referente ao idioma que o usuário decide aprender|
 |**Impacto**|> O usuário deve escolher o curso que fará para aprender um idioma|
 ||> O usuário deve concluir os níveis para concluir o curso|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico04
 |L04|Ligas|
@@ -59,18 +59,18 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 ||> Aba contida no aplicativo Dulolingo|
 |**Impacto**|> O usuário passa a disputar com outros usuários em um nível de aprendizagem diária|
 ||> Os 20 (vinte) primeiros usuários de sua liga são promovidos para a próxima liga|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico05
 |L05|Amigos|
 |:---|:---|
 |**Autor**|Lude Ribeiro|
-|**Classificação**|--|
+|**Classificação**|Objeto|
 |**Sinônimos**|galera, gente, turma, relações, amizades, conhecidos.|
 |**Noção**|> Cada usuário pode adcionar outros usuários no aplicativo|
 |**Impacto**|> O usuário poderá adcionar amigos na lista de amigos|
 ||> O usuário poderá acompanhar o progresso de outros usuários no aplicativo na seção de amigos|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico06
 |L06|Seção|
@@ -81,7 +81,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |**Noção**|> Cada curso deve ser dividio em seções para otimizar o aprendizado|
 |**Impacto**|> O usuário deverá estudar e concluir seções do curso para mostrar o aprendizado|
 ||> O usuário só poderá acessar novas seções quando concluir as anteriores com êxito|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico07
 |L07|Perfil|
@@ -94,7 +94,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 ||> O usuário poderá colocar uma foto.|
 ||> O usuário poderá adcionar amigos.|
 ||> O usuário definir uma meta diária.|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico08
 |L08|Exercício|
@@ -104,7 +104,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |**Sinônimos**|Atividade, dever, estudo, tarefa.|
 |**Noção**|> Discurso disponível ao usuário para praticar o idioma do curso referente.|
 |**Impacto**|> O usuário poderá fazer exercícios livres do idioma que resultarão em XP.|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico09
 |L09|Cristais|
@@ -115,7 +115,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |**Noção**|> É o dinheiro virtual do jogo.|
 |**Impacto**|> Usados para motivar e inspirar o aprendizado de modos diferentes(e permitem que usuários mais experientes ajustem seu próprio ritmo).|
 ||> O usuário poderá ganhar Cristais alcançando sua meta diária e concluindo unidades.|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico10
 |L10|XP|
@@ -126,7 +126,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |**Noção**|> O usuário ganha XP sempre que completa uma tarefa que melhora seu domínio no idioma. Essas tarefas incluem concluir uma lição e praticar uma unidade|
 |**Impacto**|> Inventiva o usuário a jogar mais para passar ao próximo nível.|
 ||> Faz o usuário ficar melhor no idioma.|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico11
 |L11|Ofensiva|
@@ -137,7 +137,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |**Noção**|> É o número de dias em sequência em que você alcançou sua meta de XP(pontos) no Duolingo.|
 |**Impacto**|> Inventiva o usuário a jogar o maior número de dias seguidos.|
 ||> Incentiva o usuário a bater suas metas.|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico12
 |L12|Nível de Coroa|
@@ -153,7 +153,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |> Oferece conteúdo avançado para alunos mais sérios.|
 |> Alunos casuais podem passar pela árvore toda de modo relativamente fácil.|
 |> Alunos mais avançados podem obter muito mais profundidade ao subir de nível nas unidades.|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico13
 |L13|Lingot|
@@ -165,7 +165,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |> O usuário pode ganhar fazendo comentários excepcionais e dá-los a outros quando eles fazem o mesmo.|
 |**Impacto**|> Inventiva o usuário a contribuir ao jogo.|
 ||> Incentiva o usuário a ajudar os outros.|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico14
 |L14|Energia|
@@ -176,7 +176,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |**Noção**|> É um modo de ritmar as lições para desencorajar o exagero no uso do Duolingo.|
 |**Impacto**|> Encoraja os usuários à prestar mais atenção ao que estão respondendo antes de pressionar "verificar".|
 ||> Encoraja os usuários que estão errando a fazer uma pausa e revisar lições anteriores antes de continuar.|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico15
 |L15|Duolingo Plus|
@@ -188,7 +188,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |> É uma assinatura de conteúdo extra que é feita no próprio aplicativo.|
 |**Impacto**|> O usuário tem acesso a recursos que incluem uma experiência livre de anúncios.|
 ||> O usuário pode baixar lições para uso offline.|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico16
 |L16|Health|
@@ -200,7 +200,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |> O usuário perde Health respondendo incorretamente muitas vezes.|
 |**Impacto**|> Incentiva os usuários a prestarem mais atenção ao que estão respondendo antes de clicar em "enviar".|
 ||> Incentiva os usuários que estão cometendo erros a respirar e revisar as lições anteriores antes de avançar.|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico17
 |L17|Unidade|
@@ -211,7 +211,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |**Noção**|> É um item na árvore que consiste de muitas lições.|
 |> O usuário deve completar todas as unidades de cada linha na árvore, antes de passar para a próxima linha.|
 |**Impacto**|> Incentiva os usuários jogar mais para passar a próxima unidade.|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico18
 |L18|Lições|
@@ -222,7 +222,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |**Noção**|> Uma lição no Duolingo consiste de muitos exercícios que ajudam a ensinar os aspectos principais de uma unidade.|
 |> As próprias lições contém váris exercícios.|
 |**Impacto**|> Incentiva os usuários jogar mais para passar a próxima lição.|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico19
 |L19|Exercício|
@@ -233,7 +233,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |**Noção**|> É uma forma de práticar a fala individual, ouvir ou tarefas de tradução que compõem uma lição, prática ou teste.|
 |> Cada aula ou prática consiste em um máximo de 20 exercícios, enquanto que os testes podem ter mais.|
 |**Impacto**|> Incentiva os usuários jogar mais para passar conseguir realizar o próximo exercício.|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 ## Léxico20
 |L20|Árvore de Idioma|
@@ -244,9 +244,15 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |**Noção**|> As unidades são apresentadas de uma maneira que as faz parecer um pouco com uma árvore.|
 |> Conhecido como a Árvore de Unidades ou a Árvore de Idioma.|
 |**Impacto**|> Incentiva os usuários jogar mais para terminar a Árvore de Idioma o mais rápido possível.|
-|**Rastro**|---|
+|**Rastro**| Não possui |
 
 
 ## Referências
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
+HABITICA - Gamify your Life. Disponível em: <https://requisitos-habitica.netlify.com/>. Acesso em: 11 nov. 2019.
+
+GUIA Bolso. Disponível em: <https://github.com/fga-disciplinas/2019.1-Guia-Bolso>. Acesso em: 11 nov. 2019.
+
+IFOOD. Disponível em: <https://github.com/Requisitos-2018-1-iFood/iFood>. Acesso em: 11 nov. 2019.
