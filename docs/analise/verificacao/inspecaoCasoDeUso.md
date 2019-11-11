@@ -21,7 +21,7 @@ Para inspecionar os casos de uso foi feito um checklist levando em consideraçã
 |9 | O caso de uso possui a data nas suas versões?|O versionamento possuindo as datas são de grande importancia em alguns casos|
 |10 | O caso de uso possui alguma rastreabilidade?|Isto ajuda e visualizar a rastreabilidade dos casos de uso |
 |11 | O modelo de casos de uso apresenta o comportamento do sistema de modo claro | É fácil entender o que o sistema faz quando se revisa o modelo: <br> * Não existem longas cadeias de relacionamentos de inclusão e de extensão, tal como quando um caso de uso incluído é estendido ou quando um caso de uso estendido inclui outros casos de uso.  Isso pode comprometer o entendimento. <br> * Interdependências mínimas onde um caso de uso de inclusão, de extensão ou especializado deve conhecer a estrutura e o conteúdo de outros casos de uso de inclusão, de extensão ou especializado. | 
-|12 | Todos os relacionamentos entre os casos de uso são necessários | |
+|12 | Todos os relacionamentos entre os casos de uso são necessários | Evitar que haja relacionamentos desnecessários entre os casos de uso, deixando-os confusos e/ou inconsistentes. |
 
 ## Inspeção
 
