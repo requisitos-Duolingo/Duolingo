@@ -20,7 +20,7 @@ Os NFR's foram separados por temas principais e foi utilizada a plataforma draw.
 
 ## NFR  01 - Usabilidade
 
-![Imgur](https://i.imgur.com/VTUE4CP.jpg)
+![Imgur](https://i.imgur.com/2X30eBB.png)
 
 | **NFR01** | **Atores**    | 
 |---------------|-----------------|
@@ -29,7 +29,7 @@ Os NFR's foram separados por temas principais e foi utilizada a plataforma draw.
 
 ## Análise do NFR 01
 
-![Imgur](https://i.imgur.com/ZzB3ly2.jpg)
+![Imgur](https://i.imgur.com/XJ7Rgks.png)
 
 | **AN-NFR01** | **Atores**    | 
 |---------------|-----------------|
@@ -58,7 +58,7 @@ Os NFR's foram separados por temas principais e foi utilizada a plataforma draw.
 
 ## NFR 03 - Desempenho
 
-![Imgur](https://i.imgur.com/tR4LG67.png)
+![Imgur](https://i.imgur.com/zIyTy2L.png)
 
 | **NFR03** | **Atores**    | 
 |---------------|-----------------|
@@ -67,7 +67,7 @@ Os NFR's foram separados por temas principais e foi utilizada a plataforma draw.
 
 ## Análise NFR 03
 
-![Imgur](https://i.imgur.com/F4UUxoo.png)
+![Imgur](https://i.imgur.com/C2CkC4m.png)
 
 
 | **AN-NFR03** | **Atores**    | 
@@ -79,7 +79,7 @@ Os NFR's foram separados por temas principais e foi utilizada a plataforma draw.
 
 ## NFR 04 - Suportabilidade
 
-![Imgur](https://i.imgur.com/kcNO8ZX.png)
+![Imgur](https://i.imgur.com/Lj1Zf4l.png)
 
 | **NFR04** | **Atores**    | 
 |---------------|-----------------|
@@ -88,8 +88,8 @@ Os NFR's foram separados por temas principais e foi utilizada a plataforma draw.
 
 ## Análise do NFR 04
 
-![Imgur](https://i.imgur.com/O2Jjayh.png)
-
+![Imgur](https://i.imgur.com/Y2UWPSn.png)
+    
 
 | **AN-NFR04** | **Atores**    | 
 |---------------|-----------------|
@@ -98,7 +98,7 @@ Os NFR's foram separados por temas principais e foi utilizada a plataforma draw.
 
 ## NFR 05 - Segurança
 
-![Imgur](https://i.imgur.com/y5TwWac.png)
+![Imgur](https://i.imgur.com/BGw24ln.png)
 
 | **NFR05** | **Atores**    | 
 |---------------|-----------------|
@@ -106,7 +106,7 @@ Os NFR's foram separados por temas principais e foi utilizada a plataforma draw.
 | **Autores**  | João Vitor Alves e Brian Lui | 
 
 ## Análise do NFR 05
-![Imgur](https://i.imgur.com/DemPHt6.png)
+![Imgur](https://i.imgur.com/6n5JNHm.png)
 
 
 | **AN-NFR05** | **Atores**    | 
@@ -116,7 +116,7 @@ Os NFR's foram separados por temas principais e foi utilizada a plataforma draw.
 
 
 ## NFR 06 - Portabilidade
-![Imgur](https://i.imgur.com/4vjWIxM.png)
+![Imgur](https://i.imgur.com/085LJlI.png)
 
 | **NFR06** | **Atores**    | 
 |---------------|-----------------|
@@ -125,7 +125,7 @@ Os NFR's foram separados por temas principais e foi utilizada a plataforma draw.
 
 ## Análise do NFR 06
 
-![Imgur](https://i.imgur.com/ueIhCz3.png)
+![Imgur](https://i.imgur.com/PcsZotE.png)
 
 | **AN-NFR06** | **Atores**    | 
 |---------------|-----------------|
@@ -137,7 +137,7 @@ Os NFR's foram separados por temas principais e foi utilizada a plataforma draw.
 
 ## NFR 07 - Eficiencia
 
-![Imgur](https://i.imgur.com/PH7vTRh.png)
+![Imgur](https://i.imgur.com/rCJgbxG.png)
 
 | **NFR07** | **Atores**    | 
 |---------------|-----------------|
@@ -146,7 +146,7 @@ Os NFR's foram separados por temas principais e foi utilizada a plataforma draw.
 
 ## Análise NFR 07
 
-![Imgur](https://i.imgur.com/7R0rvr1.png)
+![Imgur](https://i.imgur.com/b9EjuUj.png)
 
 | **AN-NFR06** | **Atores**    |
 |---------------|-----------------|
