@@ -1,7 +1,9 @@
 ## Introdução
+
 Casos de Uso são utilizados para descrever um conjunto de ações(casos de uso) que um sistema ou um conjunto de sistemas(sujeito) deve desempenhar em colaboração com um ou mais usuários externos ao sistema(ator). Cada caso de uso deverá prover algum resultado observável e de valor para os atores ou outros interessados do sistema.
 
 ## Metodologia
+
 Para criação dos casos de uso foram identificados e analisados os documentos de elicitação de requisitos gerados na sprint anterior. A partir disso, foram feitos os casos de uso utilizando a ferramenta Astah.
 
 ## Casos de Uso & Especificação
@@ -26,7 +28,6 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Fluxos de exceção**    |  **Fluxo de Exceção 1 - Dados de Login inválidos:** <br> > Aplicativo apresentar uma mensagem de erro avisando que não foi possível fazer o Login <br> <br> **Fluxo de Excecão 2 - Usuário esqueceu a senha:** <br> > Usuário clica no botão "Esqueci a Senha" <br> > Usuário insere email para recuperar a senha <br> > É feita uma validação para identificar se existe um usuário cadastrado com aquele email <br> > É enviado um email para o usuário redefinir sua senha |
 | **Pós condições**        | Usuário fica logado no Duolingo e é direcionado para a aba de aulas |
 | **Rastreabilidade**      | INT02 |
-
 
 ### **UC02 - Cadastrar Usuário**
 
@@ -62,7 +63,6 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Pós condições**        | Usuário fica logado no Duolingo e consegue acompanhar os XP's que o amigo adquire |
 | **Rastreabilidade**      | AP09 |
 
-
 ### **UC04 - Seguir Amigos**
 
 ![Caso-de-Uso-Perfil](../images/UseCase/uc-amigos-v2.png)
@@ -97,7 +97,6 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Pós condições**        | Usuário é direcionado para a aba de aulas |
 | **Rastreabilidade**      | Q01 |
 
-
 ### **UC06 - Realizar Aula**
 
 ![Caso-de-Uso-Aulas](../images/UseCase/uc-aulas-v2.png)
@@ -114,7 +113,6 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Fluxos de exceção**    | **Fluxo de Exceção 1 - Não há conexão com a internet** <br> > Usuário acessa o Duolingo <br> > Usuário clica na aula disponível do [curso](#uc04-escolher-cursos) escolhido <br> > Usuário clica em "Começar" <br> > Aplicativo apresenta uma alerta dizendo que não é possível selecionar cursos offline |
 | **Pós condições**        | Usuário pode abandonar a aula e retomar depois |
 | **Rastreabilidade**      | ENT03 |
-
 
 ### **UC07 - Acessar Loja**
 
@@ -133,7 +131,6 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Pós condições**        | Usuário recebe o item que comprou |
 | **Rastreabilidade**      | ENT11 |
 
-
 ### **UC08 - Ranking**
 
 ![Caso-de-Uso-Ranking](../images/UseCase/uc-ranking-v2.png)
@@ -150,7 +147,6 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Fluxos de exceção**    | **Fluxo de Exceção 1 - Menos de 10 Lições Completas:** <br> > Aplicativo apresentar uma mensagem avisando para o Usuário completar no mínimo 10 Lições para começar a competir e assim fazer parte do Ranking <br> <br> **Fluxo de Exceção 1 - Menos de 10 Lições Completas:** <br> > Aplicativo apresentar uma mensagem avisando para o Usuário que não há conexão com a internet |
 | **Pós condições**        | Usuário irá ver o Ranking |
 | **Rastreabilidade**      | ST06 |
-
 
 ### **UC09 - Configurações**
 
@@ -171,7 +167,7 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 
 |  | Casos de Uso |
 |--|--------------|
-| **Versão** | Atual: 2.0 (09/11/2019) <br> Atual: 1.0 (30/09/2019) |
+| **Versão** | Atual: 2.0 (09/11/2019) <br> Atual: [1.0](https://drive.google.com/drive/folders/1x2NCXOnoE1u1etT4E-kZ68jcE5iW2a6X?usp=sharing) (30/09/2019) |
 | **Descrição** | Especificação dos Requisitos Funcionais  |
 
 
