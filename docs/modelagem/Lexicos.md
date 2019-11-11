@@ -19,7 +19,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |L01|Usuário|
 |:---|:---|
 |**Autor**|Francisco Heronildo|
-|**Classificação**|--|
+|**Classificação**|Objeto|
 |**Sinônimos**|Utilizador, utente, cliente, usador, usufruidor, desfrutador, usufrutuário, usufrutueiro.|
 |**Noção**|> Indivíduo que utiliza o aplicatívo|
 |**Impacto**|> O usuário instala o Duolingo|
@@ -65,7 +65,7 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 |L05|Amigos|
 |:---|:---|
 |**Autor**|Lude Ribeiro|
-|**Classificação**|--|
+|**Classificação**|Objeto|
 |**Sinônimos**|galera, gente, turma, relações, amizades, conhecidos.|
 |**Noção**|> Cada usuário pode adcionar outros usuários no aplicativo|
 |**Impacto**|> O usuário poderá adcionar amigos na lista de amigos|
@@ -250,3 +250,9 @@ Para definir os léxicos o grupo utilizou o seguinte modelo de _cards_ mostrado 
 ## Referências
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 10. 1º/2019. 35 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
+HABITICA - Gamify your Life. Disponível em: <https://requisitos-habitica.netlify.com/>. Acesso em: 11 nov. 2019.
+
+GUIA Bolso. Disponível em: <https://github.com/fga-disciplinas/2019.1-Guia-Bolso>. Acesso em: 11 nov. 2019.
+
+IFOOD. Disponível em: <https://github.com/Requisitos-2018-1-iFood/iFood>. Acesso em: 11 nov. 2019.
