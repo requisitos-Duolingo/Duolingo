@@ -24,7 +24,7 @@ Para a realização do método foi escolhido um usuário volutário que estava i
 |Feedback Positivo|O usuário fica impolgado quando tem uma questão acertada|
 |Feedback Negativo|O usuário ao errar uma questão se supriende, pois a aplicação interage de forma que ele persiste em continuar|
 |Finalização da atividade introdutória|O usuário sente-se disafiado, pois ele conquistou parte de sua meta diária|
-|Anúncio|Usuário fecha o anúncio para dar continuedade|
+|Anúncio|Usuário fecha o anúncio para dar continuidade|
 |Criação de perfil|O Duolingo da a opção do usuário fazer um perfil para salvar o progresso da atividade realizada|
 |Cadrastro| O usuário registra-se de forma fácil e rápida na aplicação|
 |Realização das atividades|Após o cadrastro o usuário da continuedade nas atividades com a intenção de atingir sua meta diária|
@@ -45,17 +45,29 @@ De acordo com a análise de protocolo podemos observar que o aplicativo tem um n
 |----|:---------:|------|
 | AP01 | O aplicativo permite que o usuário comece antes de registrar | RF01 |
 | AP02 | O aplicativo permite que o usuário escolha um idioma que ele quer aprender | RF02 |
-| AP03 | O aplicativo permite meta diárias para engajamento do usuário | RNF01 |
-| AP04 | O aplicativo permite escolher o nível de conhecimeto do idioma | RF03 |
-| AP05 | O aplicativo exibe as lições de acordo com nível | RNF02 |
-| AP06 | O aplicativo exibe o feedback das atividades | RNF03 |
-| AP07 | O aplicativo exibe conquistas ao finalizar das atividades | RNF04 |
-| AP08 | Anúcios entre as atividades | RNF05 |
-| AP09 | Criação de perfil de usuário | RF04 |
+| AP03 | O aplicativo permite meta diárias para engajamento do usuário | RF03 |
+| AP04 | O aplicativo permite escolher o nível de conhecimeto do idioma | RF04 |
+| AP05 | O aplicativo deve desbloquear as lições que estão abaixo no nível de conhecimento prévio do usuário | RF05 |
+| AP06 | O aplicativo exibe feedback das atividades | RF06 |
+| AP07 | O aplicativo exibir as conquistas ao finalizar das atividades | RNF07 |
+| AP08 | Deve existir anúncio após as lições | RF08 |
+| AP09 | O usuário deve poder criar minha conta na plataforma | RF09 |
+| AP10 | O aplicativo deve permitir eu entrar com minha conta | RF10 |
+| AP11 | O aplicativo deve permitir eu sair da minha conta | RF11 |
+| AP12 | Deve existir uma assinatura premium | RF12 |
+| AP13 | Caso o usuário tenha assinatura premium ele não deve ver anúncios | RF13 |
+| AP14 | O usuário deve poder editar seu minha conta na plataforma | RF14 |
 
-## Priorização
 
-### MoSCoW
+
+| AP12 | O aplicativo deve engajar o usuário | RNF01 |
+| AP13 | O aplicativo deve ser fácil de usar | RNF02 |
+| AP14 | O aplicativo deve interativo | RNF03 |
+| AP14 | O aplicativo deve monetizado | RNF04 |
+
+<!-- ## Priorização -->
+
+<!-- ### MoSCoW
 
 | ID | Prioridade |
 |----|------------|
@@ -67,9 +79,9 @@ De acordo com a análise de protocolo podemos observar que o aplicativo tem um n
 | AP06 | Should |
 | AP07 | Would |
 | AP08 | Would |
-| AP09 | Must |
+| AP09 | Must | -->
 
-### First Things First
+<!-- ### First Things First
 
 | ID | Benefício Relativo | Penalidade Relativa | Valor Total | Valor % | Custo Relativo | Custo % | Risco Relativo | Risco % | Prioridade |
 |-------|----|----|-----|------|----|-----|---|-----|--------|
@@ -82,7 +94,7 @@ De acordo com a análise de protocolo podemos observar que o aplicativo tem um n
 | AP07  |  6 |  5 |  11 | 9,64% | 3 | 9,67% | 3 | 6,12% | 0,203504328 |
 | AP08  |  3 |  1 |  4  | 3,50% | 2 | 6,45% | 5 | 10,20% | 0,049758317 |
 | AP09  |  9 |  9 |  18 | 15,79% | 6 | 19,35% | 8 | 16,32% | 0,064015244 |
-| Total | 61 | 53 | 114 | 100% | 31 | 100% | 49 | 100% |  |
+| Total | 61 | 53 | 114 | 100% | 31 | 100% | 49 | 100% |  | -->
 
 
 ## Referências
