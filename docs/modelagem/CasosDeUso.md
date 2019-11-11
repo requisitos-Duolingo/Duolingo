@@ -1,7 +1,9 @@
 ## Introdução
+
 Casos de Uso são utilizados para descrever um conjunto de ações(casos de uso) que um sistema ou um conjunto de sistemas(sujeito) deve desempenhar em colaboração com um ou mais usuários externos ao sistema(ator). Cada caso de uso deverá prover algum resultado observável e de valor para os atores ou outros interessados do sistema.
 
 ## Metodologia
+
 Para criação dos casos de uso foram identificados e analisados os documentos de elicitação de requisitos gerados na sprint anterior. A partir disso, foram feitos os casos de uso utilizando a ferramenta Astah.
 
 ## Casos de Uso & Especificação
@@ -27,7 +29,6 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Pós condições**        | Usuário fica logado no Duolingo e é direcionado para a aba de aulas |
 | **Rastreabilidade**      | INT02 |
 
-
 ### **UC02 - Cadastrar Usuário**
 
 ![Caso-de-Uso-Cadastro](../images/UseCase/uc-cadastro.png)
@@ -45,117 +46,128 @@ Para criação dos casos de uso foram identificados e analisados os documentos d
 | **Pós condições**        | Usuário fica logado no Duolingo e é direcionado para a aba de aulas |
 | **Rastreabilidade**      | INT02 |
 
+### **UC03 - Visualizar Perfil**
 
-### **UC03 - Adicionar Amigos**
+![Caso-de-Uso-Perfil](../images/UseCase/uc-perfil-v2.png)
 
-![Caso-de-Uso-Perfil](../images/UseCase/uc-adicinar-amigos.png)
-
-| UC03                     | Adicionar Amigos |
+| UC03                     |  |
 | --------------           |:----------- |
-| **Versão**               | Atual: 1.0 (28/09) <br> Anterior: -- |
-| **Autor(es)**            | Francisco Heronildo e Vitor Meireles |
-| **Descrição**            | Adicionar amigos ao seu perfil no Duolingo |
+| **Versão**               | Atual: 2.0 (04/11) <br> Anterior: 1.0 (28/09) |
+| **Autor(es)**            | Atual: Luis Gustavo <br> Anterior: Francisco Heronildo e Vitor Meireles |
+| **Descrição**            | Acessar Pefil do Duolingo |
 | **Ator(es)**             | > Usuário <br> > Duolingo |
 | **Pré condições**        | > Usuário estar [cadastrado](#uc02-cadastrar-usuario) no aplicativo |
-| **Fluxo principal**      |> Usuário acessa o Duolingo <br> > Usuário clica no ícone do seu "Perfil" <br> > Usuário clica em "Amigos" <br> > Usuário clica em "Adicionar" <br> > Usuário clica em "Localizar um amigo" <br> > Usuário insere nome ou email do amigo no qual quer adicionar<br>|
-| **Fluxos alternativos**  | **Fluxo Alternativo 1 - Adicionar Amigos:** > Usuário acessa o Duolingo <br> > Usuário clica no ícone do seu "Perfil" <br> > Usuário clica em "Amigos" <br> > Usuário clica em "Adicionar" <br> > Usuário clica em "Convidar um amigo" <br> > Usuário insere o email do amigo <br>  <br>**Fluxo Alternativo 2 - Adicionar Amigos pelo site:** > Usuário acessa o Duolingo <br> > Usuário clica em "Enviar Convite" <br> > Usuário insere o email do amigo <br> <br>**Fluxo Alternativo 3 - Adicionar Amigos pelo Facebook:** > Usuário acessa o Duolingo <br> > Usuário clica em "Encontre Amigos no Facebook" <br> > Autorize o Facebook <br> |
-| **Fluxos de exceção**    | **Fluxo de Exceção 1 - Nome ou email inválido:** <br> > Aplicativo apresentar uma mensagem de erro avisando que não foi possível encontrar o usuário desejado<br> |
+| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica no ícone do seu "Perfil" <br>|
+| **Fluxos alternativos**  | -- |
+| **Fluxos de exceção**    | **Fluxo de Exceção 1 - Não há conexão com a Internet:** <br> > Usuário acessa o Duolingo <br> > Usuário clica no ícone do seu "Perfil" <br> > Aplicativo apresenta um alerta dizendo que não há conexão com a internet |
+| **Pós condições**        | Usuário fica logado no Duolingo e consegue acompanhar os XP's que o amigo adquire |
+| **Rastreabilidade**      | AP09 |
+
+### **UC04 - Seguir Amigos**
+
+![Caso-de-Uso-Perfil](../images/UseCase/uc-amigos-v2.png)
+
+| UC04                     |  |
+| --------------           |:----------- |
+| **Versão**               | Atual: 2.0 (04/11) <br> Anterior: 1.0 (28/09) |
+| **Autor(es)**            | Atual: Luis Gustavo <br> Anterior: Francisco Heronildo e Vitor Meireles |
+| **Descrição**            | Seguir Amigos |
+| **Ator(es)**             | > Usuário <br> > Duolingo |
+| **Pré condições**        | > Usuário estar [cadastrado](#uc02-cadastrar-usuario) no aplicativo |
+| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica no ícone do seu "Perfil" <br> > Usuário acessar a aba "Amigos" <br> > Usuário clica em "Adicionar" <br> > Usuário clica em "Procurar Amigo" <br> > Usuário digita o nome do usuário que quer encontar <br> > Usuário clica em "Seguir" |
+| **Fluxos alternativos**  | **Fluxo Alternativo 1 - Adicionar Amigos:** > Usuário acessa o Duolingo <br> > Usuário clica no ícone do seu "Perfil" <br> > Usuário clica na aba "Amigos" <br> > Usuário clica em "Adicionar" <br> > Usuário clica em "Convidar um amigo" <br> > Usuário insere o email do amigo <br> <br> **Fluxo Alternativo 2 - Adicionar Amigos pelo site:** > Usuário acessa o Duolingo <br> > Usuário clica em "Enviar Convite" <br> > Usuário insere o email do amigo <br> <br>**Fluxo Alternativo 3 - Adicionar Amigos pelo Facebook:** > Usuário acessa o Duolingo <br> > Usuário clica em "Encontre Amigos no Facebook" <br> > Autorize o Facebook <br> <br> **Fluxo Alternativo 4 - Convidar Amigos** <br> > Usuário clica no ícone do seu "Perfil" <br> > Usuário clica na aba "Amigos" <br> > Usuário clica em "Adicionar" <br> > Usuário clica em "Convidar um amigo" <br> Usuário enviar um convite através de alguma rede social ou aplicativo de mensagem |
+| **Fluxos de exceção**    | **Fluxo de Exceção 1 - Nome ou email inválido:** <br> > Aplicativo apresenta uma mensagem de erro avisando que não foi possível encontrar o usuário desejado <br> <br> **Fluxo de Exceção 1 - Não há conexão com a internet:** <br> > Aplicativo apresenta um alerta avisando que não há conexão com a internet |
 | **Pós condições**        | Usuário fica logado no Duolingo e consegue acompanhar os XP's que o amigo adquire |
 | **Rastreabilidade**      | AD04 |
 
+### **UC05 - Selecionar Curso**
 
-### **UC04 - Escolher Cursos**
+![Caso-de-Uso-Cursos](../images/UseCase/uc-cursos-v2.png)
 
-![Caso-de-Uso-Cursos](../images/UseCase/uc-cursos.jpg)
-
-| UC04                     | Cursos |
+| UC05                     | Selecionar Curso |
 | --------------           |:----------- |
-| **Versão**               | Atual: 1.0 (29/09) <br> Anterior: -- |
-| **Autor(es)**            | Francisco Heronildo e Vitor Meireles |
+| **Versão**               | Atual: 2.0 (04/11) <br> Anterior: 1.0 (29/09) |
+| **Autor(es)**            | Atuak: Luis Gustavo <br> Anterior: Francisco Heronildo e Vitor Meireles |
 | **Descrição**            | Usuário escolher o idioma que quer aprender |
-| **Ator(es)**             | > Usuário <br> > Duolingo |
-| **Pré condições**        | > Usuário estar deslogado no aplicativo |
-| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica no botão "Começar Agora" <br> > Usuário insere do curso(idioma que deseja aprender, motivo de estar aprendendo um idioma, meta(minutos de estudo por dia) e caminho(aprender do início ou fazer um teste de nivelamento)) <br> > Usuário segue os passos para realizar uma [aula](#uc05-aulas) <br> |
-| **Fluxos alternativos**  | **Fluxo Alternativo 1 - Escolher mais cursos:** > Usuário acessa o Duolingo <br> > Usuário clica no ícone da bandeira de seu curso <br> > Usuário clica em "Curso" ou "Adicionar um novo curso" <br> > Usuário adiciona outro curso <br> > Usuário começa o novo curso <br> |
-| **Fluxos de exceção**    | --- |
+| **Ator(es)**             | > Usuário |
+| **Pré condições**        | > Usuário estar logado no aplicativo |
+| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica na bandeira do curso atual <br> > Usuário clica no curso que deseja |
+| **Fluxos alternativos**  | **Fluxo Alternativo 1 - Escolher mais cursos:** <br> > Usuário acessa o Duolingo <br> > Usuário clica no ícone da bandeira de seu curso <br> > Usuário clica em "Curso" ou "Adicionar um novo curso" <br> > Usuário adiciona outro curso |
+| **Fluxos de exceção**    | **Fluxo de Exceção 1 - Não há conexão com a internet** <br> > Usuário acessa o Duolingo <br> > Usuário clica na bandeira do curso atual <br> > Aplicativo apresenta uma alerta dizendo que não é possível selecionar cursos offline |
 | **Pós condições**        | Usuário é direcionado para a aba de aulas |
 | **Rastreabilidade**      | Q01 |
 
+### **UC06 - Realizar Aula**
 
-### **UC05 - Aulas**
+![Caso-de-Uso-Aulas](../images/UseCase/uc-aulas-v2.png)
 
-![Caso-de-Uso-Aulas](../images/UseCase/uc-aulas.png)
-
-| UC05                     | Aulas |
+| UC06                     | Aulas |
 | --------------           |:----------- |
-| **Versão**               | Atual: 1.0 (29/09) <br> Anterior: -- |
-| **Autor(es)**            | Francisco Heronildo e Vitor Meireles |
-| **Descrição**            | Usuário deve escolher qual aula quer fazer |
-| **Ator(es)**             | > Usuário <br> > Duolingo |
+| **Versão**               | Atual: 2.0 (09/11) <br> Anterior: 1.0 (29/09) |
+| **Autor(es)**            | Atual: Luis Gustavo <br> Anterior: Francisco Heronildo e Vitor Meireles |
+| **Descrição**            | Usuário deve escolher e realizar uma aula |
+| **Ator(es)**             | > Usuário |
 | **Pré condições**        | > Usuário estar [cadastrado](#uc02-cadastrar-usuario) no aplicativo |
-| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica na aula disponível do [curso](#uc04-escolher-cursos) escolhido <br> > Usuário clica em "Começar" <br> > E as lições são apresentadas progressivamente <br> |
+| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica na aula disponível do [curso](#uc04-escolher-cursos) escolhido <br> > Usuário clica em "Começar" <br> > E as lições são apresentadas progressivamente |
 | **Fluxos alternativos**  | --- |
-| **Fluxos de exceção**    | --- |
+| **Fluxos de exceção**    | **Fluxo de Exceção 1 - Não há conexão com a internet** <br> > Usuário acessa o Duolingo <br> > Usuário clica na aula disponível do [curso](#uc04-escolher-cursos) escolhido <br> > Usuário clica em "Começar" <br> > Aplicativo apresenta uma alerta dizendo que não é possível selecionar cursos offline |
 | **Pós condições**        | Usuário pode abandonar a aula e retomar depois |
 | **Rastreabilidade**      | ENT03 |
 
+### **UC07 - Acessar Loja**
 
-### **UC06 - Loja**
+![Caso-de-Uso-Loja](../images/UseCase/uc-loja-v2.png)
 
-![Caso-de-Uso-Loja](../images/UseCase/uc-loja.png)
-
-| UC06                     | Loja |
+| UC07                     | Loja |
 | --------------           |:----------- |
-| **Versão**               | Atual: 1.0 (30/09) <br> Anterior: -- |
-| **Autor(es)**            | Brian Lui e Lude Ribeiro |
-| **Descrição**            | Usuário vai comprar Gemas na Loja |
-| **Ator(es)**             | > Usuário <br> > Duolingo |
+| **Versão**               | Atual: 2.0 (09/11) <br> Anterior: 1.0 (30/09) |
+| **Autor(es)**            | Atual: Luis Gustavo <br> Anterior: Brian Lui e Lude Ribeiro |
+| **Descrição**            | Usuário vai acessar a loja |
+| **Ator(es)**             | > Usuário |
 | **Pré condições**        | > Usuário estar [cadastrado](#uc02-cadastrar-usuario) no aplicativo |
-| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica no botão "Shop" <br> > Usuário clica em "Streak Freeze" <br> |
-| **Fluxos alternativos**  | > Usuário acessa o Duolingo <br> > Usuário clica no botão "Shop" <br> > Usuário clica em "Double or Nothing" <br> |
-| **Fluxos de exceção**    | --- |
-| **Pós condições**        | Usuário tem que cumprir com o objetivo para Ganhar as Gemas |
+| **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica no botão "Shop" |
+| **Fluxos alternativos**  | **Fluxo Alternativo 1 - Usuário compra Super Poder:** <br> > Usuário acessa o Duolingo <br> > Usuário clica no botão "Shop" <br> > Comprar Super Poder <br> Usuário Clica em "Adquirir" <br> <br> **Fluxo Alternativo 2 - Usuário compra Traje:** <br> > Usuário acessa o Duolingo <br> > Usuário clica no botão "Shop" <br> > Comprar Traje <br> Usuário Clica em "Adquirir" <br> <br> **Fluxo Alternativo 3 - Usuário compra Unidade Bônus:** <br> > Usuário acessa o Duolingo <br> > Usuário clica no botão "Shop" <br> > Comprar Unidade Bônus <br> Usuário Clica em "Adquirir" <br> <br> |
+| **Fluxos de exceção**    | **Fluxo de Excessão 1 - Não há conexão com a internet:** <br> > Usuário acessa o Duolingo <br> > Usuário clica no botão "Shop" <br> > Comprar Algo da Loja <br> Aparece um alerta dizendo que não há conexão com a internet <br> <br> **Fluxo de Excessão 1 - Não tem moedas suficiente:** <br> > Usuário acessa o Duolingo <br> > Usuário clica no botão "Shop" <br> > Comprar Algo da Loja <br> Aparece um alerta dizendo que o usuário não consegue comprar o item pois não tem moedas suficientes |
+| **Pós condições**        | Usuário recebe o item que comprou |
 | **Rastreabilidade**      | ENT11 |
 
+### **UC08 - Ranking**
 
-### **UC07 - Ranking**
+![Caso-de-Uso-Ranking](../images/UseCase/uc-ranking-v2.png)
 
-![Caso-de-Uso-Ranking](../images/UseCase/uc-ranking.png)
-
-| UC07                     | Ranking |
+| UC08                     | Ranking |
 | --------------           |:----------- |
-| **Versão**               | Atual: 1.0 (30/09) <br> Anterior: -- |
-| **Autor(es)**            | Brian Lui e Lude Ribeiro |
+| **Versão**               | Atual: 2.0 (09/11) <br> Anterior: 1.0 (30/09) |
+| **Autor(es)**            | Atual: Luis Gustavo <br> Anterior: Brian Lui e Lude Ribeiro |
 | **Descrição**            | Usuário irá ver a sua posição no Ranking |
-| **Ator(es)**             | > Usuário <br> > Duolingo |
+| **Ator(es)**             | > Usuário |
 | **Pré condições**        | > Usuário estar [cadastrado](#uc02-cadastrar-usuario) no aplicativo |
 | **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica no botão "Leaderboards" <br> > E é apresentado uma tabela do Ranking <br> |
 | **Fluxos alternativos**  | --- |
-| **Fluxos de exceção**    | **Fluxo de Exceção 1 - Menos de 10 Lições Completas:** <br> > Aplicativo apresentar uma mensagem avisando para o Usuário completar no mínimo 10 Lições para começar a competir e assim fazer parte do Ranking<br> |
+| **Fluxos de exceção**    | **Fluxo de Exceção 1 - Menos de 10 Lições Completas:** <br> > Aplicativo apresentar uma mensagem avisando para o Usuário completar no mínimo 10 Lições para começar a competir e assim fazer parte do Ranking <br> <br> **Fluxo de Exceção 1 - Menos de 10 Lições Completas:** <br> > Aplicativo apresentar uma mensagem avisando para o Usuário que não há conexão com a internet |
 | **Pós condições**        | Usuário irá ver o Ranking |
 | **Rastreabilidade**      | ST06 |
 
+### **UC09 - Configurações**
 
-### **UC08 - Configurações**
+![Caso-de-Uso-Configuracoes](../images/UseCase/uc-configuracoes-v2.png)
 
-![Caso-de-Uso-Configuracoes](../images/UseCase/uc-configuracoes.png)
-
-| UC08                     | Configurações |
+| UC09                     | Configurações |
 | --------------           |:----------- |
-| **Versão**               | Atual: 1.0 (30/09) <br> Anterior: -- |
-| **Autor(es)**            | Brian Lui e Lude Ribeiro |
+| **Versão**               | Atual: 2.0 (09/11) <br> Anterior: 1.0 (30/09) |
+| **Autor(es)**            | Atual: Luis Gustavo <br> Anterior: Brian Lui e Lude Ribeiro |
 | **Descrição**            | Usuário irá fazer alguma configuração no Duolingo |
-| **Ator(es)**             | > Usuário <br> > Duolingo |
+| **Ator(es)**             | > Usuário |
 | **Pré condições**        | > Usuário estar [cadastrado](#uc02-cadastrar-usuario) no aplicativo |
 | **Fluxo principal**      | > Usuário acessa o Duolingo <br> > Usuário clica no botão "Perfil" <br> > Usuário clica em "Configurações" <br> > E serão apresentadas as possíveis configurações <br> > Usuário irá alterar dados do Perfil <br> |
 | **Fluxos alternativos**  | **Fluxo Alternativo 1 - Alterar Objetivos Diários:** > Usuário acessa o Duolingo <br> > Usuário clica no botão "Perfil" <br> > Usuário clica em "Configurações" <br> > E serão apresentadas as possíveis configurações <br> > Usuário irá alterar dados dos Objetivos Diários <br>**Fluxo Alternativo 2 - Alterar dados Gerais:** > Usuário acessa o Duolingo <br> > Usuário clica no botão "Perfil" <br> > Usuário clica em "Configurações" <br> > E serão apresentadas as possíveis configurações <br> > Usuário irá alterar dados gerais <br>**Fluxo Alternativo 3 - Alterar dados de Acessibilidade:** > Usuário acessa o Duolingo <br> > Usuário clica no botão "Perfil" <br> > Usuário clica em "Configurações" <br> > E serão apresentadas as possíveis configurações <br> > Usuário irá alterar dados de Acessibilidade <br>**Fluxo Alternativo 4 - Alterar dados de Notificações:** > Usuário acessa o Duolingo <br> > Usuário clica no botão "Perfil" <br> > Usuário clica em "Configurações" <br> > E serão apresentadas as possíveis configurações <br> > Usuário irá alterar dados de Notificações <br> |
 | **Fluxos de exceção**    | --- |
-| **Pós condições**        | Usuário clica em "Done" |
+| **Pós condições**        | Configurações são realizadas |
 | **Rastreabilidade**      | Q06 |
 
 |  | Casos de Uso |
 |--|--------------|
-| **Versão** | Atual: 1.0 (30/09/2019) |
+| **Versão** | Atual: 2.0 (09/11/2019) <br> Atual: [1.0](https://drive.google.com/drive/folders/1x2NCXOnoE1u1etT4E-kZ68jcE5iW2a6X?usp=sharing) (30/09/2019) |
 | **Descrição** | Especificação dos Requisitos Funcionais  |
 
 
