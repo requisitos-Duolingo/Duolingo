@@ -1,13 +1,15 @@
-# Introdução
+## Introdução
 
-Um Rich Picture é uma maneira de explorar, reconhecer e definir uma situação e expressar pensamentos através de diagramas para criar um modelo mental preliminar. Um Rich Picture ajuda a abrir uma discursão e chegar a um entendimento geral de uma situação. 
+Um Rich Picture é uma maneira de explorar, reconhecer e definir uma situação e expressar pensamentos através de diagramas para criar um modelo mental preliminar. Um Rich Picture ajuda a abrir uma discursão e chegar a um entendimento geral de uma situação.
 
-# Metodologia
+## Metodologia
 
 A metodologia adotada pelo grupo para o desenvolvimento dos Rich Pictures foi as seguintes:
 Cada integrante montou o seu Rich Picture do funcionamento geral do duolingo. Com base nos mesmo foi constituido do Rich Picture de fluxo geral.
 
-# Rich Picture Individual
+## Rich Picture Individual
+
+### Visão Geral
 
 ![RichPicture Luis](https://i.imgur.com/DtXdEgs.jpg)
 
@@ -49,7 +51,9 @@ Cada integrante montou o seu Rich Picture do funcionamento geral do duolingo. Co
     **Data:** 28 de Agosto de 2019 </br>
     **Versão:** 0.1
 
-# Rich Picture da Equipe
+## Rich Picture's do Grupo
+
+### Visão Geral
 
 ![RichPicture Macro](https://i.imgur.com/ffvrMd1.jpg)
 
@@ -60,7 +64,19 @@ Cada integrante montou o seu Rich Picture do funcionamento geral do duolingo. Co
     **Versão:** 0.2 </br>
     **Versão Anterior:** [0.1](https://drive.google.com/file/d/17jO9RyXAu2Wgs8JRWcc531ewBh6y25Mi/view?usp=sharing)
 
+### Usabilidade
+
+![Rich Picture Usual](https://i.imgur.com/BADK5pf.jpg)
+
+!!! info
+    **Autor:** Francisco Heronildo </br>
+    **Descrição:** Rich Picture do Fluxo de Usabilidades da Aplicação </br>
+    **Data:** 07 de Novembro de 2019 </br>
+    **Versão:** 0.1
+
 
 ## Referências
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 1º/2019. 37 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
+BIAS, Randolph; KARAT, Clare-Marie. Justifying Cost-Justifying Usability - Chapter 1. 16 páginas. Material apresentado na disciplina de Interação Humana Computador no curso de Engenharia de Software da UnB, FGA.
