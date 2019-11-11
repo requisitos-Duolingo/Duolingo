@@ -78,4 +78,7 @@ nav:
       - NFR Framework: analise/verificacao/inspecaoNFR.md
     - Validação:
       - Comprovação Informal: analise/validacao/comunicacao.md
-  #  - Pós-Rastreabilidade:
+      - Prototipagem: analise/validacao/prototipo.md
+    - Pós-Rastreabilidade:
+      - Backward From: posrastreabilidade/BackwardFrom.md
+      - Forward From: posrastreabilidade/ForwardFrom.md
