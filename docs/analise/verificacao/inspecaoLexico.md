@@ -35,10 +35,6 @@ Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realiz
 * Os sinônimos quando necessário, possuem sinônimos?
 * Os sinônimos estão coerente aos símbolos?
 
-6 - Hiperlink
-
-* Os símbolos estão hiperlinkados entre si?
-* Os símbolos estão hiperlinkados com os cenários do sistema?
 
 ## Inspeção
 
@@ -53,42 +49,22 @@ Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realiz
 | Classificação | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | | :heavy_check_mark: |
 | Impactos | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Sinônimos | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Hiperlink | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Total | 4/6 | 5/6 | 5/6 | 5/6 | 4/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 | 5/6 |
+| Total | 4/5 | 5/5 | 5/5 | 5/5 | 4/5 | 5/5 | 5/5 | 5/5 | 5/5 | 5/5 | 5/5 | 5/5 | 5/5 | 5/5 | 5/5 | 5/5 | 5/5 | 5/5 | 5/5 | 5/5 |
 
 ## Melhorias
 
 | Léxico | Melhoria |
 |:-------|:---------|
-| L01 | Adicionar Hiperlink</br> Adicionar a Classificação</br>|
-| L02 | Adicionar Hiperlink</br>|
-| L03 | Adicionar Hiperlink</br>|
-| L04 | Adicionar Hiperlink</br>|
-| L05 | Adicionar Hiperlink</br> Adicionar a Classificação</br>|
-| L06 | Adicionar Hiperlink</br>|
-| L07 | Adicionar Hiperlink</br>|
-| L08 | Adicionar Hiperlink</br>|
-| L09 | Adicionar Hiperlink</br>|
-| L10 | Adicionar Hiperlink</br>|
-| L11 | Adicionar Hiperlink</br>|
-| L12 | Adicionar Hiperlink</br>|
-| L13 | Adicionar Hiperlink</br>|
-| L14 | Adicionar Hiperlink</br>|
-| L15 | Adicionar Hiperlink</br>|
-| L16 | Adicionar Hiperlink</br>|
-| L17 | Adicionar Hiperlink</br>|
-| L18 | Adicionar Hiperlink</br>|
-| L19 | Adicionar Hiperlink</br>|
-| L20 | Adicionar Hiperlink</br>|
+| L01 | Adicionar a Classificação</br>|
+| L05 | Adicionar a Classificação</br>|
 
 ## Conclusão
 
-Dentre os Léxicos inspecionados, nenhum possui hiperlink, se encontram dentro do padrão, o Nome e a Noção se encontram coerentes entre si, os sinônimos se encontram coerentes com os símbolos. Deverá ser feito alguns ajustes em todos os Léxicos avaliados.
+Os Léxicos se encontram dentro do padrão, o Nome e a Noção se encontram coerentes entre si, os sinônimos se encontram coerentes com os símbolos. Deverá ser feito alguns ajustes em todos os Léxicos avaliados, como a adição da classificação e da necessidade mais Léxicos.
 
 |Verificação realizada por|Local|Data|
 |-------------------------|-----|----|
 |Brian Lui e Francisco Heronildo|Google Hangouts|28 de outubro de 2019|
-
 
 ## Referências
 
