@@ -163,7 +163,7 @@ Introspecção é uma técnica pelo qual o usuário observa os conteúdos de seu
 | INT01 | Deve aparecer uma mensagem dando Boas Vindas | RF01 |
 | INT02 | Devo ser apresentado com a opção de Registro ou Login | RF02 |
 | INT03 | Deve apresentar uma mensagem pedindo para escolher um idioma | RF03 |
-| INT04 | Deve ser apresentado alguns idiomas disponíveis | RF04 |
+| INT04 | Deve haver mais de uma opção de idioma disponível para aprender | RF04 |
 | INT05 | Deve apresentar uma opção para ver mais idiomas disponíveis | RF05 |
 | INT06 | Deve apresentar uma mensagem pedindo para escolher um objetivo | RF06 |
 | INT07 | Deve ser apresentado os objetivos disponíveis | RF07 |

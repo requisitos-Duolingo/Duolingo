@@ -57,13 +57,10 @@ De acordo com a análise de protocolo podemos observar que o aplicativo tem um n
 | AP12 | Deve existir uma assinatura premium | RF12 |
 | AP13 | Caso o usuário tenha assinatura premium ele não deve ver anúncios | RF13 |
 | AP14 | O usuário deve poder editar seu minha conta na plataforma | RF14 |
-
-
-
-| AP12 | O aplicativo deve engajar o usuário | RNF01 |
-| AP13 | O aplicativo deve ser fácil de usar | RNF02 |
-| AP14 | O aplicativo deve interativo | RNF03 |
-| AP14 | O aplicativo deve monetizado | RNF04 |
+| AP15 | O aplicativo deve engajar o usuário | RNF01 |
+| AP16 | O aplicativo deve ser fácil de usar | RNF02 |
+| AP17 | O aplicativo deve interativo | RNF03 |
+| AP18 | O aplicativo deve monetizado | RNF04 |
 
 <!-- ## Priorização -->
 

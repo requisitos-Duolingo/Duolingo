@@ -58,7 +58,6 @@ nav:
     - Questionário: elicitacao/Questionario.md
     - Storytelling: elicitacao/Storytelling.md
     - Requisitos Elicitados: elicitacao/RequisitosElicitados.md
-    # - Etnografia: elicitacao/Etnografia.md
   - Modelagem:
     - Cenários: modelagem/Cenarios.md
     - Léxicos: modelagem/Lexicos.md
