@@ -45,8 +45,7 @@
 | RF16 | O aplicativo deve permitir que o usuário veja o seu progresso | [AD03](../Brainstorming) |  |
 | RF17 | O aplicativo permite que o usuário adicione e siga amigos | [AD04](../Brainstorming) |  |
 | RF18 | O aplicativo deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala | [AD02](../Brainstorming), [ENT02](../Entrevista) |  |
-| RF19 |  | [AD02](../Brainstorming) |  |
-| RF20 | O sistema é divido em níveis e com uma progressão ideal para cada módulo | [AD10](../Brainstorming), [ENT13](../Entrevista), [Q02](../Questionario) |  |
+| RF19 | O sistema é divido em níveis e com uma progressão ideal para cada módulo | [AD10](../Brainstorming), [ENT13](../Entrevista), [Q02](../Questionario) |  |
 | RF20 | Cada aula deve ter exercícios para serem realizados | [AD02](../Brainstorming), [ENT02](../Entrevista) |  |
 | RF21 | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | [ENT03](../Entrevista), [Q03](../Questionario) |  |
 | RF22 | O aplicativo deve ter uma pontuação que reflita o número de aulas/exercícios feitos | [ENT04](../Entrevista), [INT46](../Introspecção) |  |
@@ -60,7 +59,7 @@
 | RF30 | Se o usuário ficar algum tempo sem utilizar o aplicativo, o aplicativo deve fazer com que ele volte ao início do curso | [ENT02](../Entrevista) |  |
 | RF31 | Deve aparecer uma mensagem dando Boas Vindas | [INT01](../Introspecção) |  |
 | RF32 | Devo ser apresentado com a opção de Registro ou Login | [INT02](../Introspecção) |  |
-| RF33 | Deve haver mais de uma opção de idioma disponível para aprender | [INT04](../Introspecção), [Q01][../Questionario] |  |
+| RF33 | Deve haver mais de uma opção de idioma disponível para aprender | [INT04](../Introspecção), [Q01](../Questionario) |  |
 | RF34 | Deve apresentar uma opção para ver mais idiomas disponíveis | [INT05](../Introspecção) |  |
 | RF35 | Deve existir um teste de nivelamento | [INT18](../Introspecção) | | 
 | RF36 | O aplicativo deve aumentar a pontuação do usuário a cada aula finalizada | [INT23](../EntreviIntrospecçãosta) |  |
@@ -69,7 +68,7 @@
 | RF39 | O usuário deve poder testar a versão premium gratuitamente | [INT44](../Introspecção) |  |
 | RF40 | O usuário deve poder escolher um novo idioma a qualquer momento | [INT50](../Introspecção) |  |
 | RF41 | O usuário deve poder ajustar quanto tempo por dia ele quer gastar fazendo lições | [Q08](../Questionario) |  |
-| RF42 | O usuário deve poder ajustar as configurações dos exercícios | [**Q09**](../Questionario) |  |
+| RF42 | O usuário deve poder ajustar as configurações dos exercícios | [Q09](../Questionario) |  |
 | RF43 | O usuário deve poder compartilhar seu progresso | [Q10](../Questionario) |  |
 | RF44 | Eu como usuário desejo criar uma conta para começar a utilizar o app | [ST01](../Storytelling) |
 | RF45 | Eu como usuário desejo entrar no sistema e selecionar uma novo idioma para aprender uma nova língua | [ST02](../Storytelling) |
@@ -92,12 +91,11 @@
 | RNF05 | O aplicativo deve ser gameficado | [AD08](../Brainstorming) |  |
 | RNF06 | O usuário deve ser recompensado por seu progresso | [AD09](../Brainstorming) |  |
 | RNF07 | O software deve ser multiplataforma | [AD12](../Brainstorming) |  |
-| RNF07 | O aplicativo deve permitir a segurança dos dados do usuário | [INT35](../Introspecção) | | 
-| RNF08 | O aplicativo deve ser rápido de usar | [Q12](../Questionario) | | 
-| RNF09 | O aplicativo funcionar 24/7 | [Q13](../Questionario) | | 
-| RNF10 | O aplicativo deve estimular a competitividade | [Q14](../Questionario) | | 
-| RNF11 | O aplicativo deve promover a integração dos usuário | [Q04](../Questionario) | |
-| RNF12 | Eu como usuário desejo ser notificado sobre as minhas metas diárias para me lembrar de estudar | [ST04](../Storytelling) |
+| RNF08 | O aplicativo deve permitir a segurança dos dados do usuário | [INT35](../Introspecção) | | 
+| RNF09 | O aplicativo deve ser rápido de usar | [Q12](../Questionario) | | 
+| RNF10 | O aplicativo funcionar 24/7 | [Q13](../Questionario) | | 
+| RNF11 | O aplicativo deve estimular a competitividade | [Q14](../Questionario) | | 
+| RNF12 | O aplicativo deve promover a integração dos usuário | [Q04](../Questionario) | |
 
 ## Referências
 

@@ -2,93 +2,720 @@
 
 ## Metodologia
 
+## Autores
+
+| Membros Participantes |
+| --------------------- |
+| Luis Gustavo          |
+| Vitor Meireles        |
+
 ## Requisitos Funcionais
 
 **RF01**
 
-| RF01                   | Descrição |
+| RF01                   | O aplicativo deve permitir o usuário praticar antes de se cadastrar |
 |----------------------- | --------- |
-| Épico                  |           |
-| Feature                |           |
-| US                     |           |
-| Critérios de Aceitação |           |
-| Observação             |           |
-| Funcionalidade         |           |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
 
-| Código | Descrição | Tema | Épico | US | Funcionalidade | Código |
-|----|:---------:|:----:|:----:|:----:|:----:|----|
-| RF01 | O aplicativo deve permitir o usuário praticar antes de se cadastrar | | Praticar|[AP01](../AnaliseDeProtocolo) |  |
-| RF02 | O aplicativo permite que o usuário escolha o(s) idioma(s) que ele deseja aprender | |Escolha de idioma| [AP02](../AnaliseDeProtocolo), [AD01](../Brainstorming), [INT03](../Introspecção)|  |
-| RF03 | O aplicativo deve ter metas diárias para engajamento do usuário | |Motivação por metas|[AP03](../AnaliseDeProtocolo), [AD11](../Brainstorming), [ENT07](../Entrevista) |  |
-| RF04 | O usuário deve poder escolher o nível de conhecimento que têm no idioma |  |Análise de conhecimento| [AP04](../AnaliseDeProtocolo), [INT13](../Instrospecção) |  |
-| RF05 | O aplicativo deve desbloquear as lições que estão abaixo no nível de conhecimento prévio do usuário | |Avanço no aprendizado|[AP05](../AnaliseDeProtocolo) |  |
-| RF06 | O aplicativo deve exibir feedback durante as lições | [AP06](../AnaliseDeProtocolo), [AD06](../Brainstorming), [Q06](../Questionario) |  |
-| RF07 | O aplicativo exibir as conquistas ao finalizar das atividades | [AP](../AnaliseDeProtocolo) |  |
-| RF08 | Deve existir anúncio após as lições | [AP08](../AnaliseDeProtocolo) |  |
-| RF09 | O usuário deve poder criar sua conta na plataforma | [AP09](../AnaliseDeProtocolo), [INT34](../Introspecção) |  |
-| RF10 | O aplicativo deve me permitir entrar com minha conta | [AP10](../AnaliseDeProtocolo) |  |
-| RF11 | O aplicativo deve me permitir sair da minha conta | [AP11](../AnaliseDeProtocolo) |  |
-| RF12 | Deve existir uma assinatura premium | [AP12](../AnaliseDeProtocolo), [ENT12](../Entrevista) |  |
-| RF13 | Caso o usuário tenha assinatura premium ele não deve ver anúncios | [AP13](../AnaliseDeProtocolo) |  |
-| RF14 | O usuário deve poder editar seu perfil na plataforma | [AP14](../AnaliseDeProtocolo) |  |
-| RF15 | O aplicativo deve permitir que o usuário faça login com email/facebook ou conta do google | [AD02](../Brainstorming) |  |
-| RF16 | O aplicativo deve permitir que o usuário veja o seu progresso | [AD03](../Brainstorming) |  |
-| RF17 | O aplicativo permite que o usuário adicione e siga amigos | [AD04](../Brainstorming) |  |
-| RF18 | O aplicativo deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala | [AD02](../Brainstorming), [ENT02](../Entrevista) |  |
-| RF19 |  | [AD02](../Brainstorming) |  |
-| RF20 | O sistema é divido em níveis e com uma progressão ideal para cada módulo | [AD10](../Brainstorming), [ENT13](../Entrevista), [Q02](../Questionario) |  |
-| RF20 | Cada aula deve ter exercícios para serem realizados | [AD02](../Brainstorming), [ENT02](../Entrevista) |  |
-| RF21 | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | [ENT03](../Entrevista), [Q03](../Questionario) |  |
-| RF22 | O aplicativo deve ter uma pontuação que reflita o número de aulas/exercícios feitos | [ENT04](../Entrevista), [INT46](../Introspecção) |  |
-| RF23 | O aplicativo deve ter ligas/grupos, que sejam progressivas, que separem os usuários de acordo com seu desempenho | [ENT05](../Entrevista) |  |
-| RF24 | O aplicativo deve ter um ranking dos usuários que estão em uma mesma divisão | [ENT02](../Entrevista), [Q05](../Questionario) |  |
-| RF25 | O aplicativo deve contabilizar o número de dias seguidos que usuário cumpre sua meta diária | [ENT08](../Entrevista), [Q06](../Questionario) |  |
-| RF26 | O aplicativo deve notificar o usuário sobre as metas diárias | [ENT09](../Entrevista) |  |
-| RF27 | O aplicativo deve possuir uma moeda, que sirva de recompensa para os exercícios realizados | [ENT10](../Entrevista) |  |
-| RF28 | O aplicativo deve possuir uma loja aonde ele poderá gastar suas moedas adquiridas | [ENT11](../Entrevista), [INT59](../Introspecção) |  |
-| RF29 | O aplicativo deve repetir exercícios, de forma que ajude o usuário a aprender/relembrar | [ENT14](../Entrevista) |  |
-| RF30 | Se o usuário ficar algum tempo sem utilizar o aplicativo, o aplicativo deve fazer com que ele volte ao início do curso | [ENT02](../Entrevista) |  |
-| RF31 | Deve aparecer uma mensagem dando Boas Vindas | [INT01](../Introspecção) |  |
-| RF32 | Devo ser apresentado com a opção de Registro ou Login | [INT02](../Introspecção) |  |
-| RF33 | Deve haver mais de uma opção de idioma disponível para aprender | [INT04](../Introspecção), [Q01][../Questionario] |  |
-| RF34 | Deve apresentar uma opção para ver mais idiomas disponíveis | [INT05](../Introspecção) |  |
-| RF35 | Deve existir um teste de nivelamento | [INT18](../Introspecção) | | 
-| RF36 | O aplicativo deve aumentar a pontuação do usuário a cada aula finalizada | [INT23](../EntreviIntrospecçãosta) |  |
-| RF37 | O usuário deve receber incentivos e dicas durante os exercícios | [INT28](../Introspecção) |  |
-| RF38 | O aplicativo deve mostrar os Termos e Política de Privacidade | [INT35](../Introspecção) |  |
-| RF39 | O usuário deve poder testar a versão premium gratuitamente | [INT44](../Introspecção) |  |
-| RF40 | O usuário deve poder escolher um novo idioma a qualquer momento | [INT50](../Introspecção) |  |
-| RF41 | O usuário deve poder ajustar quanto tempo por dia ele quer gastar fazendo lições | [Q08](../Questionario) |  |
-| RF42 | O usuário deve poder ajustar as configurações dos exercícios | [**Q09**](../Questionario) |  |
-| RF43 | O usuário deve poder compartilhar seu progresso | [Q10](../Questionario) |  |
-| RF44 | Eu como usuário desejo criar uma conta para começar a utilizar o app | [ST01](../Storytelling) |
-| RF45 | Eu como usuário desejo entrar no sistema e selecionar uma novo idioma para aprender uma nova língua | [ST02](../Storytelling) |
-| RF46 | Eu como usuário desejo entrar no sistema e verificar o meu nível no curso para conseguir acompanhar o meu progresso | [ST03](../Storytelling) |
-| RF47 | Eu como usuário desejo entrar no sistema e verificar o nível dos meus amigos no curso para acompanhar a evolução deles | [ST05](../Storytelling) |
-| RF48 | Eu como usuário desejo entrar no sistema e ver o ranking para ver o meu nível comparado com as outras pessoas | [ST06](../Storytelling) |
-| RF49 | Eu como usuário desejo fazer os exercícios do curso para aprender mais sobre a língua | [ST07](../Storytelling) |
-| RF50 | Eu como usuário desejo entrar no sistema e fazer uma pergunta na comunidade para tirar as minhas dúvidas | [ST08](../Storytelling) |
-| RF51 | Eu como usuário desejo entrar no sitema e me cadastrar como professor para ajudar as outras pessoas | [ST09](../Storytelling) |
-| RF52 | Eu como usuário desejo entrar no sistema e responder as perguntas na comunidade para tirar as dúvidas das outras pessoas | [ST10](../Storytelling) |
+**RF02**
 
+| RF02                   | O aplicativo permite que o usuário escolha o(s) idioma(s) que ele deseja aprender |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF03**
+
+| RF03                   | O aplicativo deve ter metas diárias para engajamento do usuário |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF04**
+
+| RF04                   | O usuário deve poder escolher o nível de conhecimento que têm no idioma |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF05**
+
+| RF05                   | O aplicativo deve desbloquear as lições que estão abaixo no nível de conhecimento prévio do usuário |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF06**
+
+| RF06                   | O aplicativo deve exibir feedback durante as lições |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF07**
+
+| RF07                   | O aplicativo exibir as conquistas ao finalizar das atividades |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF08**
+
+| RF08                   | Deve existir anúncio após as lições |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF09**
+
+| RF09                   | O usuário deve poder criar sua conta na plataforma |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF10**
+
+| RF10                   | O aplicativo deve me permitir entrar com minha conta |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF11**
+
+| RF11                   | O aplicativo deve me permitir sair da minha conta |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF12**
+
+| RF12                   | Deve existir uma assinatura premium |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF13**
+
+| RF13                   | Caso o usuário tenha assinatura premium ele não deve ver anúncios |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF14**
+
+| RF14                   | O usuário deve poder editar seu perfil na plataforma |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF15**
+
+| RF15                   | O aplicativo deve permitir que o usuário faça login com email/facebook ou conta do google |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF16**
+
+| RF16                   | O aplicativo deve permitir que o usuário veja o seu progresso |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF17**
+
+| RF17                   | O aplicativo permite que o usuário adicione e siga amigoso |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF18**
+
+| RF18                   | O aplicativo deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF19**
+
+| RF19                   | O sistema é divido em níveis e com uma progressão ideal para cada módulo |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF20**
+
+| RF20                   | Cada aula deve ter exercícios para serem realizados |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF21**
+
+| RF21                   | O aplicativo deve apresentar as aulas/exercícios de forma progressiva |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF22**
+
+| RF22                   | O aplicativo deve ter uma pontuação que reflita o número de aulas/exercícios feitos |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF23**
+
+| RF23                   | O aplicativo deve ter ligas/grupos, que sejam progressivas, que separem os usuários de acordo com seu desempenho |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF24**
+
+| RF24                   | O aplicativo deve ter um ranking dos usuários que estão em uma mesma divisão |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF25**
+
+| RF25                   | O aplicativo deve contabilizar o número de dias seguidos que usuário cumpre sua meta diária |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF26**
+
+| RF26                   | O aplicativo deve notificar o usuário sobre as metas diárias |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF27**
+
+| RF27                   | O aplicativo deve possuir uma moeda, que sirva de recompensa para os exercícios realizados |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF28**
+
+| RF28                   | O aplicativo deve possuir uma loja aonde ele poderá gastar suas moedas adquiridas |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF29**
+
+| RF29                   | O aplicativo deve repetir exercícios, de forma que ajude o usuário a aprender/relembrar |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF30**
+
+| RF30                   | Se o usuário ficar algum tempo sem utilizar o aplicativo, o aplicativo deve fazer com que ele volte ao início do curso |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF31**
+
+| RF31                   | Deve aparecer uma mensagem dando Boas Vindas |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF32**
+
+| RF32                   | Devo ser apresentado com a opção de Registro ou Login |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF33**
+
+| RF33                   | Deve haver mais de uma opção de idioma disponível para aprender |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF34**
+
+| RF34                   | Deve apresentar uma opção para ver mais idiomas disponíveis |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF35**
+
+| RF35                   | Deve existir um teste de nivelamento |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF36**
+
+| RF36                   | O aplicativo deve aumentar a pontuação do usuário a cada aula finalizada |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF37**
+
+| RF37                   | O usuário deve receber incentivos e dicas durante os exercícios |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF38**
+
+| RF38                   | O aplicativo deve mostrar os Termos e Política de Privacidade |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF39**
+
+| RF39                   | O usuário deve poder testar a versão premium gratuitamente |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF40**
+
+| RF40                   | O usuário deve poder escolher um novo idioma a qualquer momento |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF41**
+
+| RF41                   | O usuário deve poder ajustar quanto tempo por dia ele quer gastar fazendo lições |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF42**
+
+| RF42                   | O usuário deve poder ajustar as configurações dos exercícios |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF43**
+
+| RF43                   | O usuário deve poder compartilhar seu progresso |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF44**
+
+| RF44                   | Eu como usuário desejo criar uma conta para começar a utilizar o app |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF45**
+
+| RF45                   | Eu como usuário desejo entrar no sistema e selecionar uma novo idioma para aprender uma nova língua |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF46**
+
+| RF46                   | Eu como usuário desejo entrar no sistema e verificar o meu nível no curso para conseguir acompanhar o meu progresso |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF47**
+
+| RF47                   | Eu como usuário desejo entrar no sistema e verificar o nível dos meus amigos no curso para acompanhar a evolução deles |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF48**
+
+| RF48                   | Eu como usuário desejo entrar no sistema e ver o ranking para ver o meu nível comparado com as outras pessoas |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF49**
+
+| RF49                   | Eu como usuário desejo fazer os exercícios do curso para aprender mais sobre a língua |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF50**
+
+| RF50                   | Eu como usuário desejo entrar no sistema e fazer uma pergunta na comunidade para tirar as minhas dúvidas |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF51**
+
+| RF51                   | Eu como usuário desejo entrar no sitema e me cadastrar como professor para ajudar as outras pessoas |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RF52**
+
+| RF52                   | Eu como usuário desejo entrar no sistema e responder as perguntas na comunidade para tirar as dúvidas das outras pessoas |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
 
 ## Requisitos Não-Funcionais
 
-| Código | Descrição | Tema | Épico | US | Funcionalidade | Código |
-|----|:---------:|:----:|:----:|:----:|:----:|----|
-| RNF01 | O aplicativo deve engajar o usuário | [AP15](../AnaliseDeProtocolo) |  |
-| RNF02 | O aplicativo deve ser fácil de usar | [AP16](../AnaliseDeProtocolo), [AD07](../Brainstorming), [ENT16](../Entrevista), [Q11](../Questionario) |  |
-| RNF03 | O aplicativo deve interativo | [AP17](../AnaliseDeProtocolo) |  |
-| RNF04 | O aplicativo deve ser monetizado | [AP18](../AnaliseDeProtocolo) |  |
-| RNF05 | O aplicativo deve ser gameficado | [AD08](../Brainstorming) |  |
-| RNF06 | O usuário deve ser recompensado por seu progresso | [AD09](../Brainstorming) |  |
-| RNF07 | O software deve ser multiplataforma | [AD12](../Brainstorming) |  |
-| RNF07 | O aplicativo deve permitir a segurança dos dados do usuário | [INT35](../Introspecção) | | 
-| RNF08 | O aplicativo deve ser rápido de usar | [Q12](../Questionario) | | 
-| RNF09 | O aplicativo funcionar 24/7 | [Q13](../Questionario) | | 
-| RNF10 | O aplicativo deve estimular a competitividade | [Q14](../Questionario) | | 
-| RNF11 | O aplicativo deve promover a integração dos usuário | [Q04](../Questionario) | |
-| RNF12 | Eu como usuário desejo ser notificado sobre as minhas metas diárias para me lembrar de estudar | [ST04](../Storytelling) |
+**RNF01**
+
+| RNF01                   | O aplicativo deve engajar o usuário |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RNF02**
+
+| RNF02                   | O aplicativo deve ser fácil de usar |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RNF03**
+
+| RNF03                   | O aplicativo deve interativo |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RNF04**
+
+| RNF04                   | O aplicativo deve ser monetizado |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RNF05**
+
+| RNF05                   | O aplicativo deve ser gameficado |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RNF06**
+
+| RNF06                   | O usuário deve ser recompensado por seu progresso |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RNF07**
+
+| RNF07                   | O software deve ser multiplataforma |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RNF08**
+
+| RNF08                   | O aplicativo deve permitir a segurança dos dados do usuário |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RNF09**
+
+| RNF09                   | O aplicativo deve ser rápido de usar |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RNF10**
+
+| RNF10                   | O aplicativo funcionar 24/7 |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RNF11**
+
+| RNF11                   | O aplicativo deve estimular a competitividade |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
+
+**RNF12**
+
+| RNF12                   | O aplicativo deve promover a integração dos usuário |
+|----------------------- | --------- |
+| Épico                  | -- |
+| Feature                | -- |
+| US                     | -- |
+| Critérios de Aceitação | -- |
+| Observação             | -- |
+| Funcionalidade         | -- |
 
 ## Referências
 
