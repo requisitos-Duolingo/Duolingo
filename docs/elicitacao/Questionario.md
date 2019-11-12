@@ -35,28 +35,25 @@ Para o levantamento de dados e requisitos fizemos a classificação de dois grup
 ![Questão 7](https://i.imgur.com/pQfvNCa.png)
 
 ### Questão 8
-![Questão 8](https://i.imgur.com/pQfvNCa.png)
-
-### Questão 9
 ![Questão 9](https://i.imgur.com/Vcw8DfJ.png)
 
-### Questão 10
+### Questão 9
 ![Questão 10](https://i.imgur.com/r4LSyOt.png)
 
-### Questão 11
+### Questão 10
 ![Questão 11](https://i.imgur.com/wk46oQU.png)
 ![Q11 R2/4](https://i.imgur.com/50Whz0s.png) ![Q11 R3/4](https://i.imgur.com/CkWAjUd.png) ![Q11 R4/4](https://i.imgur.com/E7mVRmw.png)
 
-### Questão 12
+### Questão 11
 ![Questão 12](https://i.imgur.com/tWtwzIr.png)
 
-### Questão 13
+### Questão 12
 ![Questão 13](https://i.imgur.com/xFBYYdD.png)
 
-### Questão 14
+### Questão 13
 ![Questão 14](https://i.imgur.com/e8mH0yk.png)
 
-### Questão 15
+### Questão 14
 ![Questão 15](https://i.imgur.com/oAI9456.png)
 
 ### Fluxo de Participantes Não Usuários:
@@ -88,8 +85,8 @@ Também foi possível constatar que o sistema de feedback dado pelo aplicativo a
 | ID | Descrição | Tipo |
 |----|:---------:|------|
 | Q01 | O aplicativo deve oferecer cursos de diversos idiomas | RF01 |
-| Q13 | O aplicativo deve possuir suporte para que os usuários tenham contato com outros usuários | RF02 |
-| Q14 | O aplicativo deve ter um ranking disponível para competições entre amigos | RF03 |
+| Q12 | O aplicativo deve possuir suporte para que os usuários tenham contato com outros usuários | RF02 |
+| Q13 | O aplicativo deve ter um ranking disponível para competições entre amigos | RF03 |
 | Q06 | O aplicativo deve dar feedbacks para o usuário para que o usuário entenda melhor seu desempenho no curso | RF04 |
 | Q06 | O aplicativo deve criar metas gamificadas para que o usuário se mantenha engajado no aprendizado | RF05 |
 | Q02 | O aplicativo deve oferecer diferentes níveis para cada curso | RNF01 |
