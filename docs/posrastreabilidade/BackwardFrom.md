@@ -11,7 +11,7 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 | ID | Descrição | Origem | Elos |
 |:--:|:----------|:------:|:----:|
 | RF01 | O aplicativo deve permitir o usuário praticar antes de se cadastrar | [AP01](../AnaliseDeProtocolo) |  |
-| RF02 | O aplicativo permite que o usuário escolha o(s) idioma(s) que ele deseja aprender | [AP02](../AnaliseDeProtocolo), [AD01](../Brainstorming), [INT03](../Introspecção)|  |
+| RF02 | O aplicativo permite que o usuário escolha o(s) idioma(s) que ele deseja aprender | [AP02](../AnaliseDeProtocolo), [AD01](../Brainstorming), [INT03](../Introspecção)| EF02 |
 | RF03 | O aplicativo deve ter metas diárias para engajamento do usuário | [AP03](../AnaliseDeProtocolo), [AD11](../Brainstorming), [ENT07](../Entrevista) |  |
 | RF04 | O usuário deve poder escolher o nível de conhecimento que têm no idioma | [AP04](../AnaliseDeProtocolo), [INT13](../Instrospecção) |  |
 | RF05 | O aplicativo deve desbloquear as lições que estão abaixo no nível de conhecimento prévio do usuário | [AP05](../AnaliseDeProtocolo) |  |
@@ -80,6 +80,13 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 | RNF11 | O aplicativo deve estimular a competitividade | [Q14](../Questionario) |  |
 | RNF12 | O aplicativo deve promover a integração dos usuário | [Q04](../Questionario) |  |
 
+## Elos Funcionais
+
+### EF02
+
+**Categoria**: Desenvolvimento
+
+**Elos**: Representação: AP02 representa US29
 
 ## Referências
 
