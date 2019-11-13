@@ -40,6 +40,12 @@ _Ainda não foi possível ter êxito nas comunicações_ acompanhei as tentaivas
 
 ![twitter3](https://i.imgur.com/TPMtH5n.jpg)
 
+![twitter3](https://i.imgur.com/vJSRYAc.jpg)
+
+![twitter3](https://i.imgur.com/uXw7zzg.jpg)
+
+![twitter3](https://i.imgur.com/D5YGj5f.jpg)
+
 ### via Instagram
 
 ![instagram](https://i.imgur.com/JezYgxp.jpg)
