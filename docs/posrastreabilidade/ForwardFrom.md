@@ -136,12 +136,12 @@
 
 | RF12                   | Deve existir uma assinatura premium |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP05](../modelagem/agil/Backlog) |
+| Feature                | [FE18](../modelagem/agil/Backlog) |
+| US                     | [US51](../modelagem/agil/HistoriasDoUsuario) & [US52](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US51](../modelagem/agil/HistoriasDoUsuario) & [US52](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf12.jpeg) |
 
 **RF13**
 
@@ -158,23 +158,23 @@
 
 | RF14                   | O usuário deve poder editar seu perfil na plataforma |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP02](../modelagem/agil/Backlog) |
+| Feature                | [FE04](../modelagem/agil/Backlog) |
+| US                     | [US07](../modelagem/agil/HistoriasDoUsuario) & [US08](../modelagem/agil/HistoriasDoUsuario) & [US09](../modelagem/agil/HistoriasDoUsuario) & [US10](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US07](../modelagem/agil/HistoriasDoUsuario) & [US08](../modelagem/agil/HistoriasDoUsuario) & [US09](../modelagem/agil/HistoriasDoUsuario) & [US10](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf14.gif) |
 
 **RF15**
 
 | RF15                   | O aplicativo deve permitir que o usuário faça login com email/facebook ou conta do google |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP01](../modelagem/agil/Backlog) |
+| Feature                | [FE02](../modelagem/agil/Backlog) |
+| US                     | [US04](../modelagem/agil/HistoriasDoUsuario) & [US05](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US04](../modelagem/agil/HistoriasDoUsuario) & [US05](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf10.jpeg) |
 
 **RF16**
 
@@ -189,7 +189,7 @@
 
 **RF17**
 
-| RF17                   | O aplicativo permite que o usuário adicione e siga amigoso |
+| RF17                   | O aplicativo permite que o usuário adicione e siga amigos |
 |----------------------- | --------- |
 | Épico                  | -- |
 | Feature                | -- |
