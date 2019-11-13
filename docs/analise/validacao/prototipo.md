@@ -4,17 +4,19 @@ A prototipação têm como proposta de obter uma retroalimentação do Universo 
 
 ## Metodologia
 
-Foi analisando o artefatos elcitados a parte do [Questionário](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/), onde foram identificados tarefas adicionais ondem foram implementadas em um Protótipo de Alta Fidelidade utilizando a ferramenta `Figma` onde será feito uma Validação por meio de um usuário.
+Foi analisando a questão 6 do artefato [Questionário](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/), no qual foi identificado uma funcionalidade a partir das informações levatadas afim de implemetar uma nova tarefa em um Protótipo de Alta Fidelidade utilizando a ferramenta `Figma` onde será feito uma Validação por meio de um usuário.
 
 ## Prototipagem
 
-[**CLIQUE AQUI**](https://www.figma.com/proto/siLlXrthLzaYn81dH7tgSr/Duolingo---Prot%C3%B3tipo-de-Conversa%C3%A7%C3%A3o?node-id=3%3A3&scaling=scale-down) para acessar o Protótipo de Alta Fidelidade.
+[**CLIQUE AQUI**](https://www.figma.com/file/siLlXrthLzaYn81dH7tgSr/Duolingo-Prot%C3%B3tipo-de-Conversa%C3%A7%C3%A3o?node-id=0%3A1) para acessar o Protótipo de Alta Fidelidade.
 
-![prototype](https://imgur.com/D2KxcxV.jpg)
+Clique na imagem abaixo para executá-lo.
+
+[![prototype](https://imgur.com/D2KxcxV.jpg)](https://www.figma.com/proto/siLlXrthLzaYn81dH7tgSr/Duolingo---Prot%C3%B3tipo-de-Conversa%C3%A7%C3%A3o?node-id=3%3A3&scaling=scale-down)
 
 | Avaliadores | Avaliado |
 |-------------|----------|
-|Francisco Heronildo e João Vitor|  |
+|Francisco Heronildo e João Vitor| _Em Breve_ |
 
 ### Avaliação
 
