@@ -1,6 +1,8 @@
 ## Introdução
+Com o objetivo de facilitar futuras consultas, os requisitos elicitados serão compilados nessa página.
 
 ## Metodologia
+Vários requisitos funcionais foram elicitados através de diferentes métodos. A partir desses requisitos, foi feito um compilado contendo todos os requisitos elicitados, apresentando de onde o mesmo surgiu.
 
 ## Tabelas
 

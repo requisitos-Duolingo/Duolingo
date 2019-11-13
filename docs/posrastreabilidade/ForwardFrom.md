@@ -1,6 +1,18 @@
 ## Introdução
+Neste documento busca-se construir a matriz de pós-rastreabilidade através da ótica Foward-From. Foram feitas duas tabelas, a primeira para requisitos funcionais e a segunda para os não funcionais.
 
 ## Metodologia
+Primeiramente os requisitos previamente elicitados foram padronizados no arquivo de [elicitações](../RequisitosElicitados). A partir disso, buscamos no [backlog](../Backlog) e em [historias de usuário](../HistoriasDoUsuario) o épico, feature e user story relacionada a cada um dos requisitos.
+
+Como o Duolingo não é um software com código aberto não foi possível relacionar o código fonte com cada requisito, apenas a funcionalidade já implementada.
+
+Também foi foram defidos os seguintes critérios para avaliar os requisitos:
+
+* Requisito **totalmente** implementado: Atende a todos os critérios de aceitação;
+
+* Requisito **parcialmente** implementado: Atende a pelo menos um critério de aceitação;
+
+* Requisito **não** implementado: Não atende a nenhum critério de aceitação;
 
 ## Autores
 
@@ -10,6 +22,16 @@
 | Vitor Meireles        |
 
 ## Requisitos Funcionais
+
+**Legenda**
+
+| ID | Descrição |
+| -- | --------- |
+| RF | Requisito Funcional |
+| RNF | Requisito Não-Funcional |
+| US | Histório de Usuário |
+| EP | Épico |
+| FE | Feature |
 
 **RF01**
 
@@ -720,3 +742,7 @@
 ## Referências
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 2º/2019. 44 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
+RocketChat-Requisitos. Disponível em: https://marcosnbj.github.io/2019.1-RocketChat/P%C3%B3s-Rastreabilidade/Foward-From/ . Acesso em 12/11/2019.
+
+GuiaBolso-Requisitos. Disponível em: https://fga-disciplinas.github.io/2019.1-Guia-Bolso/pos-rastreabilidade/forward/ . Acesso em 12/11/2019.
