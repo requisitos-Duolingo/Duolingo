@@ -191,34 +191,34 @@
 
 | RF17                   | O aplicativo permite que o usuário adicione e siga amigos |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE13](../modelagem/agil/Backlog) |
+| US                     | [US39](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US04](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf17.gif) |
 
 **RF18**
 
 | RF18                   | O aplicativo deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP03](../modelagem/agil/Backlog) |
+| Feature                | [FE09](../modelagem/agil/Backlog) |
+| US                     | [US30](../modelagem/agil/HistoriasDoUsuario) & [US31](../modelagem/agil/HistoriasDoUsuario) & [US32](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US30](../modelagem/agil/HistoriasDoUsuario) & [US31](../modelagem/agil/HistoriasDoUsuario) & [US32](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf18-1.PNG) <br> ![Alt Text](../images/features/rf18-2.PNG) <br> ![Alt Text](../images/features/rf18-3.PNG) <br> ![Alt Text](../images/features/rf18-4.PNG) |
 
 **RF19**
 
 | RF19                   | O sistema é divido em níveis e com uma progressão ideal para cada módulo |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE15](../modelagem/agil/Backlog) |
+| US                     | [US41](../modelagem/agil/HistoriasDoUsuario) & [US42](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US41](../modelagem/agil/HistoriasDoUsuario) & [US42](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf19.jpeg) |
 
 **RF20**
 
@@ -235,11 +235,11 @@
 
 | RF21                   | O aplicativo deve apresentar as aulas/exercícios de forma progressiva |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
+| Épico                  | [EP03](../modelagem/agil/Backlog) |
+| Feature                | [FE09](../modelagem/agil/Backlog) |
+| US                     | [US33](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US33](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | -- |
 
 **RF22**
