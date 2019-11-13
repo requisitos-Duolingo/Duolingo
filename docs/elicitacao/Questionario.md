@@ -87,16 +87,16 @@ Também foi possível constatar que o sistema de feedback dado pelo aplicativo a
 
 | ID | Descrição | Tipo |
 |----|:---------:|------|
-| Q01  | O aplicativo deve oferecer cursos de diversos idiomas | RF01 |
-| Q02  | O aplicativo deve oferecer diferentes níveis de dificuldade para cada curso | RF02 |
-| Q03  | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | RF03 |
-| Q04  | O aplicativo deve possuir suporte para que os usuários tenham contato com outros usuários | RF04 |
-| Q05  | O aplicativo deve ter um ranking disponível para competições entre amigos | RF05 |
-| Q06  | O aplicativo deve dar feedbacks para o usuário para que ele saiba melhor sobre seu desempenho | RF06 |
-| Q07  | O aplicativo deve contar o número de dias que o usuário utilizou o aplicativo | RF07 |
-| Q08 | O usuário deve poder ajustar quanto tempo por dia ele quer gastar fazendo lições | RF08 |
-| Q09 | O usuário deve poder ajustar as configurações dos exercícios | RF09 |
-| Q10 | O usuário deve poder compartilhar seu progresso | RF10 |
+| Q01 | O aplicativo deve oferecer cursos de diversos idiomas | RF01 |
+| Q02 | O aplicativo deve oferecer diferentes níveis de dificuldade para cada curso | RF02 |
+| Q03 | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | RF03 |
+| Q04 | O aplicativo deve possuir suporte para que os usuários tenham contato com outros usuários | RF04 |
+| Q05 | O aplicativo deve ter um ranking disponível para competições entre amigos | RF05 |
+| Q06 | O aplicativo deve dar feedbacks para o usuário para que ele saiba melhor sobre seu desempenho | RF06 |
+| Q07 | O aplicativo deve contar o número de dias que o usuário utilizou o aplicativo | RF07 |
+| Q08  | O usuário deve poder ajustar quanto tempo por dia ele quer gastar fazendo lições | RF08 |
+| Q09  | O usuário deve poder ajustar as configurações dos exercícios | RF09 |
+| Q10  | O usuário deve poder compartilhar seu progresso | RF10 |
 | Q11  | O aplicativo deve ser de fácil adaptação | RNF01 |
 | Q12  | O aplicativo deve possuir aulas rápidas | RNF02 |
 | Q13  | O aplicativo funcionar 24/7 | RNF03 |
