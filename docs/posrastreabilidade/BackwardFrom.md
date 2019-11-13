@@ -1,6 +1,6 @@
 ## Introdução
 
-Este documento
+Este documento visa ligar todos os requisitos elicitados durante a matéria de Requisito de Software aos seus respectivos métodos de elicitação e modelagem, utilizando o método de rastreabilidade **Backward-from**.
 
 ## Metodologia
 
