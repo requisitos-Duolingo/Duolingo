@@ -8,7 +8,7 @@ Para a confecção do backlog utilizamos o metodo de instrospecção e análise 
 
 ## Épico01 - Cadastro e Autenticação
 
-|Feature|ID|História de usuário|
+|**Feature**|**ID**|**História de usuário**|
 |:----------:|:----:|:----------------------|
 | </br> Feature 1 - Cadastro e Autenticação </br></br>  | US01 </br></br>  US02 </br></br>  US03 | Elaborar formulário de interese de curso </br></br>  Elaborar formulário de informações pessoais </br></br> Validação do formulário de informações pessoais |
 | </br> Feature 2 - Login </br> | US04 </br></br>  US05 | Fazer login </br></br> Validação do formulário de login |

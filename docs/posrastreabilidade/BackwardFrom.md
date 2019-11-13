@@ -1,6 +1,6 @@
 ## Introdução
 
-Este documento
+Este documento visa ligar todos os requisitos elicitados durante a matéria de Requisito de Software aos seus respectivos métodos de elicitação e modelagem, utilizando o método de rastreabilidade **Backward-from.**
 
 ## Metodologia
 
@@ -8,7 +8,7 @@ Este documento
 
 ## Épico01 - Cadastro e Autenticação
 
-|Feature|ID|História de usuário|
+|**Feature**|**ID**|**História de usuário**|
 |:----------:|:----:|:----------------------|
 | </br> Feature 1 - Cadastro e Autenticação </br></br>  | US01 </br></br>  US02 </br></br>  US03 | Elaborar formulário de interese de curso </br></br>  Elaborar formulário de informações pessoais </br></br> Validação do formulário de informações pessoais |
 | </br> Feature 2 - Login </br> | US04 </br></br>  US05 | Fazer login </br></br> Validação do formulário de login |
