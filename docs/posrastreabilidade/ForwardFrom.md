@@ -20,40 +20,40 @@
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf01.gif) |
 
 **RF02**
 
 | RF02                   | O aplicativo permite que o usuário escolha o(s) idioma(s) que ele deseja aprender |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP03](../modelage/agil/Backlog) |
+| Feature                | [FE08](../modelagem/agil/Backlog) |
+| US                     | [US28](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US28](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf02.jpeg) |
 
 **RF03**
 
 | RF03                   | O aplicativo deve ter metas diárias para engajamento do usuário |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP04](../modelage/agil/Backlog) |
+| Feature                | [FE14](../modelagem/agil/Backlog) |
+| US                     | [US40](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US40](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf03.jpeg) |
 
 **RF04**
 
 | RF04                   | O usuário deve poder escolher o nível de conhecimento que têm no idioma |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP01](../modelagem/agil/Backlog) |
+| Feature                | [F01](../modelagem/agil/Backlog) |
+| US                     | [US01](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US01](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf04.jpeg) |
 
 **RF05**
 
@@ -64,7 +64,7 @@
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf05.gif) |
 
 **RF06**
 
@@ -75,7 +75,7 @@
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf06.PNG) |
 
 **RF07**
 
@@ -86,7 +86,7 @@
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf07.PNG) |
 
 **RF08**
 
@@ -350,7 +350,7 @@
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf31.PNG) |
 
 **RF32**
 
