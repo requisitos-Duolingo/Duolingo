@@ -6,10 +6,21 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 
 ## Tabelas
 
+### Legendas
+
+|**Código**|**Significado**|
+|:--------:|:--------------|
+| Q   | Questionãrio         |
+| AP  | Análise de Protocolo |
+| AD  | Brainstorm           |
+| ENT | Entrevista           |
+| INT | Instrospecção        |
+| ST  | Story Teling         |
+
 ### Requisitos Funcionais
 
 | ID | Descrição | Origem | Elos |
-|:--:|:----------|:------:|:----:|
+|:--:|:----------|:------|:----:|
 | RF01 | O aplicativo deve permitir o usuário praticar antes de se cadastrar | [AP01](../AnaliseDeProtocolo) |  |
 | RF02 | O aplicativo permite que o usuário escolha o(s) idioma(s) que ele deseja aprender | [AP02](../AnaliseDeProtocolo), [AD01](../Brainstorming), [INT03](../Introspecção)| EF02 |
 | RF03 | O aplicativo deve ter metas diárias para engajamento do usuário | [AP03](../AnaliseDeProtocolo), [AD11](../Brainstorming), [ENT07](../Entrevista) |  |
@@ -66,7 +77,7 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 ### Requisitos Não-Funcionais
 
 | ID | Descrição | Origem | Elos |
-|:--:|:----------|:------:| ---------- |
+|:--:|:----------|:-------| ---------- |
 | RNF01 | O aplicativo deve engajar o usuário | [AP15](../AnaliseDeProtocolo) |  |
 | RNF02 | O aplicativo deve ser fácil de usar | [AP16](../AnaliseDeProtocolo), [AD07](../Brainstorming), [ENT16](../Entrevista), [Q11](../Questionario) |  |
 | RNF03 | O aplicativo deve interativo | [AP17](../AnaliseDeProtocolo) |  |
