@@ -81,56 +81,56 @@
 
 | RF07                   | O aplicativo exibir as conquistas ao finalizar das atividades |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE12](../modelagem/agil/Backlog) |
+| US                     | [US38](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US01](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf07.PNG) |
 
 **RF08**
 
 | RF08                   | Deve existir anúncio após as lições |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP05](../modelagem/agil/Backlog) |
+| Feature                | [FE19](../modelagem/agil/Backlog) |
+| US                     | [US53](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US53](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf08.gif) |
 
 **RF09**
 
 | RF09                   | O usuário deve poder criar sua conta na plataforma |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP01](../modelagem/agil/Backlog) |
+| Feature                | [FE01](../modelagem/agil/Backlog) |
+| US                     | [US02](../modelagem/agil/HistoriasDoUsuario) & [US03](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US02](../modelagem/agil/HistoriasDoUsuario) & [US03](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf09.gif) |
 
 **RF10**
 
 | RF10                   | O aplicativo deve me permitir entrar com minha conta |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP01](../modelagem/agil/Backlog) |
+| Feature                | [FE02](../modelagem/agil/Backlog) |
+| US                     | [US04](../modelagem/agil/HistoriasDoUsuario) & [US05](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US04](../modelagem/agil/HistoriasDoUsuario) & [US05](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf10.jpeg) |
 
 **RF11**
 
 | RF11                   | O aplicativo deve me permitir sair da minha conta |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP01](../modelagem/agil/Backlog) |
+| Feature                | [FE03](../modelagem/agil/Backlog) |
+| US                     | [US06](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US06](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf11.PNG) |
 
 **RF12**
 
