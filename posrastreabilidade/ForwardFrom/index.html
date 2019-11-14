@@ -85,6 +85,10 @@
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
     <label class="md-overlay" data-md-component="overlay" for="__drawer"></label>
     
+      <a href="#introducao" tabindex="1" class="md-skip">
+        Ir para o conteúdo
+      </a>
+    
     
       <header class="md-header" data-md-component="header">
   <nav class="md-header-nav md-grid">
@@ -419,6 +423,18 @@
   <li class="md-nav__item">
     <a href="../../elicitacao/Storytelling/" title="Storytelling" class="md-nav__link">
       Storytelling
+    </a>
+  </li>
+
+        
+          
+          
+          
+
+
+  <li class="md-nav__item">
+    <a href="../../elicitacao/RequisitosElicitados/" title="Requisitos Elicitados" class="md-nav__link">
+      Requisitos Elicitados
     </a>
   </li>
 
@@ -785,9 +801,71 @@
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
     
+      <label class="md-nav__link md-nav__link--active" for="__toc">
+        Forward From
+      </label>
+    
     <a href="./" title="Forward From" class="md-nav__link md-nav__link--active">
       Forward From
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">Índice</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#autores" class="md-nav__link">
+    Autores
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requisitos-funcionais" class="md-nav__link">
+    Requisitos Funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requisitos-nao-funcionais" class="md-nav__link">
+    Requisitos Não-Funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -804,6 +882,70 @@
               </div>
             
             
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="toc">
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary">
+  
+  
+  
+    <label class="md-nav__title" for="__toc">Índice</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia" class="md-nav__link">
+    Metodologia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#autores" class="md-nav__link">
+    Autores
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requisitos-funcionais" class="md-nav__link">
+    Requisitos Funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#requisitos-nao-funcionais" class="md-nav__link">
+    Requisitos Não-Funcionais
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    Referências
+  </a>
+  
+</li>
+      
+      
+      
+      
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
           
           <div class="md-content">
             <article class="md-content__inner md-typeset">
@@ -814,7 +956,2316 @@
                 
                   <h1>Forward From</h1>
                 
-                
+                <h2 id="introducao">Introdução</h2>
+<p>Neste documento busca-se construir a matriz de pós-rastreabilidade através da ótica Foward-From. Foram feitas duas tabelas, a primeira para requisitos funcionais e a segunda para os não funcionais.</p>
+<h2 id="metodologia">Metodologia</h2>
+<p>Primeiramente os requisitos previamente elicitados foram padronizados no arquivo de <a href="../RequisitosElicitados">elicitações</a>. A partir disso, buscamos no <a href="../Backlog">backlog</a> e em <a href="../HistoriasDoUsuario">historias de usuário</a> o épico, feature e user story relacionada a cada um dos requisitos.</p>
+<p>Como o Duolingo não é um software com código aberto não foi possível relacionar o código fonte com cada requisito, apenas a funcionalidade já implementada.</p>
+<p>Também foi foram defidos os seguintes critérios para avaliar os requisitos:</p>
+<ul>
+<li>
+<p>Requisito <strong>totalmente</strong> implementado: Atende a todos os critérios de aceitação;</p>
+</li>
+<li>
+<p>Requisito <strong>parcialmente</strong> implementado: Atende a pelo menos um critério de aceitação;</p>
+</li>
+<li>
+<p>Requisito <strong>não</strong> implementado: Não atende a nenhum critério de aceitação;</p>
+</li>
+</ul>
+<h2 id="autores">Autores</h2>
+<table>
+<thead>
+<tr>
+<th>Membros Participantes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Luis Gustavo</td>
+</tr>
+<tr>
+<td>Vitor Meireles</td>
+</tr>
+</tbody>
+</table>
+<h2 id="requisitos-funcionais">Requisitos Funcionais</h2>
+<p><strong>Legenda</strong></p>
+<table>
+<thead>
+<tr>
+<th>ID</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RF</td>
+<td>Requisito Funcional</td>
+</tr>
+<tr>
+<td>RNF</td>
+<td>Requisito Não-Funcional</td>
+</tr>
+<tr>
+<td>US</td>
+<td>Histório de Usuário</td>
+</tr>
+<tr>
+<td>EP</td>
+<td>Épico</td>
+</tr>
+<tr>
+<td>FE</td>
+<td>Feature</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF01</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF01</th>
+<th>O aplicativo deve permitir o usuário praticar antes de se cadastrar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf01.gif" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF02</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF02</th>
+<th>O aplicativo permite que o usuário escolha o(s) idioma(s) que ele deseja aprender</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td><a href="../modelage/agil/Backlog">EP03</a></td>
+</tr>
+<tr>
+<td>Feature</td>
+<td><a href="../modelagem/agil/Backlog">FE08</a></td>
+</tr>
+<tr>
+<td>US</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US28</a></td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US28</a></td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>Requisito <strong>totalmente</strong> implementado</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf02.jpeg" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF03</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF03</th>
+<th>O aplicativo deve ter metas diárias para engajamento do usuário</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td><a href="../modelage/agil/Backlog">EP04</a></td>
+</tr>
+<tr>
+<td>Feature</td>
+<td><a href="../modelagem/agil/Backlog">FE14</a></td>
+</tr>
+<tr>
+<td>US</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US40</a></td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US40</a></td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>Requisito <strong>totalmente</strong> implementado</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf03.jpeg" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF04</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF04</th>
+<th>O usuário deve poder escolher o nível de conhecimento que têm no idioma</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td><a href="../modelagem/agil/Backlog">EP01</a></td>
+</tr>
+<tr>
+<td>Feature</td>
+<td><a href="../modelagem/agil/Backlog">F01</a></td>
+</tr>
+<tr>
+<td>US</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US01</a></td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US01</a></td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>Requisito <strong>totalmente</strong> implementado</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf04.jpeg" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF05</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF05</th>
+<th>O aplicativo deve desbloquear as lições que estão abaixo no nível de conhecimento prévio do usuário</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf05.gif" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF06</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF06</th>
+<th>O aplicativo deve exibir feedback durante as lições</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf06.PNG" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF07</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF07</th>
+<th>O aplicativo exibir as conquistas ao finalizar das atividades</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td><a href="../modelagem/agil/Backlog">EP04</a></td>
+</tr>
+<tr>
+<td>Feature</td>
+<td><a href="../modelagem/agil/Backlog">FE12</a></td>
+</tr>
+<tr>
+<td>US</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US38</a></td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US01</a></td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>Requisito <strong>totalmente</strong> implementado</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf07.PNG" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF08</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF08</th>
+<th>Deve existir anúncio após as lições</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td><a href="../modelagem/agil/Backlog">EP05</a></td>
+</tr>
+<tr>
+<td>Feature</td>
+<td><a href="../modelagem/agil/Backlog">FE19</a></td>
+</tr>
+<tr>
+<td>US</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US53</a></td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US53</a></td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>Requisito <strong>totalmente</strong> implementado</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf08.gif" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF09</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF09</th>
+<th>O usuário deve poder criar sua conta na plataforma</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td><a href="../modelagem/agil/Backlog">EP01</a></td>
+</tr>
+<tr>
+<td>Feature</td>
+<td><a href="../modelagem/agil/Backlog">FE01</a></td>
+</tr>
+<tr>
+<td>US</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US02</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US03</a></td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US02</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US03</a></td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>Requisito <strong>totalmente</strong> implementado</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf09.gif" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF10</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF10</th>
+<th>O aplicativo deve me permitir entrar com minha conta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td><a href="../modelagem/agil/Backlog">EP01</a></td>
+</tr>
+<tr>
+<td>Feature</td>
+<td><a href="../modelagem/agil/Backlog">FE02</a></td>
+</tr>
+<tr>
+<td>US</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US04</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US05</a></td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US04</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US05</a></td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>Requisito <strong>totalmente</strong> implementado</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf10.jpeg" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF11</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF11</th>
+<th>O aplicativo deve me permitir sair da minha conta</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td><a href="../modelagem/agil/Backlog">EP01</a></td>
+</tr>
+<tr>
+<td>Feature</td>
+<td><a href="../modelagem/agil/Backlog">FE03</a></td>
+</tr>
+<tr>
+<td>US</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US06</a></td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US06</a></td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>Requisito <strong>totalmente</strong> implementado</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf11.PNG" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF12</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF12</th>
+<th>Deve existir uma assinatura premium</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td><a href="../modelagem/agil/Backlog">EP05</a></td>
+</tr>
+<tr>
+<td>Feature</td>
+<td><a href="../modelagem/agil/Backlog">FE18</a></td>
+</tr>
+<tr>
+<td>US</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US51</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US52</a></td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US51</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US52</a></td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>Requisito <strong>totalmente</strong> implementado</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf12.jpeg" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF13</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF13</th>
+<th>Caso o usuário tenha assinatura premium ele não deve ver anúncios</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF14</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF14</th>
+<th>O usuário deve poder editar seu perfil na plataforma</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td><a href="../modelagem/agil/Backlog">EP02</a></td>
+</tr>
+<tr>
+<td>Feature</td>
+<td><a href="../modelagem/agil/Backlog">FE04</a></td>
+</tr>
+<tr>
+<td>US</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US07</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US08</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US09</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US10</a></td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US07</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US08</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US09</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US10</a></td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>Requisito <strong>totalmente</strong> implementado</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf14.gif" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF15</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF15</th>
+<th>O aplicativo deve permitir que o usuário faça login com email/facebook ou conta do google</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td><a href="../modelagem/agil/Backlog">EP01</a></td>
+</tr>
+<tr>
+<td>Feature</td>
+<td><a href="../modelagem/agil/Backlog">FE02</a></td>
+</tr>
+<tr>
+<td>US</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US04</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US05</a></td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US04</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US05</a></td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>Requisito <strong>totalmente</strong> implementado</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf10.jpeg" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF16</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF16</th>
+<th>O aplicativo deve permitir que o usuário veja o seu progresso</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF17</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF17</th>
+<th>O aplicativo permite que o usuário adicione e siga amigos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td><a href="../modelagem/agil/Backlog">EP04</a></td>
+</tr>
+<tr>
+<td>Feature</td>
+<td><a href="../modelagem/agil/Backlog">FE13</a></td>
+</tr>
+<tr>
+<td>US</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US39</a></td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US04</a></td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>Requisito <strong>totalmente</strong> implementado</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf17.gif" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF18</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF18</th>
+<th>O aplicativo deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td><a href="../modelagem/agil/Backlog">EP03</a></td>
+</tr>
+<tr>
+<td>Feature</td>
+<td><a href="../modelagem/agil/Backlog">FE09</a></td>
+</tr>
+<tr>
+<td>US</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US30</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US31</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US32</a></td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US30</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US31</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US32</a></td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>Requisito <strong>totalmente</strong> implementado</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf18-1.PNG" /> <br> <img alt="Alt Text" src="../../images/features/rf18-2.PNG" /> <br> <img alt="Alt Text" src="../../images/features/rf18-3.PNG" /> <br> <img alt="Alt Text" src="../../images/features/rf18-4.PNG" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF19</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF19</th>
+<th>O sistema é divido em níveis e com uma progressão ideal para cada módulo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td><a href="../modelagem/agil/Backlog">EP04</a></td>
+</tr>
+<tr>
+<td>Feature</td>
+<td><a href="../modelagem/agil/Backlog">FE15</a></td>
+</tr>
+<tr>
+<td>US</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US41</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US42</a></td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US41</a> &amp; <a href="../modelagem/agil/HistoriasDoUsuario">US42</a></td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>Requisito <strong>totalmente</strong> implementado</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf19.jpeg" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF20</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF20</th>
+<th>Cada aula deve ter exercícios para serem realizados</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF21</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF21</th>
+<th>O aplicativo deve apresentar as aulas/exercícios de forma progressiva</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td><a href="../modelagem/agil/Backlog">EP03</a></td>
+</tr>
+<tr>
+<td>Feature</td>
+<td><a href="../modelagem/agil/Backlog">FE09</a></td>
+</tr>
+<tr>
+<td>US</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US33</a></td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td><a href="../modelagem/agil/HistoriasDoUsuario">US33</a></td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>Requisito <strong>totalmente</strong> implementado</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF22</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF22</th>
+<th>O aplicativo deve ter uma pontuação que reflita o número de aulas/exercícios feitos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF23</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF23</th>
+<th>O aplicativo deve ter ligas/grupos, que sejam progressivas, que separem os usuários de acordo com seu desempenho</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF24</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF24</th>
+<th>O aplicativo deve ter um ranking dos usuários que estão em uma mesma divisão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF25</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF25</th>
+<th>O aplicativo deve contabilizar o número de dias seguidos que usuário cumpre sua meta diária</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF26</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF26</th>
+<th>O aplicativo deve notificar o usuário sobre as metas diárias</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF27</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF27</th>
+<th>O aplicativo deve possuir uma moeda, que sirva de recompensa para os exercícios realizados</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF28</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF28</th>
+<th>O aplicativo deve possuir uma loja aonde ele poderá gastar suas moedas adquiridas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF29</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF29</th>
+<th>O aplicativo deve repetir exercícios, de forma que ajude o usuário a aprender/relembrar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF30</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF30</th>
+<th>Se o usuário ficar algum tempo sem utilizar o aplicativo, o aplicativo deve fazer com que ele volte ao início do curso</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF31</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF31</th>
+<th>Deve aparecer uma mensagem dando Boas Vindas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td><img alt="Alt Text" src="../../images/features/rf31.PNG" /></td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF32</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF32</th>
+<th>Devo ser apresentado com a opção de Registro ou Login</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF33</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF33</th>
+<th>Deve haver mais de uma opção de idioma disponível para aprender</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF34</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF34</th>
+<th>Deve apresentar uma opção para ver mais idiomas disponíveis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF35</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF35</th>
+<th>Deve existir um teste de nivelamento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF36</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF36</th>
+<th>O aplicativo deve aumentar a pontuação do usuário a cada aula finalizada</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF37</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF37</th>
+<th>O usuário deve receber incentivos e dicas durante os exercícios</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF38</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF38</th>
+<th>O aplicativo deve mostrar os Termos e Política de Privacidade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF39</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF39</th>
+<th>O usuário deve poder testar a versão premium gratuitamente</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF40</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF40</th>
+<th>O usuário deve poder escolher um novo idioma a qualquer momento</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF41</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF41</th>
+<th>O usuário deve poder ajustar quanto tempo por dia ele quer gastar fazendo lições</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF42</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF42</th>
+<th>O usuário deve poder ajustar as configurações dos exercícios</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF43</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF43</th>
+<th>O usuário deve poder compartilhar seu progresso</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF44</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF44</th>
+<th>Eu como usuário desejo criar uma conta para começar a utilizar o app</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF45</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF45</th>
+<th>Eu como usuário desejo entrar no sistema e selecionar uma novo idioma para aprender uma nova língua</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF46</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF46</th>
+<th>Eu como usuário desejo entrar no sistema e verificar o meu nível no curso para conseguir acompanhar o meu progresso</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF47</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF47</th>
+<th>Eu como usuário desejo entrar no sistema e verificar o nível dos meus amigos no curso para acompanhar a evolução deles</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF48</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF48</th>
+<th>Eu como usuário desejo entrar no sistema e ver o ranking para ver o meu nível comparado com as outras pessoas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF49</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF49</th>
+<th>Eu como usuário desejo fazer os exercícios do curso para aprender mais sobre a língua</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF50</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF50</th>
+<th>Eu como usuário desejo entrar no sistema e fazer uma pergunta na comunidade para tirar as minhas dúvidas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF51</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF51</th>
+<th>Eu como usuário desejo entrar no sitema e me cadastrar como professor para ajudar as outras pessoas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RF52</strong></p>
+<table>
+<thead>
+<tr>
+<th>RF52</th>
+<th>Eu como usuário desejo entrar no sistema e responder as perguntas na comunidade para tirar as dúvidas das outras pessoas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<h2 id="requisitos-nao-funcionais">Requisitos Não-Funcionais</h2>
+<p><strong>RNF01</strong></p>
+<table>
+<thead>
+<tr>
+<th>RNF01</th>
+<th>O aplicativo deve engajar o usuário</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RNF02</strong></p>
+<table>
+<thead>
+<tr>
+<th>RNF02</th>
+<th>O aplicativo deve ser fácil de usar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RNF03</strong></p>
+<table>
+<thead>
+<tr>
+<th>RNF03</th>
+<th>O aplicativo deve interativo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RNF04</strong></p>
+<table>
+<thead>
+<tr>
+<th>RNF04</th>
+<th>O aplicativo deve ser monetizado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RNF05</strong></p>
+<table>
+<thead>
+<tr>
+<th>RNF05</th>
+<th>O aplicativo deve ser gameficado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RNF06</strong></p>
+<table>
+<thead>
+<tr>
+<th>RNF06</th>
+<th>O usuário deve ser recompensado por seu progresso</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RNF07</strong></p>
+<table>
+<thead>
+<tr>
+<th>RNF07</th>
+<th>O software deve ser multiplataforma</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RNF08</strong></p>
+<table>
+<thead>
+<tr>
+<th>RNF08</th>
+<th>O aplicativo deve permitir a segurança dos dados do usuário</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RNF09</strong></p>
+<table>
+<thead>
+<tr>
+<th>RNF09</th>
+<th>O aplicativo deve ser rápido de usar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RNF10</strong></p>
+<table>
+<thead>
+<tr>
+<th>RNF10</th>
+<th>O aplicativo funcionar 24/7</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RNF11</strong></p>
+<table>
+<thead>
+<tr>
+<th>RNF11</th>
+<th>O aplicativo deve estimular a competitividade</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>RNF12</strong></p>
+<table>
+<thead>
+<tr>
+<th>RNF12</th>
+<th>O aplicativo deve promover a integração dos usuário</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Épico</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Feature</td>
+<td>--</td>
+</tr>
+<tr>
+<td>US</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Critérios de Aceitação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Observação</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Funcionalidade</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<h2 id="referencias">Referências</h2>
+<p>SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 26. 2º/2019. 44 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.</p>
+<p>RocketChat-Requisitos. Disponível em: <a href="https://marcosnbj.github.io/2019.1-RocketChat/P%C3%B3s-Rastreabilidade/Foward-From/">https://marcosnbj.github.io/2019.1-RocketChat/P%C3%B3s-Rastreabilidade/Foward-From/</a> . Acesso em 12/11/2019.</p>
+<p>GuiaBolso-Requisitos. Disponível em: <a href="https://fga-disciplinas.github.io/2019.1-Guia-Bolso/pos-rastreabilidade/forward/">https://fga-disciplinas.github.io/2019.1-Guia-Bolso/pos-rastreabilidade/forward/</a> . Acesso em 12/11/2019.</p>
                 
                   
                 
