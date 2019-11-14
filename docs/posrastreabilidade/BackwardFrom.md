@@ -192,6 +192,9 @@ Agregação: INT18 agrega AP04
 
 **Elos:**
 
+Satisfação: ENT10 satisfaz AD09
+
+
 
 
 
