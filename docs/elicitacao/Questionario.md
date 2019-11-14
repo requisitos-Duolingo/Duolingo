@@ -4,7 +4,7 @@ Questionário é uma técnica pouco flexível de elicitação de requisitos, poi
 
 ## Metodologia
 
-Para o levantamQo de dados e requisitos fizemos a classificação de dois grupos: usuários do aplicativo e participantes não usuários. Para o primeiro grupo que notamos ser maior que o segundo as perguntas foram feitas com o intuito de idQificar hábitos e costumes apresentados por usuários do aplicativo. Para o segundo grupo as perguntas foram desenvolvidas para levantar potênciais usuários ou não do aplicativo. O questionário foi divulgado em grupos da faculdade e grupos pessoais dos participantes até o que houve-se 54 respostas.
+Para o levantamento de dados e requisitos fizemos a classificação de dois grupos: usuários do aplicativo e participantes não usuários. Para o primeiro grupo que notamos ser maior que o segundo as perguntas foram feitas com o intuito de idQificar hábitos e costumes apresentados por usuários do aplicativo. Para o segundo grupo as perguntas foram desenvolvidas para levantar potênciais usuários ou não do aplicativo. O questionário foi divulgado em grupos da faculdade e grupos pessoais dos participantes até o que houve-se 54 respostas.
 
 | Dados Recolhidos em |
 |-----------------|
@@ -35,28 +35,25 @@ Para o levantamQo de dados e requisitos fizemos a classificação de dois grupos
 ![Questão 7](https://i.imgur.com/pQfvNCa.png)
 
 ### Questão 8
-![Questão 8](https://i.imgur.com/pQfvNCa.png)
-
-### Questão 9
 ![Questão 9](https://i.imgur.com/Vcw8DfJ.png)
 
-### Questão 10
+### Questão 9
 ![Questão 10](https://i.imgur.com/r4LSyOt.png)
 
-### Questão 11
+### Questão 10
 ![Questão 11](https://i.imgur.com/wk46oQU.png)
 ![Q11 R2/4](https://i.imgur.com/50Whz0s.png) ![Q11 R3/4](https://i.imgur.com/CkWAjUd.png) ![Q11 R4/4](https://i.imgur.com/E7mVRmw.png)
 
-### Questão 12
+### Questão 11
 ![Questão 12](https://i.imgur.com/tWtwzIr.png)
 
-### Questão 13
+### Questão 12
 ![Questão 13](https://i.imgur.com/xFBYYdD.png)
 
-### Questão 14
+### Questão 13
 ![Questão 14](https://i.imgur.com/e8mH0yk.png)
 
-### Questão 15
+### Questão 14
 ![Questão 15](https://i.imgur.com/oAI9456.png)
 
 ### Fluxo de Participantes Não Usuários:

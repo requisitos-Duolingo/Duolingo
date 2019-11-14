@@ -104,6 +104,17 @@ a oportunidade de aprender um idioma, de vários disponíveis, de forma lúdica,
 | ST09 | Must |
 | ST10 | Must | -->
 
+## First Things First
+
+Funcionalidades |Beneficio Relativo|Penalidade Relativa|Valor Total| Valor %| Custo Relativo| Custo %| Risco Relativo|Risco %| Prioridade
+----------------|------------------|-------------------|-----------|---------|---------------|---------|---------------|--------|-----------
+O aplicativo deve ensinar um novo idioma ao usuário	|7	|8	|22	|23.91	|6	|19.35	|5	|17.86	|0.845
+O aplicativo deve motivar o usuário a estudar de forma gamificada	|5	|6	|16	|17.39	|5	|16.13	|4	|14.29	|0.747
+O aplicativo deve ajudar na interação entre usuários	|2	|1	|5	|5.43	|5	|16.13	|3	|10.71	|0.253
+O aplicativo deve informar o progresso que o usuário está obtendo	|7	|8	|22	|23.91	|7	|22.58	|7	|25.00	|0.682
+O aplicativo deve ter acessibilidade multiplataforma	|9	|9	|27	|29.35	|8	|25.81	|9	|32.14	|0.701
+
+
 ## Referências
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
