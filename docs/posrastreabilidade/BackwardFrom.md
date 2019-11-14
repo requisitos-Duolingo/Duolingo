@@ -105,16 +105,16 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 **Categoria**: Desenvolvimento
 
 **Elos**
-Representação: AP02 representa US29
-Agregação: INT03 agrega AD01
+Representação: [AP02](../AnaliseDeProtocolo) representa US29
+Agregação: [INT03](../Introspecção) agrega [AD01](../Brainstorming)
 
 ### EF03
 
 **Categoria**: Desenvolvimento
 
-**Elos**
-Agregação: AD11 agrega AP03
-Representação: INT03 representa ENT07
+**Elos:**
+Agregação: [AD11](../Brainstorming) agrega [AP03](../AnaliseDeProtocolo)
+Representação: [INT03](../Introspecção) representa [ENT07](../Entrevista)
 
 ### EF04
 
@@ -260,7 +260,7 @@ Representação: INT03 representa ENT07
 
 **Elos:**
 
-Satisfação: ENT09 satifaz AD09 </br> INT61 também é satisfeito por AD09
+Satisfação: [ENT09](../Entrevista) satifaz [AD09](../Brainstorming) </br> INT61 também é satisfeito por [AD09](../Brainstorming)
 
 Representação: US43, US44, US45 representam o C07
 
@@ -270,7 +270,7 @@ Representação: US43, US44, US45 representam o C07
 
 **Elos:**
 
-Satisfação: ENT09 satifaz AD09 </br> INT61 também é satisfeito por AD09
+Satisfação: [ENT09](../Entrevista) satifaz [AD09](../Brainstorming) </br> INT61 também é satisfeito por [AD09](../Brainstorming)
 
 Representação: US43, US44, US45 representam o C07
 
@@ -298,8 +298,8 @@ Representação: US43, US44, US45 representam o C07
 
 **Elos:**
 
-Representação: UC01 representa INT02 </br>
-Representação: US04 representa AD02 
+Representação: UC01 representa [INT02](../Introspecção) </br>
+Representação: US04 representa [AD02](../Brainstorming) 
 
 ### EF33
 
@@ -307,9 +307,9 @@ Representação: US04 representa AD02
 
 **Elos:**
 
-Representação: UC05 representa [INT04](../Introspecção)
+Representação: [UC05](../CasosDeUso) representa [INT04](../Introspecção)
 
-Agregação: Q01 agrega AD01
+Agregação: [Q01](../Questionario) agrega [AD01](../Brainstorming)
 
 ### EF34
 
@@ -317,7 +317,7 @@ Agregação: Q01 agrega AD01
 
 **Elos:**
 
-Representação: [UC05](../CasosDeUso) representa INT05
+Representação: [UC05](../CasosDeUso) representa [INT05](../Introspecção)
 
 ### EF35
 
@@ -325,8 +325,8 @@ Representação: [UC05](../CasosDeUso) representa INT05
 
 **Elos:**
 
-Representação: US01 representa INT18 </br>
-Agregação: INT18 agrega AP04
+Representação: US01 representa [INT18](../Introspecção) </br>
+Agregação: [INT18](../Introspecção) agrega [AP04](../AnaliseDeProtocolo)
 
 
 ### EF36
@@ -335,8 +335,9 @@ Agregação: INT18 agrega AP04
 
 **Elos:**
 
-Representação: C03 representa INT24</br>
-Agregação: AP07 agrega AD09
+Representação: C03 representa [INT24](../EntreviIntrospecçãosta)</br>
+Agregação: AP07 agrega [AD09](../Brainstorming)
+
 
 ### EF37
 
@@ -344,9 +345,9 @@ Agregação: AP07 agrega AD09
 
 **Elos:**
 
-Agregação: INT28 agrega Q06</br>
+Agregação: [INT28](../Introspecção) agrega [Q06](../Questionario)</br>
 Agregação: F11 é composta pela C05 e C11</br>
-Agregação: AP06 agrega INT25
+Agregação: [AP06](../AnaliseDeProtocolo) agrega INT25
 
 ### EF38
 
@@ -354,7 +355,7 @@ Agregação: AP06 agrega INT25
 
 **Elos:**
 
-Agregação: INT35 agrega UC02</br>
+Agregação: [INT35](../Introspecção) agrega UC02</br>
 Agregação: UC03 agrega C01
 
 ### EF39
@@ -363,7 +364,7 @@ Agregação: UC03 agrega C01
 
 **Elos:**
 
-Representação: INT44 representa US51
+Representação: [INT44](../Introspecção) representa US51
 
 ### EF40
 
@@ -371,9 +372,9 @@ Representação: INT44 representa US51
 
 **Elos:**
 
-Representação: UC05 representa AD01</br>
-Agregação: AP02 agrega Q01</br>
-Representação: US28 representa INT50
+Representação: [UC05](../CasosDeUso) representa [AD01](../Brainstorming)</br>
+Agregação: [AP02](../AnaliseDeProtocolo) agrega Q01</br>
+Representação: US28 representa [INT50](../Introspecção)
 
 ### EF41
 
@@ -381,7 +382,7 @@ Representação: US28 representa INT50
 
 **Elos:**
 
-Satisfação: Q08 satisfaz AD11
+Satisfação: [Q08](../Questionario) satisfaz [AD11](../Brainstorming)
 
 ## Referências
 
