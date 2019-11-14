@@ -164,7 +164,7 @@ Representação: US04 representa AD02
 
 **Elos:**
 
-Representação: UC05 representa INT04
+Representação: UC05 representa [INT04](../Introspecção)
 
 Agregação: Q01 agrega AD01
 
@@ -174,7 +174,7 @@ Agregação: Q01 agrega AD01
 
 **Elos:**
 
-Representação: UC05 representa INT05
+Representação: [UC05](../CasosDeUso) representa INT05
 
 ### EF35
 
@@ -192,11 +192,53 @@ Agregação: INT18 agrega AP04
 
 **Elos:**
 
-Satisfação: ENT10 satisfaz AD09
+Representação: C03 representa INT24</br>
+Agregação: AP07 agrega AD09
 
+### EF37
 
+**Categoria:** Desenvolvimento
 
+**Elos:**
 
+Agregação: INT28 agrega Q06</br>
+Agregação: F11 é composta pela C05 e C11</br>
+Agregação: AP06 agrega INT25
+
+### EF38
+
+**Categoria:** Desenvolvimento
+
+**Elos:**
+
+Agregação: INT35 agrega UC02</br>
+Agregação: UC03 agrega C01
+
+### EF39
+
+**Categoria:** Desenvolvimento
+
+**Elos:**
+
+Representação: INT44 representa US51
+
+### EF40
+
+**Categoria:** Desenvolvimento
+
+**Elos:**
+
+Representação: UC05 representa AD01</br>
+Agregação: AP02 agrega Q01</br>
+Representação: US28 representa INT50
+
+### EF41
+
+**Categoria:** Desenvolvimento
+
+**Elos:**
+
+Satisfação: Q08 satisfaz AD11
 
 ## Referências
 
