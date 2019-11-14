@@ -16,6 +16,7 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 | ENT | Entrevista           |
 | INT | Instrospecção        |
 | ST  | Story Teling         |
+| F   | Feature              |
 
 ### Requisitos Funcionais
 
@@ -50,13 +51,13 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 | RF27 | O aplicativo deve possuir uma moeda, que sirva de recompensa para os exercícios realizados | [ENT10](../Entrevista) |  |
 | RF28 | O aplicativo deve possuir uma loja aonde ele poderá gastar suas moedas adquiridas | [ENT11](../Entrevista), [INT59](../Introspecção) |  |
 | RF29 | O aplicativo deve repetir exercícios, de forma que ajude o usuário a aprender/relembrar | [ENT14](../Entrevista) |  |
-| RF30 | Se o usuário ficar algum tempo sem utilizar o aplicativo, o aplicativo deve fazer com que ele volte ao início do curso | [ENT02](../Entrevista) |  |
+| RF30 | Se o usuário ficar algum tempo sem utilizar o aplicativo, o aplicativo deve fazer com que ele volte ao início do curso | [ENT15](../Entrevista) |  |
 | RF31 | Deve aparecer uma mensagem dando Boas Vindas | [INT01](../Introspecção) |  |
 | RF32 | Devo ser apresentado com a opção de Registro ou Login | [INT02](../Introspecção) |  |
 | RF33 | Deve haver mais de uma opção de idioma disponível para aprender | [INT04](../Introspecção), [Q01](../Questionario) |  |
 | RF34 | Deve apresentar uma opção para ver mais idiomas disponíveis | [INT05](../Introspecção) |  |
 | RF35 | Deve existir um teste de nivelamento | [INT18](../Introspecção) |  | 
-| RF36 | O aplicativo deve aumentar a pontuação do usuário a cada aula finalizada | [INT23](../EntreviIntrospecçãosta) |  |
+| RF36 | O aplicativo deve aumentar a pontuação do usuário a cada aula finalizada | [INT24](../EntreviIntrospecçãosta) |  |
 | RF37 | O usuário deve receber incentivos e dicas durante os exercícios | [INT28](../Introspecção) |  |
 | RF38 | O aplicativo deve mostrar os Termos e Política de Privacidade | [INT35](../Introspecção) |  |
 | RF39 | O usuário deve poder testar a versão premium gratuitamente | [INT44](../Introspecção) |  |
@@ -108,6 +109,91 @@ Agregação: INT03 agrega AD01
 **Elos**
 Agregação: AD11 agrega AP03
 Representação: INT03 representa ENT07
+
+
+### EF27
+
+**Categoria:** Desenvolvimento
+
+**Elos:**
+
+Satisfação: ENT09 satifaz AD09 </br> INT61 também é satisfeito por AD09
+
+Representação: US43, US44, US45 representam o C07
+
+### EF28
+
+**Categoria:** Desenvolvimento
+
+**Elos:**
+
+Satisfação: ENT09 satifaz AD09 </br> INT61 também é satisfeito por AD09
+
+Representação: US43, US44, US45 representam o C07
+
+### EF29
+
+**Categoria:**
+
+**Elos:**
+
+### EF30
+
+**Categoria:** 
+
+**Elos:**
+
+### EF31
+
+**Categoria:**
+
+**Elos:**
+
+### EF32
+
+**Categoria:** Desenvolvimento
+
+**Elos:**
+
+Representação: UC01 representa INT02 </br>
+Representação: US04 representa AD02 
+
+### EF33
+
+**Categoria:** Desenvolvimento
+
+**Elos:**
+
+Representação: UC05 representa INT04
+
+Agregação: Q01 agrega AD01
+
+### EF34
+
+**Categoria:** Desenvolvimento
+
+**Elos:**
+
+Representação: UC05 representa INT05
+
+### EF35
+
+**Categoria:** Desenvolvimento
+
+**Elos:**
+
+Representação: US01 representa INT18 </br>
+Agregação: INT18 agrega AP04
+
+
+### EF36
+
+**Categoria:** Desenvolvimento
+
+**Elos:**
+
+
+
 
 ## Referências
 
