@@ -70,7 +70,7 @@ Questionário disponível nesse [LINK](https://forms.gle/rmCoUst9obQ5tCSC9)
 
 Com os resultados do questionário apresentado, pode-se tirar algumas conclusões, como por exemplo, a funcionalidade de competição Qre amigos é usada por menos da metade dos usuários que possuem amigos no aplicativo, o que nos leva a pensar se a proposta de gamificação por meio de competição baseada em rankings é bem vendida no aplicativo.
 
-Assim também podemos perceber que a proposta de até 20 minutos de estudo no aplicativo também não se mostra suficiQe para maioria dos usuários que desejariam mais tempo de estudo de novas linguas, o que Qretanto pode ser feito também de outros meios além do aplicativo. Como mostrado cerca de 75% dos usuários buscam outros meios de aprendizado das novas línguas.
+Assim também podemos perceber que a proposta de até 20 minutos de estudo no aplicativo também não se mostra suficinte para maioria dos usuários que desejariam mais tempo de estudo de novas linguas, o que Qretanto pode ser feito também de outros meios além do aplicativo. Como mostrado cerca de 75% dos usuários buscam outros meios de aprendizado das novas línguas.
 
 Também foi possível constatar que o sistema de feedback dado pelo aplicativo agrada a maior parte dos usuários e é um bom exemplo de requisito que deve ser mantido e até mesmo se possível aprimorado para que possa agradar ainda mais usuários.
 
@@ -84,46 +84,33 @@ Também foi possível constatar que o sistema de feedback dado pelo aplicativo a
 
 | ID | Descrição | Tipo |
 |----|:---------:|------|
-| Q01 | O aplicativo deve oferecer cursos de diversos idiomas | RF01 |
-| Q12 | O aplicativo deve possuir suporte para que os usuários tenham contato com outros usuários | RF02 |
-| Q13 | O aplicativo deve ter um ranking disponível para competições entre amigos | RF03 |
-| Q06 | O aplicativo deve dar feedbacks para o usuário para que o usuário entenda melhor seu desempenho no curso | RF04 |
-| Q06 | O aplicativo deve criar metas gamificadas para que o usuário se mantenha engajado no aprendizado | RF05 |
-| Q02 | O aplicativo deve oferecer diferentes níveis para cada curso | RNF01 |
-| Q07 | O aplicativo deve registrar os dias em que o usuário utilizou o aplicativo | RNF02 |
-| Q02 | O aplicativo deve ser de fácil adaptação | RNF03 |
-| Q06 | O aplicativo deve possuir aulas rápidas | RNF04 |
+| Q01  | O aplicativo deve oferecer cursos de diversos idiomas | RF01 |
+| Q02  | O aplicativo deve oferecer diferentes níveis de dificuldade para cada curso | RF02 |
+| Q03  | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | RF03 |
+| Q04  | O aplicativo deve possuir suporte para que os usuários tenham contato com outros usuários | RF04 |
+| Q05  | O aplicativo deve ter um ranking disponível para competições entre amigos | RF05 |
+| Q06  | O aplicativo deve dar feedbacks para o usuário para que ele saiba melhor sobre seu desempenho | RF06 |
+| Q07  | O aplicativo deve contar o número de dias que o usuário utilizou o aplicativo | RF07 |
+| Q08 | O usuário deve poder ajustar quanto tempo por dia ele quer gastar fazendo lições | RF08 |
+| Q09 | O usuário deve poder ajustar as configurações dos exercícios | RF09 |
+| Q10 | O usuário deve poder compartilhar seu progresso | RF10 |
+| Q11  | O aplicativo deve ser de fácil adaptação | RNF01 |
+| Q12  | O aplicativo deve possuir aulas rápidas | RNF02 |
+| Q13  | O aplicativo funcionar 24/7 | RNF03 |
+| Q14  | O aplicativo deve estimular a competitividade | RNF03 |
 
-## Priorização
+<!-- ## Priorização -->
 
-### MoSCoW
+<!-- ### MoSCoW
 
 | ID | Prioridade |
-|----|:----------:|
-| RF01  | Must   |
-| RF02  | Should |
-| RF03  | Could  |
-| RF04  | Must   |
-| RF05  | Could  |
-| RNF01 | Must   |
-| RNF02 | Could  |
-| RNF03 | Should |
-| RNF04 | Should |
-
-### First Things First
-
-| ID | Benefício Relativo | Penalidade Relativa | Valor Total | Valor % | Custo Relativo | Custo % | Risco Relativo | Risco % | Prioridade |
-|-------|----|----|-----|--------|:--:|:------:|:--:|--------|-------------|
-| RF01  |  6 |  5 |  17 | 13.28% |  2 | 6,45%  |  5 | 10,20% | 0,10970266  |
-| RF02  |  3 |  1 |   7 |  5.46% |  5 | 16,12% |  6 | 12,24% | 0,096511101 |
-| RF04  |  7 |  5 |  19 | 14.84% |  3 | 9,67%  |  7 | 14,28% | 0,101961697 |
-| RF05  |  9 |  1 |  19 | 14.84% |  4 | 12,90% |  7 | 14,28% | 0,104117181 |
-| RNF01 |  9 |  9 |  27 | 21.09% |  3 | 9,67%  |  2 | 4,08%  | 0,377454937 |
-| RNF02 |  3 |  1 |   7 |  5,46% |  3 | 9,67%  |  3 | 6,12%  | 0,203504328 |
-| RNF03 |  6 |  5 |  17 | 13,28% |  2 | 6,45%  |  5 | 10,20% | 0,049758317 |
-| RNF04 |  5 |  5 |  15 | 11.71% |  6 | 19,35% |  8 | 16,32% | 0,064015244 |
-| Total | 61 | 53 | 128 | 100%   | 31 | 100%   | 49 | 100%   |             |
-
+|----|------------|
+| Q01  | Must |
+| Q02  | Must |
+| Q03  | Must |
+| Q04  | Should |
+| Q05  | Should |
+| Q06  | Should | -->
 
 ## Referências
 

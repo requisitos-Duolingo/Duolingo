@@ -57,7 +57,7 @@ nav:
     - Instrospecção: elicitacao/Instrospeccao.md
     - Questionário: elicitacao/Questionario.md
     - Storytelling: elicitacao/Storytelling.md
-    # - Etnografia: elicitacao/Etnografia.md
+    - Requisitos Elicitados: elicitacao/RequisitosElicitados.md
   - Modelagem:
     - Cenários: modelagem/Cenarios.md
     - Léxicos: modelagem/Lexicos.md

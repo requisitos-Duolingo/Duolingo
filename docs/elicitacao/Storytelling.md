@@ -85,10 +85,11 @@ a oportunidade de aprender um idioma, de vários disponíveis, de forma lúdica,
 | ST08 | Eu como usuário desejo entrar no sistema e fazer uma pergunta na comunidade para tirar as minhas dúvidas | RF07 |
 | ST09 | Eu como usuário desejo entrar no sitema e me cadastrar como professor para ajudar as outras pessoas | RF08 |
 | ST10 | Eu como usuário desejo entrar no sistema e responder as perguntas na comunidade para tirar as dúvidas das outras pessoas | RF09 |
+| ST11 | O aplicativo deve ter um sistema de vidas dentro do jogo | RF09 |
 
 ## Priorização
 
-### MoSCoW
+<!-- ### MoSCoW
 
 | ID | Prioridade |
 |----|------------|
@@ -101,7 +102,7 @@ a oportunidade de aprender um idioma, de vários disponíveis, de forma lúdica,
 | ST07 | Must |
 | ST08 | Must |
 | ST09 | Must |
-| ST10 | Must |
+| ST10 | Must | -->
 
 ## First Things First
 

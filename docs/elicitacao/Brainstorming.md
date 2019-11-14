@@ -114,7 +114,7 @@ O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos se
 | AD07 | O aplicativo deve ser fácil de ser utilizada | RNF01 |
 | AD08 | O aplicativo deve ser gamificada de forma a mater o usuario engajado e motivado | RNF02 |
 | AD09 | O usuário é recompesado cada vez que termina uma unidade ou nível | RNF03 |
-| AD10 | O sistema é divido em níveis e com uma progressão ideal para cada módulo | RNF04 |
+| AD10 | O sistema é divido em níveis e com uma progressão ideal para cada módulo | RF07 |
 | AD11 | Metas diárias com períodos de pouco tempo | RNF05 |
 | AD12 | O sistema deve ser acessível para diversas plataformas como mobile e web | RNF06 |
 

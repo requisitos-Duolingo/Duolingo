@@ -124,8 +124,8 @@ Já finalizei o curso de Inglês. Acho que com o tempo eu vou dar conta de inter
 
 | ID | Descrição | Tipo |
 |----|:---------:|------|
-| ENT01  | O aplicativo deve ter exercícios para serem realizados | RF01 |
-| ENT02  | O aplicativo deve ter diferentes tipos de exercícios | RNF01 |
+| ENT01  | Cada aula deve ter exercícios para serem realizados | RF01 |
+| ENT02  | O aplicativo deve ter diferentes tipos de exercícios | RF01 |
 | ENT03  | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | RF02 |
 | ENT04  | O aplicativo deve ter uma pontuação que reflita o número de aulas/exercícios feitos | RF03 |
 | ENT05  | O aplicativo deve ter ligas/grupos, que sejam progressivas, que separem os usuários de acordo com seu desempenho | RF04 |
@@ -139,7 +139,7 @@ Já finalizei o curso de Inglês. Acho que com o tempo eu vou dar conta de inter
 | ENT13 | O aplicativo deve dar acesso a novos exercícios de forma progressiva | RF12 |
 | ENT14 | O aplicativo deve repetir exercícios, de forma que ajude o usuário a aprender/relembrar | RF13 |
 | ENT15 | Se o usuário ficar algum tempo sem utilizar o aplicativo, o aplicativo deve fazer com que ele volte ao início do curso | RF14 |
-| ENT16 | A aplicação deve ser intuitiva | RNF02 |
+| ENT16 | A aplicação deve ser intuitiva | RNF01 |
 
 ## Priorização
 
