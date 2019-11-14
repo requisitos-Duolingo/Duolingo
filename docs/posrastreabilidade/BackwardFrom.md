@@ -22,47 +22,47 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 
 | ID | Descrição | Origem | Elos |
 |:--:|:----------|:------|:----:|
-| RF01 | O aplicativo deve permitir o usuário praticar antes de se cadastrar | [AP01](../AnaliseDeProtocolo) |  |
-| RF02 | O aplicativo permite que o usuário escolha o(s) idioma(s) que ele deseja aprender | [AP02](../AnaliseDeProtocolo), [AD01](../Brainstorming), [INT03](../Introspecção)| EF02 |
-| RF03 | O aplicativo deve ter metas diárias para engajamento do usuário | [AP03](../AnaliseDeProtocolo), [AD11](../Brainstorming), [ENT07](../Entrevista) | EF03 |
-| RF04 | O usuário deve poder escolher o nível de conhecimento que têm no idioma | [AP04](../AnaliseDeProtocolo), [INT13](../Instrospecção) |  |
-| RF05 | O aplicativo deve desbloquear as lições que estão abaixo no nível de conhecimento prévio do usuário | [AP05](../AnaliseDeProtocolo) |  |
-| RF06 | O aplicativo deve exibir feedback durante as lições | [AP06](../AnaliseDeProtocolo), [AD06](../Brainstorming), [Q06](../Questionario) |  |
-| RF07 | O aplicativo exibir as conquistas ao finalizar das atividades | [AP](../AnaliseDeProtocolo) |  |
-| RF08 | Deve existir anúncio após as lições | [AP08](../AnaliseDeProtocolo) |  |
-| RF09 | O usuário deve poder criar sua conta na plataforma | [AP09](../AnaliseDeProtocolo), [INT34](../Introspecção) |  |
-| RF10 | O aplicativo deve me permitir entrar com minha conta | [AP10](../AnaliseDeProtocolo) |  |
-| RF11 | O aplicativo deve me permitir sair da minha conta | [AP11](../AnaliseDeProtocolo) |  |
-| RF12 | Deve existir uma assinatura premium | [AP12](../AnaliseDeProtocolo), [ENT12](../Entrevista) |  |
-| RF13 | Caso o usuário tenha assinatura premium ele não deve ver anúncios | [AP13](../AnaliseDeProtocolo) |  |
-| RF14 | O usuário deve poder editar seu perfil na plataforma | [AP14](../AnaliseDeProtocolo) |  |
-| RF15 | O aplicativo deve permitir que o usuário faça login com email/facebook ou conta do google | [AD02](../Brainstorming) |  |
-| RF16 | O aplicativo deve permitir que o usuário veja o seu progresso | [AD03](../Brainstorming) |  |
-| RF17 | O aplicativo permite que o usuário adicione e siga amigos | [AD04](../Brainstorming) |  |
-| RF18 | O aplicativo deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala | [AD02](../Brainstorming), [ENT02](../Entrevista) |  |
-| RF19 | O sistema é divido em níveis e com uma progressão ideal para cada módulo | [AD10](../Brainstorming), [ENT13](../Entrevista), [Q02](../Questionario) |  |
-| RF20 | Cada aula deve ter exercícios para serem realizados | [AD02](../Brainstorming), [ENT02](../Entrevista) |  |
-| RF21 | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | [ENT03](../Entrevista), [Q03](../Questionario) |  |
-| RF22 | O aplicativo deve ter uma pontuação que reflita o número de aulas/exercícios feitos | [ENT04](../Entrevista), [INT46](../Introspecção) |  |
-| RF23 | O aplicativo deve ter ligas/grupos, que sejam progressivas, que separem os usuários de acordo com seu desempenho | [ENT05](../Entrevista) |  |
-| RF24 | O aplicativo deve ter um ranking dos usuários que estão em uma mesma divisão | [ENT02](../Entrevista), [Q05](../Questionario) |  |
-| RF25 | O aplicativo deve contabilizar o número de dias seguidos que usuário cumpre sua meta diária | [ENT08](../Entrevista), [Q06](../Questionario) |  |
-| RF26 | O aplicativo deve notificar o usuário sobre as metas diárias | [ENT09](../Entrevista) |  |
-| RF27 | O aplicativo deve possuir uma moeda, que sirva de recompensa para os exercícios realizados | [ENT10](../Entrevista) |  |
-| RF28 | O aplicativo deve possuir uma loja aonde ele poderá gastar suas moedas adquiridas | [ENT11](../Entrevista), [INT59](../Introspecção) |  |
-| RF29 | O aplicativo deve repetir exercícios, de forma que ajude o usuário a aprender/relembrar | [ENT14](../Entrevista) |  |
-| RF30 | Se o usuário ficar algum tempo sem utilizar o aplicativo, o aplicativo deve fazer com que ele volte ao início do curso | [ENT15](../Entrevista) |  |
-| RF31 | Deve aparecer uma mensagem dando Boas Vindas | [INT01](../Introspecção) |  |
-| RF32 | Devo ser apresentado com a opção de Registro ou Login | [INT02](../Introspecção) |  |
-| RF33 | Deve haver mais de uma opção de idioma disponível para aprender | [INT04](../Introspecção), [Q01](../Questionario) |  |
-| RF34 | Deve apresentar uma opção para ver mais idiomas disponíveis | [INT05](../Introspecção) |  |
-| RF35 | Deve existir um teste de nivelamento | [INT18](../Introspecção) |  | 
-| RF36 | O aplicativo deve aumentar a pontuação do usuário a cada aula finalizada | [INT24](../EntreviIntrospecçãosta) |  |
-| RF37 | O usuário deve receber incentivos e dicas durante os exercícios | [INT28](../Introspecção) |  |
-| RF38 | O aplicativo deve mostrar os Termos e Política de Privacidade | [INT35](../Introspecção) |  |
-| RF39 | O usuário deve poder testar a versão premium gratuitamente | [INT44](../Introspecção) |  |
-| RF40 | O usuário deve poder escolher um novo idioma a qualquer momento | [INT50](../Introspecção) |  |
-| RF41 | O usuário deve poder ajustar quanto tempo por dia ele quer gastar fazendo lições | [Q08](../Questionario) |  |
+| RF01 | O aplicativo deve permitir o usuário praticar antes de se cadastrar | [AP01](../AnaliseDeProtocolo) | [**EF01**](#elos-funcionais) |
+| RF02 | O aplicativo permite que o usuário escolha o(s) idioma(s) que ele deseja aprender | [AP02](../AnaliseDeProtocolo), [AD01](../Brainstorming), [INT03](../Introspecção)| [**EF02**](#elos-funcionais) |
+| RF03 | O aplicativo deve ter metas diárias para engajamento do usuário | [AP03](../AnaliseDeProtocolo), [AD11](../Brainstorming), [ENT07](../Entrevista) | [**EF03**](#elos-funcionais) |
+| RF04 | O usuário deve poder escolher o nível de conhecimento que têm no idioma | [AP04](../AnaliseDeProtocolo), [INT13](../Instrospecção) | [**EF04**](#elos-funcionais) |
+| RF05 | O aplicativo deve desbloquear as lições que estão abaixo no nível de conhecimento prévio do usuário | [AP05](../AnaliseDeProtocolo) | [**EF05**](#elos-funcionais) |
+| RF06 | O aplicativo deve exibir feedback durante as lições | [AP06](../AnaliseDeProtocolo), [AD06](../Brainstorming), [Q06](../Questionario) | [**EF06**](#elos-funcionais) |
+| RF07 | O aplicativo exibir as conquistas ao finalizar das atividades | [AP](../AnaliseDeProtocolo) | [**EF07**](#elos-funcionais) |
+| RF08 | Deve existir anúncio após as lições | [AP08](../AnaliseDeProtocolo) | [**EF08**](#elos-funcionais) |
+| RF09 | O usuário deve poder criar sua conta na plataforma | [AP09](../AnaliseDeProtocolo), [INT34](../Introspecção) | [**EF09**](#elos-funcionais) |
+| RF10 | O aplicativo deve me permitir entrar com minha conta | [AP10](../AnaliseDeProtocolo) | [**EF10**](#elos-funcionais) |
+| RF11 | O aplicativo deve me permitir sair da minha conta | [AP11](../AnaliseDeProtocolo) | [**EF11**](#elos-funcionais) |
+| RF12 | Deve existir uma assinatura premium | [AP12](../AnaliseDeProtocolo), [ENT12](../Entrevista) | [**EF12**](#elos-funcionais) |
+| RF13 | Caso o usuário tenha assinatura premium ele não deve ver anúncios | [AP13](../AnaliseDeProtocolo) | [**EF13**](#elos-funcionais) |
+| RF14 | O usuário deve poder editar seu perfil na plataforma | [AP14](../AnaliseDeProtocolo) | [**EF14**](#elos-funcionais) |
+| RF15 | O aplicativo deve permitir que o usuário faça login com email/facebook ou conta do google | [AD02](../Brainstorming) | [**EF15**](#elos-funcionais) |
+| RF16 | O aplicativo deve permitir que o usuário veja o seu progresso | [AD03](../Brainstorming) | [**EF16**](#elos-funcionais) |
+| RF17 | O aplicativo permite que o usuário adicione e siga amigos | [AD04](../Brainstorming) | [**EF17**](#elos-funcionais) |
+| RF18 | O aplicativo deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala | [AD02](../Brainstorming), [ENT02](../Entrevista) | [**EF18**](#elos-funcionais) |
+| RF19 | O sistema é divido em níveis e com uma progressão ideal para cada módulo | [AD10](../Brainstorming), [ENT13](../Entrevista), [Q02](../Questionario) | [**EF19**](#elos-funcionais) |
+| RF20 | Cada aula deve ter exercícios para serem realizados | [AD02](../Brainstorming), [ENT02](../Entrevista) | [**EF20**](#elos-funcionais) |
+| RF21 | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | [ENT03](../Entrevista), [Q03](../Questionario) | [**EF21**](#elos-funcionais) |
+| RF22 | O aplicativo deve ter uma pontuação que reflita o número de aulas/exercícios feitos | [ENT04](../Entrevista), [INT46](../Introspecção) | [**EF22**](#elos-funcionais) |
+| RF23 | O aplicativo deve ter ligas/grupos, que sejam progressivas, que separem os usuários de acordo com seu desempenho | [ENT05](../Entrevista) | [**EF23**](#elos-funcionais) |
+| RF24 | O aplicativo deve ter um ranking dos usuários que estão em uma mesma divisão | [ENT02](../Entrevista), [Q05](../Questionario) | [**EF24**](#elos-funcionais) |
+| RF25 | O aplicativo deve contabilizar o número de dias seguidos que usuário cumpre sua meta diária | [ENT08](../Entrevista), [Q06](../Questionario) | [**EF25**](#elos-funcionais) |
+| RF26 | O aplicativo deve notificar o usuário sobre as metas diárias | [ENT09](../Entrevista) | [**EF26**](#elos-funcionais) |
+| RF27 | O aplicativo deve possuir uma moeda, que sirva de recompensa para os exercícios realizados | [ENT10](../Entrevista) | [**EF27**](#elos-funcionais) |
+| RF28 | O aplicativo deve possuir uma loja aonde ele poderá gastar suas moedas adquiridas | [ENT11](../Entrevista), [INT59](../Introspecção) | [**EF28**](#elos-funcionais) |
+| RF29 | O aplicativo deve repetir exercícios, de forma que ajude o usuário a aprender/relembrar | [ENT14](../Entrevista) | [**EF29**](#elos-funcionais) |
+| RF30 | Se o usuário ficar algum tempo sem utilizar o aplicativo, o aplicativo deve fazer com que ele volte ao início do curso | [ENT15](../Entrevista) | [**EF30**](#elos-funcionais) |
+| RF31 | Deve aparecer uma mensagem dando Boas Vindas | [INT01](../Introspecção) | [**EF31**](#elos-funcionais) |
+| RF32 | Devo ser apresentado com a opção de Registro ou Login | [INT02](../Introspecção) | [**EF32**](#elos-funcionais) |
+| RF33 | Deve haver mais de uma opção de idioma disponível para aprender | [INT04](../Introspecção), [Q01](../Questionario) | [**EF33**](#elos-funcionais) |
+| RF34 | Deve apresentar uma opção para ver mais idiomas disponíveis | [INT05](../Introspecção) | [**EF34**](#elos-funcionais) |
+| RF35 | Deve existir um teste de nivelamento | [INT18](../Introspecção) | [**EF35**](#elos-funcionais) | 
+| RF36 | O aplicativo deve aumentar a pontuação do usuário a cada aula finalizada | [INT24](../EntreviIntrospecçãosta) | [**EF36**](#elos-funcionais) |
+| RF37 | O usuário deve receber incentivos e dicas durante os exercícios | [INT28](../Introspecção) | [**EF37**](#elos-funcionais) |
+| RF38 | O aplicativo deve mostrar os Termos e Política de Privacidade | [INT35](../Introspecção) | [**EF38**](#elos-funcionais) |
+| RF39 | O usuário deve poder testar a versão premium gratuitamente | [INT44](../Introspecção) | [**EF39**](#elos-funcionais) |
+| RF40 | O usuário deve poder escolher um novo idioma a qualquer momento | [INT50](../Introspecção) | [**EF40**](#elos-funcionais) |
+| RF41 | O usuário deve poder ajustar quanto tempo por dia ele quer gastar fazendo lições | [Q08](../Questionario) | [**EF41**](#elos-funcionais) |
 | RF42 | O usuário deve poder ajustar as configurações dos exercícios | [Q09](../Questionario) |  |
 | RF43 | O usuário deve poder compartilhar seu progresso | [Q10](../Questionario) |  |
 | RF44 | Eu como usuário desejo criar uma conta para começar a utilizar o app | [ST01](../Storytelling) |  |
@@ -94,6 +94,12 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 
 ## Elos Funcionais
 
+### EF01
+
+**Categoria:**
+
+**Elos:**
+
 ### EF02
 
 **Categoria**: Desenvolvimento
@@ -110,6 +116,143 @@ Agregação: INT03 agrega AD01
 Agregação: AD11 agrega AP03
 Representação: INT03 representa ENT07
 
+### EF04
+
+**Categoria:**
+
+**Elos:**
+
+### EF05
+
+**Categoria:**
+
+**Elos:**
+
+### EF06
+
+**Categoria:**
+
+**Elos:**
+
+### EF07
+
+**Categoria:**
+
+**Elos:**
+
+### EF08
+
+**Categoria:**
+
+**Elos:**
+
+### EF09
+
+**Categoria:**
+
+**Elos:**
+
+### EF10
+
+**Categoria:**
+
+**Elos:**
+
+### EF11
+
+**Categoria:**
+
+**Elos:**
+
+### EF12
+
+**Categoria:**
+
+**Elos:**
+
+### EF13
+
+**Categoria:**
+
+**Elos:**
+
+### EF14
+
+**Categoria:**
+
+**Elos:**
+
+### EF15
+
+**Categoria:**
+
+**Elos:**
+
+### EF16
+
+**Categoria:**
+
+**Elos:**
+
+### EF17
+
+**Categoria:**
+
+**Elos:**
+
+### EF18
+
+**Categoria:**
+
+**Elos:**
+
+### EF19
+
+**Categoria:**
+
+**Elos:**
+
+### EF20
+
+**Categoria:**
+
+**Elos:**
+
+### EF21
+
+**Categoria:**
+
+**Elos:**
+
+### EF22
+
+**Categoria:**
+
+**Elos:**
+
+### EF23
+
+**Categoria:**
+
+**Elos:**
+
+### EF24
+
+**Categoria:**
+
+**Elos:**
+
+### EF25
+
+**Categoria:**
+
+**Elos:**
+
+### EF26
+
+**Categoria:**
+
+**Elos:**
 
 ### EF27
 
