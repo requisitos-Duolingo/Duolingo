@@ -72,15 +72,6 @@ Vários requisitos funcionais foram elicitados através de diferentes métodos. 
 | RF41 | O usuário deve poder ajustar quanto tempo por dia ele quer gastar fazendo lições | [Q08](../Questionario) |  |
 | RF42 | O usuário deve poder ajustar as configurações dos exercícios | [Q09](../Questionario) |  |
 | RF43 | O usuário deve poder compartilhar seu progresso | [Q10](../Questionario) |  |
-| RF44 | Eu como usuário desejo criar uma conta para começar a utilizar o app | [ST01](../Storytelling) |
-| RF45 | Eu como usuário desejo entrar no sistema e selecionar uma novo idioma para aprender uma nova língua | [ST02](../Storytelling) |
-| RF46 | Eu como usuário desejo entrar no sistema e verificar o meu nível no curso para conseguir acompanhar o meu progresso | [ST03](../Storytelling) |
-| RF47 | Eu como usuário desejo entrar no sistema e verificar o nível dos meus amigos no curso para acompanhar a evolução deles | [ST05](../Storytelling) |
-| RF48 | Eu como usuário desejo entrar no sistema e ver o ranking para ver o meu nível comparado com as outras pessoas | [ST06](../Storytelling) |
-| RF49 | Eu como usuário desejo fazer os exercícios do curso para aprender mais sobre a língua | [ST07](../Storytelling) |
-| RF50 | Eu como usuário desejo entrar no sistema e fazer uma pergunta na comunidade para tirar as minhas dúvidas | [ST08](../Storytelling) |
-| RF51 | Eu como usuário desejo entrar no sitema e me cadastrar como professor para ajudar as outras pessoas | [ST09](../Storytelling) |
-| RF52 | Eu como usuário desejo entrar no sistema e responder as perguntas na comunidade para tirar as dúvidas das outras pessoas | [ST10](../Storytelling) |
 
 ### Requisitos Não-Funcionais
 

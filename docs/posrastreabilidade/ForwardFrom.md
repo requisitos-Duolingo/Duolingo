@@ -251,7 +251,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf20.gif) |
 
 **RF21**
 
@@ -273,7 +273,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf22.jpeg) |
 
 **RF23**
 
@@ -284,7 +284,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf23.jpeg) |
 
 **RF24**
 
@@ -295,7 +295,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf24.jpeg) |
 
 **RF25**
 
@@ -306,7 +306,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf25.jpeg) |
 
 **RF26**
 
@@ -328,7 +328,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf27.jpeg) |
 
 **RF28**
 
@@ -339,7 +339,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf28.jpeg) |
 
 **RF29**
 
@@ -383,7 +383,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf32.gif) |
 
 **RF33**
 
@@ -394,7 +394,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf33.jpeg) |
 
 **RF34**
 
@@ -405,7 +405,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf34.gif) |
 
 **RF35**
 
@@ -416,7 +416,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf35.gif) |
 
 **RF36**
 
@@ -427,7 +427,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf36.gif) |
 
 **RF37**
 
@@ -438,7 +438,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf37.jpeg) |
 
 **RF38**
 
@@ -449,7 +449,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf38-1.jpeg) <br> ![Alt Text](../images/features/rf38-2.PNG) <br> ![Alt Text](../images/features/rf38-3.PNG) |
 
 **RF39**
 
@@ -460,7 +460,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf39.jpeg) |
 
 **RF40**
 
@@ -471,7 +471,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf33.jpeg) |
 
 **RF41**
 
@@ -482,7 +482,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf41.jpeg) |
 
 **RF42**
 
@@ -493,7 +493,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf42.jpeg) |
 
 **RF43**
 
@@ -504,106 +504,8 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf43.jpeg) |
 
-**RF44**
-
-| RF44                   | Eu como usuário desejo criar uma conta para começar a utilizar o app |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
-
-**RF45**
-
-| RF45                   | Eu como usuário desejo entrar no sistema e selecionar uma novo idioma para aprender uma nova língua |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
-
-**RF46**
-
-| RF46                   | Eu como usuário desejo entrar no sistema e verificar o meu nível no curso para conseguir acompanhar o meu progresso |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
-
-**RF47**
-
-| RF47                   | Eu como usuário desejo entrar no sistema e verificar o nível dos meus amigos no curso para acompanhar a evolução deles |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
-
-**RF48**
-
-| RF48                   | Eu como usuário desejo entrar no sistema e ver o ranking para ver o meu nível comparado com as outras pessoas |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
-
-**RF49**
-
-| RF49                   | Eu como usuário desejo fazer os exercícios do curso para aprender mais sobre a língua |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
-
-**RF50**
-
-| RF50                   | Eu como usuário desejo entrar no sistema e fazer uma pergunta na comunidade para tirar as minhas dúvidas |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
-
-**RF51**
-
-| RF51                   | Eu como usuário desejo entrar no sitema e me cadastrar como professor para ajudar as outras pessoas |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
-
-**RF52**
-
-| RF52                   | Eu como usuário desejo entrar no sistema e responder as perguntas na comunidade para tirar as dúvidas das outras pessoas |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
 
 ## Requisitos Não-Funcionais
 
