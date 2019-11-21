@@ -518,7 +518,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rnf01.jpg) |
 
 **RNF02**
 
@@ -529,7 +529,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rnf02.jpg) |
 
 **RNF03**
 
@@ -540,7 +540,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rnf03.jpg) |
 
 **RNF04**
 
@@ -551,7 +551,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rnf04.jpg) |
 
 **RNF05**
 
@@ -562,7 +562,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rnf05.jpg) |
 
 **RNF06**
 
@@ -573,7 +573,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rnf06.jpg) |
 
 **RNF07**
 
@@ -584,7 +584,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rnf07.png) |
 
 **RNF08**
 
@@ -628,18 +628,18 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rnf11.jpg) |
 
 **RNF12**
 
-| RNF12                   | O aplicativo deve promover a integração dos usuário |
+| RNF12                   | O aplicativo deve promover a integração dos usuários |
 |----------------------- | --------- |
 | Épico                  | -- |
 | Feature                | -- |
 | US                     | -- |
 | Critérios de Aceitação | -- |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rnf12.jpg) |
 
 ## Referências
 
