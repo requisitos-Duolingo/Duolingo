@@ -99,18 +99,45 @@ Também foi possível constatar que o sistema de feedback dado pelo aplicativo a
 | Q13  | O aplicativo funcionar 24/7 | RNF03 |
 | Q14  | O aplicativo deve estimular a competitividade | RNF03 |
 
-<!-- ## Priorização -->
+## Priorização
 
-<!-- ### MoSCoW
+### MoSCoW
 
 | ID | Prioridade |
 |----|------------|
-| Q01  | Must |
+| Q01  | Should |
 | Q02  | Must |
 | Q03  | Must |
-| Q04  | Should |
-| Q05  | Should |
-| Q06  | Should | -->
+| Q04  | Could |
+| Q05  | Would |
+| Q06  | Should |
+| Q07  | Should |
+| Q08  | Could |
+| Q09  | Should |
+| Q10  | Would |
+| Q11  | Must |
+| Q12  | Should |
+| Q14  | Should |
+
+### First Things First
+
+| ID | Benefício Relativo | Penalidade Relativa | Valor Total | Valor % | Custo Relativo | Custo % | Risco Relativo | Risco % | Prioridade |
+|:-----:|:--:|:--:|:---:|:------:|:--:|:------:|:--:|:------:|:-----------:|
+| Q01 | 6 | 5 | 17 |  7.20% |  5 |  7.81% | 3 |  6.38% | 0,10970266  |
+| Q02 | 3 | 1 |  7 |  2.96% |  4 |  6.25% | 1 |  2,12% | 0,203504328 |
+| Q03 | 9 | 9 | 27 | 11.44% |  4 |  6.25% | 1 |  2,12% | 0,101961697 |
+| Q04 | 3 | 1 |  7 |  2.96% |  6 |  9.37% | 2 |  4.25% | 0,096511101 |
+| Q05 | 9 | 9 | 27 | 11.44% |  3 |  4.68% | 4 |  8,51% | 0,377454937 |
+| Q06 | 9 | 1 | 19 |  8.05% |  3 |  4.68% | 1 |  2,12% | 0,104117181 |
+| Q07 | 3 | 1 |  7 |  2.96% |  2 |  3.12% | 1 |  2,12% | 0,203504328 | 
+| Q08 | 8 | 5 | 21 |  8.89% |  4 |  6.25% | 3 |  6,38% | 0,064015244 |
+| Q09 | 7 | 2 | 16 |  6.77% |  5 |  7.81% | 4 |  8,51% | 0,064015244 |
+| Q10 | 3 | 1 |  7 |  2.96% |  3 |  4.68% | 3 |  6,38% | 0,064015244 |
+| Q11 | 6 | 5 | 17 |  7.20% |  6 |  9.37% | 6 | 12,76% | 0,049758317 |
+| Q12 | 5 | 5 | 15 |  6.35% |  4 |  6.25% | 3 |  6,38% | 0,064015244 | 
+| Q13 | 9 | 6 | 25 | 10,59% |  9 | 14.06% | 9 | 19.14% | 0,064015244 |
+| Q14 | 9 | 5 | 24 | 10.16% |  6 |  9.37% | 6 | 12,76% | 0,064015244 |
+|Total| 89 | 56 | 236 | 100% | 64 | 100%  | 47 | 100%  |             |
 
 ## Referências
 
