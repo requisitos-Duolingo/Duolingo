@@ -59,8 +59,8 @@ De acordo com a análise de protocolo podemos observar que o aplicativo tem um n
 | AP14 | O usuário deve poder editar sua conta na plataforma | RF14 |
 | AP15 | O aplicativo deve engajar o usuário | RNF01 |
 | AP16 | O aplicativo deve ser fácil de usar | RNF02 |
-| AP17 | O aplicativo deve interativo | RNF03 |
-| AP18 | O aplicativo deve monetizado | RNF04 |
+| AP17 | O aplicativo deve ser interativo | RNF03 |
+| AP18 | O aplicativo deve ser monetizado | RNF04 |
 
 ## Priorização
 
@@ -70,16 +70,16 @@ De acordo com a análise de protocolo podemos observar que o aplicativo tem um n
 |----|------------|
 | AP01 | Should |
 | AP02 | Must |
-| AP03 | Must |
+| AP03 | Should |
 | AP04 | Must |
 | AP05 | Should |
 | AP06 | Must |
-| AP07 | Must |
+| AP07 | Should |
 | AP08 | Should |
 | AP09 | Must |
-| AP10 | Should |
-| AP11 | Should |
-| AP12 | Must |
+| AP10 | Must |
+| AP11 | Must |
+| AP12 | Should |
 | AP13 | Should |
 | AP14 | Must |
 | AP15 | Should |
