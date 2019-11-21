@@ -30,7 +30,6 @@ O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos se
 
 ## **Como aprender um idioma de forma fácil e sem custos?**
 
-
 **Luis**: Acredito que você pode ter vários exercícios em uma aplicação web/mobile e vocẽ pode monetizar através de propagandas, assim o usuário não teria custos.
 
 **Francisco**: Como usuário acho satisfatório aprender um idioma no qual não preciso pagar matérias caros e escolas caras.
@@ -48,9 +47,7 @@ O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos se
 **Brian**: O Duolingo uma boa alternativa para se aprender uma nova língua. Porque, a atenção está no mobile hoje em dia e as pessoas passam práticamente 24H por dia conectadas. Além de ser um app grátis que oferece um método de ensino bem melhor que o dos cursinhos.
 
 
-
 ## **Como aprender um novo idioma com pouco tempo disponível?**
-
 
 **Vitor Meireles**: O celular é a principal ferramenta, o tempo é relativamente mais eficiente quando se pode levar as ferramentas necessárias consigo. O celular é ferramenta indispensável para otimizar o tempo de uso das pessoas que querem aprender novas coisas, inclusive um idioma.
 
@@ -71,9 +68,7 @@ O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos se
 **Brian**: Acredito que por usar um sistema de ensino diferente do Cursinho, em que aprende a ouvir e falar desde o início, se aprende muito mais rápido. Pois nos Cursinhos se ensina muita gramática inicialmente, assim se demora muito para aprender.
 
 
-
 ## **Como manter o usuário engajado mesmo não sendo aulas presenciais?**
-
 
 **Lude**: Estabelecendo metas, conquistas, rankings, recompensas para etapas e questões concluídas. Trazendo o interesse do usuário.
 
@@ -138,7 +133,6 @@ O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos se
 | AD12 | Should |
 
 ### First Things First
-
 
 | ID | Benefício Relativo | Penalidade Relativa | Valor Total | Valor % | Custo Relativo | Custo % | Risco Relativo | Risco % | Prioridade |
 |--------|----|----|-----|-------|----|-------|---|-------|--------|

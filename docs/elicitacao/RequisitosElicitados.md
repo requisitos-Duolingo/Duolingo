@@ -1,7 +1,9 @@
 ## Introdução
+
 Com o objetivo de facilitar futuras consultas, os requisitos elicitados serão compilados nessa página.
 
 ## Metodologia
+
 Vários requisitos funcionais foram elicitados através de diferentes métodos. A partir desses requisitos, foi feito um compilado contendo todos os requisitos elicitados, apresentando de onde o mesmo surgiu.
 
 ## Tabelas
@@ -13,6 +15,7 @@ Vários requisitos funcionais foram elicitados através de diferentes métodos. 
 | Luis Gustavo | 11/11 |
 
 ### Legenda
+
 | Código | Significado |
 | ------ | ----------- |
 | RF | Requisito Funcional |
@@ -23,7 +26,6 @@ Vários requisitos funcionais foram elicitados através de diferentes métodos. 
 | INT | Introspecção |
 | Q | Questionário |
 | ST | Storytelling |
-
 
 ### Requisitos Funcionais
 
@@ -98,6 +100,7 @@ Vários requisitos funcionais foram elicitados através de diferentes métodos. 
 | RNF10 | O aplicativo funcionar 24/7 | [Q13](../Questionario) | | 
 | RNF11 | O aplicativo deve estimular a competitividade | [Q14](../Questionario) | | 
 | RNF12 | O aplicativo deve promover a integração dos usuário | [Q04](../Questionario) | |
+
 
 ## Referências
 

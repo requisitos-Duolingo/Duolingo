@@ -56,42 +56,60 @@ De acordo com a análise de protocolo podemos observar que o aplicativo tem um n
 | AP11 | O aplicativo deve permitir eu sair da minha conta | RF11 |
 | AP12 | Deve existir uma assinatura premium | RF12 |
 | AP13 | Caso o usuário tenha assinatura premium ele não deve ver anúncios | RF13 |
-| AP14 | O usuário deve poder editar seu minha conta na plataforma | RF14 |
+| AP14 | O usuário deve poder editar sua conta na plataforma | RF14 |
 | AP15 | O aplicativo deve engajar o usuário | RNF01 |
 | AP16 | O aplicativo deve ser fácil de usar | RNF02 |
 | AP17 | O aplicativo deve interativo | RNF03 |
 | AP18 | O aplicativo deve monetizado | RNF04 |
 
-<!-- ## Priorização -->
+## Priorização
 
-<!-- ### MoSCoW
+### MoSCoW
 
 | ID | Prioridade |
 |----|------------|
-| AP01 | Could |
+| AP01 | Should |
 | AP02 | Must |
-| AP03 | Could |
+| AP03 | Must |
 | AP04 | Must |
 | AP05 | Should |
-| AP06 | Should |
-| AP07 | Would |
-| AP08 | Would |
-| AP09 | Must | -->
+| AP06 | Must |
+| AP07 | Must |
+| AP08 | Should |
+| AP09 | Must |
+| AP10 | Should |
+| AP11 | Should |
+| AP12 | Must |
+| AP13 | Should |
+| AP14 | Must |
+| AP15 | Should |
+| AP16 | Could |
+| AP17 | Should |
+| AP18 | Could |
 
 <!-- ### First Things First
 
 | ID | Benefício Relativo | Penalidade Relativa | Valor Total | Valor % | Custo Relativo | Custo % | Risco Relativo | Risco % | Prioridade |
 |-------|----|----|-----|------|----|-----|---|-----|--------|
-| AP01  |  4 |  4 |   8 | 7,01% | 2 | 6,45% | 5 | 10,20% | 0,10970266 |
-| AP02  |  9 |  8 |  17 | 14,91% | 5 | 16,12% | 6 | 12,24% | 0,096511101 |
-| AP03  |  5 |  2 |   7 | 6,14% | 3 | 9,67% | 6 | 12,24% | 0,059931674 |
-| AP04  |  8 |  7 |  15 | 13,15% | 3 | 9,67% | 7 | 14,28% | 0,101961697 |
-| AP05  |  9 |  9 |  18 | 15,78% | 4 | 12,90% | 7 | 14,28% | 0,104117181 |
-| AP06  |  8 |  8 |  16 | 14,03% | 3 | 9,67% | 2 | 4,08% | 0,377454937 |
-| AP07  |  6 |  5 |  11 | 9,64% | 3 | 9,67% | 3 | 6,12% | 0,203504328 |
-| AP08  |  3 |  1 |  4  | 3,50% | 2 | 6,45% | 5 | 10,20% | 0,049758317 |
-| AP09  |  9 |  9 |  18 | 15,79% | 6 | 19,35% | 8 | 16,32% | 0,064015244 |
-| Total | 61 | 53 | 114 | 100% | 31 | 100% | 49 | 100% |  | -->
+| AP01  |  |  |  | % |  | % |  | % |  |
+| AP02  |  |  |  | % |  | % |  | % |  |
+| AP03  |  |  |  | % |  | % |  | % |  |
+| AP04  |  |  |  | % |  | % |  | % |  |
+| AP05  |  |  |  | % |  | % |  | % |  |
+| AP06  |  |  |  | % |  | % |  | % |  |
+| AP07  |  |  |  | % |  | % |  | % |  |
+| AP08  |  |  |  | % |  | % |  | % |  |
+| AP09  |  |  |  | % |  | % |  | % |  |
+| AP10  |  |  |  | % |  | % |  | % |  |
+| AP11  |  |  |  | % |  | % |  | % |  |
+| AP12  |  |  |  | % |  | % |  | % |  |
+| AP13  |  |  |  | % |  | % |  | % |  |
+| AP14  |  |  |  | % |  | % |  | % |  |
+| AP15  |  |  |  | % |  | % |  | % |  |
+| AP16  |  |  |  | % |  | % |  | % |  |
+| AP17  |  |  |  | % |  | % |  | % |  |
+| AP18  |  |  |  | % |  | % |  | % |  |
+| Total |  |  |  | 100% |  | 100% |  | 100% |  | -->
 
 
 ## Referências
