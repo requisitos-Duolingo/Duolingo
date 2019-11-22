@@ -8,8 +8,7 @@ Para a realização do método foi escolhido um usuário volutário que estava i
 
 |Membros Participantes|Usuário Analisado|
 |---------------------|-----------------|
-|João Vitor Alves|Letícia|
-|Francisco Heronildo||
+|João Vitor Alves <br> Francisco Heronildo|Letícia|
 
 ## Verbalização do Usuário
 
@@ -87,21 +86,21 @@ De acordo com a análise de protocolo podemos observar que o aplicativo tem um n
 | AP17 | Should |
 | AP18 | Could |
 
-<!-- ### First Things First
+### First Things First
 
 | ID | Benefício Relativo | Penalidade Relativa | Valor Total | Valor % | Custo Relativo | Custo % | Risco Relativo | Risco % | Prioridade |
 |-------|----|----|-----|------|----|-----|---|-----|--------|
-| AP01  |  |  |  | % |  | % |  | % |  |
-| AP02  |  |  |  | % |  | % |  | % |  |
-| AP03  |  |  |  | % |  | % |  | % |  |
-| AP04  |  |  |  | % |  | % |  | % |  |
-| AP05  |  |  |  | % |  | % |  | % |  |
-| AP06  |  |  |  | % |  | % |  | % |  |
-| AP07  |  |  |  | % |  | % |  | % |  |
-| AP08  |  |  |  | % |  | % |  | % |  |
-| AP09  |  |  |  | % |  | % |  | % |  |
-| AP10  |  |  |  | % |  | % |  | % |  |
-| AP11  |  |  |  | % |  | % |  | % |  |
+| AP01  | 4 | 4 |  8 | % |  | % |  | % |  |
+| AP02  | 9 | 9 | 18 | % |  | % |  | % |  |
+| AP03  | 5 | 2 |  7 | % |  | % |  | % |  |
+| AP04  | 8 | 7 | 15 | % |  | % |  | % |  |
+| AP05  | 9 | 9 | 18 | % |  | % |  | % |  |
+| AP06  | 8 | 8 | 16 | % |  | % |  | % |  |
+| AP07  | 6 | 5 | 11 | % |  | % |  | % |  |
+| AP08  | 3 | 1 |  4 | % |  | % |  | % |  |
+| AP09  | 9 | 9 | 18 | % |  | % |  | % |  |
+| AP10  | 7 | 7 | 14 | % |  | % |  | % |  |
+| AP11  | 7 | 7 | 14 | % |  | % |  | % |  |
 | AP12  |  |  |  | % |  | % |  | % |  |
 | AP13  |  |  |  | % |  | % |  | % |  |
 | AP14  |  |  |  | % |  | % |  | % |  |
@@ -109,7 +108,7 @@ De acordo com a análise de protocolo podemos observar que o aplicativo tem um n
 | AP16  |  |  |  | % |  | % |  | % |  |
 | AP17  |  |  |  | % |  | % |  | % |  |
 | AP18  |  |  |  | % |  | % |  | % |  |
-| Total |  |  |  | 100% |  | 100% |  | 100% |  | -->
+| Total |  |  |  | 100% |  | 100% |  | 100% |  |
 
 
 ## Referências
