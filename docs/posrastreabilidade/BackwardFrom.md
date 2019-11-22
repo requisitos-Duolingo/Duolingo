@@ -17,6 +17,7 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 | INT | Instrospecção        |
 | ST  | Story Teling         |
 | F   | Feature              |
+| E   | Épico                |
 
 ### Requisitos Funcionais
 
@@ -28,7 +29,7 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 | RF04 | O usuário deve poder escolher o nível de conhecimento que têm no idioma | [AP04](../AnaliseDeProtocolo), [INT13](../Instrospecção) | [**EF04**](#elos-funcionais) |
 | RF05 | O aplicativo deve desbloquear as lições que estão abaixo no nível de conhecimento prévio do usuário | [AP05](../AnaliseDeProtocolo) | [**EF05**](#elos-funcionais) |
 | RF06 | O aplicativo deve exibir feedback durante as lições | [AP06](../AnaliseDeProtocolo), [AD06](../Brainstorming), [Q06](../Questionario) | [**EF06**](#elos-funcionais) |
-| RF07 | O aplicativo exibir as conquistas ao finalizar das atividades | [AP](../AnaliseDeProtocolo) | [**EF07**](#elos-funcionais) |
+| RF07 | O aplicativo exibir as conquistas ao finalizar das atividades | [AP07](../AnaliseDeProtocolo) | [**EF07**](#elos-funcionais) |
 | RF08 | Deve existir anúncio após as lições | [AP08](../AnaliseDeProtocolo) | [**EF08**](#elos-funcionais) |
 | RF09 | O usuário deve poder criar sua conta na plataforma | [AP09](../AnaliseDeProtocolo), [INT34](../Introspecção) | [**EF09**](#elos-funcionais) |
 | RF10 | O aplicativo deve me permitir entrar com minha conta | [AP10](../AnaliseDeProtocolo) | [**EF10**](#elos-funcionais) |
@@ -63,17 +64,17 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 | RF39 | O usuário deve poder testar a versão premium gratuitamente | [INT44](../Introspecção) | [**EF39**](#elos-funcionais) |
 | RF40 | O usuário deve poder escolher um novo idioma a qualquer momento | [INT50](../Introspecção) | [**EF40**](#elos-funcionais) |
 | RF41 | O usuário deve poder ajustar quanto tempo por dia ele quer gastar fazendo lições | [Q08](../Questionario) | [**EF41**](#elos-funcionais) |
-| RF42 | O usuário deve poder ajustar as configurações dos exercícios | [Q09](../Questionario) |  |
-| RF43 | O usuário deve poder compartilhar seu progresso | [Q10](../Questionario) |  |
-| RF44 | Eu como usuário desejo criar uma conta para começar a utilizar o app | [ST01](../Storytelling) |  |
-| RF45 | Eu como usuário desejo entrar no sistema e selecionar uma novo idioma para aprender uma nova língua | [ST02](../Storytelling) |  |
-| RF46 | Eu como usuário desejo entrar no sistema e verificar o meu nível no curso para conseguir acompanhar o meu progresso | [ST03](../Storytelling) |  |
-| RF47 | Eu como usuário desejo entrar no sistema e verificar o nível dos meus amigos no curso para acompanhar a evolução deles | [ST05](../Storytelling) |  |
-| RF48 | Eu como usuário desejo entrar no sistema e ver o ranking para ver o meu nível comparado com as outras pessoas | [ST06](../Storytelling) |  |
-| RF49 | Eu como usuário desejo fazer os exercícios do curso para aprender mais sobre a língua | [ST07](../Storytelling) |  |
-| RF50 | Eu como usuário desejo entrar no sistema e fazer uma pergunta na comunidade para tirar as minhas dúvidas | [ST08](../Storytelling) |  |
-| RF51 | Eu como usuário desejo entrar no sitema e me cadastrar como professor para ajudar as outras pessoas | [ST09](../Storytelling) |  |
-| RF52 | Eu como usuário desejo entrar no sistema e responder as perguntas na comunidade para tirar as dúvidas das outras pessoas | [ST10](../Storytelling) |  |
+| RF42 | O usuário deve poder ajustar as configurações dos exercícios | [Q09](../Questionario) | [**EF42**](#elos-funcionais) |
+| RF43 | O usuário deve poder compartilhar seu progresso | [Q10](../Questionario) | [**EF43**](#elos-funcionais) |
+| RF44 | Eu como usuário desejo criar uma conta para começar a utilizar o app | [ST01](../Storytelling) | [**EF44**](#elos-funcionais) |
+| RF45 | Eu como usuário desejo entrar no sistema e selecionar uma novo idioma para aprender uma nova língua | [ST02](../Storytelling) | [**EF45**](#elos-funcionais) |
+| RF46 | Eu como usuário desejo entrar no sistema e verificar o meu nível no curso para conseguir acompanhar o meu progresso | [ST03](../Storytelling) | [**EF46**](#elos-funcionais) |
+| RF47 | Eu como usuário desejo entrar no sistema e verificar o nível dos meus amigos no curso para acompanhar a evolução deles | [ST05](../Storytelling) | [**EF47**](#elos-funcionais) |
+| RF48 | Eu como usuário desejo entrar no sistema e ver o ranking para ver o meu nível comparado com as outras pessoas | [ST06](../Storytelling) | [**EF48**](#elos-funcionais) |
+| RF49 | Eu como usuário desejo fazer os exercícios do curso para aprender mais sobre a língua | [ST07](../Storytelling) | [**EF49**](#elos-funcionais) |
+| RF50 | Eu como usuário desejo entrar no sistema e fazer uma pergunta na comunidade para tirar as minhas dúvidas | [ST08](../Storytelling) | [**EF50**](#elos-funcionais) |
+| RF51 | Eu como usuário desejo entrar no sitema e me cadastrar como professor para ajudar as outras pessoas | [ST09](../Storytelling) | [**EF51**](#elos-funcionais) |
+| RF52 | Eu como usuário desejo entrar no sistema e responder as perguntas na comunidade para tirar as dúvidas das outras pessoas | [ST10](../Storytelling) | [**EF52**](#elos-funcionais) |
 
 ### Requisitos Não-Funcionais
 
@@ -98,7 +99,7 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 
 **Categoria:**
 
-**Elos:**
+**Elos:** -- 
 
 ### EF02
 
@@ -118,81 +119,92 @@ Representação: [INT03](../Introspecção) representa [ENT07](../Entrevista)
 
 ### EF04
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** Agregação: AP04 agrega INT13
+
 
 ### EF05
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** Recurso: ENT14 depende do requisito levantado AP05
 
 ### EF06
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** Representação: Q06 representa AD06 </br>
+Satisfação: AD06 satisfaz AP06 </br>
+Agregação: INT47 agrega INT60
 
 ### EF07
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** Agregação: AP07 agrega AD09
 
 ### EF08
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** Representação: US53 representa AP08
 
 ### EF09
 
 **Categoria:**
 
-**Elos:**
+**Elos:** Representação: INT02 representa AP09 </br>
+F01 representa C01 </br>
+UC01 representa F01 </br>
+Agregação: AD02 agrega INT34
 
 ### EF10
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** Agregação: AD02 agrega INT34 </br>
+Representação: UC02 representa US04 </br>
+Recurso: F02 depende de US04
 
 ### EF11
 
 **Categoria:**
 
-**Elos:**
+**Elos:** --
 
 ### EF12
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** Agregação: AP13 agrega AP12 </br>
+Representação: INT44 e INT54 representam ENT12 </br>
+UC07 representa E05, F18
 
 ### EF13
 
 **Categoria:**
 
-**Elos:**
+**Elos:** -- 
 
 ### EF14
 
-**Categoria:**
+**Categoria:** 
 
-**Elos:**
+**Elos:** -- 
 
 ### EF15
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:**  F04 representa AP14
 
 ### EF16
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** Agregação: AD03 agrega INT28 </br>
+Q06 agrega ST03
 
 ### EF17
 
@@ -278,19 +290,19 @@ Representação: US43, US44, US45 representam o C07
 
 **Categoria:**
 
-**Elos:**
+**Elos:** --
 
 ### EF30
 
 **Categoria:** 
 
-**Elos:**
+**Elos:** -- 
 
 ### EF31
 
 **Categoria:**
 
-**Elos:**
+**Elos:** -- 
 
 ### EF32
 
@@ -383,6 +395,73 @@ Representação: US28 representa [INT50](../Introspecção)
 **Elos:**
 
 Satisfação: [Q08](../Questionario) satisfaz [AD11](../Brainstorming)
+
+### EF42
+
+**Categoria:**
+
+**Elos:**
+
+### EF43
+
+**Categoria:**
+
+**Elos:**
+
+### EF44
+
+**Categoria:**
+
+**Elos:**
+
+### EF45
+
+**Categoria:**
+
+**Elos:**
+
+### EF46
+
+**Categoria:**
+
+**Elos:**
+
+### EF47
+
+**Categoria:**
+
+**Elos:**
+
+### EF48
+
+**Categoria:**
+
+**Elos:**
+
+### EF49
+
+**Categoria:**
+
+**Elos:**
+
+### EF50
+
+**Categoria:**
+
+**Elos:**
+
+### EF51
+
+**Categoria:**
+
+**Elos:**
+
+### EF52
+
+**Categoria:**
+
+**Elos:**
+
 
 ## Referências
 
