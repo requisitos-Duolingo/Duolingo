@@ -77,6 +77,8 @@ Cada integrante montou o seu Rich Picture do funcionamento geral do duolingo. Co
 ### Gamificação
 
 ![Imgur](https://i.imgur.com/sdrvhLo.jpg)
+
+!!! info
     **Autor:** João Vitor Ferreira Alves </br>
     **Descrição:** Rich Picture dos elementos de gemificação da aplicação </br>
     **Data:** 22 de Novembro de 2019 </br>
@@ -90,3 +92,4 @@ SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 1º/2019. 37 slides. M
 BIAS, Randolph; KARAT, Clare-Marie. Justifying Cost-Justifying Usability - Chapter 1. 16 páginas. Material apresentado na disciplina de Interação Humana Computador no curso de Engenharia de Software da UnB, FGA.
 
 CHOU, Y. "Actionable Gamification: Beyond Points, Badges, and Leaderboards.[Sl: sn], 2015." 
+a
