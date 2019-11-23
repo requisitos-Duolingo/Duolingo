@@ -1,23 +1,28 @@
 ## Introdução
 
-Este documento visa ligar todos os requisitos elicitados durante a matéria de Requisito de Software aos seus respectivos métodos de elicitação e modelagem, utilizando o método de rastreabilidade **Backward-from.**
+Este documento visa ligar todos os requisitos elicitados durante a matéria de Requisito de Software aos seus respectivos métodos de elicitação e modelagem, utilizando o método de rastreabilidade **Backward-From**.
 
 ## Metodologia
 
+Foi organizados os Requisitos Funcionais e Não Funcionais previamente [Elicitados](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/RequisitosElicitados/) formando as tabelas abaixo com os rastros dos mesmo, assim, realizou-se uma verificação dos elos relacionados a cada artefatos.
+
 ## Tabelas
 
-### Legendas
+**Legendas:**
 
-|**Código**|**Significado**|
-|:--------:|:--------------|
-| Q   | Questionãrio         |
-| AP  | Análise de Protocolo |
-| AD  | Brainstorm           |
-| ENT | Entrevista           |
-| INT | Instrospecção        |
-| ST  | Story Teling         |
-| F   | Feature              |
-| E   | Épico                |
+- RF: Requisito Funcional
+- RNF: Requisito Não Funcional
+- Q: Questionãrio
+- AP: Análise de Protocolo
+- AD: Brainstorm
+- ENT: Entrevista
+- INT: Instrospecção
+- ST: Story Teling
+- C: Cenários
+- E: Épico
+- F: Feature
+- US: Histórias de Usuário
+- UC: Casos de Uso
 
 ### Requisitos Funcionais
 
@@ -99,14 +104,14 @@ Este documento visa ligar todos os requisitos elicitados durante a matéria de R
 
 **Categoria:**
 
-**Elos:** -- 
+**Elos:** --
 
 ### EF02
 
 **Categoria**: Desenvolvimento
 
 **Elos**
-Representação: [AP02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) representa US29
+Representação: [AP02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) representa [US29](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-8-curso)
 Agregação: [INT03](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) agrega [AD01](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
 
 ### EF03
@@ -121,51 +126,50 @@ Representação: [INT03](https://requisitos-de-software.github.io/2019.2-Duoling
 
 **Categoria:** Desenvolvimento
 
-**Elos:** Agregação: AP04 agrega INT13
-
+**Elos:** Agregação: [AP04](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) agrega [INT13](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados)
 
 ### EF05
 
 **Categoria:** Desenvolvimento
 
-**Elos:** Recurso: ENT14 depende do requisito levantado AP05
+**Elos:** Recurso: [ENT14](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados) depende do requisito levantado [AP05](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados)
 
 ### EF06
 
 **Categoria:** Desenvolvimento
 
-**Elos:** Representação: Q06 representa AD06 </br>
-Satisfação: AD06 satisfaz AP06 </br>
-Agregação: INT47 agrega INT60
+**Elos:** Representação: [Q06](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) representa [AD06](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) </br>
+Satisfação: [AD06](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) satisfaz [AP06](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) </br>
+Agregação: [INT47](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) agrega [INT60](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados)
 
 ### EF07
 
 **Categoria:** Desenvolvimento
 
-**Elos:** Agregação: AP07 agrega AD09
+**Elos:** Agregação: [AP07](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) agrega [AD09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
 
 ### EF08
 
 **Categoria:** Desenvolvimento
 
-**Elos:** Representação: US53 representa AP08
+**Elos:** Representação: [US53](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-19-anuncios) representa [AP08](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados)
 
 ### EF09
 
 **Categoria:**
 
-**Elos:** Representação: INT02 representa AP09 </br>
-F01 representa C01 </br>
-UC01 representa F01 </br>
-Agregação: AD02 agrega INT34
+**Elos:** Representação: [INT02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) representa [AP09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) </br>
+[F01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-1-cadastro-e-autenticacao) representa [C01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Cenarios/#cenario001) </br>
+[UC01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/CasosDeUso/#uc01-fazer-login) representa [F01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-1-cadastro-e-autenticacao) </br>
+Agregação: [AD02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) agrega [INT34](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados)
 
 ### EF10
 
 **Categoria:** Desenvolvimento
 
-**Elos:** Agregação: AD02 agrega INT34 </br>
-Representação: UC02 representa US04 </br>
-Recurso: F02 depende de US04
+**Elos:** Agregação: [AD02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) agrega [INT34](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) </br>
+Representação: [UC02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/CasosDeUso/#uc02-cadastrar-usuario) representa [US04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-2-login) </br>
+Recurso: [F02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-2-login) depende de [US04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-2-login)
 
 ### EF11
 
@@ -177,34 +181,34 @@ Recurso: F02 depende de US04
 
 **Categoria:** Desenvolvimento
 
-**Elos:** Agregação: AP13 agrega AP12 </br>
-Representação: INT44 e INT54 representam ENT12 </br>
-UC07 representa E05, F18
+**Elos:** Agregação: [AP13](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) agrega [AP12](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) </br>
+Representação: [INT44](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) e [INT54](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) representam [ENT12](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados) </br>
+[UC07](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/CasosDeUso/#uc07-acessar-loja) representa [E05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/#epico05-lucro), [F18](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-18-duolingo-plus)
 
 ### EF13
 
 **Categoria:**
 
-**Elos:** -- 
+**Elos:** --
 
 ### EF14
 
-**Categoria:** 
+**Categoria:**
 
-**Elos:** -- 
+**Elos:** --
 
 ### EF15
 
 **Categoria:** Desenvolvimento
 
-**Elos:**  F04 representa AP14
+**Elos:**  [F04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-4-perfil) representa [AP14](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados)
 
 ### EF16
 
 **Categoria:** Desenvolvimento
 
-**Elos:** Agregação: AD03 agrega INT28 </br>
-Q06 agrega ST03
+**Elos:** Agregação: AD03 agrega [INT28]https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) </br>
+Q06 agrega [ST03](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados)
 
 ### EF17
 
@@ -272,9 +276,9 @@ Q06 agrega ST03
 
 **Elos:**
 
-Satisfação: [ENT09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados) satifaz [AD09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) </br> INT61 também é satisfeito por [AD09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
+Satisfação: [ENT09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados) satifaz [AD09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) </br> [INT61](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) também é satisfeito por [AD09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
 
-Representação: US43, US44, US45 representam o C07
+Representação: [US43], [US44], [US45] representam o [C07]
 
 ### EF28
 
@@ -284,7 +288,7 @@ Representação: US43, US44, US45 representam o C07
 
 Satisfação: [ENT09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados) satifaz [AD09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) </br> INT61 também é satisfeito por [AD09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
 
-Representação: US43, US44, US45 representam o C07
+Representação: [US43](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-16-lingots), [US44](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-16-lingots), [US45](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-16-lingots) representam o [C07](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Cenarios/#cenario007)
 
 ### EF29
 
@@ -294,15 +298,15 @@ Representação: US43, US44, US45 representam o C07
 
 ### EF30
 
-**Categoria:** 
+**Categoria:**
 
-**Elos:** -- 
+**Elos:** --
 
 ### EF31
 
 **Categoria:**
 
-**Elos:** -- 
+**Elos:** --
 
 ### EF32
 
@@ -310,8 +314,8 @@ Representação: US43, US44, US45 representam o C07
 
 **Elos:**
 
-Representação: UC01 representa [INT02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) </br>
-Representação: US04 representa [AD02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) 
+Representação: [UC01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-1-cadastro-e-autenticacao) representa [INT02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) </br>
+Representação: [US04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-2-login) representa [AD02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
 
 ### EF33
 
@@ -319,7 +323,7 @@ Representação: US04 representa [AD02](https://requisitos-de-software.github.io
 
 **Elos:**
 
-Representação: [UC05](../CasosDeUso) representa [INT04](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados)
+Representação: [UC05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/CasosDeUso/#uc05-selecionar-curso) representa [INT04](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados)
 
 Agregação: [Q01](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) agrega [AD01](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
 
@@ -329,7 +333,7 @@ Agregação: [Q01](https://requisitos-de-software.github.io/2019.2-Duolingo/elic
 
 **Elos:**
 
-Representação: [UC05](../CasosDeUso) representa [INT05](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados)
+Representação: [UC05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/CasosDeUso/#uc05-selecionar-curso) representa [INT05](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados)
 
 ### EF35
 
@@ -337,9 +341,8 @@ Representação: [UC05](../CasosDeUso) representa [INT05](https://requisitos-de-
 
 **Elos:**
 
-Representação: US01 representa [INT18](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) </br>
+Representação: [US01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-1-cadastro-e-autenticacao) representa [INT18](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) </br>
 Agregação: [INT18](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) agrega [AP04](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados)
-
 
 ### EF36
 
@@ -347,9 +350,8 @@ Agregação: [INT18](https://requisitos-de-software.github.io/2019.2-Duolingo/el
 
 **Elos:**
 
-Representação: C03 representa [INT24](../EntreviIntrospecçãosta)</br>
-Agregação: AP07 agrega [AD09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
-
+Representação: [C03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Cenarios/#cenario003) representa [INT24](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados)</br>
+Agregação: [AP07](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) agrega [AD09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
 
 ### EF37
 
@@ -358,8 +360,8 @@ Agregação: AP07 agrega [AD09](https://requisitos-de-software.github.io/2019.2-
 **Elos:**
 
 Agregação: [INT28](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) agrega [Q06](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados)</br>
-Agregação: F11 é composta pela C05 e C11</br>
-Agregação: [AP06](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) agrega INT25
+Agregação: [F11](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-11-ranking) é composta pela [C05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Cenarios/#cenario005) e [C11](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Cenarios/#cenario011) </br>
+Agregação: [AP06](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) agrega [INT25](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados)
 
 ### EF38
 
@@ -367,8 +369,8 @@ Agregação: [AP06](https://requisitos-de-software.github.io/2019.2-Duolingo/eli
 
 **Elos:**
 
-Agregação: [INT35](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) agrega UC02</br>
-Agregação: UC03 agrega C01
+Agregação: [INT35](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) agrega [UC02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/CasosDeUso/#uc02-cadastrar-usuario) </br>
+Agregação: [UC03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/CasosDeUso/#uc03-visualizar-perfil) agrega [C01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Cenarios/#cenario001)
 
 ### EF39
 
@@ -376,7 +378,7 @@ Agregação: UC03 agrega C01
 
 **Elos:**
 
-Representação: [INT44](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) representa US51
+Representação: [INT44](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) representa [US51](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-18-duolingo-plus)
 
 ### EF40
 
@@ -384,9 +386,9 @@ Representação: [INT44](https://requisitos-de-software.github.io/2019.2-Duoling
 
 **Elos:**
 
-Representação: [UC05](../CasosDeUso) representa [AD01](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)</br>
-Agregação: [AP02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) agrega Q01</br>
-Representação: US28 representa [INT50](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados)
+Representação: [UC05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/CasosDeUso/#uc05-selecionar-curso) representa [AD01](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)</br>
+Agregação: [AP02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) agrega [Q01](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) </br>
+Representação: [US28](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-8-curso) representa [INT50](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados)
 
 ### EF41
 
@@ -465,6 +467,6 @@ Satisfação: [Q08](https://requisitos-de-software.github.io/2019.2-Duolingo/eli
 
 ## Referências
 
-[Guiabolso, Github, requisitos.](https://fga-disciplinas.github.io/2019.1-Guia-Bolso/pos-rastreabilidade/backward/)
-
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
+[Guiabolso, Github, Requisitos.](https://fga-disciplinas.github.io/2019.1-Guia-Bolso/pos-rastreabilidade/backward/)
