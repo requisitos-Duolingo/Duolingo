@@ -1,6 +1,6 @@
 ## Introdução
 
-Questionário é uma técnica pouco flexível de elicitação de requisitos, pois impossibilita análises subjetivas, já que geralmQe usamos respostas muito objetivas, mas a caracteristica mais positíva é a amostragem alta que se pode alcançar. Neste projeto foi desenvolvido e levantado um questinário para que pudessemos elicitar requisitos do aplicativo Duolingo.
+Questionário é uma técnica pouco flexível de elicitação de requisitos, pois impossibilita análises subjetivas, já que em geral usamos respostas muito objetivas, mas a caracteristica mais positíva é a amostragem alta que se pode alcançar. Neste projeto foi desenvolvido e levantado um questinário para que pudessemos elicitar requisitos do aplicativo Duolingo.
 
 ## Metodologia
 

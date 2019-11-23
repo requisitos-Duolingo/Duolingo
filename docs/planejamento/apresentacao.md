@@ -28,7 +28,7 @@ Nesse documento está armazenado as apresentações dos pontos de controle, que 
 
 ### Ponto de Controle 6
 
-_Em Breve_
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRPNQxTjSKkL8gcp6tr1yb6iCCocVsTQ80L5l0tsxDtds2WAVhlDtfFzwr-H93iLkNdN8BSRTkoaGRE/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Ponto de Controle 7
 
