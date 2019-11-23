@@ -46,11 +46,6 @@ Foram levantadas perguntas e afirmações sobre Cenários realizados, para reali
 * Os cenários possuem restrições?
 * Os cenários possuem exceções?
 
-8 - Rastreabilidade
-
-* Os cenários são rastreáveis?
-* Os cenários estão hiperlinkados entre si?
-
 ## Inspeção
 
 **Legendas:**
@@ -66,35 +61,21 @@ Foram levantadas perguntas e afirmações sobre Cenários realizados, para reali
 | Autores | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Episódios | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Recursos | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Rastreabilidade | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: | :x: |
-| Total | 7/8 | 7/8 | 6/8 | 6/8 | 7/8 | 7/8 | 7/8 | 7/8 | 7/8 | 5/8 | 7/8 | 7/8 | 7/8 | 7/8 | 6/8 | 7/8 | 7/8 | 6/8 |
+| Total | 7/7 | 7/7 | 6/7 | 6/7 | 7/7 | 7/7 | 7/7 | 7/7 | 7/7 | 5/7 | 7/7 | 7/7 | 7/7 | 7/7 | 6/7 | 7/7 | 7/7 | 6/7 |
 
 ## Melhorias
 
 | Cenários | Melhoria |
 |:---------|:---------|
-| C01 | Adicionar Hiperlink</br>|
-| C02 | Adicionar Hiperlink</br>|
-| C03 | Adicionar Hiperlink</br> Especificar melhor o objetivo</br>|
-| C04 | Adicionar Hiperlink</br> Especificar melhor o objetivo</br>|
-| C05 | Adicionar Hiperlink</br>|
-| C06 | Adicionar Hiperlink</br>|
-| C07 | Adicionar Hiperlink</br>|
-| C08 | Adicionar Hiperlink</br>|
-| C09 | Adicionar Hiperlink</br>|
-| C10 | Adicionar Hiperlink</br> Título</br> Especificar melhor o objetivo</br>|
-| C11 | Adicionar Hiperlink</br>|
-| C12 | Adicionar Hiperlink</br>|
-| C13 | Adicionar Hiperlink</br>|
-| C14 | Adicionar Hiperlink</br>|
-| C15 | Adicionar Hiperlink</br> Título</br>|
-| C16 | Adicionar Hiperlink</br>|
-| C17 | Adicionar Hiperlink</br>|
-| C18 | Adicionar Hiperlink</br> Título</br>|
+| C03 | Especificar melhor o objetivo</br>|
+| C04 | Especificar melhor o objetivo</br>|
+| C10 | Título</br> Especificar melhor o objetivo</br>|
+| C15 | Título</br>|
+| C18 | Título</br>|
 
 ## Conclusão
 
-Foram avaliados todos Cenários onde por meio da inspeção foi possivel identificar que nenhum possui hiperlink para rastreabilidade, todos se encontram dentro do padrão, possuindo título, objetivo, contexto, autores, episódios e recuroso bem definidos.
+Foram avaliados todos Cenários onde por meio da inspeção foi possivel identificar que alguns não estão claro em seu objetivo, porém, grande maioria encontra-se dentro do padrão, possuindo título, objetivo, contexto, autores, episódios e recuroso bem definidos.
 
 |Verificação realizada por|Local|Data|
 |-------------------------|-----|----|
@@ -104,3 +85,13 @@ Foram avaliados todos Cenários onde por meio da inspeção foi possivel identif
 ## Referências
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 1º/2019. 37 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 11. 2º/2019. 40 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
+Lista de Verificação: Análise de Cenários. Diponível em: https://fga-disciplinas.github.io/2019.1-Guia-Bolso/analise/analise_cenarios. Acesso em 29/10/2019.
+
+Lista de Verificação: Análise de Cenários. Diponível em: https://requisitos-habitica.netlify.com/VerificacaoCenarios. Acesso em 29/10/2019.
+
+IFood Developer Documentation. Diponível em: https://developer.ifood.com.br. Acesso em 30/10/2019.
+
+Twitch Developer Documentation. Diponível em: https://dev.twitch.tv/docs. Acesso em 30/10/2019.

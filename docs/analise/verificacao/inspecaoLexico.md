@@ -69,3 +69,13 @@ Os Léxicos se encontram dentro do padrão, o Nome e a Noção se encontram coer
 ## Referências
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 4. 1º/2019. 37 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
+SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 11. 2º/2019. 40 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
+
+Lista de Verificação: Análise de Léxicos. Diponível em: https://fga-disciplinas.github.io/2019.1-Guia-Bolso/analise/analise_lexicos. Acesso em 29/10/2019.
+
+Lista de Verificação: Análise de Léxicos. Diponível em: https://requisitos-habitica.netlify.com/VerificacaoLexico. Acesso em 29/10/2019.
+
+IFood Developer Documentation. Diponível em: https://developer.ifood.com.br. Acesso em 30/10/2019.
+
+Twitch Developer Documentation. Diponível em: https://dev.twitch.tv/docs. Acesso em 30/10/2019.

@@ -35,7 +35,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Contexto**  |
 |<p>Local: Tela inicial ao entrar na aplicação pela primeira vez</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet</p>|
 |**Atores**    |
-|Usuário não cadastrado|
+|[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) não cadastrado|
 |**Recursos**  |
 |<p>Internet</p> <p>Smartphone ou Computador</p> <p>Duolingo previamente instalado</p>|
 |**Episódios** |
@@ -55,7 +55,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Contexto**  |
 |<p>Local: Tela inicial, Tela de Cursos</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet</p>|
 |**Atores**    |
-|<p>Usuário não cadastrado</p> <p>Usuário cadastrado</p>|
+|<p>[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) não cadastrado</p> <p>[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) cadastrado</p>|
 |**Recursos**  |
 |<p>Internet</p> <p>Smartphone ou Computador</p> <p>Duolingo previamente instalado</p> <p>Acesso ao website do Duolingo</p>|
 |**Episódios** |
@@ -71,11 +71,11 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Titulo**    |
 |Aprender|
 |**Objetivo**  |
-|Realizar uma atividade|
+|Realizar uma atividade da unidade do idioma escolhido|
 |**Contexto**  |
 |<p>Local: Tela principal</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
 |**Atores**    |
-|Usuário do Duolingo|
+|[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) do Duolingo|
 |**Recursos**  |
 |<p>Conta no Duolingo</p> <p>Acesso a Internet</p> <p>Acesso a um Smartphone ou Computador</p>|
 |**Episódios** |
@@ -91,11 +91,11 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Titulo**    |
 |Determinar Metas Diárias|
 |**Objetivo**  |
-|Manter o usuário engajado|
+|Manter o usuário engajado na aplicação|
 |**Contexto**  |
 |<p>Local:Tela após escolher o idioma, Tela de Configuração</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
 |**Atores**    |
-|Usuário do Duolingo|
+|[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) do Duolingo|
 |**Recursos**  |
 |<p>Conta no Duolingo</p> <p>Acesso a Internet</p> <p>Acesso a um Smartphone ou Computador</p>|
 |**Episódios** |
@@ -115,7 +115,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Contexto**  |
 |<p>Local: Tela principal, Perfil do usuário</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
 |**Atores**    |
-|Usuário do Duolingo|
+|[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) do Duolingo|
 |**Recursos**  |
 |<p>Conta no Duolingo</p> <p>Acesso a Internet</p> <p>Acesso a um Smartphone ou Computador</p>|
 |**Episódios** |
@@ -135,7 +135,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Contexto**  |
 |<p>Local: Tela inicial</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, ser usuário</p>|
 |**Atores**    |
-|Usuário cadastrado|
+|[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) cadastrado|
 |**Recursos**  |
 |<p>Internet</p> <p>Smartphone ou Computador</p> <p>Duolingo previamente instalado</p>|
 |**Episódios** |
@@ -155,7 +155,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Contexto**  |
 |<p>Local: Loja do Duolingo</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
 |**Atores**    |
-|Usuário do Duolingo|
+|[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) do Duolingo|
 |**Recursos**  |
 |<p>Conta no Duolingo</p> <p>Acesso a Internet</p> <p>Acesso a um Smartphone</p>|
 |**Episódios** |
@@ -175,7 +175,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Contexto**  |
 |<p>Local: Página do fórum Duolingo</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
 |**Atores**    |
-|Usuário do Duolingo|
+|[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) do Duolingo|
 |**Recursos**  |
 |<p>Conta no Duolingo</p> <p>Acesso a Internet</p> <p>Acesso a um Computador</p>|
 |**Episódios** |
@@ -195,7 +195,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Contexto**  |
 |<p>Local: Página do dicionário Duolingo</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
 |**Atores**    |
-|Usuário do Duolingo|
+|[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) do Duolingo|
 |**Recursos**  |
 |<p>Conta no Duolingo</p> <p>Acesso a Internet</p> <p>Acesso a um Computador</p>|
 |**Episódios** |
@@ -209,13 +209,13 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Cenário010**|
 |--------------|
 |**Titulo**    |
-|Praticar|
+|Praticar o idioma escolhido|
 |**Objetivo**  |
-|Fixar contéudo aprendido nas unidades|
+|Aprender contéudo aprendido nas unidades|
 |**Contexto**  |
 |<p>Local: Tela principal</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
 |**Atores**    |
-|Usuário do Duolingo|
+|[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) cadastrado|
 |**Recursos**  |
 |<p>Conta no Duolingo</p> <p>Acesso a Internet</p> <p>Acesso a um Smartphone ou Computador</p>|
 |**Episódios** |
@@ -235,7 +235,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Contexto**  |
 |<p>Local: Tela inicial, terceiro ícone inferior</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, ser usuário</p>|
 |**Atores**    |
-|Usuário cadastrado|
+|[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) cadastrado|
 |**Recursos**  |
 |<p>Internet</p> <p>Smartphone ou Computador</p> <p>Duolingo previamente instalado</p>|
 |**Episódios** |
@@ -255,7 +255,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Contexto**  |
 |<p>Local: Tela inicial, bandeira do país do idioma no canto superior esquerdo</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, ser usuário</p>|
 |**Atores**    |
-|Usuário cadastrado|
+|[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) cadastrado|
 |**Recursos**  |
 |<p>Internet</p> <p>Smartphone ou Computador</p> <p>Duolingo previamente instalado</p>|
 |**Episódios** |
@@ -275,7 +275,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Contexto**  |
 |<p>Local: Tela inicial, segundo ícone inferior na barra de opções</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, ser usuário</p>|
 |**Atores**    |
-|Usuário cadastrado|
+|[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) cadastrado|
 |**Recursos**  |
 |<p>Internet</p> <p>Smartphone ou Computador</p> <p>Duolingo previamente instalado</p>|
 |**Episódios** |
@@ -295,7 +295,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Contexto**  |
 |<p>Local: Tela inicial do site, ícone superior mais à direita escrito "mais"</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, ser usuário</p>|
 |**Atores**    |
-|Usuário cadastrado|
+|[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) cadastrado|
 |**Recursos**  |
 |<p>Internet</p> <p>Computador</p>|
 |**Episódios** |
@@ -309,13 +309,13 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Cenário015**|
 |--------------|
 |**Titulo**    |
-|Histórias|
+|Relaizar atividades 'Histórias'|
 |**Objetivo**  |
 |O usuário aprende com aúdios histórias do cotidiano|
 |**Contexto**  |
 |<p>Local: Tela inicial, segundo ícone superir na barra de opções</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, ser usuário</p>|
 |**Atores**    |
-|Usuário cadastrado|
+|[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) cadastrado|
 |**Recursos**  |
 |<p>Internet</p> <p>Computador</p>|
 |**Episódios** |
@@ -335,7 +335,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Contexto**  |
 |<p>Local: Tela inicial</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
 |**Atores**    |
-|Usuário cadastrado|
+|[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) cadastrado|
 |**Recursos**  |
 |<p>Internet</p> <p>Smartphone ou Computador</p> <p>Duolingo previamente instalado</p>|
 |**Episódios** |
@@ -355,7 +355,7 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Contexto**  |
 |<p>Local: Tela inicial</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
 |**Atores**    |
-|Usuário cadastrado|
+|[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) cadastrado|
 |**Recursos**  |
 |<p>Internet</p> <p>Smartphone ou Computador</p> <p>Duolingo previamente instalado</p>|
 |**Episódios** |
@@ -369,13 +369,13 @@ Para a contrução dos cenários foi proposto o seguinte modelo de _abstração_
 |**Cenário018**|
 |--------------|
 |**Titulo**    |
-|Energia|
+|Ganhar Energia|
 |**Objetivo**  |
 |Ganhar energia para realizar mais tarefas|
 |**Contexto**  |
 |<p>Local: Aba de Energia</p> <p>Tempo: Indeterminado</p> <p>Pré-condição: Acesso a internet, Usuário cadastrado</p>|
 |**Atores**    |
-|Usuário do Duolingo Comum|
+|[Usuário](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Lexicos/#lexico01) cadastrado|
 |**Recursos**  |
 |<p>Conta no Duolingo</p> <p>Acesso a Internet</p> <p>Acesso a um Smartphone</p>|
 |**Episódios** |
