@@ -8,8 +8,7 @@ Para a realização do método foi escolhido um usuário volutário que estava i
 
 |Membros Participantes|Usuário Analisado|
 |---------------------|-----------------|
-|João Vitor Alves|Letícia|
-|Francisco Heronildo||
+|João Vitor Alves <br> Francisco Heronildo|Letícia|
 
 ## Verbalização do Usuário
 
@@ -56,42 +55,60 @@ De acordo com a análise de protocolo podemos observar que o aplicativo tem um n
 | AP11 | O aplicativo deve permitir eu sair da minha conta | RF11 |
 | AP12 | Deve existir uma assinatura premium | RF12 |
 | AP13 | Caso o usuário tenha assinatura premium ele não deve ver anúncios | RF13 |
-| AP14 | O usuário deve poder editar seu minha conta na plataforma | RF14 |
+| AP14 | O usuário deve poder editar sua conta na plataforma | RF14 |
 | AP15 | O aplicativo deve engajar o usuário | RNF01 |
 | AP16 | O aplicativo deve ser fácil de usar | RNF02 |
-| AP17 | O aplicativo deve interativo | RNF03 |
-| AP18 | O aplicativo deve monetizado | RNF04 |
+| AP17 | O aplicativo deve ser interativo | RNF03 |
+| AP18 | O aplicativo deve ser monetizado | RNF04 |
 
-<!-- ## Priorização -->
+## Priorização
 
-<!-- ### MoSCoW
+### MoSCoW
 
 | ID | Prioridade |
 |----|------------|
-| AP01 | Could |
+| AP01 | Should |
 | AP02 | Must |
-| AP03 | Could |
+| AP03 | Should |
 | AP04 | Must |
 | AP05 | Should |
-| AP06 | Should |
-| AP07 | Would |
-| AP08 | Would |
-| AP09 | Must | -->
+| AP06 | Must |
+| AP07 | Should |
+| AP08 | Should |
+| AP09 | Must |
+| AP10 | Must |
+| AP11 | Must |
+| AP12 | Should |
+| AP13 | Should |
+| AP14 | Must |
+| AP15 | Should |
+| AP16 | Could |
+| AP17 | Should |
+| AP18 | Could |
 
-<!-- ### First Things First
+### First Things First
 
 | ID | Benefício Relativo | Penalidade Relativa | Valor Total | Valor % | Custo Relativo | Custo % | Risco Relativo | Risco % | Prioridade |
 |-------|----|----|-----|------|----|-----|---|-----|--------|
-| AP01  |  4 |  4 |   8 | 7,01% | 2 | 6,45% | 5 | 10,20% | 0,10970266 |
-| AP02  |  9 |  8 |  17 | 14,91% | 5 | 16,12% | 6 | 12,24% | 0,096511101 |
-| AP03  |  5 |  2 |   7 | 6,14% | 3 | 9,67% | 6 | 12,24% | 0,059931674 |
-| AP04  |  8 |  7 |  15 | 13,15% | 3 | 9,67% | 7 | 14,28% | 0,101961697 |
-| AP05  |  9 |  9 |  18 | 15,78% | 4 | 12,90% | 7 | 14,28% | 0,104117181 |
-| AP06  |  8 |  8 |  16 | 14,03% | 3 | 9,67% | 2 | 4,08% | 0,377454937 |
-| AP07  |  6 |  5 |  11 | 9,64% | 3 | 9,67% | 3 | 6,12% | 0,203504328 |
-| AP08  |  3 |  1 |  4  | 3,50% | 2 | 6,45% | 5 | 10,20% | 0,049758317 |
-| AP09  |  9 |  9 |  18 | 15,79% | 6 | 19,35% | 8 | 16,32% | 0,064015244 |
-| Total | 61 | 53 | 114 | 100% | 31 | 100% | 49 | 100% |  | -->
+| AP01  | 4 | 4 |  8 | 3,28% | 3 | 3,41% | 5 | 5,75% | 0,084145716 |
+| AP02  | 9 | 9 | 18 | 7,38% | 5 | 5,68% | 6 | 6,89% | 0,105821623 |
+| AP03  | 5 | 2 |  7 | 2,87% | 3 | 3,41% | 6 | 6,89% | 0,055652511 |
+| AP04  | 8 | 7 | 15 | 6,15% | 3 | 3,41% | 7 | 8,05% | 0,923700810 |
+| AP05  | 9 | 9 | 18 | 7,38% | 4 | 4,54% | 5 | 5,75% | 0,157322533 |
+| AP06  | 8 | 8 | 16 | 6,55% | 3 | 3,41% | 2 | 2,30% | 0,441672286 |
+| AP07  | 6 | 5 | 11 | 4,51% | 3 | 3,41% | 3 | 3,45% | 0,219144801 |
+| AP08  | 3 | 1 |  4 | 1,63% | 2 | 2,27% | 5 | 5,75% | 0,048963653 |
+| AP09  | 9 | 9 | 18 | 7,38% | 6 | 6,82% | 5 | 5,75% | 0,105927946 |
+| AP10  | 7 | 7 | 14 | 5,73% | 3 | 3,41% | 2 | 2,30% | 0,386378962 |
+| AP11  | 7 | 7 | 14 | 5,73% | 3 | 3,41% | 2 | 2,30% | 0,386378962 |
+| AP12  | 5 | 8 | 13 | 5,32% | 7 | 7,95% | 6 | 6,89% | 0,054851016 |
+| AP13  | 6 | 5 | 11 | 4,51% | 3 | 3,41% | 2 | 2,30% | 0,304113284 |
+| AP14  | 8 | 8 | 16 | 6,55% | 7 | 7,95% | 7 | 8,05% | 0,058482143 |
+| AP15  | 9 | 9 | 18 | 7,38% | 9 | 10,22% | 8 | 9,20% | 0,04457060 |
+| AP16  | 5 | 7 | 12 | 4,91% | 8 | 9,09% | 4 | 4,59% | 0,053908652 |
+| AP17  | 6 | 7 | 13 | 5,32% | 8 | 9,09% | 7 | 8,05% | 0,041217944 |
+| AP18  | 9 | 9 | 18 | 7,38% | 8 | 9,09% | 5 | 5,75% | 0,072730856 |
+| Total | 123 | 121 | 244 | 100% | 88 | 100% | 87 | 100% |  |
 
 
 ## Referências

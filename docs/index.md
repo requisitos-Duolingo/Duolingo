@@ -6,8 +6,7 @@
 
 # Sobre
 
-Documentação que deposita os aterfatos de requisitos levantados da aplicação [Duolingo](https://www.duolingo.com/), com o intuito de analizar e progredir o estudo de Requisitos de Software ministrado no 2º período de 2019 pelo Dr. Profº [André Barros](https://github.com/andrebdes) na Universidade de Brasília - FGA.
-A disciplina de Requisitos de Software  tem como objetivo nos mostrar termos usados para descrever as atividades relacionadas à investigação e definição de escopo de um sistema de software seguindo um processo sistemático de desenvolvimento através de um processo cooperativo de análise onde os resultados das observações são codificados em uma variedade de aterfatos e é constantemente observado. Onde, iremos descobrir, analisar, documentar e verificar as funções e restrições do sistema.
+Documentação que deposita os artefatos dos requisitos levantados da aplicação [Duolingo](https://www.duolingo.com/), com o intuito de analisar e progredir o estudo de Requisitos de Software ministrado no 2º período de 2019 pelo Dr. Profº André Barros na Universidade de Brasília - FGA. A disciplina de Requisitos de Software tem como objetivo nos mostrar termos usados para descrever as atividades relacionadas à investigação e definição de escopo de um sistema de software seguindo um processo sistemático de desenvolvimento através de um processo cooperativo de análise onde os resultados das observações são codificados em uma variedade de artefatos e são constantemente observado. Onde, iremos descobrir, analisar, documentar e verificar as funções e restrições do sistema.
 
 <div style="text-align:right"><img src= "images/duo-face.png"/></div>
 
