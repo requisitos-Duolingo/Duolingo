@@ -69,34 +69,34 @@ Foi organizados os Requisitos Funcionais e Não Funcionais previamente [Elicitad
 | RF39 | O usuário deve poder testar a versão premium gratuitamente | [INT44](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) | [**EF39**](#ef39) |
 | RF40 | O usuário deve poder escolher um novo idioma a qualquer momento | [INT50](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) | [**EF40**](#ef40) |
 | RF41 | O usuário deve poder ajustar quanto tempo por dia ele quer gastar fazendo lições | [Q08](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) | [**EF41**](#ef41) |
-| RF42 | O usuário deve poder ajustar as configurações dos exercícios | [Q09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) |  |
-| RF43 | O usuário deve poder compartilhar seu progresso | [Q10](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) |  |
-| RF44 | Eu como usuário desejo criar uma conta para começar a utilizar o app | [ST01](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) |  |
-| RF45 | Eu como usuário desejo entrar no sistema e selecionar uma novo idioma para aprender uma nova língua | [ST02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) |  |
-| RF46 | Eu como usuário desejo entrar no sistema e verificar o meu nível no curso para conseguir acompanhar o meu progresso | [ST03](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) |  |
-| RF47 | Eu como usuário desejo entrar no sistema e verificar o nível dos meus amigos no curso para acompanhar a evolução deles | [ST05](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) |  |
-| RF48 | Eu como usuário desejo entrar no sistema e ver o ranking para ver o meu nível comparado com as outras pessoas | [ST06](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) |  |
-| RF49 | Eu como usuário desejo fazer os exercícios do curso para aprender mais sobre a língua | [ST07](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) |  |
-| RF50 | Eu como usuário desejo entrar no sistema e fazer uma pergunta na comunidade para tirar as minhas dúvidas | [ST08](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) |  |
-| RF51 | Eu como usuário desejo entrar no sitema e me cadastrar como professor para ajudar as outras pessoas | [ST09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) |  |
-| RF52 | Eu como usuário desejo entrar no sistema e responder as perguntas na comunidade para tirar as dúvidas das outras pessoas | [ST10](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) |  |
+| RF42 | O usuário deve poder ajustar as configurações dos exercícios | [Q09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) |  [**EF42**](#ef42)  |
+| RF43 | O usuário deve poder compartilhar seu progresso | [Q10](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) | [**EF43**](#ef43)  |
+| RF44 | Eu como usuário desejo criar uma conta para começar a utilizar o app | [ST01](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) |  [**EF44**](#ef44)  |
+| RF45 | Eu como usuário desejo entrar no sistema e selecionar uma novo idioma para aprender uma nova língua | [ST02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) | [**EF45**](#ef45)  |
+| RF46 | Eu como usuário desejo entrar no sistema e verificar o meu nível no curso para conseguir acompanhar o meu progresso | [ST03](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) | [**EF46**](#ef46) |
+| RF47 | Eu como usuário desejo entrar no sistema e verificar o nível dos meus amigos no curso para acompanhar a evolução deles | [ST05](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) | [**EF47**](#ef47) |
+| RF48 | Eu como usuário desejo entrar no sistema e ver o ranking para ver o meu nível comparado com as outras pessoas | [ST06](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) | [**EF48**](#ef48)  |
+| RF49 | Eu como usuário desejo fazer os exercícios do curso para aprender mais sobre a língua | [ST07](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) |  [**EF49**](#ef49)  |
+| RF50 | Eu como usuário desejo entrar no sistema e fazer uma pergunta na comunidade para tirar as minhas dúvidas | [ST08](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) | [**EF50**](#ef50)  |
+| RF51 | Eu como usuário desejo entrar no sitema e me cadastrar como professor para ajudar as outras pessoas | [ST09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) | [**EF51**](#ef51) |
+| RF52 | Eu como usuário desejo entrar no sistema e responder as perguntas na comunidade para tirar as dúvidas das outras pessoas | [ST10](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) | [**EF52**](#ef52) |
 
 ### Requisitos Não-Funcionais
 
 | ID | Descrição | Origem | Elos |
 |:--:|:----------|:-------| ---------- |
-| RNF01 | O aplicativo deve engajar o usuário | [AP15](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) |  |
-| RNF02 | O aplicativo deve ser fácil de usar | [AP16](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados), [AD07](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados), [ENT16](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados), [Q11](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) |  |
-| RNF03 | O aplicativo deve interativo | [AP17](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) |  |
-| RNF04 | O aplicativo deve ser monetizado | [AP18](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) |  |
-| RNF05 | O aplicativo deve ser gameficado | [AD08](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) |  |
-| RNF06 | O usuário deve ser recompensado por seu progresso | [AD09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) |  |
-| RNF07 | O software deve ser multiplataforma | [AD12](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) |  |  |
-| RNF08 | O aplicativo deve permitir a segurança dos dados do usuário | [INT35](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) |  |
-| RNF09 | O aplicativo deve ser rápido de usar | [Q12](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) |  |
-| RNF10 | O aplicativo funcionar 24/7 | [Q13](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) |  |
-| RNF11 | O aplicativo deve estimular a competitividade | [Q14](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) |  |
-| RNF12 | O aplicativo deve promover a integração dos usuário | [Q04](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) |  |
+| RNF01 | O aplicativo deve engajar o usuário | [AP15](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) | [**ENF01**](#enf01) |
+| RNF02 | O aplicativo deve ser fácil de usar | [AP16](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados), [AD07](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados), [ENT16](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados), [Q11](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) | [**ENF01**](#enf02) |
+| RNF03 | O aplicativo deve interativo | [AP17](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) | [**ENF03**](#enf03) |
+| RNF04 | O aplicativo deve ser monetizado | [AP18](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) | [**ENF04**](#enf04) |
+| RNF05 | O aplicativo deve ser gameficado | [AD08](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) | [**ENF05**](#enf05) |
+| RNF06 | O usuário deve ser recompensado por seu progresso | [AD09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) | [**ENF06**](#enf06) |
+| RNF07 | O software deve ser multiplataforma | [AD12](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) | [**ENF01**](#enf07) |
+| RNF08 | O aplicativo deve permitir a segurança dos dados do usuário | [INT35](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) | [**ENF08**](#enf08) |
+| RNF09 | O aplicativo deve ser rápido de usar | [Q12](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) | [**ENF09**](#enf09) |
+| RNF10 | O aplicativo funcionar 24/7 | [Q13](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) | [**ENF10**](#enf10) |
+| RNF11 | O aplicativo deve estimular a competitividade | [Q14](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) | [**ENF11**](#enf11) |
+| RNF12 | O aplicativo deve promover a integração dos usuário | [Q04](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) | [**ENF12**](#enf12) |
 
 ## Elos Funcionais
 
@@ -110,7 +110,7 @@ Foi organizados os Requisitos Funcionais e Não Funcionais previamente [Elicitad
 
 **Categoria**: Desenvolvimento
 
-**Elos**
+**Elos:**
 Representação: [AP02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) representa [US29](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-8-curso)
 Agregação: [INT03](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) agrega [AD01](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
 
@@ -459,6 +459,80 @@ Satisfação: [Q08](https://requisitos-de-software.github.io/2019.2-Duolingo/eli
 **Elos:**
 
 ### EF52
+
+**Categoria:**
+
+**Elos:**
+
+## Elos Não Funcionais
+
+### ENF01
+
+**Categoria:**
+
+**Elos:**
+
+### ENF02
+
+**Categoria:**
+
+**Elos:**
+
+### ENF03
+
+**Categoria:**
+
+**Elos:**
+
+### ENF04
+
+**Categoria:**
+
+**Elos:**
+
+### ENF05
+
+**Categoria:**
+
+**Elos:**
+
+### ENF06
+
+**Categoria:**
+
+**Elos:**
+
+### ENF07
+
+**Categoria:**
+
+**Elos:**
+
+### ENF08
+
+**Categoria:**
+
+**Elos:**
+
+### ENF09
+
+**Categoria:**
+
+**Elos:**
+
+### ENF10
+
+**Categoria:**
+
+**Elos:**
+
+### ENF11
+
+**Categoria:**
+
+**Elos:**
+
+### ENF12
 
 **Categoria:**
 
