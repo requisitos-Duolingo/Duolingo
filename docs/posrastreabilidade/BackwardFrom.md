@@ -45,7 +45,7 @@ Foi organizados os Requisitos Funcionais e Não Funcionais previamente [Elicitad
 | RF15 | O aplicativo deve permitir que o usuário faça login com email/facebook ou conta do google | [AD02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) | [**EF15**](#ef15) |
 | RF16 | O aplicativo deve permitir que o usuário veja o seu progresso | [AD03](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) | [**EF16**](#ef16) |
 | RF17 | O aplicativo permite que o usuário adicione e siga amigos | [AD04](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) | [**EF17**](#ef17) |
-| RF18 | O aplicativo deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala | [AD02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados), [ENT02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados) | [**EF18**](#ef18) |
+| RF18 | O aplicativo deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala | [AD05](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados), [ENT02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados) | [**EF18**](#ef18) |
 | RF19 | O sistema é divido em níveis e com uma progressão ideal para cada módulo | [AD10](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados), [ENT13](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados), [Q02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) | [**EF19**](#ef19) |
 | RF20 | Cada aula deve ter exercícios para serem realizados | [AD02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados), [ENT02](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados) | [**EF20**](#ef20) |
 | RF21 | O aplicativo deve apresentar as aulas/exercícios de forma progressiva | [ENT03](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados), [Q03](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) | [**EF21**](#ef21) |
@@ -212,63 +212,77 @@ Q06 agrega [ST03](https://requisitos-de-software.github.io/2019.2-Duolingo/elici
 
 ### EF17
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** Representação: UC04 representa AD04 </br>
+US39 representa ST05 </br>
+Agregação: Q05 agrega INT57 </br>
+Satisfação: INT57 satisfaz Q04
 
 ### EF18
 
-**Categoria:**
+**Categoria:** Desnvolvimento
 
-**Elos:**
+**Elos:** Agregação: AD05 agrega ENT02
+Representação: US30, US31, US32 representam ENT02
 
 ### EF19
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** Agregação: AD10 agrega ENT13 </br>
+ENT13 agrega Q03 </br>
+Representação: US34 representa AD10
 
 ### EF20
 
-**Categoria:**
+**Categoria:** 
 
-**Elos:**
+**Elos:** --
 
 ### EF21
 
-**Categoria:**
+**Categoria:** Dsenvolvimento
 
-**Elos:**
+**Elos:** Agregação: AD10 agrega ENT13 </br>
+ENT13 agrega Q03 </br>
+Representação: US34 representa AD10
 
 ### EF22
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** Agregação: ENT04 agrega INT46
 
 ### EF23
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** Representação: US35, US36, US37 representam ENT05
+UC08 representa ENT05
 
 ### EF24
 
-**Categoria:**
+**Categoria:**Desenvolvimento
 
-**Elos:**
+**Elos:** Representação: UC08 representa ENT06
 
 ### EF25
 
-**Categoria:**
+**Categoria:** Desenvolvimento 
 
-**Elos:**
+**Elos:** Agregação: ENT08 agrega Q07
+Representação: US40 representa ENT08
 
 ### EF26
 
 **Categoria:**
 
-**Elos:**
+**Elos:** AD11 ENT09 ST04 C04 US22
+Representação: US22 representa ST04
+C04 representa ENT09
+Agregação: ENT09 agrega AD11 
+
 
 ### EF27
 
@@ -400,69 +414,79 @@ Satisfação: [Q08](https://requisitos-de-software.github.io/2019.2-Duolingo/eli
 
 ### EF42
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** US14, US15 representam Q09
 
 ### EF43
 
-**Categoria:**
+**Categoria:** -- 
 
-**Elos:**
+**Elos:** --
 
 ### EF44
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** Representação: C01, US01 representam ST01
 
 ### EF45
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** Representação: UC05 representa ST02 </br>
+US29, C02 representa AD01 </br>
+Agregação: INT04 agrega AD01 </br>
+AP02 agrega AD01
 
 ### EF46
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** Agregação: AD03 agrega [INT28]https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) </br>
+Q06 agrega [ST03](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados)
 
 ### EF47
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** Representação: UC08 representa ENT06
 
 ### EF48
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** Reprentação: C05 representa AD04 </br>
+UC04 representa ST06 </br>
+US39 representa INT57 </br>
+Agregação:INT57 agrega Q05
 
 ### EF49
 
-**Categoria:**
+**Categoria:** 
 
-**Elos:**
+**Elos:** ENT03 ENT13 ENT14 ST07 UC06 US33
+Representação: US33 representa ST07 </br>
+UC06 representa ENT13
+Agregação: ENT03, ENT14 agregam ST07 
 
 ### EF50
 
-**Categoria:**
+**Categoria:** --
 
-**Elos:**
+**Elos:** -- 
 
 ### EF51
 
-**Categoria:**
+**Categoria:** --
 
-**Elos:**
+**Elos:** --
 
 ### EF52
 
-**Categoria:**
+**Categoria:** --
 
-**Elos:**
+**Elos:** --
 
 ## Elos Não Funcionais
 
