@@ -37,11 +37,11 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF01                   | O aplicativo deve permitir o usuário praticar antes de se cadastrar |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
+| Épico                  | [EP01](../modelagem/agil/Backlog) |
+| Feature                | [FE01](../modelagem/agil/Backlog) |
+| US                     | [US01](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US01](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf01.gif) |
 
 **RF02**
@@ -71,7 +71,7 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | RF04                   | O usuário deve poder escolher o nível de conhecimento que têm no idioma |
 |----------------------- | --------- |
 | Épico                  | [EP01](../modelagem/agil/Backlog) |
-| Feature                | [F01](../modelagem/agil/Backlog) |
+| Feature                | [FE01](../modelagem/agil/Backlog) |
 | US                     | [US01](../modelagem/agil/HistoriasDoUsuario) |
 | Critérios de Aceitação | [US01](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | Requisito **totalmente** implementado |
@@ -81,22 +81,22 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF05                   | O aplicativo deve desbloquear as lições que estão abaixo no nível de conhecimento prévio do usuário |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE15](../modelagem/agil/Backlog) |
+| US                     | [US01](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US01](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf05.gif) |
 
 **RF06**
 
 | RF06                   | O aplicativo deve exibir feedback durante as lições |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
+| Épico                  | [EP03](../modelagem/agil/Backlog) |
+| Feature                | [FE09](../modelagem/agil/Backlog) |
+| US                     | [US56](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US56](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf06.PNG) |
 
 **RF07**
@@ -169,12 +169,12 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF13                   | Caso o usuário tenha assinatura premium ele não deve ver anúncios |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP05](../modelagem/agil/Backlog) |
+| Feature                | [FE18](../modelagem/agil/Backlog) |
+| US                     | [US52](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US52](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf13.png) |
 
 **RF14**
 
@@ -202,12 +202,12 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF16                   | O aplicativo deve permitir que o usuário veja o seu progresso |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE15](../modelagem/agil/Backlog) |
+| US                     | [US41](../modelagem/agil/HistoriasDoUsuario) & [US42](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US41](../modelagem/agil/HistoriasDoUsuario) & [US42](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf19.jpeg) |
 
 **RF17**
 
@@ -246,12 +246,12 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF20                   | Cada aula deve ter exercícios para serem realizados |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP03](../modelagem/agil/Backlog) |
+| Feature                | [FE09](../modelagem/agil/Backlog) |
+| US                     | [US30](../modelagem/agil/HistoriasDoUsuario) & [US31](../modelagem/agil/HistoriasDoUsuario) & [US32](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US30](../modelagem/agil/HistoriasDoUsuario) & [US31](../modelagem/agil/HistoriasDoUsuario) & [US32](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf20.gif) |
 
 **RF21**
 
@@ -262,348 +262,249 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 | US                     | [US33](../modelagem/agil/HistoriasDoUsuario) |
 | Critérios de Aceitação | [US33](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | Requisito **totalmente** implementado |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rf20.gif) |
 
 **RF22**
 
 | RF22                   | O aplicativo deve ter uma pontuação que reflita o número de aulas/exercícios feitos |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE11](../modelagem/agil/Backlog) |
+| US                     | [US57](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US57](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf22.jpeg) |
 
 **RF23**
 
 | RF23                   | O aplicativo deve ter ligas/grupos, que sejam progressivas, que separem os usuários de acordo com seu desempenho |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE11](../modelagem/agil/Backlog) |
+| US                     | [US36](../modelagem/agil/HistoriasDoUsuario) & [US37](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US36](../modelagem/agil/HistoriasDoUsuario) & [US37](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf23.jpeg) |
 
 **RF24**
 
 | RF24                   | O aplicativo deve ter um ranking dos usuários que estão em uma mesma divisão |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE11](../modelagem/agil/Backlog) |
+| US                     | [US35](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US35](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf24.jpeg) |
 
 **RF25**
 
 | RF25                   | O aplicativo deve contabilizar o número de dias seguidos que usuário cumpre sua meta diária |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE14](../modelagem/agil/Backlog) |
+| US                     | [US40](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US40](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf25.jpeg) |
 
 **RF26**
 
 | RF26                   | O aplicativo deve notificar o usuário sobre as metas diárias |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP02](../modelagem/agil/Backlog) |
+| Feature                | [FE06](../modelagem/agil/Backlog) |
+| US                     | [US62](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US62](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf25.PNG) |
 
 **RF27**
 
 | RF27                   | O aplicativo deve possuir uma moeda, que sirva de recompensa para os exercícios realizados |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE16](../modelagem/agil/Backlog) |
+| US                     | [US43](../modelagem/agil/HistoriasDoUsuario) & [US44](../modelagem/agil/HistoriasDoUsuario) & [US45](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US43](../modelagem/agil/HistoriasDoUsuario) & [US44](../modelagem/agil/HistoriasDoUsuario) & [US45](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf27.jpeg) |
 
 **RF28**
 
 | RF28                   | O aplicativo deve possuir uma loja aonde ele poderá gastar suas moedas adquiridas |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE17](../modelagem/agil/Backlog) |
+| US                     | [US46](../modelagem/agil/HistoriasDoUsuario) & [US47](../modelagem/agil/HistoriasDoUsuario) & [US48](../modelagem/agil/HistoriasDoUsuario) & [US49](../modelagem/agil/HistoriasDoUsuario) & [US50](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US46](../modelagem/agil/HistoriasDoUsuario) & [US47](../modelagem/agil/HistoriasDoUsuario) & [US48](../modelagem/agil/HistoriasDoUsuario) & [US49](../modelagem/agil/HistoriasDoUsuario) & [US50](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf28.jpeg) |
 
 **RF29**
 
 | RF29                   | O aplicativo deve repetir exercícios, de forma que ajude o usuário a aprender/relembrar |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP03](../modelagem/agil/Backlog) |
+| Feature                | [FE09](../modelagem/agil/Backlog) |
+| US                     | [US61](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US61](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf29-1.PNG) <br> ![Alt Text](../images/features/rf29-2.PNG) |
 
 **RF30**
 
 | RF30                   | Se o usuário ficar algum tempo sem utilizar o aplicativo, o aplicativo deve fazer com que ele volte ao início do curso |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP03](../modelagem/agil/Backlog) |
+| Feature                | [FE08](../modelagem/agil/Backlog) |
+| US                     | [US60](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US60](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | Como o tempo é grande, aproximadamente um mês, não conseguimos capturar essa tela 😔 |
 
 **RF31**
 
 | RF31                   | Deve aparecer uma mensagem dando Boas Vindas |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
+| Épico                  | [EP01](../modelagem/agil/Backlog) |
+| Feature                | [FE02](../modelagem/agil/Backlog) |
+| US                     | [US59](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US50](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf31.PNG) |
 
 **RF32**
 
 | RF32                   | Devo ser apresentado com a opção de Registro ou Login |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP01](../modelagem/agil/Backlog) |
+| Feature                | [FE01](../modelagem/agil/Backlog) & [FE02](../modelagem/agil/Backlog) |
+| US                     | [US01](../modelagem/agil/HistoriasDoUsuario) & [US02](../modelagem/agil/HistoriasDoUsuario) & [US04](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US01](../modelagem/agil/HistoriasDoUsuario) & [US02](../modelagem/agil/HistoriasDoUsuario) & [US04](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf32.gif) |
 
 **RF33**
 
 | RF33                   | Deve haver mais de uma opção de idioma disponível para aprender |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP03](../modelagem/agil/Backlog) |
+| Feature                | [FE08](../modelagem/agil/Backlog) |
+| US                     | [US29](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US29](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf33.jpeg) |
 
 **RF34**
 
 | RF34                   | Deve apresentar uma opção para ver mais idiomas disponíveis |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP03](../modelagem/agil/Backlog) |
+| Feature                | [FE08](../modelagem/agil/Backlog) |
+| US                     | [US29](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US29](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf34.gif) |
 
 **RF35**
 
 | RF35                   | Deve existir um teste de nivelamento |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE15](../modelagem/agil/Backlog) |
+| US                     | [US58](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US58](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf35.gif) |
 
 **RF36**
 
 | RF36                   | O aplicativo deve aumentar a pontuação do usuário a cada aula finalizada |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE11](../modelagem/agil/Backlog) |
+| US                     | [US57](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US57](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf36.gif) |
 
 **RF37**
 
 | RF37                   | O usuário deve receber incentivos e dicas durante os exercícios |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP03](../modelagem/agil/Backlog) |
+| Feature                | [FE09](../modelagem/agil/Backlog) |
+| US                     | [US56](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US56](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf37.jpeg) |
 
 **RF38**
 
 | RF38                   | O aplicativo deve mostrar os Termos e Política de Privacidade |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP02](../modelagem/agil/Backlog) |
+| Feature                | [FE06](../modelagem/agil/Backlog) |
+| US                     | [US25](../modelagem/agil/HistoriasDoUsuario) & [US26](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US25](../modelagem/agil/HistoriasDoUsuario) & [US26](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf38-1.jpeg) <br> ![Alt Text](../images/features/rf38-2.PNG) <br> ![Alt Text](../images/features/rf38-3.PNG) |
 
 **RF39**
 
 | RF39                   | O usuário deve poder testar a versão premium gratuitamente |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP05](../modelagem/agil/Backlog) |
+| Feature                | [FE18](../modelagem/agil/Backlog) |
+| US                     | [US29](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US29](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf39.jpeg) |
 
 **RF40**
 
 | RF40                   | O usuário deve poder escolher um novo idioma a qualquer momento |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP03](../modelagem/agil/Backlog) |
+| Feature                | [FE08](../modelagem/agil/Backlog) |
+| US                     | [US29](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US29](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf33.jpeg) |
 
 **RF41**
 
 | RF41                   | O usuário deve poder ajustar quanto tempo por dia ele quer gastar fazendo lições |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP02](../modelagem/agil/Backlog) |
+| Feature                | [FE04](../modelagem/agil/Backlog) |
+| US                     | [US55](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US55](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf41.jpeg) |
 
 **RF42**
 
 | RF42                   | O usuário deve poder ajustar as configurações dos exercícios |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP02](../modelagem/agil/Backlog) |
+| Feature                | [FE05](../modelagem/agil/Backlog) |
+| US                     | [US12](../modelagem/agil/HistoriasDoUsuario) & [US13](../modelagem/agil/HistoriasDoUsuario) & [US14](../modelagem/agil/HistoriasDoUsuario) & [US15](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US12](../modelagem/agil/HistoriasDoUsuario) & [US13](../modelagem/agil/HistoriasDoUsuario) & [US14](../modelagem/agil/HistoriasDoUsuario) & [US15](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf42.jpeg) |
 
 **RF43**
-
 | RF43                   | O usuário deve poder compartilhar seu progresso |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE13](../modelagem/agil/Backlog) |
+| US                     | [US54](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US54](../modelagem/agil/HistoriasDoUsuario) |
+| Observação             | Requisito **totalmente** implementado |
+| Funcionalidade         | ![Alt Text](../images/features/rf43.jpeg) |
 
-**RF44**
-
-| RF44                   | Eu como usuário desejo criar uma conta para começar a utilizar o app |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
-
-**RF45**
-
-| RF45                   | Eu como usuário desejo entrar no sistema e selecionar uma novo idioma para aprender uma nova língua |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
-
-**RF46**
-
-| RF46                   | Eu como usuário desejo entrar no sistema e verificar o meu nível no curso para conseguir acompanhar o meu progresso |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
-
-**RF47**
-
-| RF47                   | Eu como usuário desejo entrar no sistema e verificar o nível dos meus amigos no curso para acompanhar a evolução deles |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
-
-**RF48**
-
-| RF48                   | Eu como usuário desejo entrar no sistema e ver o ranking para ver o meu nível comparado com as outras pessoas |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
-
-**RF49**
-
-| RF49                   | Eu como usuário desejo fazer os exercícios do curso para aprender mais sobre a língua |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
-
-**RF50**
-
-| RF50                   | Eu como usuário desejo entrar no sistema e fazer uma pergunta na comunidade para tirar as minhas dúvidas |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
-
-**RF51**
-
-| RF51                   | Eu como usuário desejo entrar no sitema e me cadastrar como professor para ajudar as outras pessoas |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
-
-**RF52**
-
-| RF52                   | Eu como usuário desejo entrar no sistema e responder as perguntas na comunidade para tirar as dúvidas das outras pessoas |
-|----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
-| Observação             | -- |
-| Funcionalidade         | -- |
 
 ## Requisitos Não-Funcionais
 
@@ -611,87 +512,87 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF01                   | O aplicativo deve engajar o usuário |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE13](../modelagem/agil/Backlog) |
+| US                     | [US54](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US54](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rnf01.jpg) |
 
 **RNF02**
 
 | RNF02                   | O aplicativo deve ser fácil de usar |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP03](../modelagem/agil/Backlog) |
+| Feature                | [FE10](../modelagem/agil/Backlog) |
+| US                     | [US34](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US34](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rnf02.jpg) |
 
 **RNF03**
 
 | RNF03                   | O aplicativo deve interativo |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE12](../modelagem/agil/Backlog) |
+| US                     | [US38](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US38](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rnf03.jpg) |
 
 **RNF04**
 
 | RNF04                   | O aplicativo deve ser monetizado |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP05](../modelagem/agil/Backlog) |
+| Feature                | [FE17](../modelagem/agil/Backlog) |
+| US                     | [US46](../modelagem/agil/HistoriasDoUsuario) até [US50](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US46](../modelagem/agil/HistoriasDoUsuario) até [US50](../modelagem/agil/HistoriasDoUsuario)|
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rnf04.jpg) |
 
 **RNF05**
 
 | RNF05                   | O aplicativo deve ser gameficado |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE16](../modelagem/agil/Backlog) |
+| US                     | [US43](../modelagem/agil/HistoriasDoUsuario) até [US45](../modelagem/agil/HistoriasDoUsuario)|
+| Critérios de Aceitação | [US45](../modelagem/agil/HistoriasDoUsuario) até [US45](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rnf05.gif) |
 
 **RNF06**
 
 | RNF06                   | O usuário deve ser recompensado por seu progresso |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE16](../modelagem/agil/Backlog) |
+| US                     | [US43](../modelagem/agil/HistoriasDoUsuario) até [US45](../modelagem/agil/HistoriasDoUsuario)|
+| Critérios de Aceitação | [US43](../modelagem/agil/HistoriasDoUsuario) até [US45](../modelagem/agil/HistoriasDoUsuario)|
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rfn6a.jpg) |
 
 **RNF07**
 
 | RNF07                   | O software deve ser multiplataforma |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP03](../modelagem/agil/Backlog) |
+| Feature                | [FE10](../modelagem/agil/Backlog) |
+| US                     | [US34](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US34](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rnf07.png) |
 
 **RNF08**
 
 | RNF08                   | O aplicativo deve permitir a segurança dos dados do usuário |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP01](../modelagem/agil/Backlog) |
+| Feature                | [FE02](../modelagem/agil/Backlog) |
+| US                     | [US04](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US04](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
 | Funcionalidade         | -- |
 
@@ -699,10 +600,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF09                   | O aplicativo deve ser rápido de usar |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP02](../modelagem/agil/Backlog) |
+| Feature                | [FE05](../modelagem/agil/Backlog) |
+| US                     | [US12](../modelagem/agil/HistoriasDoUsuario) até [US20](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US12](../modelagem/agil/HistoriasDoUsuario) até [US20](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
 | Funcionalidade         | -- |
 
@@ -710,10 +611,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF10                   | O aplicativo funcionar 24/7 |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP02](../modelagem/agil/Backlog) |
+| Feature                | [FE05](../modelagem/agil/Backlog) |
+| US                     | [US12](../modelagem/agil/HistoriasDoUsuario) até [US20](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US12](../modelagem/agil/HistoriasDoUsuario) até [US20](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
 | Funcionalidade         | -- |
 
@@ -721,23 +622,23 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF11                   | O aplicativo deve estimular a competitividade |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE11](../modelagem/agil/Backlog) |
+| US                     | [US35](../modelagem/agil/HistoriasDoUsuario)  até [US37](../modelagem/agil/HistoriasDoUsuario)|
+| Critérios de Aceitação | [US35](../modelagem/agil/HistoriasDoUsuario) até [US37](../modelagem/agil/HistoriasDoUsuario)|
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rnf11.jpg) |
 
 **RNF12**
 
-| RNF12                   | O aplicativo deve promover a integração dos usuário |
+| RNF12                   | O aplicativo deve promover a integração dos usuários |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE13](../modelagem/agil/Backlog) |
+| US                     | [US39](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US39](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
-| Funcionalidade         | -- |
+| Funcionalidade         | ![Alt Text](../images/features/rnf12.jpg) |
 
 ## Referências
 
