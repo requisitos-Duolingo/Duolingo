@@ -94,9 +94,9 @@ O Brainstorm é uma técnica utilizada para deixar fluir ideias e pensamentos se
 
 **Legendas:**
 
-* AD - Análise de Discurso
-* RF - Requisitos funcionais
-* RNF - Requisitos não funcionais
+* AD: Análise de Discurso
+* RF: Requisitos Funcionais
+* RNF: Requisitos Não Funcionais
 
 | ID | Descrição | Tipo |
 |----|:---------:|------|
