@@ -512,10 +512,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF01                   | O aplicativo deve engajar o usuário |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE13](../modelagem/agil/Backlog) |
+| US                     | [US54](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US54](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
 | Funcionalidade         | ![Alt Text](../images/features/rnf01.jpg) |
 
@@ -523,10 +523,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF02                   | O aplicativo deve ser fácil de usar |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP03](../modelagem/agil/Backlog) |
+| Feature                | [FE10](../modelagem/agil/Backlog) |
+| US                     | [US34](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US34](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
 | Funcionalidade         | ![Alt Text](../images/features/rnf02.jpg) |
 
@@ -534,10 +534,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF03                   | O aplicativo deve interativo |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE12](../modelagem/agil/Backlog) |
+| US                     | [US38](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US38](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
 | Funcionalidade         | ![Alt Text](../images/features/rnf03.jpg) |
 
@@ -545,10 +545,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF04                   | O aplicativo deve ser monetizado |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP05](../modelagem/agil/Backlog) |
+| Feature                | [FE17](../modelagem/agil/Backlog) |
+| US                     | [US46](../modelagem/agil/HistoriasDoUsuario) até [US50](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US46](../modelagem/agil/HistoriasDoUsuario) até [US50](../modelagem/agil/HistoriasDoUsuario)|
 | Observação             | -- |
 | Funcionalidade         | ![Alt Text](../images/features/rnf04.jpg) |
 
@@ -556,32 +556,32 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF05                   | O aplicativo deve ser gameficado |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE16](../modelagem/agil/Backlog) |
+| US                     | [US43](../modelagem/agil/HistoriasDoUsuario) até [US45](../modelagem/agil/HistoriasDoUsuario)|
+| Critérios de Aceitação | [US45](../modelagem/agil/HistoriasDoUsuario) até [US45](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
-| Funcionalidade         | ![Alt Text](../images/features/rnf05.jpg) |
+| Funcionalidade         | ![Alt Text](../images/features/rnf05.gif) |
 
 **RNF06**
 
 | RNF06                   | O usuário deve ser recompensado por seu progresso |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE16](../modelagem/agil/Backlog) |
+| US                     | [US43](../modelagem/agil/HistoriasDoUsuario) até [US45](../modelagem/agil/HistoriasDoUsuario)|
+| Critérios de Aceitação | [US43](../modelagem/agil/HistoriasDoUsuario) até [US45](../modelagem/agil/HistoriasDoUsuario)|
 | Observação             | -- |
-| Funcionalidade         | ![Alt Text](../images/features/rnf06.jpg) |
+| Funcionalidade         | ![Alt Text](../images/features/rfn6a.jpg) |
 
 **RNF07**
 
 | RNF07                   | O software deve ser multiplataforma |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP03](../modelagem/agil/Backlog) |
+| Feature                | [FE10](../modelagem/agil/Backlog) |
+| US                     | [US34](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US34](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
 | Funcionalidade         | ![Alt Text](../images/features/rnf07.png) |
 
@@ -589,10 +589,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF08                   | O aplicativo deve permitir a segurança dos dados do usuário |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP01](../modelagem/agil/Backlog) |
+| Feature                | [FE02](../modelagem/agil/Backlog) |
+| US                     | [US04](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US04](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
 | Funcionalidade         | -- |
 
@@ -600,10 +600,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF09                   | O aplicativo deve ser rápido de usar |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP02](../modelagem/agil/Backlog) |
+| Feature                | [FE05](../modelagem/agil/Backlog) |
+| US                     | [US12](../modelagem/agil/HistoriasDoUsuario) até [US20](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US12](../modelagem/agil/HistoriasDoUsuario) até [US20](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
 | Funcionalidade         | -- |
 
@@ -611,10 +611,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF10                   | O aplicativo funcionar 24/7 |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP02](../modelagem/agil/Backlog) |
+| Feature                | [FE05](../modelagem/agil/Backlog) |
+| US                     | [US12](../modelagem/agil/HistoriasDoUsuario) até [US20](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US12](../modelagem/agil/HistoriasDoUsuario) até [US20](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
 | Funcionalidade         | -- |
 
@@ -622,10 +622,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF11                   | O aplicativo deve estimular a competitividade |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE11](../modelagem/agil/Backlog) |
+| US                     | [US35](../modelagem/agil/HistoriasDoUsuario)  até [US37](../modelagem/agil/HistoriasDoUsuario)|
+| Critérios de Aceitação | [US35](../modelagem/agil/HistoriasDoUsuario) até [US37](../modelagem/agil/HistoriasDoUsuario)|
 | Observação             | -- |
 | Funcionalidade         | ![Alt Text](../images/features/rnf11.jpg) |
 
@@ -633,10 +633,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF12                   | O aplicativo deve promover a integração dos usuários |
 |----------------------- | --------- |
-| Épico                  | -- |
-| Feature                | -- |
-| US                     | -- |
-| Critérios de Aceitação | -- |
+| Épico                  | [EP04](../modelagem/agil/Backlog) |
+| Feature                | [FE13](../modelagem/agil/Backlog) |
+| US                     | [US39](../modelagem/agil/HistoriasDoUsuario) |
+| Critérios de Aceitação | [US39](../modelagem/agil/HistoriasDoUsuario) |
 | Observação             | -- |
 | Funcionalidade         | ![Alt Text](../images/features/rnf12.jpg) |
 
