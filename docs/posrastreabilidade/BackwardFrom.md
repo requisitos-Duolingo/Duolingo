@@ -501,67 +501,67 @@ Representação: E04 representa [AD08](https://requisitos-de-software.github.io/
 
 ### ENF02
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
 **Elos:**
 
 ### ENF03
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
 **Elos:**
 
 ### ENF04
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
 **Elos:**
 
 ### ENF05
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
 **Elos:**
 
 ### ENF06
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
 **Elos:**
 
 ### ENF07
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
 **Elos:**
 
 ### ENF08
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
 **Elos:**
 
 ### ENF09
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
 **Elos:**
 
 ### ENF10
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
 **Elos:**
 
 ### ENF11
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
 **Elos:**
 
 ### ENF12
 
-**Categoria:**
+**Categoria:** Desenvolvimento
 
 **Elos:**
 
