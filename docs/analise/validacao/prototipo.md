@@ -8,7 +8,7 @@ Foi analisando a questão 6 do artefato [Questionário](https://requisitos-de-so
 
 ## Prototipagem
 
-[**CLIQUE AQUI**](https://www.figma.com/proto/siLlXrthLzaYn81dH7tgSr/Duolingo---Prot%C3%B3tipo-de-Conversa%C3%A7%C3%A3o?node-id=0%3A1&scaling=scale-down) para acessar o Protótipo de Alta Fidelidade.
+[**CLIQUE AQUI**](https://www.figma.com/proto/siLlXrthLzaYn81dH7tgSr/Duolingo---Prot%C3%B3tipo-de-Conversa%C3%A7%C3%A3o?node-id=0%3A1&scaling=scale-down) PARA ACESSAR O PROTÓTIPO DE ALTA FIDELIDADE.
 
 <img src="https://imgur.com/D2KxcxV.jpg" alt="drawing" width="250"/>
 
@@ -21,6 +21,8 @@ Foi analisando a questão 6 do artefato [Questionário](https://requisitos-de-so
 #### Relatos do Usuário
 
 Com intuíto de relatar experiências de uso foi feito uma observação da experiencia de uso com a aplicação. Utilizando a técnica _Think Out Loud_ foi feita uma avaliação do protótipo afim de validar os requisitos levatados em questão.
+
+[**CLIQUE AQUI**](https://drive.google.com/file/d/151Cat1yQn0nESDSCrNJhtDzK_VVxjmXc/view?usp=sharing) PARA ACESSAR A AVALIAÇÂO DO PROTÓTIPO.
 
 #### Resultados
 
@@ -55,8 +57,7 @@ Você teve dificuldade ao realizar as tarefas?
 **Vitor Alves, [24.11.2019 00:00]**
 Você acha que conseguimos alcançar o objetivo, de aprimorar um Requisito para o Duolingo?
 
-**Letícia, [dia.mes.ano 00:00]**
-
+**Letícia, [24.11.2019 00:00]**
 
 
 

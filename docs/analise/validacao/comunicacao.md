@@ -10,7 +10,7 @@ A estratégia escolhida para a elaboração desse documento é a comprovação i
 
 ## Comunicações Bem-Sucedidas
 
-_Ainda não foi possível ter êxito nas comunicações_ acompanhei as tentaivas no tópico abaixo [Comunicações Mal-Sucedidas](###-Comunicações-Mal-Sucedidas).
+_Até o exato momento não foi possível ter êxito nas comunicações_ acompanhei as tentaivas no tópico abaixo.
 
 ## Comunicações Mal-Sucedidas
 
