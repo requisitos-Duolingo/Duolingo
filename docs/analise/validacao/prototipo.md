@@ -41,7 +41,7 @@ Tudo bem, sou usuária a 2 anos e meio.
 O Que achou do protótipo que fizemos?
 
 **Letícia, [24.11.2019 00:00]**
-Achei interessante pois é uma funcionalidade nova e que ajuda nos 
+Achei interessante pois é uma funcionalidade nova e que ajuda  complementar os estudos.
 
 **Vitor Alves, [24.11.2019 00:00]**
 Você conseguiu realizar as tarefas de forma consciente?
