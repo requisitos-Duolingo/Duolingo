@@ -207,7 +207,7 @@ Representação: [INT44](https://requisitos-de-software.github.io/2019.2-Duoling
 
 **Categoria:** Desenvolvimento
 
-**Elos:** Agregação: [AD03](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) agrega [INT28]https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) </br>
+**Elos:** Agregação: [AD03](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) agrega [INT28](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) </br>
 [Q06](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) agrega [ST03](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados)
 
 ### EF17
@@ -216,8 +216,8 @@ Representação: [INT44](https://requisitos-de-software.github.io/2019.2-Duoling
 
 **Elos:** Representação: [UC04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/CasosDeUso/#uc04-acessar-loja) representa [AD04](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) </br>
 US39 representa ST05 </br>
-Agregação: [Q05](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) agrega [INT57]https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) </br>
-Satisfação: [INT57]https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) satisfaz [Q04](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados)
+Agregação: [Q05](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) agrega [INT57](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) </br>
+Satisfação: [INT57](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) satisfaz [Q04](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados)
 
 ### EF18
 
@@ -252,7 +252,7 @@ Representação: US34 representa [AD10](https://requisitos-de-software.github.io
 
 **Categoria:** Desenvolvimento
 
-**Elos:** Agregação: [ENT04](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados) agrega [INT46]https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados)
+**Elos:** Agregação: [ENT04](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados) agrega [INT46](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados)
 
 ### EF23
 
@@ -300,7 +300,7 @@ Representação: [US43], [US44], [US45] representam o [C07]
 
 **Elos:**
 
-Satisfação: [ENT09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados) satifaz [AD09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) </br> [INT61]https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) também é satisfeito por [AD09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
+Satisfação: [ENT09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados) satifaz [AD09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) </br> [INT61](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) também é satisfeito por [AD09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
 
 Representação: [US43](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-16-lingots), [US44](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-16-lingots), [US45](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/#feature-16-lingots) representam o [C07](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/Cenarios/#cenario007)
 
@@ -436,14 +436,14 @@ Satisfação: [Q08](https://requisitos-de-software.github.io/2019.2-Duolingo/eli
 
 **Elos:** Representação: [UC05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/CasosDeUso/#uc05-acessar-loja) representa ST02 </br>
 US29, C02 representa [AD01](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) </br>
-Agregação: [INT04]https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) agrega [AD01](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) </br>
+Agregação: [INT04](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) agrega [AD01](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) </br>
 AP02 agrega [AD01](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
 
 ### EF46
 
 **Categoria:** Desenvolvimento
 
-**Elos:** Agregação: [AD03](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) agrega [INT28]https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) </br>
+**Elos:** Agregação: [AD03](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) agrega [INT28](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) </br>
 [Q06](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados) agrega [ST03](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados)
 
 ### EF47
@@ -458,8 +458,8 @@ AP02 agrega [AD01](https://requisitos-de-software.github.io/2019.2-Duolingo/elic
 
 **Elos:** Reprentação: C05 representa [AD04](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados) </br>
 [UC04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/CasosDeUso/#uc04-acessar-loja) representa ST06 </br>
-US39 representa [INT57]https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) </br>
-Agregação:[INT57]https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) agrega [Q05](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados)
+US39 representa [INT57](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) </br>
+Agregação:[INT57](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados) agrega [Q05](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados)
 
 ### EF49
 
