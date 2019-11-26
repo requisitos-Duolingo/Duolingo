@@ -515,68 +515,81 @@ Representação: E04 representa [AD08](https://requisitos-de-software.github.io/
 
 **Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** </br>
+[AP16](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados)
+[AD07](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
+[ENT16](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados)
+[Q11](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados)
 
 ### ENF03
 
 **Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** </br>
+[AP17](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados)
 
 ### ENF04
 
 **Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** </br>
+[AP18](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados)
 
 ### ENF05
 
 **Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** </br>
+[AD08](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
 
 ### ENF06
 
 **Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** </br>
+[AD09](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
 
 ### ENF07
 
 **Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** </br>
+[AD12](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
 
 ### ENF08
 
 **Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** </br>
+[INT35](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Instrospeccao/#requisitos-elicitados)
 
 ### ENF09
 
 **Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** </br>
+[Q12](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados)
 
 ### ENF10
 
 **Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** </br>
+[Q13](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados)
 
 ### ENF11
 
 **Categoria:** Desenvolvimento
 
-**Elos:**
+**Elos:** </br>
+[Q14](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados)
 
 ### ENF12
 
 **Categoria:** Desenvolvimento
 
-**Elos:**
-
+**Elos:** </br>
+[Q04](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados)
 
 ## Referências
 
