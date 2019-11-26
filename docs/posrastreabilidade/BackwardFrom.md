@@ -590,6 +590,10 @@ Agregação: [ENT16](https://requisitos-de-software.github.io/2019.2-Duolingo/el
 **Elos:** </br>
 [Q04](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados)
 
+## Melhorias
+
+Devido a grande quantidade requisitos levantados e a falta de tempo, não foi possível concluir todos os Elof Funcionais e Não Funcionais.
+
 ## Referências
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 07. 1º/2019. 50 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
