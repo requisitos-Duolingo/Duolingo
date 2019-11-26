@@ -516,9 +516,8 @@ Representação: E04 representa [AD08](https://requisitos-de-software.github.io/
 **Categoria:** Desenvolvimento
 
 **Elos:** </br>
-[AP16](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados)
 [AD07](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Brainstorming/#requisitos-elicitados)
-[ENT16](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados)
+Agregação: [ENT16](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Entrevista/#requisitos-elicitados) agrega [AP16](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/AnaliseDeProtocolo/#requisitos-elicitados) </br>
 [Q11](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Questionario/#requisitos-elicitados)
 
 ### ENF03
