@@ -35,7 +35,6 @@ Foram levantadas perguntas e afirmações sobre Léxicos realizados, para realiz
 * Os sinônimos quando necessário, possuem sinônimos?
 * Os sinônimos estão coerente aos símbolos?
 
-
 ## Inspeção
 
 **Legendas:**
@@ -65,6 +64,7 @@ Os Léxicos se encontram dentro do padrão, o Nome e a Noção se encontram coer
 |Verificação realizada por|Local|Data|
 |-------------------------|-----|----|
 |Brian Lui e Francisco Heronildo|Google Hangouts|28 de outubro de 2019|
+
 
 ## Referências
 

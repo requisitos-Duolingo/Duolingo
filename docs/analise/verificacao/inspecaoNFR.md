@@ -1,9 +1,11 @@
 # NFR - Verificação
 
 ## Introdução
+
 Nesta seção há uma verificação dos requisitos para saber se foram atendidos e supridos conforme o esperado.
 
 ## Método aplicado
+
 Para confirmar se os artefatos estão de acordo, utilizou-se a técnica de inspeção e para ver se as funcionalidades foram supridas foi definido um checklist.
 
 ## Inspeção
@@ -24,15 +26,15 @@ O sentido das setas e sinalizações do softgoal é coerente? | As operacionaliz
 
 Questões | NFR00 | NFR01 | NFR02 | NFR03 | NFR04 | NFR05 | NFR06 | NFR07
 :-------- | :------ | :------ | :------ | :------ | :------ | :------ | :------ | :------
-Softgoals representam metas bem definidas? | Sim | Sim | Sim | Sim | Sim | Sim | Sim | Sim
-Os softgoals compõem critérios de qualidade de requisitos funcionais e não funcionais? | Sim | Sim | Sim | Sim | Sim | Sim | Sim | Sim
-Os nomes escolhidos para os softgoals representam bem os conceitos e tarefas? | Não | Sim | Sim | Sim | Sim | Sim | Sim | Sim
-Antes do surgimento de uma tarefa bem definida, há um caminho justo pelo softgoal? | Sim | Sim | Sim | Sim | Sim | Sim | Sim | Sim
-Existe redundância para atingir o softgoal? | Sim | Sim | Sim | Não | Sim | Sim | Sim | Sim
-Análise minunciosa para ver se o softgoal foi atendido até o último nível? | Sim | Sim | Sim | Sim | Sim | Sim | Sim | Sim
-Softgoals são divididos em sub operações? | Sim | Sim | Sim | Sim | Sim | Sim | Sim | Sim
-As relações de & e OU são bem definidas entre os softgoals? | Sim | Sim | Não | Sim | Sim | Sim | Sim | Sim
-O sentido das setas e sinalizações(eg. tracejado) do softgoal é coerente? | Sim | Sim | Sim | Não | Não | Sim | Sim | Sim
+Softgoals representam metas bem definidas? | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+Os softgoals compõem critérios de qualidade de requisitos funcionais e não funcionais? | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+Os nomes escolhidos para os softgoals representam bem os conceitos e tarefas? | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+Antes do surgimento de uma tarefa bem definida, há um caminho justo pelo softgoal? | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+Existe redundância para atingir o softgoal? | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+Análise minunciosa para ver se o softgoal foi atendido até o último nível? | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+Softgoals são divididos em sub operações? | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+As relações de & e OU são bem definidas entre os softgoals? | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
+O sentido das setas e sinalizações(eg. tracejado) do softgoal é coerente? | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:
 
 ## Observações
 
@@ -51,6 +53,6 @@ NFR07 | Sem considerações, completo
 
 O NFR é fundamental para análise das relações entre requisitos não funcionais. Há ainda alguns erros sobre softgoals críticos e suas interdependências.
 
-## Bibliográfia
+## Referências
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 15. 1º/2019. 36 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.

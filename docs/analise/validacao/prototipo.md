@@ -30,42 +30,41 @@ Foi avaliado apectos cognitivos e funcionais relacionados à realização de tar
 
 #### Conversa
 
-**Vitor Alves, [24.11.2019 00:00]**
+**Vitor Alves, [24.11.2019 22:00]**
 Oi Leticia, tudo bem? Você usuária do Duolingo a quanto tempo?
 
-**Letícia, [24.11.2019 00:00]**
+**Letícia, [24.11.2019 22:00]**
 Tudo bem, sou usuária a 2 anos e meio.
 
-
-**Vitor Alves, [24.11.2019 00:00]**
+**Vitor Alves, [24.11.2019 22:00]**
 O Que achou do protótipo que fizemos?
 
-**Letícia, [24.11.2019 00:00]**
+**Letícia, [24.11.2019 22:00]**
 Achei interessante pois é uma funcionalidade nova e que ajuda  complementar os estudos.
 
-**Vitor Alves, [24.11.2019 00:00]**
+**Vitor Alves, [24.11.2019 22:01]**
 Você conseguiu realizar as tarefas de forma consciente?
 
-**Letícia, [24.11.2019 00:00]**
+**Letícia, [24.11.2019 22:01]**
 Sim
 
-**Vitor Alves, [24.11.2019 00:00]**
+**Vitor Alves, [24.11.2019 22:01]**
 Você teve dificuldade ao realizar as tarefas?
 
-**Letícia, [24.11.2019 00:00]**
+**Letícia, [24.11.2019 22:01]**
+Não, achei fácil pois ele segue o padrão do aplicativo.
 
-Não, achei fácil pois ele segue o padrão do aplicativo. 
-
-**Vitor Alves, [24.11.2019 00:00]**
+**Vitor Alves, [24.11.2019 22:02]**
 Você acha que conseguimos alcançar o objetivo, de aprimorar um Requisito para o Duolingo?
 
-**Letícia, [24.11.2019 00:00]**
+**Letícia, [24.11.2019 22:02]**
 Acho que sim, pois a conversação é algo importante no aprendizado de um idioma e essa ideia de poder conversar com seus amigos e pessoas da sua divisão pode ajudar bastante no aprendizado do idioma.
+
 
 ## Referências
 
 SERRANO, Maurício; SERRANO, Milene. Requisitos - Aula 23. 1º/2019. 53 slides. Material apresentado para a disciplina de Requisitos de Software no curso de Engenharia de Software da UnB, FGA.
 
-FIGMA. **FIGMA**, 2019. Disponível em: <https://www.figma.com/>. Acesso em: 30 de outubro de 2019.
+FIGMA. **FIGMA**, 2019. Disponível em: <https://www.figma.com/>. Acesso em: 23 de Novembro de 2019.
 
-DUOLINGO. **Duolingo**, 2019. Disponível em: <https://www.duolingo.com/learn>. Acesso em: 30 de outubro de 2019.
+DUOLINGO. **Duolingo**, 2019. Disponível em: <https://www.duolingo.com/learn>. Acesso em: 24 de Novembro de 2019.
