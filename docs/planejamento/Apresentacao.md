@@ -32,9 +32,9 @@ Nesse documento está armazenado as apresentações dos pontos de controle, que 
 
 ### Ponto de Controle 7
 
-_Em Breve_
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT0P3W1DLrribPxIvhkwpv-8kZydzGGSfcg4_HqyeAjfDFmIXIZJzn72QjYvMpNXA_Dto_jbjaOh33g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
 ## Referências
 
-DUOLINGO. **duolingo**, 2019. Disponível em: <https://www.duolingo.com/>. Acesso em: 11 de Novembro de 2019.
+DUOLINGO. **duolingo**, 2019. Disponível em: <https://www.duolingo.com/>. Acesso em: 25 de Novembro de 2019.

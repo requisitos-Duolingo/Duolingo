@@ -37,10 +37,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF01                   | O aplicativo deve permitir o usuário praticar antes de se cadastrar |
 |----------------------- | --------- |
-| Épico                  | [EP01](../modelagem/agil/Backlog) |
-| Feature                | [FE01](../modelagem/agil/Backlog) |
-| US                     | [US01](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US01](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf01.gif) |
 
@@ -48,10 +48,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF02                   | O aplicativo permite que o usuário escolha o(s) idioma(s) que ele deseja aprender |
 |----------------------- | --------- |
-| Épico                  | [EP03](../modelage/agil/Backlog) |
-| Feature                | [FE08](../modelagem/agil/Backlog) |
-| US                     | [US28](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US28](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE08](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US28](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US28](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf02.jpeg) |
 
@@ -59,10 +59,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF03                   | O aplicativo deve ter metas diárias para engajamento do usuário |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelage/agil/Backlog) |
-| Feature                | [FE14](../modelagem/agil/Backlog) |
-| US                     | [US40](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US40](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE14](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US40](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US40](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf03.jpeg) |
 
@@ -70,10 +70,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF04                   | O usuário deve poder escolher o nível de conhecimento que têm no idioma |
 |----------------------- | --------- |
-| Épico                  | [EP01](../modelagem/agil/Backlog) |
-| Feature                | [FE01](../modelagem/agil/Backlog) |
-| US                     | [US01](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US01](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf04.jpeg) |
 
@@ -81,10 +81,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF05                   | O aplicativo deve desbloquear as lições que estão abaixo no nível de conhecimento prévio do usuário |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE15](../modelagem/agil/Backlog) |
-| US                     | [US01](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US01](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE15](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf05.gif) |
 
@@ -92,10 +92,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF06                   | O aplicativo deve exibir feedback durante as lições |
 |----------------------- | --------- |
-| Épico                  | [EP03](../modelagem/agil/Backlog) |
-| Feature                | [FE09](../modelagem/agil/Backlog) |
-| US                     | [US56](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US56](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE09](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US56](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US56](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf06.PNG) |
 
@@ -103,10 +103,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF07                   | O aplicativo exibir as conquistas ao finalizar das atividades |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE12](../modelagem/agil/Backlog) |
-| US                     | [US38](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US01](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE12](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US38](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf07.PNG) |
 
@@ -114,10 +114,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF08                   | Deve existir anúncio após as lições |
 |----------------------- | --------- |
-| Épico                  | [EP05](../modelagem/agil/Backlog) |
-| Feature                | [FE19](../modelagem/agil/Backlog) |
-| US                     | [US53](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US53](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE19](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US53](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US53](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf08.gif) |
 
@@ -125,10 +125,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF09                   | O usuário deve poder criar sua conta na plataforma |
 |----------------------- | --------- |
-| Épico                  | [EP01](../modelagem/agil/Backlog) |
-| Feature                | [FE01](../modelagem/agil/Backlog) |
-| US                     | [US02](../modelagem/agil/HistoriasDoUsuario) & [US03](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US02](../modelagem/agil/HistoriasDoUsuario) & [US03](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf09.gif) |
 
@@ -136,10 +136,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF10                   | O aplicativo deve me permitir entrar com minha conta |
 |----------------------- | --------- |
-| Épico                  | [EP01](../modelagem/agil/Backlog) |
-| Feature                | [FE02](../modelagem/agil/Backlog) |
-| US                     | [US04](../modelagem/agil/HistoriasDoUsuario) & [US05](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US04](../modelagem/agil/HistoriasDoUsuario) & [US05](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf10.jpeg) |
 
@@ -147,10 +147,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF11                   | O aplicativo deve me permitir sair da minha conta |
 |----------------------- | --------- |
-| Épico                  | [EP01](../modelagem/agil/Backlog) |
-| Feature                | [FE03](../modelagem/agil/Backlog) |
-| US                     | [US06](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US06](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US06](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US06](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf11.PNG) |
 
@@ -158,10 +158,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF12                   | Deve existir uma assinatura premium |
 |----------------------- | --------- |
-| Épico                  | [EP05](../modelagem/agil/Backlog) |
-| Feature                | [FE18](../modelagem/agil/Backlog) |
-| US                     | [US51](../modelagem/agil/HistoriasDoUsuario) & [US52](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US51](../modelagem/agil/HistoriasDoUsuario) & [US52](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE18](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US51](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US52](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US51](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US52](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf12.jpeg) |
 
@@ -169,10 +169,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF13                   | Caso o usuário tenha assinatura premium ele não deve ver anúncios |
 |----------------------- | --------- |
-| Épico                  | [EP05](../modelagem/agil/Backlog) |
-| Feature                | [FE18](../modelagem/agil/Backlog) |
-| US                     | [US52](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US52](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE18](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US52](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US52](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf13.png) |
 
@@ -180,10 +180,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF14                   | O usuário deve poder editar seu perfil na plataforma |
 |----------------------- | --------- |
-| Épico                  | [EP02](../modelagem/agil/Backlog) |
-| Feature                | [FE04](../modelagem/agil/Backlog) |
-| US                     | [US07](../modelagem/agil/HistoriasDoUsuario) & [US08](../modelagem/agil/HistoriasDoUsuario) & [US09](../modelagem/agil/HistoriasDoUsuario) & [US10](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US07](../modelagem/agil/HistoriasDoUsuario) & [US08](../modelagem/agil/HistoriasDoUsuario) & [US09](../modelagem/agil/HistoriasDoUsuario) & [US10](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US07](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US08](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US09](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US10](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US07](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US08](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US09](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US10](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf14.gif) |
 
@@ -191,10 +191,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF15                   | O aplicativo deve permitir que o usuário faça login com email/facebook ou conta do google |
 |----------------------- | --------- |
-| Épico                  | [EP01](../modelagem/agil/Backlog) |
-| Feature                | [FE02](../modelagem/agil/Backlog) |
-| US                     | [US04](../modelagem/agil/HistoriasDoUsuario) & [US05](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US04](../modelagem/agil/HistoriasDoUsuario) & [US05](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf10.jpeg) |
 
@@ -202,10 +202,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF16                   | O aplicativo deve permitir que o usuário veja o seu progresso |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE15](../modelagem/agil/Backlog) |
-| US                     | [US41](../modelagem/agil/HistoriasDoUsuario) & [US42](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US41](../modelagem/agil/HistoriasDoUsuario) & [US42](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE15](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US41](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US42](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US41](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US42](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf19.jpeg) |
 
@@ -213,10 +213,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF17                   | O aplicativo permite que o usuário adicione e siga amigos |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE13](../modelagem/agil/Backlog) |
-| US                     | [US39](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US04](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE13](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US39](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf17.gif) |
 
@@ -224,10 +224,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF18                   | O aplicativo deve permitir o usuário a fazer questões de escuta, leitura, escrita e fala |
 |----------------------- | --------- |
-| Épico                  | [EP03](../modelagem/agil/Backlog) |
-| Feature                | [FE09](../modelagem/agil/Backlog) |
-| US                     | [US30](../modelagem/agil/HistoriasDoUsuario) & [US31](../modelagem/agil/HistoriasDoUsuario) & [US32](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US30](../modelagem/agil/HistoriasDoUsuario) & [US31](../modelagem/agil/HistoriasDoUsuario) & [US32](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE09](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US30](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US31](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US32](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US30](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US31](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US32](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf18-1.PNG) <br> ![Alt Text](../images/features/rf18-2.PNG) <br> ![Alt Text](../images/features/rf18-3.PNG) <br> ![Alt Text](../images/features/rf18-4.PNG) |
 
@@ -235,10 +235,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF19                   | O sistema é divido em níveis e com uma progressão ideal para cada módulo |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE15](../modelagem/agil/Backlog) |
-| US                     | [US41](../modelagem/agil/HistoriasDoUsuario) & [US42](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US41](../modelagem/agil/HistoriasDoUsuario) & [US42](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE15](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US41](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US42](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US41](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US42](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf19.jpeg) |
 
@@ -246,10 +246,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF20                   | Cada aula deve ter exercícios para serem realizados |
 |----------------------- | --------- |
-| Épico                  | [EP03](../modelagem/agil/Backlog) |
-| Feature                | [FE09](../modelagem/agil/Backlog) |
-| US                     | [US30](../modelagem/agil/HistoriasDoUsuario) & [US31](../modelagem/agil/HistoriasDoUsuario) & [US32](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US30](../modelagem/agil/HistoriasDoUsuario) & [US31](../modelagem/agil/HistoriasDoUsuario) & [US32](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE09](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US30](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US31](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US32](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US30](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US31](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US32](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf20.gif) |
 
@@ -257,10 +257,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF21                   | O aplicativo deve apresentar as aulas/exercícios de forma progressiva |
 |----------------------- | --------- |
-| Épico                  | [EP03](../modelagem/agil/Backlog) |
-| Feature                | [FE09](../modelagem/agil/Backlog) |
-| US                     | [US33](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US33](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE09](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US33](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US33](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf20.gif) |
 
@@ -268,10 +268,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF22                   | O aplicativo deve ter uma pontuação que reflita o número de aulas/exercícios feitos |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE11](../modelagem/agil/Backlog) |
-| US                     | [US57](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US57](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE11](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US57](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US57](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf22.jpeg) |
 
@@ -279,10 +279,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF23                   | O aplicativo deve ter ligas/grupos, que sejam progressivas, que separem os usuários de acordo com seu desempenho |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE11](../modelagem/agil/Backlog) |
-| US                     | [US36](../modelagem/agil/HistoriasDoUsuario) & [US37](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US36](../modelagem/agil/HistoriasDoUsuario) & [US37](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE11](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US36](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US37](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US36](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US37](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf23.jpeg) |
 
@@ -290,10 +290,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF24                   | O aplicativo deve ter um ranking dos usuários que estão em uma mesma divisão |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE11](../modelagem/agil/Backlog) |
-| US                     | [US35](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US35](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE11](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US35](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US35](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf24.jpeg) |
 
@@ -301,10 +301,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF25                   | O aplicativo deve contabilizar o número de dias seguidos que usuário cumpre sua meta diária |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE14](../modelagem/agil/Backlog) |
-| US                     | [US40](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US40](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE14](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US40](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US40](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf25.jpeg) |
 
@@ -312,10 +312,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF26                   | O aplicativo deve notificar o usuário sobre as metas diárias |
 |----------------------- | --------- |
-| Épico                  | [EP02](../modelagem/agil/Backlog) |
-| Feature                | [FE06](../modelagem/agil/Backlog) |
-| US                     | [US62](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US62](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE06](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US62](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US62](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf26.PNG) |
 
@@ -323,10 +323,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF27                   | O aplicativo deve possuir uma moeda, que sirva de recompensa para os exercícios realizados |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE16](../modelagem/agil/Backlog) |
-| US                     | [US43](../modelagem/agil/HistoriasDoUsuario) & [US44](../modelagem/agil/HistoriasDoUsuario) & [US45](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US43](../modelagem/agil/HistoriasDoUsuario) & [US44](../modelagem/agil/HistoriasDoUsuario) & [US45](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE16](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US43](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US44](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US45](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US43](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US44](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US45](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf27.jpeg) |
 
@@ -334,10 +334,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF28                   | O aplicativo deve possuir uma loja aonde ele poderá gastar suas moedas adquiridas |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE17](../modelagem/agil/Backlog) |
-| US                     | [US46](../modelagem/agil/HistoriasDoUsuario) & [US47](../modelagem/agil/HistoriasDoUsuario) & [US48](../modelagem/agil/HistoriasDoUsuario) & [US49](../modelagem/agil/HistoriasDoUsuario) & [US50](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US46](../modelagem/agil/HistoriasDoUsuario) & [US47](../modelagem/agil/HistoriasDoUsuario) & [US48](../modelagem/agil/HistoriasDoUsuario) & [US49](../modelagem/agil/HistoriasDoUsuario) & [US50](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE17](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US46](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US47](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US48](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US49](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US50](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US46](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US47](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US48](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US49](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US50](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf28.jpeg) |
 
@@ -345,10 +345,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF29                   | O aplicativo deve repetir exercícios, de forma que ajude o usuário a aprender/relembrar |
 |----------------------- | --------- |
-| Épico                  | [EP03](../modelagem/agil/Backlog) |
-| Feature                | [FE09](../modelagem/agil/Backlog) |
-| US                     | [US61](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US61](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE09](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US61](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US61](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf29-1.PNG) <br> ![Alt Text](../images/features/rf29-2.PNG) |
 
@@ -356,10 +356,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF30                   | Se o usuário ficar algum tempo sem utilizar o aplicativo, o aplicativo deve fazer com que ele volte ao início do curso |
 |----------------------- | --------- |
-| Épico                  | [EP03](../modelagem/agil/Backlog) |
-| Feature                | [FE08](../modelagem/agil/Backlog) |
-| US                     | [US60](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US60](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE08](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US60](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US60](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | Como o tempo é grande, aproximadamente um mês, não conseguimos capturar essa tela 😔 |
 
@@ -367,10 +367,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF31                   | Deve aparecer uma mensagem dando Boas Vindas |
 |----------------------- | --------- |
-| Épico                  | [EP01](../modelagem/agil/Backlog) |
-| Feature                | [FE02](../modelagem/agil/Backlog) |
-| US                     | [US59](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US50](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US59](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US50](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf31.PNG) |
 
@@ -378,10 +378,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF32                   | Devo ser apresentado com a opção de Registro ou Login |
 |----------------------- | --------- |
-| Épico                  | [EP01](../modelagem/agil/Backlog) |
-| Feature                | [FE01](../modelagem/agil/Backlog) & [FE02](../modelagem/agil/Backlog) |
-| US                     | [US01](../modelagem/agil/HistoriasDoUsuario) & [US02](../modelagem/agil/HistoriasDoUsuario) & [US04](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US01](../modelagem/agil/HistoriasDoUsuario) & [US02](../modelagem/agil/HistoriasDoUsuario) & [US04](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) & [FE02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf32.gif) |
 
@@ -389,10 +389,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF33                   | Deve haver mais de uma opção de idioma disponível para aprender |
 |----------------------- | --------- |
-| Épico                  | [EP03](../modelagem/agil/Backlog) |
-| Feature                | [FE08](../modelagem/agil/Backlog) |
-| US                     | [US29](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US29](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE08](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US29](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US29](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf33.jpeg) |
 
@@ -400,10 +400,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF34                   | Deve apresentar uma opção para ver mais idiomas disponíveis |
 |----------------------- | --------- |
-| Épico                  | [EP03](../modelagem/agil/Backlog) |
-| Feature                | [FE08](../modelagem/agil/Backlog) |
-| US                     | [US29](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US29](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE08](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US29](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US29](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf34.gif) |
 
@@ -411,10 +411,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF35                   | Deve existir um teste de nivelamento |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE15](../modelagem/agil/Backlog) |
-| US                     | [US58](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US58](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE15](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US58](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US58](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf35.gif) |
 
@@ -422,10 +422,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF36                   | O aplicativo deve aumentar a pontuação do usuário a cada aula finalizada |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE11](../modelagem/agil/Backlog) |
-| US                     | [US57](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US57](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE11](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US57](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US57](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf36.gif) |
 
@@ -433,10 +433,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF37                   | O usuário deve receber incentivos e dicas durante os exercícios |
 |----------------------- | --------- |
-| Épico                  | [EP03](../modelagem/agil/Backlog) |
-| Feature                | [FE09](../modelagem/agil/Backlog) |
-| US                     | [US56](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US56](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE09](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US56](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US56](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf37.jpeg) |
 
@@ -444,10 +444,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF38                   | O aplicativo deve mostrar os Termos e Política de Privacidade |
 |----------------------- | --------- |
-| Épico                  | [EP02](../modelagem/agil/Backlog) |
-| Feature                | [FE06](../modelagem/agil/Backlog) |
-| US                     | [US25](../modelagem/agil/HistoriasDoUsuario) & [US26](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US25](../modelagem/agil/HistoriasDoUsuario) & [US26](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE06](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US25](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US26](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US25](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US26](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf38-1.jpg) <br> ![Alt Text](../images/features/rf38-2.PNG) <br> ![Alt Text](../images/features/rf38-3.PNG) |
 
@@ -455,10 +455,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF39                   | O usuário deve poder testar a versão premium gratuitamente |
 |----------------------- | --------- |
-| Épico                  | [EP05](../modelagem/agil/Backlog) |
-| Feature                | [FE18](../modelagem/agil/Backlog) |
-| US                     | [US29](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US29](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE18](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US29](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US29](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf39.jpeg) |
 
@@ -466,10 +466,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF40                   | O usuário deve poder escolher um novo idioma a qualquer momento |
 |----------------------- | --------- |
-| Épico                  | [EP03](../modelagem/agil/Backlog) |
-| Feature                | [FE08](../modelagem/agil/Backlog) |
-| US                     | [US29](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US29](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE08](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US29](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US29](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf33.jpeg) |
 
@@ -477,10 +477,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF41                   | O usuário deve poder ajustar quanto tempo por dia ele quer gastar fazendo lições |
 |----------------------- | --------- |
-| Épico                  | [EP02](../modelagem/agil/Backlog) |
-| Feature                | [FE04](../modelagem/agil/Backlog) |
-| US                     | [US55](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US55](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US55](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US55](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf41.jpeg) |
 
@@ -488,20 +488,21 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RF42                   | O usuário deve poder ajustar as configurações dos exercícios |
 |----------------------- | --------- |
-| Épico                  | [EP02](../modelagem/agil/Backlog) |
-| Feature                | [FE05](../modelagem/agil/Backlog) |
-| US                     | [US12](../modelagem/agil/HistoriasDoUsuario) & [US13](../modelagem/agil/HistoriasDoUsuario) & [US14](../modelagem/agil/HistoriasDoUsuario) & [US15](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US12](../modelagem/agil/HistoriasDoUsuario) & [US13](../modelagem/agil/HistoriasDoUsuario) & [US14](../modelagem/agil/HistoriasDoUsuario) & [US15](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US12](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US13](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US14](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US15](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US12](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US13](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US14](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) & [US15](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf42.jpeg) |
 
 **RF43**
+
 | RF43                   | O usuário deve poder compartilhar seu progresso |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE13](../modelagem/agil/Backlog) |
-| US                     | [US54](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US54](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE13](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US54](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US54](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | Requisito **totalmente** implementado |
 | Funcionalidade         | ![Alt Text](../images/features/rf43.jpeg) |
 
@@ -512,10 +513,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF01                   | O aplicativo deve engajar o usuário |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE13](../modelagem/agil/Backlog) |
-| US                     | [US54](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US54](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE13](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US54](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US54](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | -- |
 | Funcionalidade         | ![Alt Text](../images/features/rnf01.jpg) |
 
@@ -523,10 +524,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF02                   | O aplicativo deve ser fácil de usar |
 |----------------------- | --------- |
-| Épico                  | [EP03](../modelagem/agil/Backlog) |
-| Feature                | [FE10](../modelagem/agil/Backlog) |
-| US                     | [US34](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US34](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE10](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US34](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US34](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | -- |
 | Funcionalidade         | ![Alt Text](../images/features/rnf02.jpg) |
 
@@ -534,10 +535,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF03                   | O aplicativo deve interativo |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE12](../modelagem/agil/Backlog) |
-| US                     | [US38](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US38](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE12](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US38](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US38](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | -- |
 | Funcionalidade         | ![Alt Text](../images/features/rnf03.jpg) |
 
@@ -545,10 +546,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF04                   | O aplicativo deve ser monetizado |
 |----------------------- | --------- |
-| Épico                  | [EP05](../modelagem/agil/Backlog) |
-| Feature                | [FE17](../modelagem/agil/Backlog) |
-| US                     | [US46](../modelagem/agil/HistoriasDoUsuario) até [US50](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US46](../modelagem/agil/HistoriasDoUsuario) até [US50](../modelagem/agil/HistoriasDoUsuario)|
+| Épico                  | [EP05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE17](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US46](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) até [US50](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US46](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) até [US50](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/)|
 | Observação             | -- |
 | Funcionalidade         | ![Alt Text](../images/features/rnf04.jpg) |
 
@@ -556,10 +557,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF05                   | O aplicativo deve ser gameficado |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE16](../modelagem/agil/Backlog) |
-| US                     | [US43](../modelagem/agil/HistoriasDoUsuario) até [US45](../modelagem/agil/HistoriasDoUsuario)|
-| Critérios de Aceitação | [US45](../modelagem/agil/HistoriasDoUsuario) até [US45](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE16](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US43](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) até [US45](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/)|
+| Critérios de Aceitação | [US45](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) até [US45](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | -- |
 | Funcionalidade         | ![Alt Text](../images/features/rnf05.gif) |
 
@@ -567,10 +568,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF06                   | O usuário deve ser recompensado por seu progresso |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE16](../modelagem/agil/Backlog) |
-| US                     | [US43](../modelagem/agil/HistoriasDoUsuario) até [US45](../modelagem/agil/HistoriasDoUsuario)|
-| Critérios de Aceitação | [US43](../modelagem/agil/HistoriasDoUsuario) até [US45](../modelagem/agil/HistoriasDoUsuario)|
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE16](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US43](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) até [US45](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/)|
+| Critérios de Aceitação | [US43](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) até [US45](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/)|
 | Observação             | -- |
 | Funcionalidade         | ![Alt Text](../images/features/rfn6a.jpg) |
 
@@ -578,10 +579,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF07                   | O software deve ser multiplataforma |
 |----------------------- | --------- |
-| Épico                  | [EP03](../modelagem/agil/Backlog) |
-| Feature                | [FE10](../modelagem/agil/Backlog) |
-| US                     | [US34](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US34](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP03](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE10](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US34](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US34](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | -- |
 | Funcionalidade         | ![Alt Text](../images/features/rnf07.png) |
 
@@ -589,10 +590,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF08                   | O aplicativo deve permitir a segurança dos dados do usuário |
 |----------------------- | --------- |
-| Épico                  | [EP01](../modelagem/agil/Backlog) |
-| Feature                | [FE02](../modelagem/agil/Backlog) |
-| US                     | [US04](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US04](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP01](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | -- |
 | Funcionalidade         | -- |
 
@@ -600,10 +601,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF09                   | O aplicativo deve ser rápido de usar |
 |----------------------- | --------- |
-| Épico                  | [EP02](../modelagem/agil/Backlog) |
-| Feature                | [FE05](../modelagem/agil/Backlog) |
-| US                     | [US12](../modelagem/agil/HistoriasDoUsuario) até [US20](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US12](../modelagem/agil/HistoriasDoUsuario) até [US20](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US12](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) até [US20](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US12](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) até [US20](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | -- |
 | Funcionalidade         | -- |
 
@@ -611,10 +612,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF10                   | O aplicativo funcionar 24/7 |
 |----------------------- | --------- |
-| Épico                  | [EP02](../modelagem/agil/Backlog) |
-| Feature                | [FE05](../modelagem/agil/Backlog) |
-| US                     | [US12](../modelagem/agil/HistoriasDoUsuario) até [US20](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US12](../modelagem/agil/HistoriasDoUsuario) até [US20](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP02](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE05](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US12](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) até [US20](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US12](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) até [US20](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | -- |
 | Funcionalidade         | -- |
 
@@ -622,10 +623,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF11                   | O aplicativo deve estimular a competitividade |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE11](../modelagem/agil/Backlog) |
-| US                     | [US35](../modelagem/agil/HistoriasDoUsuario)  até [US37](../modelagem/agil/HistoriasDoUsuario)|
-| Critérios de Aceitação | [US35](../modelagem/agil/HistoriasDoUsuario) até [US37](../modelagem/agil/HistoriasDoUsuario)|
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE11](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US35](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/)  até [US37](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/)|
+| Critérios de Aceitação | [US35](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) até [US37](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/)|
 | Observação             | -- |
 | Funcionalidade         | ![Alt Text](../images/features/rnf11.jpg) |
 
@@ -633,10 +634,10 @@ Também foi foram defidos os seguintes critérios para avaliar os requisitos:
 
 | RNF12                   | O aplicativo deve promover a integração dos usuários |
 |----------------------- | --------- |
-| Épico                  | [EP04](../modelagem/agil/Backlog) |
-| Feature                | [FE13](../modelagem/agil/Backlog) |
-| US                     | [US39](../modelagem/agil/HistoriasDoUsuario) |
-| Critérios de Aceitação | [US39](../modelagem/agil/HistoriasDoUsuario) |
+| Épico                  | [EP04](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| Feature                | [FE13](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/Backlog/) |
+| US                     | [US39](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
+| Critérios de Aceitação | [US39](https://requisitos-de-software.github.io/2019.2-Duolingo/modelagem/agil/HistoriasDoUsuarios/) |
 | Observação             | -- |
 | Funcionalidade         | ![Alt Text](../images/features/rnf12.jpg) |
 
