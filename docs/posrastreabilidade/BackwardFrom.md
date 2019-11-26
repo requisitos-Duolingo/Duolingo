@@ -475,7 +475,7 @@ Agregação:[INT57](https://requisitos-de-software.github.io/2019.2-Duolingo/eli
 
 ### EF49
 
-**Categoria:** 
+**Categoria:** Desenvolvimento
 
 **Elos:** </br> 
 Representação: US33 representa [ST07](https://requisitos-de-software.github.io/2019.2-Duolingo/elicitacao/Storytelling/#requisitos-elicitados) </br>
